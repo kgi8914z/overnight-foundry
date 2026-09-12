@@ -1,23 +1,23 @@
 # OVERNIGHT REPORT 2026-09-12
 
-밤길 실험가 Lv 3 · XP 558 · 다음 레벨까지 342
+밤길 실험가 Lv 3 · XP 758 · 다음 레벨까지 142
 
 ## Completed
 - foundry: lifecycle=incubator records=0
-- watch-pypi-updates: lifecycle=incubator records=179
+- watch-pypi-updates: lifecycle=incubator records=279
 
 ## Waiting for approval
-- none
+- Merge PR #4: feat: guild hall dashboard and delta XP — https://github.com/kgi8914z/overnight-foundry/pull/4
 
 ## Metrics
 - Active assets: 2
 - Slots incubator/growing/maintenance: {'incubator': 1, 'growing': 0, 'maintenance': 0}
 - Unique users: 1
 - Repeat users: 0
-- Dataset records: 179 (+179)
+- Dataset records: 279 (+100)
 - Stars (vanity): 0
 - MRR: $0
-- XP: 558
+- XP: 758
 - Level: 3
 
 ## Scout seeds

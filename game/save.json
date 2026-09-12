@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-12T10:20:21.667726+00:00",
+  "updated_at": "2026-09-12T22:46:19.097950+00:00",
   "hero": "kgi8914z",
   "guild": "Overnight Foundry",
   "level": 3,
   "title": "밤길 실험가",
-  "xp": 558,
-  "xp_into_level": 108,
+  "xp": 758,
+  "xp_into_level": 308,
   "xp_for_level": 450,
   "xp_parts": {
     "unique_users": 40,
     "repeat_users": 0,
     "active_users_1d": 80,
     "api_calls": 0,
-    "dataset_records": 358,
+    "dataset_records": 558,
     "paying_users": 0,
     "self_uses_weekly": 60,
     "backlinks": 0,
     "stars": 0,
     "nights": 20
   },
-  "row_gain": 67,
+  "row_gain": 100,
   "nights": 1,
   "active_assets": 2,
   "inventory": [
@@ -38,94 +38,94 @@
       "lane": "watch",
       "status": "incubator",
       "rarity": "고급",
-      "stack": 179,
+      "stack": 279,
       "notes": "오늘 무엇이 패키지 세계에 나타났는지 한곳에서 못 본다"
     }
   ],
   "loot": [
     {
-      "id": "bc8089c03c62be32",
-      "title": "sendafrica 1.2.0",
-      "link": "https://pypi.org/project/sendafrica/1.2.0/",
-      "published": "Sat, 12 Sep 2026 10:07:36 GMT",
-      "collected_at": "2026-09-12T10:20:20.288373+00:00"
+      "id": "b79d3b0445efcf25",
+      "title": "workato-terraform-provider 0.10.0",
+      "link": "https://pypi.org/project/workato-terraform-provider/0.10.0/",
+      "published": "Sat, 12 Sep 2026 22:22:29 GMT",
+      "collected_at": "2026-09-12T22:46:16.991060+00:00"
     },
     {
-      "id": "73ebc3ccbdd14311",
-      "title": "oktopios 0.7.0",
-      "link": "https://pypi.org/project/oktopios/0.7.0/",
-      "published": "Sat, 12 Sep 2026 10:08:19 GMT",
-      "collected_at": "2026-09-12T10:20:20.288369+00:00"
+      "id": "159929606f8ae62d",
+      "title": "odibi-anchor 0.3.11",
+      "link": "https://pypi.org/project/odibi-anchor/0.3.11/",
+      "published": "Sat, 12 Sep 2026 22:22:34 GMT",
+      "collected_at": "2026-09-12T22:46:16.991057+00:00"
     },
     {
-      "id": "ba1a4328d938a89b",
-      "title": "aicippy 3.11.29",
-      "link": "https://pypi.org/project/aicippy/3.11.29/",
-      "published": "Sat, 12 Sep 2026 10:08:24 GMT",
-      "collected_at": "2026-09-12T10:20:20.288365+00:00"
+      "id": "35e4ba29ed6006b4",
+      "title": "smart-artificial-intelligence-local 0.0.4b3382",
+      "link": "https://pypi.org/project/smart-artificial-intelligence-local/0.0.4b3382/",
+      "published": "Sat, 12 Sep 2026 22:22:45 GMT",
+      "collected_at": "2026-09-12T22:46:16.991054+00:00"
     },
     {
-      "id": "6e3130b09b889293",
-      "title": "ErisPulse-EmailAdapter 4.2.0",
-      "link": "https://pypi.org/project/erispulse-emailadapter/4.2.0/",
-      "published": "Sat, 12 Sep 2026 10:08:28 GMT",
-      "collected_at": "2026-09-12T10:20:20.288361+00:00"
+      "id": "f29019e7fb474911",
+      "title": "veri-agents-aiware 0.2.11",
+      "link": "https://pypi.org/project/veri-agents-aiware/0.2.11/",
+      "published": "Sat, 12 Sep 2026 22:22:49 GMT",
+      "collected_at": "2026-09-12T22:46:16.991051+00:00"
     },
     {
-      "id": "3a820a8e3f0f61ec",
-      "title": "ciburn 0.1.1",
-      "link": "https://pypi.org/project/ciburn/0.1.1/",
-      "published": "Sat, 12 Sep 2026 10:08:30 GMT",
-      "collected_at": "2026-09-12T10:20:20.288357+00:00"
+      "id": "27a513286b78da6d",
+      "title": "relativistic-simulator 0.1.2",
+      "link": "https://pypi.org/project/relativistic-simulator/0.1.2/",
+      "published": "Sat, 12 Sep 2026 22:22:56 GMT",
+      "collected_at": "2026-09-12T22:46:16.991048+00:00"
     },
     {
-      "id": "7a1db078e0fd05d9",
-      "title": "ErisPulse-DiscordAdapter 4.2.0",
-      "link": "https://pypi.org/project/erispulse-discordadapter/4.2.0/",
-      "published": "Sat, 12 Sep 2026 10:08:43 GMT",
-      "collected_at": "2026-09-12T10:20:20.288353+00:00"
+      "id": "8ae542dbce49afd0",
+      "title": "sqlbuild 0.98.5",
+      "link": "https://pypi.org/project/sqlbuild/0.98.5/",
+      "published": "Sat, 12 Sep 2026 22:22:58 GMT",
+      "collected_at": "2026-09-12T22:46:16.991045+00:00"
     },
     {
-      "id": "8b2fe62a383d3170",
-      "title": "ErisPulse-Ideaura 4.1.0",
-      "link": "https://pypi.org/project/erispulse-ideaura/4.1.0/",
-      "published": "Sat, 12 Sep 2026 10:08:54 GMT",
-      "collected_at": "2026-09-12T10:20:20.288349+00:00"
+      "id": "f95e36eefa931845",
+      "title": "polyxml 0.7.0",
+      "link": "https://pypi.org/project/polyxml/0.7.0/",
+      "published": "Sat, 12 Sep 2026 22:23:05 GMT",
+      "collected_at": "2026-09-12T22:46:16.991043+00:00"
     },
     {
-      "id": "83121d29c0c860c1",
-      "title": "agentcrash 0.1.2",
-      "link": "https://pypi.org/project/agentcrash/0.1.2/",
-      "published": "Sat, 12 Sep 2026 10:09:23 GMT",
-      "collected_at": "2026-09-12T10:20:20.288345+00:00"
+      "id": "d62e1f6909bb9761",
+      "title": "appmesh 3.0.2",
+      "link": "https://pypi.org/project/appmesh/3.0.2/",
+      "published": "Sat, 12 Sep 2026 22:23:09 GMT",
+      "collected_at": "2026-09-12T22:46:16.991039+00:00"
     },
     {
-      "id": "d7fac2ba646103e4",
-      "title": "hausfold-scruff 1.3.61",
-      "link": "https://pypi.org/project/hausfold-scruff/1.3.61/",
-      "published": "Sat, 12 Sep 2026 10:09:24 GMT",
-      "collected_at": "2026-09-12T10:20:20.288341+00:00"
+      "id": "0de3a22348211941",
+      "title": "trb-proto 1.0.61",
+      "link": "https://pypi.org/project/trb-proto/1.0.61/",
+      "published": "Sat, 12 Sep 2026 22:23:14 GMT",
+      "collected_at": "2026-09-12T22:46:16.991037+00:00"
     },
     {
-      "id": "8f8a59c4a82dc826",
-      "title": "ErisPulse-OneBot12Adapter 4.3.0",
-      "link": "https://pypi.org/project/erispulse-onebot12adapter/4.3.0/",
-      "published": "Sat, 12 Sep 2026 10:09:35 GMT",
-      "collected_at": "2026-09-12T10:20:20.288335+00:00"
+      "id": "41d6a3ad6cc861ac",
+      "title": "eclise-phyworld 0.2.0",
+      "link": "https://pypi.org/project/eclise-phyworld/0.2.0/",
+      "published": "Sat, 12 Sep 2026 22:23:34 GMT",
+      "collected_at": "2026-09-12T22:46:16.991034+00:00"
     },
     {
-      "id": "6c8d5ac95490272b",
-      "title": "dcs-sdk 2.1.0",
-      "link": "https://pypi.org/project/dcs-sdk/2.1.0/",
-      "published": "Sat, 12 Sep 2026 10:09:40 GMT",
-      "collected_at": "2026-09-12T10:20:20.288330+00:00"
+      "id": "43a426e6ccfe0afb",
+      "title": "piiguardrails 2.0.7.post1",
+      "link": "https://pypi.org/project/piiguardrails/2.0.7.post1/",
+      "published": "Sat, 12 Sep 2026 22:23:45 GMT",
+      "collected_at": "2026-09-12T22:46:16.991031+00:00"
     },
     {
-      "id": "626001ae72b8e7de",
-      "title": "dhis2w-browser 1.20.0",
-      "link": "https://pypi.org/project/dhis2w-browser/1.20.0/",
-      "published": "Sat, 12 Sep 2026 10:10:31 GMT",
-      "collected_at": "2026-09-12T10:20:20.288327+00:00"
+      "id": "d31b441a5e61a8e3",
+      "title": "notbefore 0.8.0",
+      "link": "https://pypi.org/project/notbefore/0.8.0/",
+      "published": "Sat, 12 Sep 2026 22:23:47 GMT",
+      "collected_at": "2026-09-12T22:46:16.991028+00:00"
     }
   ]
 }
