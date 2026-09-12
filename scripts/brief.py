@@ -5,6 +5,7 @@ import subprocess
 from datetime import datetime, timezone
 from pathlib import Path
 
+from game import build_save
 from common import (
     BRIEFING_DIR,
     LEDGER_PATH,
@@ -112,9 +113,14 @@ def main() -> None:
         for c in candidates[:5]
     ]
 
+    save = build_save(catalog, previous + [snapshot], [])
+    remain = max(save["xp_for_level"] - save["xp_into_level"], 0)
     body = "\n".join(
         [
             f"# Morning brief {snapshot['date']}",
+            "",
+            f"길드장 {save['title']} Lv {save['level']} · EXP {save['xp_into_level']}/{save['xp_for_level']} · 다음까지 {remain}",
+            f"어젯밤 전리품 +{save['row_gain']} · 창고 {snapshot['dataset_rows']}행",
             "",
             "## Decide",
             *(pr_lines or ["- no open PRs"]),

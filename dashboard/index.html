@@ -3,101 +3,111 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Overnight Foundry</title>
+  <title>Overnight Foundry — 길드 홀</title>
   <style>
     :root {
-      --bg: #111114;
-      --fg: #ececec;
-      --muted: #9a9aa3;
-      --line: #2a2a30;
-      --card: #1a1a1f;
-      --accent: #7aa2ff;
-      --good: #7dcea0;
-      --warn: #e2b76b;
+      --bg: #16130f;
+      --fg: #f3ead7;
+      --muted: #a3947c;
+      --line: #3a3228;
+      --card: #221c16;
+      --gold: #d4a24c;
+      --xp: #c9842e;
+      --good: #8fbe7a;
+      --rare: #7ea0d6;
+      --relic: #c97b4b;
     }
     * { box-sizing: border-box; }
     body {
       margin: 0;
-      font: 15px/1.5 ui-sans-serif, system-ui, sans-serif;
-      background: var(--bg);
       color: var(--fg);
+      background: var(--bg);
+      font: 15px/1.5 Georgia, "Iowan Old Style", "Palatino Linotype", serif;
     }
-    main { max-width: 960px; margin: 0 auto; padding: 32px 20px 64px; }
-    h1 { font-size: 24px; font-weight: 650; margin: 0 0 6px; }
-    .sub { color: var(--muted); margin-bottom: 28px; }
-    .grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; }
-    @media (max-width: 720px) { .grid { grid-template-columns: repeat(2, 1fr); } }
-    .stat { background: var(--card); border: 1px solid var(--line); padding: 14px 16px; }
-    .stat b { display: block; font-size: 28px; letter-spacing: -0.03em; }
-    .stat span { color: var(--muted); font-size: 12px; }
-    h2 { font-size: 16px; margin: 32px 0 10px; }
-    table { width: 100%; border-collapse: collapse; font-size: 13px; }
-    th, td { text-align: left; padding: 8px 6px; border-bottom: 1px solid var(--line); vertical-align: top; }
-    th { color: var(--muted); font-weight: 550; }
-    a { color: var(--accent); text-decoration: none; }
-    .ok { color: var(--good); }
-    .hold { color: var(--warn); }
-    pre {
+    main { max-width: 980px; margin: 0 auto; padding: 28px 18px 72px; }
+    .kicker { color: var(--gold); letter-spacing: 0.14em; font-size: 11px; text-transform: uppercase; }
+    h1 { font-size: 30px; margin: 6px 0 4px; font-weight: 700; }
+    .sub { color: var(--muted); margin: 0 0 22px; }
+    .hero {
       background: var(--card);
       border: 1px solid var(--line);
-      padding: 14px 16px;
-      white-space: pre-wrap;
-      font: 13px/1.45 ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      padding: 20px 22px 18px;
     }
-    footer { color: var(--muted); font-size: 12px; margin-top: 36px; }
+    .row { display: flex; gap: 28px; align-items: flex-end; justify-content: space-between; flex-wrap: wrap; }
+    .lvl { font-size: 42px; line-height: 1; color: var(--gold); }
+    .lvl span { display: block; font-size: 13px; color: var(--muted); margin-top: 4px; }
+    .bar-wrap { flex: 1; min-width: 220px; }
+    .bar { height: 14px; background: #2a241c; border: 1px solid var(--line); }
+    .bar > i { display: block; height: 100%; background: var(--xp); width: 59%; }
+    .bar-label { margin-top: 6px; color: var(--muted); font-size: 13px; }
+    .grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin-top: 16px; }
+    @media (max-width: 760px) { .grid { grid-template-columns: repeat(2, 1fr); } }
+    .stat { border: 1px solid var(--line); padding: 10px 12px; }
+    .stat b { display: block; font-size: 22px; color: var(--gold); }
+    .stat span { color: var(--muted); font-size: 12px; }
+    h2 { font-size: 17px; margin: 34px 0 10px; color: var(--gold); }
+    .cards { display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; }
+    @media (max-width: 760px) { .cards { grid-template-columns: 1fr; } }
+    .item { background: var(--card); border: 1px solid var(--line); padding: 12px 14px; }
+    .tag { font-size: 11px; letter-spacing: 0.08em; color: var(--muted); }
+    .tag.고급 { color: var(--good); }
+    .tag.희귀 { color: var(--rare); }
+    .tag.유물 { color: var(--relic); }
+    .stack { float: right; color: var(--gold); }
+    table { width: 100%; border-collapse: collapse; font-size: 13px; }
+    th, td { text-align: left; padding: 7px 6px; border-bottom: 1px solid var(--line); }
+    th { color: var(--muted); font-weight: 550; }
+    a { color: #e6c27a; text-decoration: none; }
+    footer { color: var(--muted); font-size: 12px; margin-top: 40px; }
   </style>
 </head>
 <body>
 <main>
-  <h1>Overnight Foundry</h1>
-  <p class="sub">밤 교대가 쌓은 것 · 갱신 2026-09-12 · 테마 revive + watch · 살아 있는 상한 8</p>
-  <div class="grid">
-    <div class="stat"><b>1</b><span>Apps (theme live)</span></div>
-    <div class="stat"><b>1</b><span>Datasets</span></div>
-    <div class="stat"><b>112</b><span>Dataset rows</span></div>
-    <div class="stat"><b>0</b><span>GitHub stars</span></div>
-    <div class="stat"><b>1</b><span>Users</span></div>
-    <div class="stat"><b>$0.0</b><span>MRR</span></div>
-  </div>
-  <h2>Assets</h2>
+  <div class="kicker">Night Shift Campaign</div>
+  <h1>밤길 수집가</h1>
+  <p class="sub">Overnight Foundry · kgi8914z · 1일째 원정 · 저장 2026-09-12</p>
+
+  <section class="hero">
+    <div class="row">
+      <div class="lvl">Lv 3<span>밤길 수집가</span></div>
+      <div class="bar-wrap">
+        <div class="bar"><i></i></div>
+        <div class="bar-label">EXP 214 / 360 · 다음 레벨까지 146</div>
+      </div>
+    </div>
+    <div class="grid">
+      <div class="stat"><b>574</b><span>총 경험치</span></div>
+      <div class="stat"><b>+0</b><span>어젯밤 획득 전리품</span></div>
+      <div class="stat"><b>112</b><span>창고 스택 (데이터 행)</span></div>
+      <div class="stat"><b>0</b><span>명성 (stars)</span></div>
+    </div>
+  </section>
+
+  <h2>인벤토리</h2>
+  <div class="cards"><article class='item'><span class='stack'>x1</span><div class='tag 본거지'>본거지 · ops</div><strong>Overnight Foundry control-plane</strong><p class='sub'>This repo. Counts as ops, not against live cap.</p></article><article class='item'><span class='stack'>x112</span><div class='tag 고급'>고급 · watch</div><strong>PyPI daily updates</strong><p class='sub'>First compounding dataset. Lives in control-plane until it earns its own repo.</p></article></div>
+
+  <h2>현상금 게시판</h2>
   <table>
-    <thead><tr><th>ID</th><th>Lane</th><th>Status</th><th>Users</th><th>Stars</th><th>Notes</th></tr></thead>
-    <tbody><tr><td>control-plane</td><td>ops</td><td class="ok">live</td><td>1</td><td>0</td><td>This repo. Counts as ops, not against live cap.</td></tr><tr><td>watch-pypi-updates</td><td>watch</td><td class="ok">live</td><td>0</td><td>0</td><td>First compounding dataset. Lives in control-plane until it earns its own repo.</td></tr></tbody>
+    <thead><tr><th>대상</th><th>명성</th><th>메모</th></tr></thead>
+    <tbody><tr><td><a href='https://github.com/Python-World/python-mini-projects'>Python-World/python-mini-projects</a></td><td>19325</td><td>A collection of simple python mini projects to enhance your python skills</td></tr></tbody>
   </table>
-  <h2>PyPI updates (latest 50)</h2>
+
+  <h2 id="pypi">어젯밤 전리품 — PyPI</h2>
   <table>
-    <thead><tr><th>Package</th><th>Published</th></tr></thead>
-    <tbody><tr><td><a href="https://pypi.org/project/echo-words/1.10.1/">echo-words 1.10.1</a></td><td>Sat, 12 Sep 2026 10:05:32 GMT</td></tr><tr><td><a href="https://pypi.org/project/apsimo/1.4.4/">apsimo 1.4.4</a></td><td>Sat, 12 Sep 2026 10:05:41 GMT</td></tr><tr><td><a href="https://pypi.org/project/apsimo-hermes/1.4.4/">apsimo-hermes 1.4.4</a></td><td>Sat, 12 Sep 2026 10:05:43 GMT</td></tr><tr><td><a href="https://pypi.org/project/apsimo-hostworker/0.2.1/">apsimo-hostworker 0.2.1</a></td><td>Sat, 12 Sep 2026 10:05:44 GMT</td></tr><tr><td><a href="https://pypi.org/project/dentate/0.1.0/">dentate 0.1.0</a></td><td>Sat, 12 Sep 2026 10:05:54 GMT</td></tr><tr><td><a href="https://pypi.org/project/cpyte/4.2.0/">cpyte 4.2.0</a></td><td>Sat, 12 Sep 2026 10:05:55 GMT</td></tr><tr><td><a href="https://pypi.org/project/gfthings/0.9.0/">gfthings 0.9.0</a></td><td>Sat, 12 Sep 2026 10:06:13 GMT</td></tr><tr><td><a href="https://pypi.org/project/erispulse-matrixadapter/4.2.0/">ErisPulse-MatrixAdapter 4.2.0</a></td><td>Sat, 12 Sep 2026 10:06:40 GMT</td></tr><tr><td><a href="https://pypi.org/project/feishu-bot-cli-antigravity/0.2.0/">feishu-bot-cli-antigravity 0.2.0</a></td><td>Sat, 12 Sep 2026 10:06:45 GMT</td></tr><tr><td><a href="https://pypi.org/project/taisce/0.1.0/">taisce 0.1.0</a></td><td>Sat, 12 Sep 2026 10:06:50 GMT</td></tr><tr><td><a href="https://pypi.org/project/zotero-pdf2zh-pro/1.6.9/">zotero-pdf2zh-pro 1.6.9</a></td><td>Sat, 12 Sep 2026 10:07:05 GMT</td></tr><tr><td><a href="https://pypi.org/project/aipager/0.7.11/">aipager 0.7.11</a></td><td>Sat, 12 Sep 2026 10:07:22 GMT</td></tr><tr><td><a href="https://pypi.org/project/monitoring-aiops/0.10.1/">monitoring-aiops 0.10.1</a></td><td>Sat, 12 Sep 2026 09:45:41 GMT</td></tr><tr><td><a href="https://pypi.org/project/mysql-aiops/0.10.1/">mysql-aiops 0.10.1</a></td><td>Sat, 12 Sep 2026 09:45:45 GMT</td></tr><tr><td><a href="https://pypi.org/project/lmcache/0.5.5rc7/">lmcache 0.5.5rc7</a></td><td>Sat, 12 Sep 2026 09:45:52 GMT</td></tr><tr><td><a href="https://pypi.org/project/nutanix-aiops/0.11.1/">nutanix-aiops 0.11.1</a></td><td>Sat, 12 Sep 2026 09:45:53 GMT</td></tr><tr><td><a href="https://pypi.org/project/polyphon-ai/0.2.0/">polyphon-ai 0.2.0</a></td><td>Sat, 12 Sep 2026 09:45:53 GMT</td></tr><tr><td><a href="https://pypi.org/project/inklet/4.0.0.dev3/">inklet 4.0.0.dev3</a></td><td>Sat, 12 Sep 2026 09:45:55 GMT</td></tr><tr><td><a href="https://pypi.org/project/network-aiops/0.12.1/">network-aiops 0.12.1</a></td><td>Sat, 12 Sep 2026 09:45:56 GMT</td></tr><tr><td><a href="https://pypi.org/project/observability-aiops/0.10.1/">observability-aiops 0.10.1</a></td><td>Sat, 12 Sep 2026 09:45:59 GMT</td></tr><tr><td><a href="https://pypi.org/project/ip2vn/1.0.0/">ip2vn 1.0.0</a></td><td>Sat, 12 Sep 2026 09:46:01 GMT</td></tr><tr><td><a href="https://pypi.org/project/postgres-aiops/0.10.1/">postgres-aiops 0.10.1</a></td><td>Sat, 12 Sep 2026 09:46:07 GMT</td></tr><tr><td><a href="https://pypi.org/project/gamekit2d/0.3.7/">gamekit2d 0.3.7</a></td><td>Sat, 12 Sep 2026 09:46:16 GMT</td></tr><tr><td><a href="https://pypi.org/project/proxmox-aiops/0.13.1/">proxmox-aiops 0.13.1</a></td><td>Sat, 12 Sep 2026 09:46:16 GMT</td></tr><tr><td><a href="https://pypi.org/project/openfisca-tunisia/0.81/">OpenFisca-Tunisia 0.81</a></td><td>Sat, 12 Sep 2026 09:46:17 GMT</td></tr><tr><td><a href="https://pypi.org/project/cudaq-logical/0.1.1/">cudaq-logical 0.1.1</a></td><td>Sat, 12 Sep 2026 09:46:22 GMT</td></tr><tr><td><a href="https://pypi.org/project/proxy-aiops/0.9.1/">proxy-aiops 0.9.1</a></td><td>Sat, 12 Sep 2026 09:46:24 GMT</td></tr><tr><td><a href="https://pypi.org/project/queue-aiops/0.9.1/">queue-aiops 0.9.1</a></td><td>Sat, 12 Sep 2026 09:46:34 GMT</td></tr><tr><td><a href="https://pypi.org/project/cudaq/0.16.0/">cudaq 0.16.0</a></td><td>Sat, 12 Sep 2026 09:46:42 GMT</td></tr><tr><td><a href="https://pypi.org/project/trustedlicenses/0.1.1/">trustedlicenses 0.1.1</a></td><td>Sat, 12 Sep 2026 09:46:47 GMT</td></tr><tr><td><a href="https://pypi.org/project/braillebaseitalian/0.2.9/">braillebaseitalian 0.2.9</a></td><td>Sat, 12 Sep 2026 09:46:50 GMT</td></tr><tr><td><a href="https://pypi.org/project/truenas-aiops/0.11.1/">truenas-aiops 0.11.1</a></td><td>Sat, 12 Sep 2026 09:46:54 GMT</td></tr><tr><td><a href="https://pypi.org/project/efa/2026.9.12/">efa 2026.9.12</a></td><td>Sat, 12 Sep 2026 09:47:08 GMT</td></tr><tr><td><a href="https://pypi.org/project/fake-bpy-module-latest/20260912/">fake-bpy-module-latest 20260912</a></td><td>Sat, 12 Sep 2026 09:47:12 GMT</td></tr><tr><td><a href="https://pypi.org/project/fake-bpy-module/20260912/">fake-bpy-module 20260912</a></td><td>Sat, 12 Sep 2026 09:47:19 GMT</td></tr><tr><td><a href="https://pypi.org/project/scubiee/0.3.67/">scubiee 0.3.67</a></td><td>Sat, 12 Sep 2026 09:47:29 GMT</td></tr><tr><td><a href="https://pypi.org/project/tealtiger/1.4.1/">tealtiger 1.4.1</a></td><td>Sat, 12 Sep 2026 09:47:32 GMT</td></tr><tr><td><a href="https://pypi.org/project/discord-os/0.5.36/">discord-os 0.5.36</a></td><td>Sat, 12 Sep 2026 09:47:36 GMT</td></tr><tr><td><a href="https://pypi.org/project/lsdsk/1.2.12/">lsdsk 1.2.12</a></td><td>Sat, 12 Sep 2026 09:47:51 GMT</td></tr><tr><td><a href="https://pypi.org/project/sase-core-rs/0.34.19/">sase-core-rs 0.34.19</a></td><td>Sat, 12 Sep 2026 09:48:14 GMT</td></tr><tr><td><a href="https://pypi.org/project/kl-py/0.4.7/">KL-Py 0.4.7</a></td><td>Sat, 12 Sep 2026 09:48:44 GMT</td></tr><tr><td><a href="https://pypi.org/project/veeam-aiops/0.15.1/">veeam-aiops 0.15.1</a></td><td>Sat, 12 Sep 2026 09:48:55 GMT</td></tr><tr><td><a href="https://pypi.org/project/symbulator/0.6.9/">symbulator 0.6.9</a></td><td>Sat, 12 Sep 2026 09:48:56 GMT</td></tr><tr><td><a href="https://pypi.org/project/xcpng-aiops/0.8.1/">xcpng-aiops 0.8.1</a></td><td>Sat, 12 Sep 2026 09:48:58 GMT</td></tr><tr><td><a href="https://pypi.org/project/odfdo/3.26.0/">odfdo 3.26.0</a></td><td>Sat, 12 Sep 2026 09:49:00 GMT</td></tr><tr><td><a href="https://pypi.org/project/types-pandas/2.0.0/">types-pandas 2.0.0</a></td><td>Sat, 12 Sep 2026 09:49:00 GMT</td></tr><tr><td><a href="https://pypi.org/project/clawmetry/0.12.873/">clawmetry 0.12.873</a></td><td>Sat, 12 Sep 2026 09:49:31 GMT</td></tr><tr><td><a href="https://pypi.org/project/bitranox-template-py-cli/1.7.2/">bitranox-template-py-cli 1.7.2</a></td><td>Sat, 12 Sep 2026 09:49:34 GMT</td></tr><tr><td><a href="https://pypi.org/project/hound-tracer/0.5.2/">hound-tracer 0.5.2</a></td><td>Sat, 12 Sep 2026 09:49:47 GMT</td></tr><tr><td><a href="https://pypi.org/project/hermes-plugin-pushary/0.5.4/">hermes-plugin-pushary 0.5.4</a></td><td>Sat, 12 Sep 2026 09:50:21 GMT</td></tr></tbody>
+    <thead><tr><th>드롭</th><th>시각</th></tr></thead>
+    <tbody><tr><td><a href='https://pypi.org/project/echo-words/1.10.1/'>echo-words 1.10.1</a></td><td>Sat, 12 Sep 2026 10:05:32 GMT</td></tr><tr><td><a href='https://pypi.org/project/apsimo/1.4.4/'>apsimo 1.4.4</a></td><td>Sat, 12 Sep 2026 10:05:41 GMT</td></tr><tr><td><a href='https://pypi.org/project/apsimo-hermes/1.4.4/'>apsimo-hermes 1.4.4</a></td><td>Sat, 12 Sep 2026 10:05:43 GMT</td></tr><tr><td><a href='https://pypi.org/project/apsimo-hostworker/0.2.1/'>apsimo-hostworker 0.2.1</a></td><td>Sat, 12 Sep 2026 10:05:44 GMT</td></tr><tr><td><a href='https://pypi.org/project/dentate/0.1.0/'>dentate 0.1.0</a></td><td>Sat, 12 Sep 2026 10:05:54 GMT</td></tr><tr><td><a href='https://pypi.org/project/cpyte/4.2.0/'>cpyte 4.2.0</a></td><td>Sat, 12 Sep 2026 10:05:55 GMT</td></tr><tr><td><a href='https://pypi.org/project/gfthings/0.9.0/'>gfthings 0.9.0</a></td><td>Sat, 12 Sep 2026 10:06:13 GMT</td></tr><tr><td><a href='https://pypi.org/project/erispulse-matrixadapter/4.2.0/'>ErisPulse-MatrixAdapter 4.2.0</a></td><td>Sat, 12 Sep 2026 10:06:40 GMT</td></tr><tr><td><a href='https://pypi.org/project/feishu-bot-cli-antigravity/0.2.0/'>feishu-bot-cli-antigravity 0.2.0</a></td><td>Sat, 12 Sep 2026 10:06:45 GMT</td></tr><tr><td><a href='https://pypi.org/project/taisce/0.1.0/'>taisce 0.1.0</a></td><td>Sat, 12 Sep 2026 10:06:50 GMT</td></tr><tr><td><a href='https://pypi.org/project/zotero-pdf2zh-pro/1.6.9/'>zotero-pdf2zh-pro 1.6.9</a></td><td>Sat, 12 Sep 2026 10:07:05 GMT</td></tr><tr><td><a href='https://pypi.org/project/aipager/0.7.11/'>aipager 0.7.11</a></td><td>Sat, 12 Sep 2026 10:07:22 GMT</td></tr></tbody>
   </table>
-  <h2>Revive candidates</h2>
+
+  <h2>원정 일지</h2>
   <table>
-    <thead><tr><th>Name</th><th>Stars</th><th>Why look</th></tr></thead>
-    <tbody><tr><td><a href="https://github.com/Python-World/python-mini-projects">Python-World/python-mini-projects</a></td><td>19325</td><td>A collection of simple python mini projects to enhance your python skills</td></tr></tbody>
+    <thead><tr><th>획득처</th><th>EXP</th></tr></thead>
+    <tbody><tr><td>데이터 행</td><td>224</td></tr><tr><td>원정 일수</td><td>50</td></tr><tr><td>보유 자산</td><td>200</td></tr><tr><td>사용자</td><td>100</td></tr></tbody>
   </table>
-  <h2>Latest briefing</h2>
-  <pre># Morning brief 2026-09-12
 
-## Decide
-- no open PRs
-
-## Grew overnight
-- live theme assets: 1 (0)
-- datasets: 1 (0)
-- dataset rows: 112 (+12)
-- stars: 0 (0)
-- users: 1 (0)
-- mrr: $0.0
-- workflows: 2
-
-## Revive candidates
-- Python-World/python-mini-projects (19325★) https://github.com/Python-World/python-mini-projects
-
-## Kill candidates
-- none
-
-Reply: merge / hold / kill.
-</pre>
-  <footer>Source: catalog.json + ledger/metrics.jsonl + this generate step. 숫자는 공장 장부이지 외부 분석 제품이 아니다.</footer>
+  <footer>
+    숫자는 가짜가 아니다. 데이터 행, 별, 사용자, 출시된 자산이 경험치가 된다.
+    매일 밤 교대가 던전을 한 바퀴 돌고 창고에 쌓아 둔다.
+  </footer>
 </main>
 </body>
 </html>

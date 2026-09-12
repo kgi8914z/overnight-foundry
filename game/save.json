@@ -1,0 +1,126 @@
+{
+  "updated_at": "2026-09-12T10:16:42.842718+00:00",
+  "hero": "kgi8914z",
+  "guild": "Overnight Foundry",
+  "level": 3,
+  "title": "밤길 수집가",
+  "xp": 574,
+  "xp_into_level": 214,
+  "xp_for_level": 360,
+  "xp_parts": {
+    "rows": 224,
+    "nights": 50,
+    "holdings": 200,
+    "renown": 0,
+    "followers": 100,
+    "gold": 0
+  },
+  "row_gain": 0,
+  "nights": 1,
+  "inventory": [
+    {
+      "id": "control-plane",
+      "name": "Overnight Foundry control-plane",
+      "lane": "ops",
+      "status": "live",
+      "rarity": "본거지",
+      "stack": 1,
+      "notes": "This repo. Counts as ops, not against live cap."
+    },
+    {
+      "id": "watch-pypi-updates",
+      "name": "PyPI daily updates",
+      "lane": "watch",
+      "status": "live",
+      "rarity": "고급",
+      "stack": 112,
+      "notes": "First compounding dataset. Lives in control-plane until it earns its own repo."
+    }
+  ],
+  "loot": [
+    {
+      "id": "9be4647fe878bbfc",
+      "title": "echo-words 1.10.1",
+      "link": "https://pypi.org/project/echo-words/1.10.1/",
+      "published": "Sat, 12 Sep 2026 10:05:32 GMT",
+      "collected_at": "2026-09-12T10:08:10.248700+00:00"
+    },
+    {
+      "id": "03d0dc5ee100fa89",
+      "title": "apsimo 1.4.4",
+      "link": "https://pypi.org/project/apsimo/1.4.4/",
+      "published": "Sat, 12 Sep 2026 10:05:41 GMT",
+      "collected_at": "2026-09-12T10:08:10.248698+00:00"
+    },
+    {
+      "id": "5840e8e67f82a518",
+      "title": "apsimo-hermes 1.4.4",
+      "link": "https://pypi.org/project/apsimo-hermes/1.4.4/",
+      "published": "Sat, 12 Sep 2026 10:05:43 GMT",
+      "collected_at": "2026-09-12T10:08:10.248696+00:00"
+    },
+    {
+      "id": "1266debbb9f3f66b",
+      "title": "apsimo-hostworker 0.2.1",
+      "link": "https://pypi.org/project/apsimo-hostworker/0.2.1/",
+      "published": "Sat, 12 Sep 2026 10:05:44 GMT",
+      "collected_at": "2026-09-12T10:08:10.248692+00:00"
+    },
+    {
+      "id": "9f3b86407ae0f31e",
+      "title": "dentate 0.1.0",
+      "link": "https://pypi.org/project/dentate/0.1.0/",
+      "published": "Sat, 12 Sep 2026 10:05:54 GMT",
+      "collected_at": "2026-09-12T10:08:10.248690+00:00"
+    },
+    {
+      "id": "4db2c46a2b47b122",
+      "title": "cpyte 4.2.0",
+      "link": "https://pypi.org/project/cpyte/4.2.0/",
+      "published": "Sat, 12 Sep 2026 10:05:55 GMT",
+      "collected_at": "2026-09-12T10:08:10.248687+00:00"
+    },
+    {
+      "id": "667e793766648317",
+      "title": "gfthings 0.9.0",
+      "link": "https://pypi.org/project/gfthings/0.9.0/",
+      "published": "Sat, 12 Sep 2026 10:06:13 GMT",
+      "collected_at": "2026-09-12T10:08:10.248685+00:00"
+    },
+    {
+      "id": "cc73fb20d30202cc",
+      "title": "ErisPulse-MatrixAdapter 4.2.0",
+      "link": "https://pypi.org/project/erispulse-matrixadapter/4.2.0/",
+      "published": "Sat, 12 Sep 2026 10:06:40 GMT",
+      "collected_at": "2026-09-12T10:08:10.248682+00:00"
+    },
+    {
+      "id": "7f301ff2d75167cc",
+      "title": "feishu-bot-cli-antigravity 0.2.0",
+      "link": "https://pypi.org/project/feishu-bot-cli-antigravity/0.2.0/",
+      "published": "Sat, 12 Sep 2026 10:06:45 GMT",
+      "collected_at": "2026-09-12T10:08:10.248680+00:00"
+    },
+    {
+      "id": "46effa5ebb4e23a4",
+      "title": "taisce 0.1.0",
+      "link": "https://pypi.org/project/taisce/0.1.0/",
+      "published": "Sat, 12 Sep 2026 10:06:50 GMT",
+      "collected_at": "2026-09-12T10:08:10.248677+00:00"
+    },
+    {
+      "id": "1e5ff4e5a8037498",
+      "title": "zotero-pdf2zh-pro 1.6.9",
+      "link": "https://pypi.org/project/zotero-pdf2zh-pro/1.6.9/",
+      "published": "Sat, 12 Sep 2026 10:07:05 GMT",
+      "collected_at": "2026-09-12T10:08:10.248673+00:00"
+    },
+    {
+      "id": "4217288568fff5bd",
+      "title": "aipager 0.7.11",
+      "link": "https://pypi.org/project/aipager/0.7.11/",
+      "published": "Sat, 12 Sep 2026 10:07:22 GMT",
+      "collected_at": "2026-09-12T10:08:10.248647+00:00"
+    }
+  ]
+}

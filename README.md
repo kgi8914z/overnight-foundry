@@ -1,6 +1,8 @@
 # Overnight Foundry
 
-밤 교대 공장의 관제소. 테마는 두 개만 허용한다.
+밤마다 돌아가는 길드. 테마는 두 개만 허용한다.
+
+대시보드는 RPG 세이브 화면이다. 데이터 행·별·사용자·자산이 경험치가 되고, 매일 아침 레벨 바가 찬다.
 
 - `revive-*` — 유용한데 죽은 오픈소스를 되살린다
 - `watch-*` — 매일 행이 늘어나는 공개 데이터 + 작은 뷰어
@@ -9,7 +11,7 @@
 
 ## 아침에 할 일 (8분)
 
-1. [briefing/LATEST.md](briefing/LATEST.md) 또는 [dashboard/index.html](dashboard/index.html)을 연다
+1. [dashboard/index.html](dashboard/index.html)에서 레벨과 전리품을 본다. 요약은 [briefing/LATEST.md](briefing/LATEST.md)
 2. 열린 PR에 `merge` / `hold` / `kill`만 답한다
 3. 끝
 
