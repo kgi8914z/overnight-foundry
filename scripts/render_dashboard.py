@@ -4,7 +4,15 @@ import html
 import json
 from pathlib import Path
 
-from common import DASHBOARD_PATH, LEDGER_PATH, SCOUT_PATH, count_jsonl, load_catalog, read_jsonl
+from common import (
+    DASHBOARD_PATH,
+    LEDGER_PATH,
+    ROOT,
+    SCOUT_PATH,
+    count_jsonl,
+    load_catalog,
+    read_jsonl,
+)
 
 TEMPLATE = """<!doctype html>
 <html lang="ko">
@@ -72,6 +80,11 @@ TEMPLATE = """<!doctype html>
     <thead><tr><th>ID</th><th>Lane</th><th>Status</th><th>Users</th><th>Stars</th><th>Notes</th></tr></thead>
     <tbody>{asset_rows}</tbody>
   </table>
+  <h2 id="pypi">PyPI updates (latest 50)</h2>
+  <table>
+    <thead><tr><th>Package</th><th>Published</th></tr></thead>
+    <tbody>{pypi_rows}</tbody>
+  </table>
   <h2>Revive candidates</h2>
   <table>
     <thead><tr><th>Name</th><th>Stars</th><th>Why look</th></tr></thead>
@@ -120,7 +133,17 @@ def main() -> None:
     rows = 0
     for asset in catalog.get("assets", []):
         if asset.get("data_path"):
-            rows += count_jsonl(Path(__file__).resolve().parents[1] / asset["data_path"])
+            rows += count_jsonl(ROOT / asset["data_path"])
+    pypi = read_jsonl(ROOT / "data" / "watches" / "pypi-updates.jsonl")
+    pypi_recent = list(reversed(pypi[-50:]))
+    if not pypi_recent:
+        pypi_rows = "<tr><td colspan='2'>아직 없음</td></tr>"
+    else:
+        pypi_rows = "".join(
+            f"<tr><td><a href=\"{html.escape(str(item.get('link', '')))}\">{html.escape(str(item.get('title', '')))}</a></td>"
+            f"<td>{html.escape(str(item.get('published', '')))}</td></tr>"
+            for item in pypi_recent
+        )
     html_out = TEMPLATE.format(
         generated=html.escape(str(snap.get("date") or "n/a")),
         live_cap=catalog.get("live_cap"),
@@ -132,6 +155,7 @@ def main() -> None:
         mrr=snap.get("mrr_usd", 0),
         asset_rows="".join(_cells(a) for a in catalog.get("assets", [])),
         candidate_rows=candidate_rows,
+        pypi_rows=pypi_rows,
         brief=html.escape(brief),
     )
     DASHBOARD_PATH.parent.mkdir(parents=True, exist_ok=True)

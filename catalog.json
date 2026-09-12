@@ -27,6 +27,7 @@
       "repo": "kgi8914z/overnight-foundry",
       "kind": "dataset",
       "data_path": "data/watches/pypi-updates.jsonl",
+      "viewer_path": "dashboard/index.html#pypi",
       "source": "https://pypi.org/rss/updates.xml",
       "license": "public-rss",
       "users": 0,
