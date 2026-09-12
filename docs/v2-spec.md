@@ -217,24 +217,12 @@ Canvas 금지. 배포는 Cloudflare Pages 또는 GitHub Pages(정적 export). Cu
 
 ## XP
 
-허영 낮게, 사용 높게.
+절대값 선형 합 금지. `ledger/xp.jsonl`에 델타만 적고 합산한다.
+같은 누적을 매일 다시 더하지 않는다. 첫 Measure는 cursor만 심고 과거 행 수에 XP를 주지 않는다.
 
-| 신호 | 점 |
-|---|---|
-| unique_users | 40 |
-| repeat_users | 120 |
-| active_users_1d | 80 |
-| api_calls | 1 |
-| dataset_records | 2 |
-| paying_users | 800 |
-| self_uses_weekly | 60 |
-| backlinks | 90 |
-| stars | 5 |
-| 원정 1일 | 20 |
+우선순위: repeat external > paying > external usage > self-use > backlink > dataset growth(log2/milestone) > stars.
 
-레벨: 필요치 `150 * level`. 칭호는 사용 기반이지 유물 사냥이 아니다.
-
-stars만 올려서 레벨 업 금지에 가깝게 둔다.
+`watch-pypi`는 pipeline specimen. 행 수 증가는 성공이 아니다.
 
 ## 측정
 

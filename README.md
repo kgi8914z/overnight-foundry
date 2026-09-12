@@ -22,6 +22,17 @@ Incubator 4 · Growing 2 · Maintenance 2 · Archived 무제한.
 
 새 실험을 열려면 하나를 승격하거나 죽여야 한다.
 
+## 길드 홀 (로컬)
+
+```
+cd apps/web
+npm install
+npm test
+npm run dev
+```
+
+http://localhost:3000 — 배포는 사람 승인 후에만.
+
 ## 밤 교대
 
 ```
