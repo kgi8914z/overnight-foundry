@@ -1,0 +1,12 @@
+{
+  "updated_at": "2026-09-12T10:48:37.663252+00:00",
+  "waiting": [
+    {
+      "kind": "hold",
+      "ref": "watch-pypi-updates",
+      "title": "watch-pypi-updates is a pipeline specimen — kill if it never grows a viewer/user",
+      "url": null,
+      "draft": false
+    }
+  ]
+}

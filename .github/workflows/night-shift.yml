@@ -21,6 +21,7 @@ jobs:
           python scripts/collect_pypi_updates.py
           python scripts/scout.py
           python scripts/measure.py
+          python scripts/approvals.py
           python scripts/brief.py
           python scripts/render_dashboard.py
       - name: Commit factory books

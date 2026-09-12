@@ -1,0 +1,61 @@
+:root {
+  --bg: #16130f;
+  --fg: #f3ead7;
+  --muted: #a3947c;
+  --line: #3a3228;
+  --card: #221c16;
+  --gold: #d4a24c;
+  --xp: #c9842e;
+  --good: #8fbe7a;
+  --warn: #c97b4b;
+  --bad: #c46b6b;
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; background: var(--bg); color: var(--fg); }
+body {
+  font: 15px/1.5 Georgia, "Iowan Old Style", "Palatino Linotype", serif;
+}
+a { color: #e6c27a; text-decoration: none; }
+main { max-width: 980px; margin: 0 auto; padding: 28px 18px 72px; }
+.kicker { color: var(--gold); letter-spacing: 0.14em; font-size: 11px; text-transform: uppercase; }
+h1 { font-size: 30px; margin: 6px 0 4px; }
+h2 { font-size: 17px; margin: 32px 0 10px; color: var(--gold); }
+.sub { color: var(--muted); margin: 0 0 20px; }
+.hero, .item, .brief, .queue {
+  background: var(--card);
+  border: 1px solid var(--line);
+  padding: 16px 18px;
+}
+.row { display: flex; gap: 24px; align-items: flex-end; justify-content: space-between; flex-wrap: wrap; }
+.lvl { font-size: 40px; line-height: 1; color: var(--gold); }
+.lvl span { display: block; font-size: 13px; color: var(--muted); margin-top: 4px; }
+.bar { height: 14px; background: #2a241c; border: 1px solid var(--line); }
+.bar > i { display: block; height: 100%; background: var(--xp); }
+.grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin-top: 14px; }
+.stat { border: 1px solid var(--line); padding: 10px 12px; }
+.stat b { display: block; font-size: 22px; color: var(--gold); }
+.stat span { color: var(--muted); font-size: 12px; }
+.cards { display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; }
+.tag { font-size: 11px; letter-spacing: 0.08em; color: var(--muted); }
+.tag.표본 { color: var(--warn); }
+.tag.성장 { color: var(--good); }
+table { width: 100%; border-collapse: collapse; font-size: 13px; }
+th, td { text-align: left; padding: 7px 6px; border-bottom: 1px solid var(--line); vertical-align: top; }
+th { color: var(--muted); }
+.actions { display: flex; gap: 8px; margin-top: 16px; }
+button {
+  font: inherit;
+  border: 1px solid var(--line);
+  background: #2a241c;
+  color: var(--fg);
+  padding: 8px 14px;
+  cursor: pointer;
+}
+button.kill { color: var(--bad); }
+button.merge { color: var(--good); }
+.ok { color: var(--good); }
+.no { color: var(--bad); }
+.brief { white-space: pre-wrap; font: 13px/1.45 ui-monospace, Consolas, monospace; }
+@media (max-width: 760px) {
+  .grid, .cards { grid-template-columns: 1fr 1fr; }
+}

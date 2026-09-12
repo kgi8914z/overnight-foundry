@@ -1,10 +1,10 @@
 from __future__ import annotations
 
 import json
-from datetime import datetime, timezone
 from typing import Any
 
-from common import ROOT, count_jsonl, live_assets, load_config, metric_sum
+from common import ROOT, count_jsonl, live_assets, load_config
+from xp import level_from_xp, load_cursor, total_xp_from_ledger
 
 SAVE_PATH = ROOT / "game" / "save.json"
 
@@ -28,6 +28,8 @@ def _title(level: int) -> str:
 
 
 def _rarity(asset: dict[str, Any], rows: int) -> str:
+    if asset.get("role") == "specimen" or asset.get("specimen"):
+        return "표본"
     life = asset.get("lifecycle")
     if asset.get("lane") == "ops":
         return "본거지"
@@ -42,40 +44,11 @@ def _rarity(asset: dict[str, Any], rows: int) -> str:
     return "부화"
 
 
-def xp_parts(catalog: dict[str, Any], ledger: list[dict[str, Any]]) -> dict[str, int]:
-    weights = (load_config().get("xp") or {})
-    nights = len({row.get("date") for row in ledger if row.get("date")})
-    keys = [
-        "unique_users",
-        "repeat_users",
-        "active_users_1d",
-        "api_calls",
-        "dataset_records",
-        "paying_users",
-        "self_uses_weekly",
-        "backlinks",
-        "stars",
-    ]
-    parts = {key: metric_sum(catalog, key) * int(weights.get(key) or 0) for key in keys}
-    parts["nights"] = nights * int(weights.get("nights") or 0)
-    return parts
-
-
-def level_from_xp(xp: int) -> tuple[int, int, int]:
-    level = 1
-    spent = 0
-    while True:
-        need = 150 * level
-        if xp < spent + need:
-            return level, xp - spent, need
-        spent += need
-        level += 1
-
-
 def build_save(catalog: dict[str, Any], ledger: list[dict[str, Any]], loot: list[dict[str, Any]]) -> dict[str, Any]:
-    parts = xp_parts(catalog, ledger)
-    xp = sum(parts.values())
-    level, into, need = level_from_xp(xp)
+    cursor = load_cursor()
+    xp = int(cursor.get("total_xp") or total_xp_from_ledger())
+    step = int((load_config().get("xp") or {}).get("level_step") or 150)
+    level, into, need = level_from_xp(xp, step)
     prev = ledger[-2] if len(ledger) >= 2 else {}
     last = ledger[-1] if ledger else {}
     row_gain = int(last.get("dataset_records") or last.get("dataset_rows") or 0) - int(
@@ -96,10 +69,11 @@ def build_save(catalog: dict[str, Any], ledger: list[dict[str, Any]], loot: list
                 "rarity": _rarity(asset, rows),
                 "stack": rows or int((asset.get("metrics") or {}).get("self_uses_weekly") or 0),
                 "notes": asset.get("problem") or "",
+                "specimen": bool(asset.get("specimen")),
             }
         )
     return {
-        "updated_at": datetime.now(timezone.utc).isoformat(),
+        "updated_at": cursor.get("updated_at"),
         "hero": "kgi8914z",
         "guild": "Overnight Foundry",
         "level": level,
@@ -107,7 +81,7 @@ def build_save(catalog: dict[str, Any], ledger: list[dict[str, Any]], loot: list
         "xp": xp,
         "xp_into_level": into,
         "xp_for_level": need,
-        "xp_parts": parts,
+        "xp_parts": {},
         "row_gain": max(row_gain, 0),
         "nights": len({row.get("date") for row in ledger if row.get("date")}),
         "active_assets": len(live_assets(catalog)),

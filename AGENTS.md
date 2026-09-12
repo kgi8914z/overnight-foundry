@@ -48,4 +48,7 @@ Agent ok: issues, specs, draft PRs, tests, browser QA, docs, data refresh, brief
 
 ## First asset
 
-The factory dashboard (`apps/web`) ships before any new utility. Until it is shipped and self-used, do not open a second utility.
+The factory dashboard (`apps/web`) is the first asset.
+A first extra utility is allowed only after the e2e loop is green once:
+dashboard reads live data → event recorded → Measure succeeds → Brief written → MERGE/HOLD/KILL UI works.
+`watch-pypi-updates` is a pipeline specimen, not a success. Kill it if it never becomes a used viewer/API/utility.

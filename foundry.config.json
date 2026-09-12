@@ -19,16 +19,26 @@
     "incubator_days_without_ship": 21,
     "shipped_days_without_repeat": 14
   },
+  "loop": {
+    "first_utility_requires": "e2e_green"
+  },
   "xp": {
-    "unique_users": 40,
-    "repeat_users": 120,
-    "active_users_1d": 80,
-    "api_calls": 1,
-    "dataset_records": 2,
-    "paying_users": 800,
-    "self_uses_weekly": 60,
-    "backlinks": 90,
-    "stars": 5,
-    "nights": 20
+    "level_step": 150,
+    "night_shift_success": 15,
+    "delta": {
+      "repeat_users": 250,
+      "paying_users": 200,
+      "unique_users": 80,
+      "active_users_1d": 60,
+      "self_uses_weekly": 40,
+      "backlinks": 30,
+      "stars": 3
+    },
+    "api_calls_log2": 12,
+    "dataset": {
+      "log2_weight": 8,
+      "milestones": [100, 500, 1000, 5000, 20000],
+      "milestone_xp": 25
+    }
   }
 }

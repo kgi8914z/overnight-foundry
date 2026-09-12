@@ -1,0 +1,38 @@
+{
+  "metrics": {
+    "foundry": {
+      "unique_users": 1,
+      "repeat_users": 0,
+      "active_users_1d": 1,
+      "api_calls": 0,
+      "dataset_records": 0,
+      "paying_users": 0,
+      "self_uses_weekly": 1,
+      "backlinks": 0,
+      "stars": 0
+    },
+    "watch-pypi-updates": {
+      "unique_users": 0,
+      "repeat_users": 0,
+      "active_users_1d": 0,
+      "api_calls": 0,
+      "dataset_records": 276,
+      "paying_users": 0,
+      "self_uses_weekly": 0,
+      "backlinks": 0,
+      "stars": 0
+    }
+  },
+  "dataset_milestones_hit": {
+    "foundry": [],
+    "watch-pypi-updates": [
+      100
+    ]
+  },
+  "night_dates": [
+    "2026-09-12"
+  ],
+  "total_xp": 115,
+  "updated_at": "2026-09-12T10:48:36.908076+00:00",
+  "initialized": true
+}

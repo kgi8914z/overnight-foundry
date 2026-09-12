@@ -1,10 +1,10 @@
 # OVERNIGHT REPORT 2026-09-12
 
-밤길 실험가 Lv 3 · XP 558 · 다음 레벨까지 342
+견습 길드장 Lv 1 · XP 115 · 다음 레벨까지 35
 
 ## Completed
 - foundry: lifecycle=incubator records=0
-- watch-pypi-updates: lifecycle=incubator records=179
+- watch-pypi-updates: lifecycle=incubator records=276
 
 ## Waiting for approval
 - none
@@ -14,11 +14,11 @@
 - Slots incubator/growing/maintenance: {'incubator': 1, 'growing': 0, 'maintenance': 0}
 - Unique users: 1
 - Repeat users: 0
-- Dataset records: 179 (+179)
+- Dataset records: 276 (0)
 - Stars (vanity): 0
 - MRR: $0
-- XP: 558
-- Level: 3
+- XP: 115
+- Level: 1
 
 ## Scout seeds
 - foundry-dashboard: Finish the independent morning dashboard before any new utility.

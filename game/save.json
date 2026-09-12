@@ -1,25 +1,14 @@
 {
-  "updated_at": "2026-09-12T10:20:21.667726+00:00",
+  "updated_at": "2026-09-12T10:48:36.908076+00:00",
   "hero": "kgi8914z",
   "guild": "Overnight Foundry",
-  "level": 3,
-  "title": "밤길 실험가",
-  "xp": 558,
-  "xp_into_level": 108,
-  "xp_for_level": 450,
-  "xp_parts": {
-    "unique_users": 40,
-    "repeat_users": 0,
-    "active_users_1d": 80,
-    "api_calls": 0,
-    "dataset_records": 358,
-    "paying_users": 0,
-    "self_uses_weekly": 60,
-    "backlinks": 0,
-    "stars": 0,
-    "nights": 20
-  },
-  "row_gain": 67,
+  "level": 1,
+  "title": "견습 길드장",
+  "xp": 115,
+  "xp_into_level": 115,
+  "xp_for_level": 150,
+  "xp_parts": {},
+  "row_gain": 0,
   "nights": 1,
   "active_assets": 2,
   "inventory": [
@@ -30,102 +19,104 @@
       "status": "incubator",
       "rarity": "본거지",
       "stack": 1,
-      "notes": "밤 교대 실험을 아침 8분에 선택/도태할 면이 없다"
+      "notes": "밤 교대 실험을 아침 8분에 선택/도태할 면이 없다",
+      "specimen": false
     },
     {
       "id": "watch-pypi-updates",
       "name": "PyPI daily updates",
       "lane": "watch",
       "status": "incubator",
-      "rarity": "고급",
-      "stack": 179,
-      "notes": "오늘 무엇이 패키지 세계에 나타났는지 한곳에서 못 본다"
+      "rarity": "표본",
+      "stack": 276,
+      "notes": "오늘 무엇이 패키지 세계에 나타났는지 한곳에서 못 본다",
+      "specimen": true
     }
   ],
   "loot": [
     {
-      "id": "bc8089c03c62be32",
-      "title": "sendafrica 1.2.0",
-      "link": "https://pypi.org/project/sendafrica/1.2.0/",
-      "published": "Sat, 12 Sep 2026 10:07:36 GMT",
-      "collected_at": "2026-09-12T10:20:20.288373+00:00"
+      "id": "a03b36729097d9e0",
+      "title": "beebium-server 0.1.8",
+      "link": "https://pypi.org/project/beebium-server/0.1.8/",
+      "published": "Sat, 12 Sep 2026 10:19:51 GMT",
+      "collected_at": "2026-09-12T10:47:17.532666+00:00"
     },
     {
-      "id": "73ebc3ccbdd14311",
-      "title": "oktopios 0.7.0",
-      "link": "https://pypi.org/project/oktopios/0.7.0/",
-      "published": "Sat, 12 Sep 2026 10:08:19 GMT",
-      "collected_at": "2026-09-12T10:20:20.288369+00:00"
+      "id": "ca3b6760a950dd91",
+      "title": "soteria-sentinel 0.2.0",
+      "link": "https://pypi.org/project/soteria-sentinel/0.2.0/",
+      "published": "Sat, 12 Sep 2026 10:20:09 GMT",
+      "collected_at": "2026-09-12T10:47:17.532664+00:00"
     },
     {
-      "id": "ba1a4328d938a89b",
-      "title": "aicippy 3.11.29",
-      "link": "https://pypi.org/project/aicippy/3.11.29/",
-      "published": "Sat, 12 Sep 2026 10:08:24 GMT",
-      "collected_at": "2026-09-12T10:20:20.288365+00:00"
+      "id": "6fbccba3cb149502",
+      "title": "nextcloud-mcp-server 0.187.0",
+      "link": "https://pypi.org/project/nextcloud-mcp-server/0.187.0/",
+      "published": "Sat, 12 Sep 2026 10:20:15 GMT",
+      "collected_at": "2026-09-12T10:47:17.532663+00:00"
     },
     {
-      "id": "6e3130b09b889293",
-      "title": "ErisPulse-EmailAdapter 4.2.0",
-      "link": "https://pypi.org/project/erispulse-emailadapter/4.2.0/",
-      "published": "Sat, 12 Sep 2026 10:08:28 GMT",
-      "collected_at": "2026-09-12T10:20:20.288361+00:00"
+      "id": "64008603da569d90",
+      "title": "opsveritas 0.4.3",
+      "link": "https://pypi.org/project/opsveritas/0.4.3/",
+      "published": "Sat, 12 Sep 2026 10:20:29 GMT",
+      "collected_at": "2026-09-12T10:47:17.532661+00:00"
     },
     {
-      "id": "3a820a8e3f0f61ec",
-      "title": "ciburn 0.1.1",
-      "link": "https://pypi.org/project/ciburn/0.1.1/",
-      "published": "Sat, 12 Sep 2026 10:08:30 GMT",
-      "collected_at": "2026-09-12T10:20:20.288357+00:00"
+      "id": "1c71bb05bfdc0407",
+      "title": "hermes-talk 0.19.0",
+      "link": "https://pypi.org/project/hermes-talk/0.19.0/",
+      "published": "Sat, 12 Sep 2026 10:20:31 GMT",
+      "collected_at": "2026-09-12T10:47:17.532659+00:00"
     },
     {
-      "id": "7a1db078e0fd05d9",
-      "title": "ErisPulse-DiscordAdapter 4.2.0",
-      "link": "https://pypi.org/project/erispulse-discordadapter/4.2.0/",
-      "published": "Sat, 12 Sep 2026 10:08:43 GMT",
-      "collected_at": "2026-09-12T10:20:20.288353+00:00"
+      "id": "1b2d2ee8d401352e",
+      "title": "jupyterlab-workshop 0.1.28",
+      "link": "https://pypi.org/project/jupyterlab-workshop/0.1.28/",
+      "published": "Sat, 12 Sep 2026 10:20:31 GMT",
+      "collected_at": "2026-09-12T10:47:17.532657+00:00"
     },
     {
-      "id": "8b2fe62a383d3170",
-      "title": "ErisPulse-Ideaura 4.1.0",
-      "link": "https://pypi.org/project/erispulse-ideaura/4.1.0/",
-      "published": "Sat, 12 Sep 2026 10:08:54 GMT",
-      "collected_at": "2026-09-12T10:20:20.288349+00:00"
+      "id": "fdca3ec446d7c587",
+      "title": "sympy-editor 0.1.1",
+      "link": "https://pypi.org/project/sympy-editor/0.1.1/",
+      "published": "Sat, 12 Sep 2026 10:20:33 GMT",
+      "collected_at": "2026-09-12T10:47:17.532656+00:00"
     },
     {
-      "id": "83121d29c0c860c1",
-      "title": "agentcrash 0.1.2",
-      "link": "https://pypi.org/project/agentcrash/0.1.2/",
-      "published": "Sat, 12 Sep 2026 10:09:23 GMT",
-      "collected_at": "2026-09-12T10:20:20.288345+00:00"
+      "id": "92cd9d2408ae31a6",
+      "title": "usdata 0.13.0",
+      "link": "https://pypi.org/project/usdata/0.13.0/",
+      "published": "Sat, 12 Sep 2026 10:20:48 GMT",
+      "collected_at": "2026-09-12T10:47:17.532654+00:00"
     },
     {
-      "id": "d7fac2ba646103e4",
-      "title": "hausfold-scruff 1.3.61",
-      "link": "https://pypi.org/project/hausfold-scruff/1.3.61/",
-      "published": "Sat, 12 Sep 2026 10:09:24 GMT",
-      "collected_at": "2026-09-12T10:20:20.288341+00:00"
+      "id": "2ac1112d5a9865a6",
+      "title": "pennylane-zksf 0.2.0",
+      "link": "https://pypi.org/project/pennylane-zksf/0.2.0/",
+      "published": "Sat, 12 Sep 2026 10:21:18 GMT",
+      "collected_at": "2026-09-12T10:47:17.532652+00:00"
     },
     {
-      "id": "8f8a59c4a82dc826",
-      "title": "ErisPulse-OneBot12Adapter 4.3.0",
-      "link": "https://pypi.org/project/erispulse-onebot12adapter/4.3.0/",
-      "published": "Sat, 12 Sep 2026 10:09:35 GMT",
-      "collected_at": "2026-09-12T10:20:20.288335+00:00"
+      "id": "12338478d476072c",
+      "title": "snapstep 0.2.0",
+      "link": "https://pypi.org/project/snapstep/0.2.0/",
+      "published": "Sat, 12 Sep 2026 10:21:22 GMT",
+      "collected_at": "2026-09-12T10:47:17.532651+00:00"
     },
     {
-      "id": "6c8d5ac95490272b",
-      "title": "dcs-sdk 2.1.0",
-      "link": "https://pypi.org/project/dcs-sdk/2.1.0/",
-      "published": "Sat, 12 Sep 2026 10:09:40 GMT",
-      "collected_at": "2026-09-12T10:20:20.288330+00:00"
+      "id": "84168f2932cddc61",
+      "title": "gen-data-model 2.3.9",
+      "link": "https://pypi.org/project/gen-data-model/2.3.9/",
+      "published": "Sat, 12 Sep 2026 10:21:27 GMT",
+      "collected_at": "2026-09-12T10:47:17.532649+00:00"
     },
     {
-      "id": "626001ae72b8e7de",
-      "title": "dhis2w-browser 1.20.0",
-      "link": "https://pypi.org/project/dhis2w-browser/1.20.0/",
-      "published": "Sat, 12 Sep 2026 10:10:31 GMT",
-      "collected_at": "2026-09-12T10:20:20.288327+00:00"
+      "id": "92f506828a23bb87",
+      "title": "curldb 0.6.0",
+      "link": "https://pypi.org/project/curldb/0.6.0/",
+      "published": "Sat, 12 Sep 2026 10:21:40 GMT",
+      "collected_at": "2026-09-12T10:47:17.532648+00:00"
     }
   ]
 }

@@ -10,6 +10,7 @@ STEPS = [
     "collect_pypi_updates.py",
     "scout.py",
     "measure.py",
+    "approvals.py",
     "brief.py",
     "render_dashboard.py",
 ]
