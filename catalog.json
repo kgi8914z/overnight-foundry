@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "owner": "kgi8914z",
+  "control_plane": "overnight-foundry",
+  "theme": ["revive", "watch"],
+  "live_cap": 8,
+  "kill_after_days_without_users": 30,
+  "human_minutes_per_morning": 8,
+  "assets": [
+    {
+      "id": "control-plane",
+      "name": "Overnight Foundry control-plane",
+      "lane": "ops",
+      "status": "live",
+      "repo": "kgi8914z/overnight-foundry",
+      "kind": "factory",
+      "users": 1,
+      "stars": 0,
+      "mrr_usd": 0,
+      "notes": "This repo. Counts as ops, not against live cap."
+    },
+    {
+      "id": "watch-pypi-updates",
+      "name": "PyPI daily updates",
+      "lane": "watch",
+      "status": "live",
+      "repo": "kgi8914z/overnight-foundry",
+      "kind": "dataset",
+      "data_path": "data/watches/pypi-updates.jsonl",
+      "source": "https://pypi.org/rss/updates.xml",
+      "license": "public-rss",
+      "users": 0,
+      "stars": 0,
+      "mrr_usd": 0,
+      "born": "2026-09-12",
+      "notes": "First compounding dataset. Lives in control-plane until it earns its own repo."
+    }
+  ]
+}

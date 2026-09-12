@@ -1,0 +1,6 @@
+{
+  "queried_at": "2026-09-12T10:06:00Z",
+  "query": "archived:true license:mit stars:>=200 pushed:<2024-01-01",
+  "note": "GitHub search was rate-limited during bootstrap. night-shift will fill this.",
+  "candidates": []
+}

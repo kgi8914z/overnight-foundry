@@ -1,0 +1,41 @@
+name: watch
+description: 매일 커지는 공개 데이터셋
+labels: ["lane:watch", "status:ready"]
+body:
+  - type: input
+    id: source
+    attributes:
+      label: Public feed / API URL
+    validations:
+      required: true
+  - type: input
+    id: license
+    attributes:
+      label: License or terms
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why this compounds
+    validations:
+      required: true
+  - type: textarea
+    id: dod
+    attributes:
+      label: Definition of Done
+    validations:
+      required: true
+  - type: textarea
+    id: kill
+    attributes:
+      label: Kill condition
+    validations:
+      required: true
+  - type: textarea
+    id: out
+    attributes:
+      label: Out of scope
+      value: "로그인 필요 페이지 스크레이핑, 개인정보 저장 금지"
+    validations:
+      required: true

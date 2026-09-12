@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Overnight Foundry</title>
+  <style>
+    :root {
+      --bg: #111114;
+      --fg: #ececec;
+      --muted: #9a9aa3;
+      --line: #2a2a30;
+      --card: #1a1a1f;
+      --accent: #7aa2ff;
+      --good: #7dcea0;
+      --warn: #e2b76b;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font: 15px/1.5 ui-sans-serif, system-ui, sans-serif;
+      background: var(--bg);
+      color: var(--fg);
+    }
+    main { max-width: 960px; margin: 0 auto; padding: 32px 20px 64px; }
+    h1 { font-size: 24px; font-weight: 650; margin: 0 0 6px; }
+    .sub { color: var(--muted); margin-bottom: 28px; }
+    .grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; }
+    @media (max-width: 720px) { .grid { grid-template-columns: repeat(2, 1fr); } }
+    .stat { background: var(--card); border: 1px solid var(--line); padding: 14px 16px; }
+    .stat b { display: block; font-size: 28px; letter-spacing: -0.03em; }
+    .stat span { color: var(--muted); font-size: 12px; }
+    h2 { font-size: 16px; margin: 32px 0 10px; }
+    table { width: 100%; border-collapse: collapse; font-size: 13px; }
+    th, td { text-align: left; padding: 8px 6px; border-bottom: 1px solid var(--line); vertical-align: top; }
+    th { color: var(--muted); font-weight: 550; }
+    a { color: var(--accent); text-decoration: none; }
+    .ok { color: var(--good); }
+    .hold { color: var(--warn); }
+    pre {
+      background: var(--card);
+      border: 1px solid var(--line);
+      padding: 14px 16px;
+      white-space: pre-wrap;
+      font: 13px/1.45 ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+    }
+    footer { color: var(--muted); font-size: 12px; margin-top: 36px; }
+  </style>
+</head>
+<body>
+<main>
+  <h1>Overnight Foundry</h1>
+  <p class="sub">밤 교대가 쌓은 것 · 갱신 2026-09-12 · 테마 revive + watch · 살아 있는 상한 8</p>
+  <div class="grid">
+    <div class="stat"><b>1</b><span>Apps (theme live)</span></div>
+    <div class="stat"><b>1</b><span>Datasets</span></div>
+    <div class="stat"><b>100</b><span>Dataset rows</span></div>
+    <div class="stat"><b>0</b><span>GitHub stars</span></div>
+    <div class="stat"><b>1</b><span>Users</span></div>
+    <div class="stat"><b>$0.0</b><span>MRR</span></div>
+  </div>
+  <h2>Assets</h2>
+  <table>
+    <thead><tr><th>ID</th><th>Lane</th><th>Status</th><th>Users</th><th>Stars</th><th>Notes</th></tr></thead>
+    <tbody><tr><td>control-plane</td><td>ops</td><td class="ok">live</td><td>1</td><td>0</td><td>This repo. Counts as ops, not against live cap.</td></tr><tr><td>watch-pypi-updates</td><td>watch</td><td class="ok">live</td><td>0</td><td>0</td><td>First compounding dataset. Lives in control-plane until it earns its own repo.</td></tr></tbody>
+  </table>
+  <h2>Revive candidates</h2>
+  <table>
+    <thead><tr><th>Name</th><th>Stars</th><th>Why look</th></tr></thead>
+    <tbody><tr><td colspan='3'>아직 없음</td></tr></tbody>
+  </table>
+  <h2>Latest briefing</h2>
+  <pre># Morning brief 2026-09-12
+
+## Decide
+- no open PRs
+
+## Grew overnight
+- live theme assets: 1 (0)
+- datasets: 1 (0)
+- dataset rows: 100 (0)
+- stars: 0 (0)
+- users: 1 (0)
+- mrr: $0.0
+- workflows: 2
+
+## Revive candidates
+- none yet
+
+## Kill candidates
+- none
+
+Reply: merge / hold / kill.
+</pre>
+  <footer>Source: catalog.json + ledger/metrics.jsonl + this generate step. 숫자는 공장 장부이지 외부 분석 제품이 아니다.</footer>
+</main>
+</body>
+</html>

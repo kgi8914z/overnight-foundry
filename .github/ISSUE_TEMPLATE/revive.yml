@@ -1,0 +1,35 @@
+name: revive
+description: 죽은 도구를 되살릴 후보
+labels: ["lane:revive", "status:ready"]
+body:
+  - type: input
+    id: source
+    attributes:
+      label: Source URL
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why this is in theme
+    validations:
+      required: true
+  - type: textarea
+    id: dod
+    attributes:
+      label: Definition of Done
+    validations:
+      required: true
+  - type: textarea
+    id: kill
+    attributes:
+      label: Kill condition
+      value: "30일 동안 users=0 이고 stars=0 이면 archive"
+    validations:
+      required: true
+  - type: textarea
+    id: out
+    attributes:
+      label: Out of scope
+    validations:
+      required: true

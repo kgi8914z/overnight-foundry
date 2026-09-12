@@ -1,0 +1,14 @@
+---
+description: Overnight Foundry operating rails
+alwaysApply: true
+---
+
+This repo is the control-plane of Overnight Foundry, not a research project.
+
+- Only `revive-*` and `watch-*` lanes.
+- One issue per night. Draft PR, never merge.
+- No chatbots, paper tools, or new SaaS until an asset has users.
+- Never commit secrets. Never submit to stores. Never email users.
+- Morning CEO merges. You file the work.
+- Keep `catalog.json` as the source of truth for assets.
+- After data or metric changes, run `python scripts/render_dashboard.py`.
