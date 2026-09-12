@@ -8,7 +8,8 @@ ROOT = Path(__file__).resolve().parents[1]
 STEPS = [
     "validate.py",
     "collect_pypi_updates.py",
-    "scout_abandoned.py",
+    "scout.py",
+    "measure.py",
     "brief.py",
     "render_dashboard.py",
 ]

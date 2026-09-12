@@ -1,15 +1,10 @@
-# Kill
+# Kill review
 
-An asset becomes `kill-candidate` when all are true:
+Label `kill-candidate` when:
 
-- not `ops`
-- `users == 0` and `stars == 0`
-- older than `kill_after_days_without_users`
+- incubator 21 days and not shipped
+- shipped 14 days with repeat_users=0 and self_uses_weekly=0
+- growing 14 days of collapsed usage
 
-Morning CEO archives. Night shift only labels and lists.
-
-After archive:
-
-- `status` in `catalog.json` becomes `archived`
-- data may stay, code freezes
-- it no longer counts toward `live_cap`
+Night shift never archives. Morning CEO replies KILL or HOLD.
+Archiving frees an Incubator/Growing/Maintenance slot.

@@ -3,21 +3,21 @@ from __future__ import annotations
 import json
 import subprocess
 from datetime import datetime, timezone
-from pathlib import Path
 
-from game import build_save
 from common import (
     BRIEFING_DIR,
     LEDGER_PATH,
     SCOUT_PATH,
     append_jsonl,
     counted_live,
-    count_jsonl,
     live_assets,
     load_catalog,
+    metric_sum,
     read_jsonl,
+    slot_counts,
     today_stamp,
 )
+from game import build_save
 
 
 def repo_stars(repo: str) -> int:
@@ -46,7 +46,7 @@ def open_draft_prs(repo: str) -> list[str]:
                 "--state",
                 "open",
                 "--json",
-                "title,url,isDraft",
+                "number,title,url",
             ],
             text=True,
             encoding="utf-8",
@@ -56,41 +56,29 @@ def open_draft_prs(repo: str) -> list[str]:
         rows = json.loads(raw)
     except (subprocess.CalledProcessError, FileNotFoundError, json.JSONDecodeError):
         return []
-    return [f"- {row['title']} — {row['url']}" for row in rows if row.get("isDraft") or True]
-
-
-def dataset_rows(catalog: dict) -> int:
-    total = 0
-    for asset in catalog.get("assets", []):
-        path = asset.get("data_path")
-        if path:
-            total += count_jsonl(Path(__file__).resolve().parents[1] / path)
-    return total
+    return [f"- Merge PR #{row['number']}: {row['title']} — {row['url']}" for row in rows]
 
 
 def main() -> None:
     catalog = load_catalog()
     owner_repo = f"{catalog['owner']}/{catalog['control_plane']}"
     stars = repo_stars(owner_repo)
-    rows = dataset_rows(catalog)
-    live = counted_live(catalog)
-    users = sum(int(a.get("users") or 0) for a in live_assets(catalog))
-    mrr = sum(float(a.get("mrr_usd") or 0) for a in live_assets(catalog))
-    workflows = 2
-    candidates = []
-    if SCOUT_PATH.exists():
-        candidates = json.loads(SCOUT_PATH.read_text(encoding="utf-8")).get("candidates", [])
-
+    for asset in catalog.get("assets", []):
+        if asset.get("id") == "foundry":
+            asset.setdefault("metrics", {})["stars"] = stars
+    records = metric_sum(catalog, "dataset_records")
     snapshot = {
         "date": today_stamp(),
         "collected_at": datetime.now(timezone.utc).isoformat(),
-        "apps": len(live),
-        "datasets": sum(1 for a in live if a.get("kind") == "dataset"),
-        "dataset_rows": rows,
+        "active_assets": len(live_assets(catalog)),
+        "slotted": len(counted_live(catalog)),
+        "slots": slot_counts(catalog),
+        "dataset_records": records,
+        "dataset_rows": records,
+        "unique_users": metric_sum(catalog, "unique_users"),
+        "repeat_users": metric_sum(catalog, "repeat_users"),
         "stars": stars,
-        "users": users,
-        "mrr_usd": mrr,
-        "workflows": workflows,
+        "mrr_usd": 0,
         "kill_candidates": 0,
     }
     previous = read_jsonl(LEDGER_PATH)
@@ -101,54 +89,58 @@ def main() -> None:
         now = snapshot.get(key, 0)
         was = last.get(key, 0)
         try:
-            diff = now - was
-        except TypeError:
+            diff = int(now) - int(was)
+        except (TypeError, ValueError):
             return str(now)
         sign = "+" if diff > 0 else ""
         return f"{now} ({sign}{diff})"
 
     pr_lines = open_draft_prs(owner_repo)
-    cand_lines = [
-        f"- {c.get('name')} ({c.get('stars')}★) {c.get('url')}"
-        for c in candidates[:5]
-    ]
-
+    candidates = []
+    if SCOUT_PATH.exists():
+        candidates = json.loads(SCOUT_PATH.read_text(encoding="utf-8")).get("candidates", [])
+    cand_lines = [f"- {c.get('name')}: {c.get('description')}" for c in candidates[:5]]
     save = build_save(catalog, previous + [snapshot], [])
     remain = max(save["xp_for_level"] - save["xp_into_level"], 0)
+    completed = [
+        f"- {a.get('id')}: lifecycle={a.get('lifecycle')} records={(a.get('metrics') or {}).get('dataset_records', 0)}"
+        for a in catalog.get("assets", [])
+        if a.get("lifecycle") != "archived"
+    ]
     body = "\n".join(
         [
-            f"# Morning brief {snapshot['date']}",
+            f"# OVERNIGHT REPORT {snapshot['date']}",
             "",
-            f"길드장 {save['title']} Lv {save['level']} · EXP {save['xp_into_level']}/{save['xp_for_level']} · 다음까지 {remain}",
-            f"어젯밤 전리품 +{save['row_gain']} · 창고 {snapshot['dataset_rows']}행",
+            f"{save['title']} Lv {save['level']} · XP {save['xp']} · 다음 레벨까지 {remain}",
             "",
-            "## Decide",
-            *(pr_lines or ["- no open PRs"]),
+            "## Completed",
+            *(completed or ["- none"]),
             "",
-            "## Grew overnight",
-            f"- live theme assets: {delta('apps')}",
-            f"- datasets: {delta('datasets')}",
-            f"- dataset rows: {delta('dataset_rows')}",
-            f"- stars: {delta('stars')}",
-            f"- users: {delta('users')}",
-            f"- mrr: ${snapshot['mrr_usd']}",
-            f"- workflows: {snapshot['workflows']}",
+            "## Waiting for approval",
+            *(pr_lines or ["- none"]),
             "",
-            "## Revive candidates",
-            *(cand_lines or ["- none yet"]),
+            "## Metrics",
+            f"- Active assets: {snapshot['active_assets']}",
+            f"- Slots incubator/growing/maintenance: {snapshot['slots']}",
+            f"- Unique users: {snapshot['unique_users']}",
+            f"- Repeat users: {snapshot['repeat_users']}",
+            f"- Dataset records: {delta('dataset_records')}",
+            f"- Stars (vanity): {snapshot['stars']}",
+            f"- MRR: ${snapshot['mrr_usd']}",
+            f"- XP: {save['xp']}",
+            f"- Level: {save['level']}",
             "",
-            "## Kill candidates",
-            "- none",
+            "## Scout seeds",
+            *(cand_lines or ["- none"]),
             "",
-            "Reply: merge / hold / kill.",
+            "Decisions needed: MERGE / HOLD / KILL",
             "",
         ]
     )
     BRIEFING_DIR.mkdir(parents=True, exist_ok=True)
     out = BRIEFING_DIR / f"{snapshot['date']}.md"
     out.write_text(body, encoding="utf-8")
-    latest = BRIEFING_DIR / "LATEST.md"
-    latest.write_text(body, encoding="utf-8")
+    (BRIEFING_DIR / "LATEST.md").write_text(body, encoding="utf-8")
     print(f"brief: wrote {out}")
 
 

@@ -1,40 +1,63 @@
 {
-  "version": 1,
+  "version": 2,
   "owner": "kgi8914z",
+  "org": null,
   "control_plane": "overnight-foundry",
-  "theme": ["revive", "watch"],
-  "live_cap": 8,
-  "kill_after_days_without_users": 30,
-  "human_minutes_per_morning": 8,
+  "campaign_start": "2026-09-12",
   "assets": [
     {
-      "id": "control-plane",
-      "name": "Overnight Foundry control-plane",
+      "id": "foundry",
+      "name": "Overnight Foundry",
       "lane": "ops",
-      "status": "live",
+      "lifecycle": "incubator",
       "repo": "kgi8914z/overnight-foundry",
-      "kind": "factory",
-      "users": 1,
-      "stars": 0,
-      "mrr_usd": 0,
-      "notes": "This repo. Counts as ops, not against live cap."
+      "problem": "밤 교대 실험을 아침 8분에 선택/도태할 면이 없다",
+      "user": "guildmaster-self",
+      "mvp": "아침 리포트 + 대기열 + XP가 있는 독립 대시보드",
+      "kill": "30일 동안 매주 이 화면을 안 보면 공장 일시 정지",
+      "born": "2026-09-12",
+      "shipped_at": null,
+      "last_measured_at": "2026-09-12T10:20:20.457406+00:00",
+      "metrics": {
+        "unique_users": 1,
+        "repeat_users": 0,
+        "active_users_1d": 1,
+        "api_calls": 0,
+        "dataset_records": 0,
+        "paying_users": 0,
+        "self_uses_weekly": 1,
+        "backlinks": 0,
+        "stars": 0
+      }
     },
     {
       "id": "watch-pypi-updates",
       "name": "PyPI daily updates",
       "lane": "watch",
-      "status": "live",
+      "lifecycle": "incubator",
       "repo": "kgi8914z/overnight-foundry",
-      "kind": "dataset",
+      "problem": "오늘 무엇이 패키지 세계에 나타났는지 한곳에서 못 본다",
+      "user": "self-and-later-public",
+      "mvp": "공식 RSS → jsonl → 대시보드 패널",
+      "kill": "14일 shipped 이후 repeat_users=0 이고 self_uses_weekly=0",
       "data_path": "data/watches/pypi-updates.jsonl",
-      "viewer_path": "dashboard/index.html#pypi",
       "source": "https://pypi.org/rss/updates.xml",
       "license": "public-rss",
-      "users": 0,
-      "stars": 0,
-      "mrr_usd": 0,
       "born": "2026-09-12",
-      "notes": "First compounding dataset. Lives in control-plane until it earns its own repo."
+      "shipped_at": null,
+      "last_measured_at": "2026-09-12T10:20:20.457406+00:00",
+      "metrics": {
+        "unique_users": 0,
+        "repeat_users": 0,
+        "active_users_1d": 0,
+        "api_calls": 0,
+        "dataset_records": 179,
+        "paying_users": 0,
+        "self_uses_weekly": 0,
+        "backlinks": 0,
+        "stars": 0
+      }
     }
-  ]
+  ],
+  "measured_on": "2026-09-12"
 }

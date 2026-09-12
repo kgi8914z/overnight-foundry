@@ -1,18 +1,20 @@
 # Definition of Done
 
-An issue is ready for Build only if it has all of these in the body:
+Ready for Build only if the issue has:
 
-- Lane: `revive` or `watch`
-- Why this is in theme (one sentence)
-- Source URL
-- Done means: concrete checks, not “make it nice”
-- Kill: how we will know to archive it
-- Out of scope: at least one thing we will not do
+- Lane: `utility` | `watch` | `ext`
+- Work: `build` | `improve`
+- Who hits this problem, how often
+- MVP in one sentence
+- Measure: event name or dataset path
+- Deploy path
+- Kill at 14 or 21 days
+- Out of scope
 
-A PR is ready for morning review only if:
+PR ready for morning only if:
 
-- Tests or a collector dry-run passed
-- `catalog.json` updated when a new asset appears
-- README is two short sentences + run instructions
-- No `.env`, keys, cookies, or scraped personal data
-- Dashboard regenerated when metrics/data changed
+- Test or collector dry-run passed
+- Measurement hook exists (beacon or jsonl append)
+- `catalog.json` updated
+- No secrets
+- Draft, not merged

@@ -1,16 +1,21 @@
 {
-  "queried_at": "2026-09-12T10:08:11.795454+00:00",
-  "query": "archived:true license:mit stars:>=200 pushed:<2024-01-01",
+  "queried_at": "2026-09-12T10:20:20.394837+00:00",
+  "query": "v2 utility/watch seeds — no revive",
+  "note": "incubator has room",
+  "incubator_used": 1,
+  "incubator_cap": 4,
   "candidates": [
     {
-      "name": "Python-World/python-mini-projects",
-      "url": "https://github.com/Python-World/python-mini-projects",
-      "stars": 19325,
-      "updatedAt": "2026-09-12T08:41:38Z",
-      "license": "mit",
-      "archived": true,
-      "description": "A collection of simple python mini projects to enhance your python skills",
-      "lane": "revive"
+      "name": "foundry-dashboard",
+      "lane": "ops",
+      "url": "https://github.com/kgi8914z/overnight-foundry",
+      "description": "Finish the independent morning dashboard before any new utility."
+    },
+    {
+      "name": "watch-pypi-viewer-in-app",
+      "lane": "watch",
+      "url": "https://pypi.org/rss/updates.xml",
+      "description": "Move the PyPI loot panel into apps/web with measure hooks."
     }
   ]
 }

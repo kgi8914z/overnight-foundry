@@ -1,6 +1,6 @@
 name: watch
-description: 매일 커지는 공개 데이터셋
-labels: ["lane:watch", "status:ready"]
+description: 매일 커지는 공개 데이터 + viewer
+labels: ["lane:watch", "work:build", "status:blocked"]
 body:
   - type: input
     id: source
@@ -15,27 +15,29 @@ body:
     validations:
       required: true
   - type: textarea
-    id: why
+    id: expand
     attributes:
-      label: Why this compounds
+      label: Expansion path
+      value: "dataset → viewer → API → utility"
     validations:
       required: true
-  - type: textarea
-    id: dod
+  - type: input
+    id: measure
     attributes:
-      label: Definition of Done
+      label: Measure
+      value: "dataset_records + viewer_open"
     validations:
       required: true
   - type: textarea
     id: kill
     attributes:
-      label: Kill condition
+      label: Kill
     validations:
       required: true
   - type: textarea
     id: out
     attributes:
       label: Out of scope
-      value: "로그인 필요 페이지 스크레이핑, 개인정보 저장 금지"
+      value: "로그인 스크레이핑, 개인정보, 애매한 ToS"
     validations:
       required: true

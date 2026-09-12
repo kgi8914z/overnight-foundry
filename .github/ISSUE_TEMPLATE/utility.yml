@@ -1,0 +1,42 @@
+name: utility
+description: 반복되는 작은 문제를 푸는 MVP
+labels: ["lane:utility", "work:build", "status:blocked"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Who hits this, how often
+    validations:
+      required: true
+  - type: textarea
+    id: mvp
+    attributes:
+      label: MVP in one sentence
+    validations:
+      required: true
+  - type: input
+    id: measure
+    attributes:
+      label: Measure (event name)
+      placeholder: utility_foo_run
+    validations:
+      required: true
+  - type: input
+    id: deploy
+    attributes:
+      label: Deploy path
+    validations:
+      required: true
+  - type: textarea
+    id: kill
+    attributes:
+      label: Kill
+      value: "shipped 후 14일 repeat_users=0 이고 self_uses_weekly=0 이면 archive"
+    validations:
+      required: true
+  - type: textarea
+    id: out
+    attributes:
+      label: Out of scope
+    validations:
+      required: true

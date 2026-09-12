@@ -178,12 +178,16 @@ def main() -> None:
         loot = "<tr><td colspan='2'>아직 없음</td></tr>"
 
     labels = {
-        "rows": "데이터 행",
+        "unique_users": "고유 사용자",
+        "repeat_users": "재방문",
+        "active_users_1d": "어제 활성",
+        "api_calls": "API",
+        "dataset_records": "데이터 행",
+        "paying_users": "유료",
+        "self_uses_weekly": "내가 씀",
+        "backlinks": "백링크",
+        "stars": "별(허영)",
         "nights": "원정 일수",
-        "holdings": "보유 자산",
-        "renown": "GitHub 명성",
-        "followers": "사용자",
-        "gold": "금화(MRR)",
     }
     xp_rows = "".join(
         f"<tr><td>{labels[key]}</td><td>{value}</td></tr>"

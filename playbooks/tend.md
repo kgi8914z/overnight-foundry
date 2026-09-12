@@ -1,17 +1,6 @@
 # Tend
 
-Touch only assets with `users > 0` or `stars > 0`.
+Touch Growing or Maintenance only, plus `ops` collectors.
 
-Allowed:
-
-- broken collector
-- CI red
-- dependency bump that unblocks collection
-- dashboard render bugs
-
-Not allowed:
-
-- redesign
-- extra features
-- new lane
-- “while I’m here” refactors
+Allowed: broken collector, red CI, beacon down, dashboard read bugs.
+Forbidden: new product, extra features, new lane.

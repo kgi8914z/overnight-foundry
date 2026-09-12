@@ -1,52 +1,31 @@
 # Overnight Foundry
 
-밤마다 돌아가는 길드. 테마는 두 개만 허용한다.
+밤 교대 선택 공장. 많이 만들지 않고, 많이 실험한 뒤 사용량으로 죽인다.
 
-대시보드는 RPG 세이브 화면이다. 데이터 행·별·사용자·자산이 경험치가 되고, 매일 아침 레벨 바가 찬다.
+사람은 아침 CEO. Cursor는 출고 교대. Claude/Codex는 생각과 어려운 한 방.
 
-- `revive-*` — 유용한데 죽은 오픈소스를 되살린다
-- `watch-*` — 매일 행이 늘어나는 공개 데이터 + 작은 뷰어
+- `utility-*` — 반복되는 작은 문제의 MVP
+- `watch-*` — 매일 커지는 공개 데이터 → viewer → API → utility
+- 첫 자산은 이 공장의 대시보드 자신
 
-사람은 아침 CEO다. 에이전트는 초안만 만든다.
+스펙: [docs/v2-spec.md](docs/v2-spec.md)
 
-## 아침에 할 일 (8분)
+## 아침에 할 일
 
-1. [dashboard/index.html](dashboard/index.html)에서 레벨과 전리품을 본다. 요약은 [briefing/LATEST.md](briefing/LATEST.md)
-2. 열린 PR에 `merge` / `hold` / `kill`만 답한다
+1. [dashboard/index.html](dashboard/index.html) 또는 [briefing/LATEST.md](briefing/LATEST.md)
+2. MERGE / HOLD / KILL
 3. 끝
 
-주말에는 Build를 하지 않는다. GitHub Action `night-shift`는 매일 06:00 KST에 장부만 갱신한다.
+## 슬롯
 
-## 레일
+Incubator 4 · Growing 2 · Maintenance 2 · Archived 무제한.
 
-| 파일 | 역할 |
-|---|---|
-| `catalog.json` | 자산 장부. 살아 있는 테마 자산 상한 8 |
-| `playbooks/` | Scout / Build / Brief / Tend / Kill |
-| `AGENTS.md` | 밤 교대가 지키는 규칙 |
-| `ledger/metrics.jsonl` | 숫자 시계열 |
-| `data/watches/` | 복리 데이터 |
-| `backlog/candidates.json` | 부활 후보 |
+새 실험을 열려면 하나를 승격하거나 죽여야 한다.
 
-## 로컬에서 밤 교대 한 번
+## 밤 교대
 
 ```
-python scripts/validate.py
-python scripts/collect_pypi_updates.py
-python scripts/scout_abandoned.py
-python scripts/brief.py
-python scripts/render_dashboard.py
+python scripts/night_shift.py
 ```
 
-`gh`가 있으면 스타 수와 죽은 레포 후보를 채운다. 없어도 수집기와 장부는 돈다.
-
-## 승인 게이트
-
-자동: 이슈, draft PR, 데이터/브리핑/대시보드 갱신.
-
-사람: 머지, 레포 생성·삭제, 스토어, 결제, 메일, 시크릿, archive 확정.
-
-## 지금 있는 자산
-
-1. 이 관제소
-2. `watch-pypi-updates` — PyPI 공식 RSS. 매일 새 패키지 행이 붙는다
+매일 06:00 KST GitHub Action이 장부를 갱신한다. 머지와 배포는 하지 않는다.

@@ -1,53 +1,51 @@
-# Overnight Foundry rails
+# Overnight Foundry rails (v2)
 
-You are the night-shift engineer of this factory. The human is the morning CEO.
+You are the night-shift engineer. The human is the morning CEO.
+This is a selection factory, not a production spam factory.
 
 ## Theme lock
 
-Only two product lines:
+Allowed lanes: `utility-*`, `watch-*`, `ext-*`, `service-*`, `ops-*`.
+Forbidden: `revive-*`, chatbots, paper tools, generic AI wrappers, game worlds as products.
 
-- `revive-*` — resurrect a useful abandoned tool
-- `watch-*` — a public dataset that grows every day, plus a tiny viewer
+`ops-*` is this control-plane only. New product work starts as `utility` or `watch`.
 
-Reject anything else. No chatbots, no paper tools, no generic “AI wrappers”, no game worlds, no new SaaS until an existing asset has users.
+## Loop
+
+Scout → Spec → Build → Test → Draft PR → Human merge → Deploy → Measure → Improve | Kill
+
+No issue is `status:ready` without a measurement plan and a kill condition.
+No night may skip Measure.
+
+## Slots
+
+Read `foundry.config.json`. Incubator+Shipped ≤ 4. Growing ≤ 2. Maintenance ≤ 2.
+`ops`, `idea`, and `archived` do not consume slots.
+If Incubator is full, do not start a new asset. Improve or file a kill-review.
+
+## Mix
+
+Month 1: 70% build / 30% improve.
+Month 2: 50 / 50.
+Month 3+: 30 / 70.
+If a winner has users, prefer Improve.
 
 ## Work unit
 
-1. Pick one GitHub issue that has `lane:revive` or `lane:watch`, `status:ready`, and a Definition of Done.
-2. Implement on a branch.
-3. Open a **draft** pull request.
-4. Stop. Do not merge. Do not release. Do not publish to a store.
+1. Pick one `status:ready` issue whose work type matches tonight's mix.
+2. Branch `build/<n>-<slug>` or `improve/<n>-<slug>`.
+3. Implement only the DoD.
+4. Open a **draft** PR.
+5. Stop. Do not merge. Do not deploy. Do not release.
 
-If the issue is missing DoD, reproduction steps, or a kill condition, add `status:blocked` and stop.
+Missing DoD, measure, or kill → `status:blocked`.
 
-## Hard gates
+## Gates
 
-Never do these without an explicit human comment on the PR:
+Human only: first public release, big production change, payment, outbound email, secrets, store, fuzzy ToS scraping, archive, new repo.
 
-- merge to `main` of a public asset
-- create/delete repos
-- store submission
-- domain, payment, email to users
-- secrets, tokens, API keys
-- `archive` / delete
+Agent ok: issues, specs, draft PRs, tests, browser QA, docs, data refresh, briefing, tiny fixes on Growing/Maintenance.
 
-Allowed without approval:
+## First asset
 
-- file issues
-- open draft PRs
-- refresh `data/`, `briefing/`, `ledger/`, `dashboard/index.html`
-- docs and chore on this control-plane repo
-
-## Cadence
-
-- Scout: find at most 5 candidates, file issues
-- Build: one issue per night
-- Brief: update ledger + briefing + dashboard
-- Tend: only assets with `users > 0` or `stars > 0`
-- Kill: if 30 days with zero users and zero stars, label `kill-candidate`
-
-Live cap: 8 non-archived assets. If at cap, scout and build stop until something is archived.
-
-## Definition of Done
-
-See `playbooks/dod.md`. CI must be green. README must say what it is in two sentences. No secret files.
+The factory dashboard (`apps/web`) ships before any new utility. Until it is shipped and self-used, do not open a second utility.

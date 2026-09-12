@@ -1,11 +1,13 @@
-# Approval gates
+# Gates
 
 | Action | Agent | Human |
 |---|---|---|
-| File issues | yes | no |
-| Draft PR | yes | no |
-| Refresh data / briefing / dashboard | yes | no |
-| Merge public asset | no | yes |
-| Create or delete repo | no | yes |
-| Store / payment / email / secrets | no | yes |
+| Scout, spec draft, issue | yes | no |
+| Draft PR, tests, browser QA | yes | no |
+| Data refresh, brief, measure | yes | no |
+| Tiny fix on Growing | yes | no |
+| First public release / deploy | no | yes |
+| New repo | no | yes |
+| Payment, email, secrets, store | no | yes |
+| Fuzzy ToS collection | no | yes |
 | Archive | label only | yes |

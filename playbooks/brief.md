@@ -1,21 +1,15 @@
 # Brief
 
-Goal: one file the human can read in 60 seconds.
-
-Run:
+One screen. No essay.
 
 ```
-python scripts/collect_pypi_updates.py
-python scripts/scout_abandoned.py
-python scripts/brief.py
-python scripts/render_dashboard.py
+python scripts/night_shift.py
 ```
 
-Write `briefing/YYYY-MM-DD.md` with only:
+`briefing/LATEST.md` must look like:
 
-- What changed overnight
-- Open draft PRs that need a decision
-- Kill candidates
-- Metric deltas (assets, dataset rows, stars, users, workflows)
-
-Do not write essays. Do not propose a new product line.
+- Completed
+- Waiting for approval (merge / deploy / archive)
+- Metrics (usage first, stars last)
+- XP / level
+- Decisions: MERGE / HOLD / KILL

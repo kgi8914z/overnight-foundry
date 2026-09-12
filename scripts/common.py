@@ -7,11 +7,19 @@ from typing import Any
 
 ROOT = Path(__file__).resolve().parents[1]
 CATALOG_PATH = ROOT / "catalog.json"
+CONFIG_PATH = ROOT / "foundry.config.json"
 LEDGER_PATH = ROOT / "ledger" / "metrics.jsonl"
 BRIEFING_DIR = ROOT / "briefing"
 DATA_DIR = ROOT / "data"
 DASHBOARD_PATH = ROOT / "dashboard" / "index.html"
 SCOUT_PATH = ROOT / "backlog" / "candidates.json"
+LANES = {"utility", "watch", "ext", "service", "ops"}
+LIFECYCLES = {"idea", "incubator", "shipped", "growing", "maintenance", "archived"}
+SLOT_BUCKETS = ("incubator", "growing", "maintenance")
+
+
+def load_config() -> dict[str, Any]:
+    return json.loads(CONFIG_PATH.read_text(encoding="utf-8"))
 
 
 def utc_today() -> str:
@@ -39,11 +47,43 @@ def save_catalog(catalog: dict[str, Any]) -> None:
 
 
 def live_assets(catalog: dict[str, Any]) -> list[dict[str, Any]]:
-    return [a for a in catalog.get("assets", []) if a.get("status") == "live"]
+    return [
+        a
+        for a in catalog.get("assets", [])
+        if a.get("lifecycle") in {"incubator", "shipped", "growing", "maintenance"}
+    ]
 
 
 def counted_live(catalog: dict[str, Any]) -> list[dict[str, Any]]:
-    return [a for a in live_assets(catalog) if a.get("lane") in {"revive", "watch"}]
+    return [a for a in live_assets(catalog) if a.get("lane") != "ops"]
+
+
+def slot_bucket(asset: dict[str, Any]) -> str | None:
+    if asset.get("lane") == "ops":
+        return None
+    life = asset.get("lifecycle")
+    if life in {"incubator", "shipped"}:
+        return "incubator"
+    if life in {"growing", "maintenance"}:
+        return life
+    return None
+
+
+def slot_counts(catalog: dict[str, Any]) -> dict[str, int]:
+    counts = {name: 0 for name in SLOT_BUCKETS}
+    for asset in catalog.get("assets", []):
+        bucket = slot_bucket(asset)
+        if bucket:
+            counts[bucket] += 1
+    return counts
+
+
+def metric_sum(catalog: dict[str, Any], key: str) -> int:
+    total = 0
+    for asset in catalog.get("assets", []):
+        metrics = asset.get("metrics") or {}
+        total += int(metrics.get(key) or 0)
+    return total
 
 
 def append_jsonl(path: Path, row: dict[str, Any]) -> None:

@@ -1,14 +1,14 @@
 ---
-description: Overnight Foundry operating rails
+description: Overnight Foundry v2 operating rails
 alwaysApply: true
 ---
 
-This repo is the control-plane of Overnight Foundry, not a research project.
+Selection factory. Not a revive graveyard. Not a canvas app.
 
-- Only `revive-*` and `watch-*` lanes.
-- One issue per night. Draft PR, never merge.
-- No chatbots, paper tools, or new SaaS until an asset has users.
-- Never commit secrets. Never submit to stores. Never email users.
-- Morning CEO merges. You file the work.
-- Keep `catalog.json` as the source of truth for assets.
-- After data or metric changes, run `python scripts/render_dashboard.py`.
+- Lanes: utility, watch, ext, service, ops. Never revive.
+- Loop must include Deploy and Measure.
+- Incubator+Shipped max 4. Growing 2. Maintenance 2.
+- Draft PR only. Human merges.
+- First winner to build is `apps/web`, the independent dashboard.
+- XP from usage, not stars.
+- After catalog or metric changes run Measure + dashboard render.

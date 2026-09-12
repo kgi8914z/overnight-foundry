@@ -19,7 +19,8 @@ jobs:
         run: |
           python scripts/validate.py
           python scripts/collect_pypi_updates.py
-          python scripts/scout_abandoned.py
+          python scripts/scout.py
+          python scripts/measure.py
           python scripts/brief.py
           python scripts/render_dashboard.py
       - name: Commit factory books
