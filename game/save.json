@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-09-13T22:47:20.657240+00:00",
+  "updated_at": "2026-09-14T23:39:38.323890+00:00",
   "hero": "kgi8914z",
   "guild": "Overnight Foundry",
   "level": 4,
   "title": "밤길 실험가",
-  "xp": 978,
-  "xp_into_level": 78,
+  "xp": 1198,
+  "xp_into_level": 298,
   "xp_for_level": 600,
   "xp_parts": {
     "unique_users": 40,
     "repeat_users": 0,
     "active_users_1d": 80,
     "api_calls": 0,
-    "dataset_records": 758,
+    "dataset_records": 958,
     "paying_users": 0,
     "self_uses_weekly": 60,
     "backlinks": 0,
     "stars": 0,
-    "nights": 40
+    "nights": 60
   },
   "row_gain": 100,
-  "nights": 2,
+  "nights": 3,
   "active_assets": 2,
   "inventory": [
     {
@@ -38,94 +38,94 @@
       "lane": "watch",
       "status": "incubator",
       "rarity": "고급",
-      "stack": 379,
+      "stack": 479,
       "notes": "오늘 무엇이 패키지 세계에 나타났는지 한곳에서 못 본다"
     }
   ],
   "loot": [
     {
-      "id": "3afb699b20de01ac",
-      "title": "anton-agent 2.26.9.13.1rc2",
-      "link": "https://pypi.org/project/anton-agent/2.26.9.13.1rc2/",
-      "published": "Sun, 13 Sep 2026 22:26:11 GMT",
-      "collected_at": "2026-09-13T22:47:19.847160+00:00"
+      "id": "4f4564c3fa9e368d",
+      "title": "taskuary 0.3.4.8",
+      "link": "https://pypi.org/project/taskuary/0.3.4.8/",
+      "published": "Mon, 14 Sep 2026 23:15:41 GMT",
+      "collected_at": "2026-09-14T23:39:37.309212+00:00"
     },
     {
-      "id": "750eef5455fac753",
-      "title": "error-san 0.1.1",
-      "link": "https://pypi.org/project/error-san/0.1.1/",
-      "published": "Sun, 13 Sep 2026 22:26:29 GMT",
-      "collected_at": "2026-09-13T22:47:19.847156+00:00"
+      "id": "f9f84ab5ac538267",
+      "title": "nousergon-lib 0.124.128",
+      "link": "https://pypi.org/project/nousergon-lib/0.124.128/",
+      "published": "Mon, 14 Sep 2026 23:15:57 GMT",
+      "collected_at": "2026-09-14T23:39:37.309209+00:00"
     },
     {
-      "id": "0fd370d33f68798c",
-      "title": "ovos-m2v-pipeline 0.13.13a6",
-      "link": "https://pypi.org/project/ovos-m2v-pipeline/0.13.13a6/",
-      "published": "Sun, 13 Sep 2026 22:26:32 GMT",
-      "collected_at": "2026-09-13T22:47:19.847151+00:00"
+      "id": "f05b1bd2d808ec0f",
+      "title": "keelspec 0.7.0",
+      "link": "https://pypi.org/project/keelspec/0.7.0/",
+      "published": "Mon, 14 Sep 2026 23:15:58 GMT",
+      "collected_at": "2026-09-14T23:39:37.309206+00:00"
     },
     {
-      "id": "359550dcb575ea8e",
-      "title": "openctf-server 1.0.0",
-      "link": "https://pypi.org/project/openctf-server/1.0.0/",
-      "published": "Sun, 13 Sep 2026 22:26:32 GMT",
-      "collected_at": "2026-09-13T22:47:19.847147+00:00"
+      "id": "d225c5712b43e77f",
+      "title": "sjcab-peak2anno-db 0.1.9",
+      "link": "https://pypi.org/project/sjcab-peak2anno-db/0.1.9/",
+      "published": "Mon, 14 Sep 2026 23:15:59 GMT",
+      "collected_at": "2026-09-14T23:39:37.309202+00:00"
     },
     {
-      "id": "f44376d48d040bdf",
-      "title": "belfryscad 1.23.12",
-      "link": "https://pypi.org/project/belfryscad/1.23.12/",
-      "published": "Sun, 13 Sep 2026 22:26:33 GMT",
-      "collected_at": "2026-09-13T22:47:19.847143+00:00"
+      "id": "9868dc8c1d556746",
+      "title": "tecton-runtime 1.2.14b1",
+      "link": "https://pypi.org/project/tecton-runtime/1.2.14b1/",
+      "published": "Mon, 14 Sep 2026 23:16:03 GMT",
+      "collected_at": "2026-09-14T23:39:37.309199+00:00"
     },
     {
-      "id": "c57b5f4de1fc7442",
-      "title": "roboplan 0.0.102",
-      "link": "https://pypi.org/project/roboplan/0.0.102/",
-      "published": "Sun, 13 Sep 2026 22:26:39 GMT",
-      "collected_at": "2026-09-13T22:47:19.847140+00:00"
+      "id": "8bd57c7213e4717e",
+      "title": "datamitsu 0.3.0",
+      "link": "https://pypi.org/project/datamitsu/0.3.0/",
+      "published": "Mon, 14 Sep 2026 23:16:14 GMT",
+      "collected_at": "2026-09-14T23:39:37.309195+00:00"
     },
     {
-      "id": "09636028086c30e6",
-      "title": "roboplan-common 0.0.102",
-      "link": "https://pypi.org/project/roboplan-common/0.0.102/",
-      "published": "Sun, 13 Sep 2026 22:26:43 GMT",
-      "collected_at": "2026-09-13T22:47:19.847136+00:00"
+      "id": "490d76484cdac82a",
+      "title": "nanofold 0.2.0",
+      "link": "https://pypi.org/project/nanofold/0.2.0/",
+      "published": "Mon, 14 Sep 2026 23:16:45 GMT",
+      "collected_at": "2026-09-14T23:39:37.309192+00:00"
     },
     {
-      "id": "fcdb686a3dd39f1c",
-      "title": "marketing-data-hub 0.5.0",
-      "link": "https://pypi.org/project/marketing-data-hub/0.5.0/",
-      "published": "Sun, 13 Sep 2026 22:26:48 GMT",
-      "collected_at": "2026-09-13T22:47:19.847131+00:00"
+      "id": "c1c7eca044e103a2",
+      "title": "cardio 2026.9.14",
+      "link": "https://pypi.org/project/cardio/2026.9.14/",
+      "published": "Mon, 14 Sep 2026 23:16:50 GMT",
+      "collected_at": "2026-09-14T23:39:37.309188+00:00"
     },
     {
-      "id": "65506a91e4facebc",
-      "title": "roboplan-core 0.0.102",
-      "link": "https://pypi.org/project/roboplan-core/0.0.102/",
-      "published": "Sun, 13 Sep 2026 22:26:48 GMT",
-      "collected_at": "2026-09-13T22:47:19.847127+00:00"
+      "id": "b6767fecfa60b3bf",
+      "title": "antarctiteex-mp3-player 0.1.41",
+      "link": "https://pypi.org/project/antarctiteex-mp3-player/0.1.41/",
+      "published": "Mon, 14 Sep 2026 23:17:14 GMT",
+      "collected_at": "2026-09-14T23:39:37.309185+00:00"
     },
     {
-      "id": "4d6e9afc1c1ac2a1",
-      "title": "roboplan-toppra 0.0.102",
-      "link": "https://pypi.org/project/roboplan-toppra/0.0.102/",
-      "published": "Sun, 13 Sep 2026 22:26:48 GMT",
-      "collected_at": "2026-09-13T22:47:19.847123+00:00"
+      "id": "d052f0ec1af94923",
+      "title": "upd 0.12.4",
+      "link": "https://pypi.org/project/upd/0.12.4/",
+      "published": "Mon, 14 Sep 2026 23:18:00 GMT",
+      "collected_at": "2026-09-14T23:39:37.309182+00:00"
     },
     {
-      "id": "bca906ba857de408",
-      "title": "roboplan-simple-ik 0.0.102",
-      "link": "https://pypi.org/project/roboplan-simple-ik/0.0.102/",
-      "published": "Sun, 13 Sep 2026 22:26:54 GMT",
-      "collected_at": "2026-09-13T22:47:19.847119+00:00"
+      "id": "b00713d6085134d9",
+      "title": "instrutech-gauges 0.3.4",
+      "link": "https://pypi.org/project/instrutech-gauges/0.3.4/",
+      "published": "Mon, 14 Sep 2026 23:18:04 GMT",
+      "collected_at": "2026-09-14T23:39:37.309178+00:00"
     },
     {
-      "id": "3db3e2284e2bcec2",
-      "title": "roboplan-example-models 0.0.102",
-      "link": "https://pypi.org/project/roboplan-example-models/0.0.102/",
-      "published": "Sun, 13 Sep 2026 22:26:58 GMT",
-      "collected_at": "2026-09-13T22:47:19.847115+00:00"
+      "id": "eb18089cdd586c96",
+      "title": "mycelium-client 0.1.0",
+      "link": "https://pypi.org/project/mycelium-client/0.1.0/",
+      "published": "Mon, 14 Sep 2026 23:18:28 GMT",
+      "collected_at": "2026-09-14T23:39:37.309175+00:00"
     }
   ]
 }
