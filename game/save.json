@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-09-15T23:21:54.889792+00:00",
+  "updated_at": "2026-09-16T23:29:02.974466+00:00",
   "hero": "kgi8914z",
   "guild": "Overnight Foundry",
-  "level": 4,
-  "title": "밤길 실험가",
-  "xp": 1418,
-  "xp_into_level": 518,
-  "xp_for_level": 600,
+  "level": 5,
+  "title": "측정하는 서기",
+  "xp": 1638,
+  "xp_into_level": 138,
+  "xp_for_level": 750,
   "xp_parts": {
     "unique_users": 40,
     "repeat_users": 0,
     "active_users_1d": 80,
     "api_calls": 0,
-    "dataset_records": 1158,
+    "dataset_records": 1358,
     "paying_users": 0,
     "self_uses_weekly": 60,
     "backlinks": 0,
     "stars": 0,
-    "nights": 80
+    "nights": 100
   },
   "row_gain": 100,
-  "nights": 4,
+  "nights": 5,
   "active_assets": 2,
   "inventory": [
     {
@@ -38,94 +38,94 @@
       "lane": "watch",
       "status": "incubator",
       "rarity": "고급",
-      "stack": 579,
+      "stack": 679,
       "notes": "오늘 무엇이 패키지 세계에 나타났는지 한곳에서 못 본다"
     }
   ],
   "loot": [
     {
-      "id": "385fc8032df3bc05",
-      "title": "edumatcher 0.39.0",
-      "link": "https://pypi.org/project/edumatcher/0.39.0/",
-      "published": "Tue, 15 Sep 2026 23:02:59 GMT",
-      "collected_at": "2026-09-15T23:21:53.897278+00:00"
+      "id": "05fcb86ee7ebc68d",
+      "title": "epimemer 0.2.4",
+      "link": "https://pypi.org/project/epimemer/0.2.4/",
+      "published": "Wed, 16 Sep 2026 22:58:03 GMT",
+      "collected_at": "2026-09-16T23:29:02.111630+00:00"
     },
     {
-      "id": "cbed031d4908448d",
-      "title": "fpathlib 0.1.3.dev0",
-      "link": "https://pypi.org/project/fpathlib/0.1.3.dev0/",
-      "published": "Tue, 15 Sep 2026 23:03:02 GMT",
-      "collected_at": "2026-09-15T23:21:53.897275+00:00"
+      "id": "33024492bd13b2d9",
+      "title": "gitmole 0.5.0",
+      "link": "https://pypi.org/project/gitmole/0.5.0/",
+      "published": "Wed, 16 Sep 2026 22:58:04 GMT",
+      "collected_at": "2026-09-16T23:29:02.111627+00:00"
     },
     {
-      "id": "db3d3b964ab24180",
-      "title": "privateer-elements-sdk 2026.9.151600",
-      "link": "https://pypi.org/project/privateer-elements-sdk/2026.9.151600/",
-      "published": "Tue, 15 Sep 2026 23:03:51 GMT",
-      "collected_at": "2026-09-15T23:21:53.897272+00:00"
+      "id": "48fb046e5689a070",
+      "title": "apikeyvault 1.10.1",
+      "link": "https://pypi.org/project/apikeyvault/1.10.1/",
+      "published": "Wed, 16 Sep 2026 22:58:05 GMT",
+      "collected_at": "2026-09-16T23:29:02.111624+00:00"
     },
     {
-      "id": "e7c31b577b6cb394",
-      "title": "sydes 0.2.0b22",
-      "link": "https://pypi.org/project/sydes/0.2.0b22/",
-      "published": "Tue, 15 Sep 2026 23:04:12 GMT",
-      "collected_at": "2026-09-15T23:21:53.897269+00:00"
+      "id": "4df5ba129a9556d7",
+      "title": "agent2 0.1.3.23",
+      "link": "https://pypi.org/project/agent2/0.1.3.23/",
+      "published": "Wed, 16 Sep 2026 22:58:38 GMT",
+      "collected_at": "2026-09-16T23:29:02.111621+00:00"
     },
     {
-      "id": "09e695840e68a4b9",
-      "title": "hexcore 9.3.0",
-      "link": "https://pypi.org/project/hexcore/9.3.0/",
-      "published": "Tue, 15 Sep 2026 23:04:20 GMT",
-      "collected_at": "2026-09-15T23:21:53.897266+00:00"
+      "id": "39a89e22c949fa21",
+      "title": "sbdl 1.27.4",
+      "link": "https://pypi.org/project/sbdl/1.27.4/",
+      "published": "Wed, 16 Sep 2026 22:58:42 GMT",
+      "collected_at": "2026-09-16T23:29:02.111618+00:00"
     },
     {
-      "id": "6f256b2a81e96909",
-      "title": "jobseek-crawler-setup 0.13.776",
-      "link": "https://pypi.org/project/jobseek-crawler-setup/0.13.776/",
-      "published": "Tue, 15 Sep 2026 23:04:40 GMT",
-      "collected_at": "2026-09-15T23:21:53.897263+00:00"
+      "id": "b8aceead812a6ab1",
+      "title": "magnet-nmr 0.2.1",
+      "link": "https://pypi.org/project/magnet-nmr/0.2.1/",
+      "published": "Wed, 16 Sep 2026 22:58:59 GMT",
+      "collected_at": "2026-09-16T23:29:02.111615+00:00"
     },
     {
-      "id": "010f7e6680b08d0e",
-      "title": "dwave-ocean-sdk 9.5.0",
-      "link": "https://pypi.org/project/dwave-ocean-sdk/9.5.0/",
-      "published": "Tue, 15 Sep 2026 23:04:41 GMT",
-      "collected_at": "2026-09-15T23:21:53.897260+00:00"
+      "id": "84088cb365886a68",
+      "title": "cybersec-agent 0.4.0",
+      "link": "https://pypi.org/project/cybersec-agent/0.4.0/",
+      "published": "Wed, 16 Sep 2026 22:59:01 GMT",
+      "collected_at": "2026-09-16T23:29:02.111612+00:00"
     },
     {
-      "id": "9c3c79a66a2bed59",
-      "title": "abx-dl 1.12.273",
-      "link": "https://pypi.org/project/abx-dl/1.12.273/",
-      "published": "Tue, 15 Sep 2026 23:05:02 GMT",
-      "collected_at": "2026-09-15T23:21:53.897257+00:00"
+      "id": "5ee323675ab9435b",
+      "title": "mnemo-mcp 2.15.11",
+      "link": "https://pypi.org/project/mnemo-mcp/2.15.11/",
+      "published": "Wed, 16 Sep 2026 22:59:29 GMT",
+      "collected_at": "2026-09-16T23:29:02.111609+00:00"
     },
     {
-      "id": "c850b0697c6f8e05",
-      "title": "caffeinated-whale-cli 3.0.1",
-      "link": "https://pypi.org/project/caffeinated-whale-cli/3.0.1/",
-      "published": "Tue, 15 Sep 2026 23:05:09 GMT",
-      "collected_at": "2026-09-15T23:21:53.897230+00:00"
+      "id": "bfc18ad1c2070f8c",
+      "title": "stapel-auth 0.41.0",
+      "link": "https://pypi.org/project/stapel-auth/0.41.0/",
+      "published": "Wed, 16 Sep 2026 22:59:31 GMT",
+      "collected_at": "2026-09-16T23:29:02.111606+00:00"
     },
     {
-      "id": "4851973ef23dc971",
-      "title": "docuchango 1.19.0rc13",
-      "link": "https://pypi.org/project/docuchango/1.19.0rc13/",
-      "published": "Tue, 15 Sep 2026 23:05:14 GMT",
-      "collected_at": "2026-09-15T23:21:53.897228+00:00"
+      "id": "54bbb47c736d666f",
+      "title": "onevcs-cli 0.24.1",
+      "link": "https://pypi.org/project/onevcs-cli/0.24.1/",
+      "published": "Wed, 16 Sep 2026 22:59:44 GMT",
+      "collected_at": "2026-09-16T23:29:02.111604+00:00"
     },
     {
-      "id": "d8034f8887273c11",
-      "title": "tablassert 19.0.0",
-      "link": "https://pypi.org/project/tablassert/19.0.0/",
-      "published": "Tue, 15 Sep 2026 23:06:04 GMT",
-      "collected_at": "2026-09-15T23:21:53.897225+00:00"
+      "id": "8da19222b6514117",
+      "title": "agent-backend 0.13.1",
+      "link": "https://pypi.org/project/agent-backend/0.13.1/",
+      "published": "Wed, 16 Sep 2026 22:59:48 GMT",
+      "collected_at": "2026-09-16T23:29:02.111601+00:00"
     },
     {
-      "id": "3943717723a80055",
-      "title": "polars-cnlp 0.2.0",
-      "link": "https://pypi.org/project/polars-cnlp/0.2.0/",
-      "published": "Tue, 15 Sep 2026 23:06:16 GMT",
-      "collected_at": "2026-09-15T23:21:53.897222+00:00"
+      "id": "853abcca539ad64b",
+      "title": "docmem 0.0.1",
+      "link": "https://pypi.org/project/docmem/0.0.1/",
+      "published": "Wed, 16 Sep 2026 23:00:09 GMT",
+      "collected_at": "2026-09-16T23:29:02.111598+00:00"
     }
   ]
 }
