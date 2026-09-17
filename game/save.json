@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-09-16T23:29:02.974466+00:00",
+  "updated_at": "2026-09-17T23:19:44.343504+00:00",
   "hero": "kgi8914z",
   "guild": "Overnight Foundry",
   "level": 5,
   "title": "측정하는 서기",
-  "xp": 1638,
-  "xp_into_level": 138,
+  "xp": 1858,
+  "xp_into_level": 358,
   "xp_for_level": 750,
   "xp_parts": {
     "unique_users": 40,
     "repeat_users": 0,
     "active_users_1d": 80,
     "api_calls": 0,
-    "dataset_records": 1358,
+    "dataset_records": 1558,
     "paying_users": 0,
     "self_uses_weekly": 60,
     "backlinks": 0,
     "stars": 0,
-    "nights": 100
+    "nights": 120
   },
   "row_gain": 100,
-  "nights": 5,
+  "nights": 6,
   "active_assets": 2,
   "inventory": [
     {
@@ -38,94 +38,94 @@
       "lane": "watch",
       "status": "incubator",
       "rarity": "고급",
-      "stack": 679,
+      "stack": 779,
       "notes": "오늘 무엇이 패키지 세계에 나타났는지 한곳에서 못 본다"
     }
   ],
   "loot": [
     {
-      "id": "05fcb86ee7ebc68d",
-      "title": "epimemer 0.2.4",
-      "link": "https://pypi.org/project/epimemer/0.2.4/",
-      "published": "Wed, 16 Sep 2026 22:58:03 GMT",
-      "collected_at": "2026-09-16T23:29:02.111630+00:00"
+      "id": "fc82e0bb60b206a6",
+      "title": "zernio-sdk 1.4.823",
+      "link": "https://pypi.org/project/zernio-sdk/1.4.823/",
+      "published": "Thu, 17 Sep 2026 21:16:47 GMT",
+      "collected_at": "2026-09-17T23:19:40.427919+00:00"
     },
     {
-      "id": "33024492bd13b2d9",
-      "title": "gitmole 0.5.0",
-      "link": "https://pypi.org/project/gitmole/0.5.0/",
-      "published": "Wed, 16 Sep 2026 22:58:04 GMT",
-      "collected_at": "2026-09-16T23:29:02.111627+00:00"
+      "id": "93d8cf25ae854cec",
+      "title": "pureframe 0.2.5",
+      "link": "https://pypi.org/project/pureframe/0.2.5/",
+      "published": "Thu, 17 Sep 2026 21:16:50 GMT",
+      "collected_at": "2026-09-17T23:19:40.427915+00:00"
     },
     {
-      "id": "48fb046e5689a070",
-      "title": "apikeyvault 1.10.1",
-      "link": "https://pypi.org/project/apikeyvault/1.10.1/",
-      "published": "Wed, 16 Sep 2026 22:58:05 GMT",
-      "collected_at": "2026-09-16T23:29:02.111624+00:00"
+      "id": "090d77a48bcbc3bd",
+      "title": "late-sdk 1.4.823",
+      "link": "https://pypi.org/project/late-sdk/1.4.823/",
+      "published": "Thu, 17 Sep 2026 21:16:54 GMT",
+      "collected_at": "2026-09-17T23:19:40.427911+00:00"
     },
     {
-      "id": "4df5ba129a9556d7",
-      "title": "agent2 0.1.3.23",
-      "link": "https://pypi.org/project/agent2/0.1.3.23/",
-      "published": "Wed, 16 Sep 2026 22:58:38 GMT",
-      "collected_at": "2026-09-16T23:29:02.111621+00:00"
+      "id": "851549cc3ec7bfc1",
+      "title": "sattlint 2026.9.3",
+      "link": "https://pypi.org/project/sattlint/2026.9.3/",
+      "published": "Thu, 17 Sep 2026 21:17:01 GMT",
+      "collected_at": "2026-09-17T23:19:40.427907+00:00"
     },
     {
-      "id": "39a89e22c949fa21",
-      "title": "sbdl 1.27.4",
-      "link": "https://pypi.org/project/sbdl/1.27.4/",
-      "published": "Wed, 16 Sep 2026 22:58:42 GMT",
-      "collected_at": "2026-09-16T23:29:02.111618+00:00"
+      "id": "a264ee6248370557",
+      "title": "dyna-zarr 0.0.7",
+      "link": "https://pypi.org/project/dyna-zarr/0.0.7/",
+      "published": "Thu, 17 Sep 2026 21:17:12 GMT",
+      "collected_at": "2026-09-17T23:19:40.427903+00:00"
     },
     {
-      "id": "b8aceead812a6ab1",
-      "title": "magnet-nmr 0.2.1",
-      "link": "https://pypi.org/project/magnet-nmr/0.2.1/",
-      "published": "Wed, 16 Sep 2026 22:58:59 GMT",
-      "collected_at": "2026-09-16T23:29:02.111615+00:00"
+      "id": "e4018860dd31ce68",
+      "title": "apache-airflow-providers-dpone 0.81.0",
+      "link": "https://pypi.org/project/apache-airflow-providers-dpone/0.81.0/",
+      "published": "Thu, 17 Sep 2026 21:17:23 GMT",
+      "collected_at": "2026-09-17T23:19:40.427899+00:00"
     },
     {
-      "id": "84088cb365886a68",
-      "title": "cybersec-agent 0.4.0",
-      "link": "https://pypi.org/project/cybersec-agent/0.4.0/",
-      "published": "Wed, 16 Sep 2026 22:59:01 GMT",
-      "collected_at": "2026-09-16T23:29:02.111612+00:00"
+      "id": "eb030854ee0056eb",
+      "title": "dpone 0.81.0",
+      "link": "https://pypi.org/project/dpone/0.81.0/",
+      "published": "Thu, 17 Sep 2026 21:17:25 GMT",
+      "collected_at": "2026-09-17T23:19:40.427895+00:00"
     },
     {
-      "id": "5ee323675ab9435b",
-      "title": "mnemo-mcp 2.15.11",
-      "link": "https://pypi.org/project/mnemo-mcp/2.15.11/",
-      "published": "Wed, 16 Sep 2026 22:59:29 GMT",
-      "collected_at": "2026-09-16T23:29:02.111609+00:00"
+      "id": "da98afb1b218802d",
+      "title": "libifstate-rs 0.4.1",
+      "link": "https://pypi.org/project/libifstate-rs/0.4.1/",
+      "published": "Thu, 17 Sep 2026 21:17:25 GMT",
+      "collected_at": "2026-09-17T23:19:40.427891+00:00"
     },
     {
-      "id": "bfc18ad1c2070f8c",
-      "title": "stapel-auth 0.41.0",
-      "link": "https://pypi.org/project/stapel-auth/0.41.0/",
-      "published": "Wed, 16 Sep 2026 22:59:31 GMT",
-      "collected_at": "2026-09-16T23:29:02.111606+00:00"
+      "id": "246111fb503d9d8a",
+      "title": "dpone-airflow-pack 0.81.0",
+      "link": "https://pypi.org/project/dpone-airflow-pack/0.81.0/",
+      "published": "Thu, 17 Sep 2026 21:17:27 GMT",
+      "collected_at": "2026-09-17T23:19:40.427886+00:00"
     },
     {
-      "id": "54bbb47c736d666f",
-      "title": "onevcs-cli 0.24.1",
-      "link": "https://pypi.org/project/onevcs-cli/0.24.1/",
-      "published": "Wed, 16 Sep 2026 22:59:44 GMT",
-      "collected_at": "2026-09-16T23:29:02.111604+00:00"
+      "id": "9055687ee9b41a14",
+      "title": "dpone-native-accel 0.81.0",
+      "link": "https://pypi.org/project/dpone-native-accel/0.81.0/",
+      "published": "Thu, 17 Sep 2026 21:17:28 GMT",
+      "collected_at": "2026-09-17T23:19:40.427882+00:00"
     },
     {
-      "id": "8da19222b6514117",
-      "title": "agent-backend 0.13.1",
-      "link": "https://pypi.org/project/agent-backend/0.13.1/",
-      "published": "Wed, 16 Sep 2026 22:59:48 GMT",
-      "collected_at": "2026-09-16T23:29:02.111601+00:00"
+      "id": "048f529a1e8f63d9",
+      "title": "fips 0.1.0b7",
+      "link": "https://pypi.org/project/fips/0.1.0b7/",
+      "published": "Thu, 17 Sep 2026 21:17:29 GMT",
+      "collected_at": "2026-09-17T23:19:40.427878+00:00"
     },
     {
-      "id": "853abcca539ad64b",
-      "title": "docmem 0.0.1",
-      "link": "https://pypi.org/project/docmem/0.0.1/",
-      "published": "Wed, 16 Sep 2026 23:00:09 GMT",
-      "collected_at": "2026-09-16T23:29:02.111598+00:00"
+      "id": "c3f9f5911a22fe2a",
+      "title": "genjobs-local 0.1.0",
+      "link": "https://pypi.org/project/genjobs-local/0.1.0/",
+      "published": "Thu, 17 Sep 2026 21:17:30 GMT",
+      "collected_at": "2026-09-17T23:19:40.427874+00:00"
     }
   ]
 }
