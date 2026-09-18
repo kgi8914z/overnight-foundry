@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-09-17T23:19:44.343504+00:00",
+  "updated_at": "2026-09-18T22:57:44.266127+00:00",
   "hero": "kgi8914z",
   "guild": "Overnight Foundry",
   "level": 5,
   "title": "측정하는 서기",
-  "xp": 1858,
-  "xp_into_level": 358,
+  "xp": 2078,
+  "xp_into_level": 578,
   "xp_for_level": 750,
   "xp_parts": {
     "unique_users": 40,
     "repeat_users": 0,
     "active_users_1d": 80,
     "api_calls": 0,
-    "dataset_records": 1558,
+    "dataset_records": 1758,
     "paying_users": 0,
     "self_uses_weekly": 60,
     "backlinks": 0,
     "stars": 0,
-    "nights": 120
+    "nights": 140
   },
   "row_gain": 100,
-  "nights": 6,
+  "nights": 7,
   "active_assets": 2,
   "inventory": [
     {
@@ -38,94 +38,94 @@
       "lane": "watch",
       "status": "incubator",
       "rarity": "고급",
-      "stack": 779,
+      "stack": 879,
       "notes": "오늘 무엇이 패키지 세계에 나타났는지 한곳에서 못 본다"
     }
   ],
   "loot": [
     {
-      "id": "fc82e0bb60b206a6",
-      "title": "zernio-sdk 1.4.823",
-      "link": "https://pypi.org/project/zernio-sdk/1.4.823/",
-      "published": "Thu, 17 Sep 2026 21:16:47 GMT",
-      "collected_at": "2026-09-17T23:19:40.427919+00:00"
+      "id": "6d86b86f97bc566b",
+      "title": "mypy-boto3-sagemaker 1.43.98",
+      "link": "https://pypi.org/project/mypy-boto3-sagemaker/1.43.98/",
+      "published": "Fri, 18 Sep 2026 22:36:14 GMT",
+      "collected_at": "2026-09-18T22:57:39.744949+00:00"
     },
     {
-      "id": "93d8cf25ae854cec",
-      "title": "pureframe 0.2.5",
-      "link": "https://pypi.org/project/pureframe/0.2.5/",
-      "published": "Thu, 17 Sep 2026 21:16:50 GMT",
-      "collected_at": "2026-09-17T23:19:40.427915+00:00"
+      "id": "9b29c6c117b1fe66",
+      "title": "mypy-boto3-transcribe 1.43.98",
+      "link": "https://pypi.org/project/mypy-boto3-transcribe/1.43.98/",
+      "published": "Fri, 18 Sep 2026 22:36:14 GMT",
+      "collected_at": "2026-09-18T22:57:39.744947+00:00"
     },
     {
-      "id": "090d77a48bcbc3bd",
-      "title": "late-sdk 1.4.823",
-      "link": "https://pypi.org/project/late-sdk/1.4.823/",
-      "published": "Thu, 17 Sep 2026 21:16:54 GMT",
-      "collected_at": "2026-09-17T23:19:40.427911+00:00"
+      "id": "f932bffd01e88e76",
+      "title": "types-boto3-qconnect 1.43.98",
+      "link": "https://pypi.org/project/types-boto3-qconnect/1.43.98/",
+      "published": "Fri, 18 Sep 2026 22:36:15 GMT",
+      "collected_at": "2026-09-18T22:57:39.744946+00:00"
     },
     {
-      "id": "851549cc3ec7bfc1",
-      "title": "sattlint 2026.9.3",
-      "link": "https://pypi.org/project/sattlint/2026.9.3/",
-      "published": "Thu, 17 Sep 2026 21:17:01 GMT",
-      "collected_at": "2026-09-17T23:19:40.427907+00:00"
+      "id": "b68d4c1407b5ef28",
+      "title": "types-boto3-sagemaker 1.43.98",
+      "link": "https://pypi.org/project/types-boto3-sagemaker/1.43.98/",
+      "published": "Fri, 18 Sep 2026 22:36:16 GMT",
+      "collected_at": "2026-09-18T22:57:39.744944+00:00"
     },
     {
-      "id": "a264ee6248370557",
-      "title": "dyna-zarr 0.0.7",
-      "link": "https://pypi.org/project/dyna-zarr/0.0.7/",
-      "published": "Thu, 17 Sep 2026 21:17:12 GMT",
-      "collected_at": "2026-09-17T23:19:40.427903+00:00"
+      "id": "a4380cb367d367f7",
+      "title": "types-boto3-transcribe 1.43.98",
+      "link": "https://pypi.org/project/types-boto3-transcribe/1.43.98/",
+      "published": "Fri, 18 Sep 2026 22:36:16 GMT",
+      "collected_at": "2026-09-18T22:57:39.744942+00:00"
     },
     {
-      "id": "e4018860dd31ce68",
-      "title": "apache-airflow-providers-dpone 0.81.0",
-      "link": "https://pypi.org/project/apache-airflow-providers-dpone/0.81.0/",
-      "published": "Thu, 17 Sep 2026 21:17:23 GMT",
-      "collected_at": "2026-09-17T23:19:40.427899+00:00"
+      "id": "50f7d0c2d31a9432",
+      "title": "boto3-stubs 1.43.98",
+      "link": "https://pypi.org/project/boto3-stubs/1.43.98/",
+      "published": "Fri, 18 Sep 2026 22:36:19 GMT",
+      "collected_at": "2026-09-18T22:57:39.744940+00:00"
     },
     {
-      "id": "eb030854ee0056eb",
-      "title": "dpone 0.81.0",
-      "link": "https://pypi.org/project/dpone/0.81.0/",
-      "published": "Thu, 17 Sep 2026 21:17:25 GMT",
-      "collected_at": "2026-09-17T23:19:40.427895+00:00"
+      "id": "56b97e34e7d160d1",
+      "title": "boto3-stubs-lite 1.43.98",
+      "link": "https://pypi.org/project/boto3-stubs-lite/1.43.98/",
+      "published": "Fri, 18 Sep 2026 22:36:19 GMT",
+      "collected_at": "2026-09-18T22:57:39.744939+00:00"
     },
     {
-      "id": "da98afb1b218802d",
-      "title": "libifstate-rs 0.4.1",
-      "link": "https://pypi.org/project/libifstate-rs/0.4.1/",
-      "published": "Thu, 17 Sep 2026 21:17:25 GMT",
-      "collected_at": "2026-09-17T23:19:40.427891+00:00"
+      "id": "0919751506958314",
+      "title": "types-boto3 1.43.98",
+      "link": "https://pypi.org/project/types-boto3/1.43.98/",
+      "published": "Fri, 18 Sep 2026 22:36:21 GMT",
+      "collected_at": "2026-09-18T22:57:39.744937+00:00"
     },
     {
-      "id": "246111fb503d9d8a",
-      "title": "dpone-airflow-pack 0.81.0",
-      "link": "https://pypi.org/project/dpone-airflow-pack/0.81.0/",
-      "published": "Thu, 17 Sep 2026 21:17:27 GMT",
-      "collected_at": "2026-09-17T23:19:40.427886+00:00"
+      "id": "cabd5e87ff1e621a",
+      "title": "types-boto3-lite 1.43.98",
+      "link": "https://pypi.org/project/types-boto3-lite/1.43.98/",
+      "published": "Fri, 18 Sep 2026 22:36:21 GMT",
+      "collected_at": "2026-09-18T22:57:39.744935+00:00"
     },
     {
-      "id": "9055687ee9b41a14",
-      "title": "dpone-native-accel 0.81.0",
-      "link": "https://pypi.org/project/dpone-native-accel/0.81.0/",
-      "published": "Thu, 17 Sep 2026 21:17:28 GMT",
-      "collected_at": "2026-09-17T23:19:40.427882+00:00"
+      "id": "f96091f7d1215444",
+      "title": "paraspeakrs 0.3.0",
+      "link": "https://pypi.org/project/paraspeakrs/0.3.0/",
+      "published": "Fri, 18 Sep 2026 22:36:28 GMT",
+      "collected_at": "2026-09-18T22:57:39.744934+00:00"
     },
     {
-      "id": "048f529a1e8f63d9",
-      "title": "fips 0.1.0b7",
-      "link": "https://pypi.org/project/fips/0.1.0b7/",
-      "published": "Thu, 17 Sep 2026 21:17:29 GMT",
-      "collected_at": "2026-09-17T23:19:40.427878+00:00"
+      "id": "f6d0fc251927376a",
+      "title": "a11y-computer-use 0.2.0",
+      "link": "https://pypi.org/project/a11y-computer-use/0.2.0/",
+      "published": "Fri, 18 Sep 2026 22:36:42 GMT",
+      "collected_at": "2026-09-18T22:57:39.744932+00:00"
     },
     {
-      "id": "c3f9f5911a22fe2a",
-      "title": "genjobs-local 0.1.0",
-      "link": "https://pypi.org/project/genjobs-local/0.1.0/",
-      "published": "Thu, 17 Sep 2026 21:17:30 GMT",
-      "collected_at": "2026-09-17T23:19:40.427874+00:00"
+      "id": "7241433fa797e1a2",
+      "title": "aionanit 1.12.2b1",
+      "link": "https://pypi.org/project/aionanit/1.12.2b1/",
+      "published": "Fri, 18 Sep 2026 22:36:54 GMT",
+      "collected_at": "2026-09-18T22:57:39.744930+00:00"
     }
   ]
 }
