@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-09-18T22:57:44.266127+00:00",
+  "updated_at": "2026-09-19T22:37:01.303636+00:00",
   "hero": "kgi8914z",
   "guild": "Overnight Foundry",
-  "level": 5,
+  "level": 6,
   "title": "측정하는 서기",
-  "xp": 2078,
-  "xp_into_level": 578,
-  "xp_for_level": 750,
+  "xp": 2298,
+  "xp_into_level": 48,
+  "xp_for_level": 900,
   "xp_parts": {
     "unique_users": 40,
     "repeat_users": 0,
     "active_users_1d": 80,
     "api_calls": 0,
-    "dataset_records": 1758,
+    "dataset_records": 1958,
     "paying_users": 0,
     "self_uses_weekly": 60,
     "backlinks": 0,
     "stars": 0,
-    "nights": 140
+    "nights": 160
   },
   "row_gain": 100,
-  "nights": 7,
+  "nights": 8,
   "active_assets": 2,
   "inventory": [
     {
@@ -38,94 +38,94 @@
       "lane": "watch",
       "status": "incubator",
       "rarity": "고급",
-      "stack": 879,
+      "stack": 979,
       "notes": "오늘 무엇이 패키지 세계에 나타났는지 한곳에서 못 본다"
     }
   ],
   "loot": [
     {
-      "id": "6d86b86f97bc566b",
-      "title": "mypy-boto3-sagemaker 1.43.98",
-      "link": "https://pypi.org/project/mypy-boto3-sagemaker/1.43.98/",
-      "published": "Fri, 18 Sep 2026 22:36:14 GMT",
-      "collected_at": "2026-09-18T22:57:39.744949+00:00"
+      "id": "25aa8299166df2ad",
+      "title": "jobseek-crawler-setup 0.13.781",
+      "link": "https://pypi.org/project/jobseek-crawler-setup/0.13.781/",
+      "published": "Sat, 19 Sep 2026 20:06:47 GMT",
+      "collected_at": "2026-09-19T22:37:00.339396+00:00"
     },
     {
-      "id": "9b29c6c117b1fe66",
-      "title": "mypy-boto3-transcribe 1.43.98",
-      "link": "https://pypi.org/project/mypy-boto3-transcribe/1.43.98/",
-      "published": "Fri, 18 Sep 2026 22:36:14 GMT",
-      "collected_at": "2026-09-18T22:57:39.744947+00:00"
+      "id": "d3c5e1455389940f",
+      "title": "valgebra 0.0.12",
+      "link": "https://pypi.org/project/valgebra/0.0.12/",
+      "published": "Sat, 19 Sep 2026 20:07:07 GMT",
+      "collected_at": "2026-09-19T22:37:00.339393+00:00"
     },
     {
-      "id": "f932bffd01e88e76",
-      "title": "types-boto3-qconnect 1.43.98",
-      "link": "https://pypi.org/project/types-boto3-qconnect/1.43.98/",
-      "published": "Fri, 18 Sep 2026 22:36:15 GMT",
-      "collected_at": "2026-09-18T22:57:39.744946+00:00"
+      "id": "fcea77b1c925808d",
+      "title": "dromad 0.2.0",
+      "link": "https://pypi.org/project/dromad/0.2.0/",
+      "published": "Sat, 19 Sep 2026 20:07:31 GMT",
+      "collected_at": "2026-09-19T22:37:00.339389+00:00"
     },
     {
-      "id": "b68d4c1407b5ef28",
-      "title": "types-boto3-sagemaker 1.43.98",
-      "link": "https://pypi.org/project/types-boto3-sagemaker/1.43.98/",
-      "published": "Fri, 18 Sep 2026 22:36:16 GMT",
-      "collected_at": "2026-09-18T22:57:39.744944+00:00"
+      "id": "2ddc46320a63f341",
+      "title": "datalayer-ui 1.1.6",
+      "link": "https://pypi.org/project/datalayer-ui/1.1.6/",
+      "published": "Sat, 19 Sep 2026 20:08:02 GMT",
+      "collected_at": "2026-09-19T22:37:00.339385+00:00"
     },
     {
-      "id": "a4380cb367d367f7",
-      "title": "types-boto3-transcribe 1.43.98",
-      "link": "https://pypi.org/project/types-boto3-transcribe/1.43.98/",
-      "published": "Fri, 18 Sep 2026 22:36:16 GMT",
-      "collected_at": "2026-09-18T22:57:39.744942+00:00"
+      "id": "19a66bf376b2e07d",
+      "title": "django-htmx-nav 0.3.2",
+      "link": "https://pypi.org/project/django-htmx-nav/0.3.2/",
+      "published": "Sat, 19 Sep 2026 20:08:03 GMT",
+      "collected_at": "2026-09-19T22:37:00.339381+00:00"
     },
     {
-      "id": "50f7d0c2d31a9432",
-      "title": "boto3-stubs 1.43.98",
-      "link": "https://pypi.org/project/boto3-stubs/1.43.98/",
-      "published": "Fri, 18 Sep 2026 22:36:19 GMT",
-      "collected_at": "2026-09-18T22:57:39.744940+00:00"
+      "id": "53679eb9eeef38f4",
+      "title": "ajaw 1.1.1",
+      "link": "https://pypi.org/project/ajaw/1.1.1/",
+      "published": "Sat, 19 Sep 2026 20:08:19 GMT",
+      "collected_at": "2026-09-19T22:37:00.339378+00:00"
     },
     {
-      "id": "56b97e34e7d160d1",
-      "title": "boto3-stubs-lite 1.43.98",
-      "link": "https://pypi.org/project/boto3-stubs-lite/1.43.98/",
-      "published": "Fri, 18 Sep 2026 22:36:19 GMT",
-      "collected_at": "2026-09-18T22:57:39.744939+00:00"
+      "id": "349321472fa9cdf9",
+      "title": "mitre-mcp 0.4.0",
+      "link": "https://pypi.org/project/mitre-mcp/0.4.0/",
+      "published": "Sat, 19 Sep 2026 20:08:27 GMT",
+      "collected_at": "2026-09-19T22:37:00.339375+00:00"
     },
     {
-      "id": "0919751506958314",
-      "title": "types-boto3 1.43.98",
-      "link": "https://pypi.org/project/types-boto3/1.43.98/",
-      "published": "Fri, 18 Sep 2026 22:36:21 GMT",
-      "collected_at": "2026-09-18T22:57:39.744937+00:00"
+      "id": "e59dd25f9a33d70b",
+      "title": "milenium 0.2.0",
+      "link": "https://pypi.org/project/milenium/0.2.0/",
+      "published": "Sat, 19 Sep 2026 20:08:30 GMT",
+      "collected_at": "2026-09-19T22:37:00.339372+00:00"
     },
     {
-      "id": "cabd5e87ff1e621a",
-      "title": "types-boto3-lite 1.43.98",
-      "link": "https://pypi.org/project/types-boto3-lite/1.43.98/",
-      "published": "Fri, 18 Sep 2026 22:36:21 GMT",
-      "collected_at": "2026-09-18T22:57:39.744935+00:00"
+      "id": "30f17e8329cd1315",
+      "title": "uiprotect 16.13.0",
+      "link": "https://pypi.org/project/uiprotect/16.13.0/",
+      "published": "Sat, 19 Sep 2026 20:08:37 GMT",
+      "collected_at": "2026-09-19T22:37:00.339368+00:00"
     },
     {
-      "id": "f96091f7d1215444",
-      "title": "paraspeakrs 0.3.0",
-      "link": "https://pypi.org/project/paraspeakrs/0.3.0/",
-      "published": "Fri, 18 Sep 2026 22:36:28 GMT",
-      "collected_at": "2026-09-18T22:57:39.744934+00:00"
+      "id": "200f9405900c8dfc",
+      "title": "wyra 0.2.0",
+      "link": "https://pypi.org/project/wyra/0.2.0/",
+      "published": "Sat, 19 Sep 2026 20:09:06 GMT",
+      "collected_at": "2026-09-19T22:37:00.339365+00:00"
     },
     {
-      "id": "f6d0fc251927376a",
-      "title": "a11y-computer-use 0.2.0",
-      "link": "https://pypi.org/project/a11y-computer-use/0.2.0/",
-      "published": "Fri, 18 Sep 2026 22:36:42 GMT",
-      "collected_at": "2026-09-18T22:57:39.744932+00:00"
+      "id": "86a093d1dbc5f790",
+      "title": "mufem 0.5.85a0",
+      "link": "https://pypi.org/project/mufem/0.5.85a0/",
+      "published": "Sat, 19 Sep 2026 20:09:07 GMT",
+      "collected_at": "2026-09-19T22:37:00.339361+00:00"
     },
     {
-      "id": "7241433fa797e1a2",
-      "title": "aionanit 1.12.2b1",
-      "link": "https://pypi.org/project/aionanit/1.12.2b1/",
-      "published": "Fri, 18 Sep 2026 22:36:54 GMT",
-      "collected_at": "2026-09-18T22:57:39.744930+00:00"
+      "id": "940dd9cf16ea7721",
+      "title": "torch-pointcloud 0.0.3",
+      "link": "https://pypi.org/project/torch-pointcloud/0.0.3/",
+      "published": "Sat, 19 Sep 2026 20:09:10 GMT",
+      "collected_at": "2026-09-19T22:37:00.339357+00:00"
     }
   ]
 }
