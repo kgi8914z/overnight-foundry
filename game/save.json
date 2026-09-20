@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-09-19T22:37:01.303636+00:00",
+  "updated_at": "2026-09-20T22:53:21.563713+00:00",
   "hero": "kgi8914z",
   "guild": "Overnight Foundry",
   "level": 6,
   "title": "측정하는 서기",
-  "xp": 2298,
-  "xp_into_level": 48,
+  "xp": 2518,
+  "xp_into_level": 268,
   "xp_for_level": 900,
   "xp_parts": {
     "unique_users": 40,
     "repeat_users": 0,
     "active_users_1d": 80,
     "api_calls": 0,
-    "dataset_records": 1958,
+    "dataset_records": 2158,
     "paying_users": 0,
     "self_uses_weekly": 60,
     "backlinks": 0,
     "stars": 0,
-    "nights": 160
+    "nights": 180
   },
   "row_gain": 100,
-  "nights": 8,
+  "nights": 9,
   "active_assets": 2,
   "inventory": [
     {
@@ -37,95 +37,95 @@
       "name": "PyPI daily updates",
       "lane": "watch",
       "status": "incubator",
-      "rarity": "고급",
-      "stack": 979,
+      "rarity": "희귀",
+      "stack": 1079,
       "notes": "오늘 무엇이 패키지 세계에 나타났는지 한곳에서 못 본다"
     }
   ],
   "loot": [
     {
-      "id": "25aa8299166df2ad",
-      "title": "jobseek-crawler-setup 0.13.781",
-      "link": "https://pypi.org/project/jobseek-crawler-setup/0.13.781/",
-      "published": "Sat, 19 Sep 2026 20:06:47 GMT",
-      "collected_at": "2026-09-19T22:37:00.339396+00:00"
+      "id": "700a70fa4d09344e",
+      "title": "sogni-client 5.54.0",
+      "link": "https://pypi.org/project/sogni-client/5.54.0/",
+      "published": "Sun, 20 Sep 2026 22:26:59 GMT",
+      "collected_at": "2026-09-20T22:53:20.573449+00:00"
     },
     {
-      "id": "d3c5e1455389940f",
-      "title": "valgebra 0.0.12",
-      "link": "https://pypi.org/project/valgebra/0.0.12/",
-      "published": "Sat, 19 Sep 2026 20:07:07 GMT",
-      "collected_at": "2026-09-19T22:37:00.339393+00:00"
+      "id": "3114c5537d8be402",
+      "title": "pytest-cmake 1.6.0",
+      "link": "https://pypi.org/project/pytest-cmake/1.6.0/",
+      "published": "Sun, 20 Sep 2026 22:27:04 GMT",
+      "collected_at": "2026-09-20T22:53:20.573446+00:00"
     },
     {
-      "id": "fcea77b1c925808d",
-      "title": "dromad 0.2.0",
-      "link": "https://pypi.org/project/dromad/0.2.0/",
-      "published": "Sat, 19 Sep 2026 20:07:31 GMT",
-      "collected_at": "2026-09-19T22:37:00.339389+00:00"
+      "id": "2fc02b6ad846170c",
+      "title": "aioshad 1.0.8",
+      "link": "https://pypi.org/project/aioshad/1.0.8/",
+      "published": "Sun, 20 Sep 2026 22:27:19 GMT",
+      "collected_at": "2026-09-20T22:53:20.573443+00:00"
     },
     {
-      "id": "2ddc46320a63f341",
-      "title": "datalayer-ui 1.1.6",
-      "link": "https://pypi.org/project/datalayer-ui/1.1.6/",
-      "published": "Sat, 19 Sep 2026 20:08:02 GMT",
-      "collected_at": "2026-09-19T22:37:00.339385+00:00"
+      "id": "267f442bdae46651",
+      "title": "omnimarket 0.4.160",
+      "link": "https://pypi.org/project/omnimarket/0.4.160/",
+      "published": "Sun, 20 Sep 2026 22:28:32 GMT",
+      "collected_at": "2026-09-20T22:53:20.573441+00:00"
     },
     {
-      "id": "19a66bf376b2e07d",
-      "title": "django-htmx-nav 0.3.2",
-      "link": "https://pypi.org/project/django-htmx-nav/0.3.2/",
-      "published": "Sat, 19 Sep 2026 20:08:03 GMT",
-      "collected_at": "2026-09-19T22:37:00.339381+00:00"
+      "id": "479a266fda6a4892",
+      "title": "nethackers 0.32.2",
+      "link": "https://pypi.org/project/nethackers/0.32.2/",
+      "published": "Sun, 20 Sep 2026 22:28:36 GMT",
+      "collected_at": "2026-09-20T22:53:20.573438+00:00"
     },
     {
-      "id": "53679eb9eeef38f4",
-      "title": "ajaw 1.1.1",
-      "link": "https://pypi.org/project/ajaw/1.1.1/",
-      "published": "Sat, 19 Sep 2026 20:08:19 GMT",
-      "collected_at": "2026-09-19T22:37:00.339378+00:00"
+      "id": "293bf65333b5d2ae",
+      "title": "cayleypy 0.2.0",
+      "link": "https://pypi.org/project/cayleypy/0.2.0/",
+      "published": "Sun, 20 Sep 2026 22:29:25 GMT",
+      "collected_at": "2026-09-20T22:53:20.573435+00:00"
     },
     {
-      "id": "349321472fa9cdf9",
-      "title": "mitre-mcp 0.4.0",
-      "link": "https://pypi.org/project/mitre-mcp/0.4.0/",
-      "published": "Sat, 19 Sep 2026 20:08:27 GMT",
-      "collected_at": "2026-09-19T22:37:00.339375+00:00"
+      "id": "ebb3e29a2e7e30b4",
+      "title": "satkit 0.22.1",
+      "link": "https://pypi.org/project/satkit/0.22.1/",
+      "published": "Sun, 20 Sep 2026 22:29:37 GMT",
+      "collected_at": "2026-09-20T22:53:20.573432+00:00"
     },
     {
-      "id": "e59dd25f9a33d70b",
-      "title": "milenium 0.2.0",
-      "link": "https://pypi.org/project/milenium/0.2.0/",
-      "published": "Sat, 19 Sep 2026 20:08:30 GMT",
-      "collected_at": "2026-09-19T22:37:00.339372+00:00"
+      "id": "b8fd9eb2bcf8baa7",
+      "title": "fabric-rlm 0.6.5",
+      "link": "https://pypi.org/project/fabric-rlm/0.6.5/",
+      "published": "Sun, 20 Sep 2026 22:29:37 GMT",
+      "collected_at": "2026-09-20T22:53:20.573429+00:00"
     },
     {
-      "id": "30f17e8329cd1315",
-      "title": "uiprotect 16.13.0",
-      "link": "https://pypi.org/project/uiprotect/16.13.0/",
-      "published": "Sat, 19 Sep 2026 20:08:37 GMT",
-      "collected_at": "2026-09-19T22:37:00.339368+00:00"
+      "id": "fb7dec3209ca156f",
+      "title": "pikobs 3.0.465",
+      "link": "https://pypi.org/project/pikobs/3.0.465/",
+      "published": "Sun, 20 Sep 2026 22:29:38 GMT",
+      "collected_at": "2026-09-20T22:53:20.573426+00:00"
     },
     {
-      "id": "200f9405900c8dfc",
-      "title": "wyra 0.2.0",
-      "link": "https://pypi.org/project/wyra/0.2.0/",
-      "published": "Sat, 19 Sep 2026 20:09:06 GMT",
-      "collected_at": "2026-09-19T22:37:00.339365+00:00"
+      "id": "3e4eda91f84ca85b",
+      "title": "livia-python 1.11.1",
+      "link": "https://pypi.org/project/livia-python/1.11.1/",
+      "published": "Sun, 20 Sep 2026 22:29:49 GMT",
+      "collected_at": "2026-09-20T22:53:20.573423+00:00"
     },
     {
-      "id": "86a093d1dbc5f790",
-      "title": "mufem 0.5.85a0",
-      "link": "https://pypi.org/project/mufem/0.5.85a0/",
-      "published": "Sat, 19 Sep 2026 20:09:07 GMT",
-      "collected_at": "2026-09-19T22:37:00.339361+00:00"
+      "id": "6df6decc577f9948",
+      "title": "polign-recall 0.3.0",
+      "link": "https://pypi.org/project/polign-recall/0.3.0/",
+      "published": "Sun, 20 Sep 2026 22:29:49 GMT",
+      "collected_at": "2026-09-20T22:53:20.573421+00:00"
     },
     {
-      "id": "940dd9cf16ea7721",
-      "title": "torch-pointcloud 0.0.3",
-      "link": "https://pypi.org/project/torch-pointcloud/0.0.3/",
-      "published": "Sat, 19 Sep 2026 20:09:10 GMT",
-      "collected_at": "2026-09-19T22:37:00.339357+00:00"
+      "id": "236ec074f34219f3",
+      "title": "meeting-asr 0.22.0",
+      "link": "https://pypi.org/project/meeting-asr/0.22.0/",
+      "published": "Sun, 20 Sep 2026 22:30:22 GMT",
+      "collected_at": "2026-09-20T22:53:20.573418+00:00"
     }
   ]
 }
