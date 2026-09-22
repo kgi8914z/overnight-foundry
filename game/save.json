@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-09-21T23:46:18.179226+00:00",
+  "updated_at": "2026-09-22T23:25:32.575309+00:00",
   "hero": "kgi8914z",
   "guild": "Overnight Foundry",
   "level": 6,
   "title": "측정하는 서기",
-  "xp": 2738,
-  "xp_into_level": 488,
+  "xp": 2958,
+  "xp_into_level": 708,
   "xp_for_level": 900,
   "xp_parts": {
     "unique_users": 40,
     "repeat_users": 0,
     "active_users_1d": 80,
     "api_calls": 0,
-    "dataset_records": 2358,
+    "dataset_records": 2558,
     "paying_users": 0,
     "self_uses_weekly": 60,
     "backlinks": 0,
     "stars": 0,
-    "nights": 200
+    "nights": 220
   },
   "row_gain": 100,
-  "nights": 10,
+  "nights": 11,
   "active_assets": 2,
   "inventory": [
     {
@@ -38,94 +38,94 @@
       "lane": "watch",
       "status": "incubator",
       "rarity": "희귀",
-      "stack": 1179,
+      "stack": 1279,
       "notes": "오늘 무엇이 패키지 세계에 나타났는지 한곳에서 못 본다"
     }
   ],
   "loot": [
     {
-      "id": "60728bdfbbc5ddc9",
-      "title": "dagster-sling 0.29.24",
-      "link": "https://pypi.org/project/dagster-sling/0.29.24/",
-      "published": "Mon, 21 Sep 2026 23:27:50 GMT",
-      "collected_at": "2026-09-21T23:46:17.342183+00:00"
+      "id": "959a19dc32521cd1",
+      "title": "contextbase-plugin-workflowy 0.10.0",
+      "link": "https://pypi.org/project/contextbase-plugin-workflowy/0.10.0/",
+      "published": "Tue, 22 Sep 2026 23:07:40 GMT",
+      "collected_at": "2026-09-22T23:25:31.630447+00:00"
     },
     {
-      "id": "e5e3cd1697bb1666",
-      "title": "dagster-airflow 1.13.24",
-      "link": "https://pypi.org/project/dagster-airflow/1.13.24/",
-      "published": "Mon, 21 Sep 2026 23:28:01 GMT",
-      "collected_at": "2026-09-21T23:46:17.342180+00:00"
+      "id": "88449d4c21471c37",
+      "title": "contextbase-plugin-clickup 0.10.0",
+      "link": "https://pypi.org/project/contextbase-plugin-clickup/0.10.0/",
+      "published": "Tue, 22 Sep 2026 23:07:41 GMT",
+      "collected_at": "2026-09-22T23:25:31.630444+00:00"
     },
     {
-      "id": "207c7a0e9e7e21b5",
-      "title": "usg-pygitversion 1.0.0",
-      "link": "https://pypi.org/project/usg-pygitversion/1.0.0/",
-      "published": "Mon, 21 Sep 2026 23:28:10 GMT",
-      "collected_at": "2026-09-21T23:46:17.342177+00:00"
+      "id": "138bb58e2005e787",
+      "title": "kugelaudio 2.0.1",
+      "link": "https://pypi.org/project/kugelaudio/2.0.1/",
+      "published": "Tue, 22 Sep 2026 23:07:42 GMT",
+      "collected_at": "2026-09-22T23:25:31.630441+00:00"
     },
     {
-      "id": "767e5b07e67308cc",
-      "title": "dagster-soda 0.29.24",
-      "link": "https://pypi.org/project/dagster-soda/0.29.24/",
-      "published": "Mon, 21 Sep 2026 23:28:11 GMT",
-      "collected_at": "2026-09-21T23:46:17.342174+00:00"
+      "id": "defdb673f95164dc",
+      "title": "contextbase-plugin-whatsapp-local 0.10.0",
+      "link": "https://pypi.org/project/contextbase-plugin-whatsapp-local/0.10.0/",
+      "published": "Tue, 22 Sep 2026 23:07:42 GMT",
+      "collected_at": "2026-09-22T23:25:31.630438+00:00"
     },
     {
-      "id": "8baaa11528b5ba63",
-      "title": "dagster-cloud-cli 1.13.24",
-      "link": "https://pypi.org/project/dagster-cloud-cli/1.13.24/",
-      "published": "Mon, 21 Sep 2026 23:28:20 GMT",
-      "collected_at": "2026-09-21T23:46:17.342171+00:00"
+      "id": "a59d5015a42d0161",
+      "title": "contextbase-shared-plugins 0.10.0",
+      "link": "https://pypi.org/project/contextbase-shared-plugins/0.10.0/",
+      "published": "Tue, 22 Sep 2026 23:07:43 GMT",
+      "collected_at": "2026-09-22T23:25:31.630435+00:00"
     },
     {
-      "id": "423b2a9997dcabdf",
-      "title": "vpod 0.8.5",
-      "link": "https://pypi.org/project/vpod/0.8.5/",
-      "published": "Mon, 21 Sep 2026 23:28:22 GMT",
-      "collected_at": "2026-09-21T23:46:17.342168+00:00"
+      "id": "233ccd858039dbab",
+      "title": "contextbase-plugin-asana 0.10.0",
+      "link": "https://pypi.org/project/contextbase-plugin-asana/0.10.0/",
+      "published": "Tue, 22 Sep 2026 23:07:44 GMT",
+      "collected_at": "2026-09-22T23:25:31.630432+00:00"
     },
     {
-      "id": "a7c52bf3d1cafa82",
-      "title": "aid-installer 3.1.3",
-      "link": "https://pypi.org/project/aid-installer/3.1.3/",
-      "published": "Mon, 21 Sep 2026 23:28:26 GMT",
-      "collected_at": "2026-09-21T23:46:17.342165+00:00"
+      "id": "2081280cad7dcd1c",
+      "title": "contextbase-plugin-gmail 0.10.0",
+      "link": "https://pypi.org/project/contextbase-plugin-gmail/0.10.0/",
+      "published": "Tue, 22 Sep 2026 23:07:45 GMT",
+      "collected_at": "2026-09-22T23:25:31.630429+00:00"
     },
     {
-      "id": "7910419a24727b1d",
-      "title": "dagster-deltalake-polars 0.29.24",
-      "link": "https://pypi.org/project/dagster-deltalake-polars/0.29.24/",
-      "published": "Mon, 21 Sep 2026 23:28:29 GMT",
-      "collected_at": "2026-09-21T23:46:17.342162+00:00"
+      "id": "d0980bf90fe9aed3",
+      "title": "contextbase-plugin-claude-local 0.10.0",
+      "link": "https://pypi.org/project/contextbase-plugin-claude-local/0.10.0/",
+      "published": "Tue, 22 Sep 2026 23:07:46 GMT",
+      "collected_at": "2026-09-22T23:25:31.630426+00:00"
     },
     {
-      "id": "8ec2eb11508cbf38",
-      "title": "dagster-gcp-pandas 0.29.24",
-      "link": "https://pypi.org/project/dagster-gcp-pandas/0.29.24/",
-      "published": "Mon, 21 Sep 2026 23:28:39 GMT",
-      "collected_at": "2026-09-21T23:46:17.342160+00:00"
+      "id": "496ec8b527b194eb",
+      "title": "contextbase-plugin-codex-local 0.10.0",
+      "link": "https://pypi.org/project/contextbase-plugin-codex-local/0.10.0/",
+      "published": "Tue, 22 Sep 2026 23:07:48 GMT",
+      "collected_at": "2026-09-22T23:25:31.630423+00:00"
     },
     {
-      "id": "2638fad1d3da9c5c",
-      "title": "dagster-wandb 0.29.24",
-      "link": "https://pypi.org/project/dagster-wandb/0.29.24/",
-      "published": "Mon, 21 Sep 2026 23:28:50 GMT",
-      "collected_at": "2026-09-21T23:46:17.342157+00:00"
+      "id": "29bfbe88fded4660",
+      "title": "contextbase-plugin-jira 0.10.0",
+      "link": "https://pypi.org/project/contextbase-plugin-jira/0.10.0/",
+      "published": "Tue, 22 Sep 2026 23:07:48 GMT",
+      "collected_at": "2026-09-22T23:25:31.630420+00:00"
     },
     {
-      "id": "4f9c6b8eddbfa5e4",
-      "title": "dagster-gcp-pyspark 0.29.24",
-      "link": "https://pypi.org/project/dagster-gcp-pyspark/0.29.24/",
-      "published": "Mon, 21 Sep 2026 23:28:59 GMT",
-      "collected_at": "2026-09-21T23:46:17.342154+00:00"
+      "id": "ce448fdd10196632",
+      "title": "contextbase-plugin-github 0.10.0",
+      "link": "https://pypi.org/project/contextbase-plugin-github/0.10.0/",
+      "published": "Tue, 22 Sep 2026 23:07:49 GMT",
+      "collected_at": "2026-09-22T23:25:31.630417+00:00"
     },
     {
-      "id": "2e7025c3b22a2746",
-      "title": "oafuncs 0.0.99.65",
-      "link": "https://pypi.org/project/oafuncs/0.0.99.65/",
-      "published": "Mon, 21 Sep 2026 23:29:21 GMT",
-      "collected_at": "2026-09-21T23:46:17.342151+00:00"
+      "id": "bd1538c6b5eda0be",
+      "title": "contextbase-plugin-gong 0.10.0",
+      "link": "https://pypi.org/project/contextbase-plugin-gong/0.10.0/",
+      "published": "Tue, 22 Sep 2026 23:07:50 GMT",
+      "collected_at": "2026-09-22T23:25:31.630414+00:00"
     }
   ]
 }
