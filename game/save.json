@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-09-22T23:25:32.575309+00:00",
+  "updated_at": "2026-09-23T23:23:48.315157+00:00",
   "hero": "kgi8914z",
   "guild": "Overnight Foundry",
-  "level": 6,
-  "title": "측정하는 서기",
-  "xp": 2958,
-  "xp_into_level": 708,
-  "xp_for_level": 900,
+  "level": 7,
+  "title": "도태의 반장",
+  "xp": 3178,
+  "xp_into_level": 28,
+  "xp_for_level": 1050,
   "xp_parts": {
     "unique_users": 40,
     "repeat_users": 0,
     "active_users_1d": 80,
     "api_calls": 0,
-    "dataset_records": 2558,
+    "dataset_records": 2758,
     "paying_users": 0,
     "self_uses_weekly": 60,
     "backlinks": 0,
     "stars": 0,
-    "nights": 220
+    "nights": 240
   },
   "row_gain": 100,
-  "nights": 11,
+  "nights": 12,
   "active_assets": 2,
   "inventory": [
     {
@@ -38,94 +38,94 @@
       "lane": "watch",
       "status": "incubator",
       "rarity": "희귀",
-      "stack": 1279,
+      "stack": 1379,
       "notes": "오늘 무엇이 패키지 세계에 나타났는지 한곳에서 못 본다"
     }
   ],
   "loot": [
     {
-      "id": "959a19dc32521cd1",
-      "title": "contextbase-plugin-workflowy 0.10.0",
-      "link": "https://pypi.org/project/contextbase-plugin-workflowy/0.10.0/",
-      "published": "Tue, 22 Sep 2026 23:07:40 GMT",
-      "collected_at": "2026-09-22T23:25:31.630447+00:00"
+      "id": "2f310a94ba2c2c41",
+      "title": "managed-deepagents 0.7.5.dev4",
+      "link": "https://pypi.org/project/managed-deepagents/0.7.5.dev4/",
+      "published": "Wed, 23 Sep 2026 23:14:33 GMT",
+      "collected_at": "2026-09-23T23:23:47.464646+00:00"
     },
     {
-      "id": "88449d4c21471c37",
-      "title": "contextbase-plugin-clickup 0.10.0",
-      "link": "https://pypi.org/project/contextbase-plugin-clickup/0.10.0/",
-      "published": "Tue, 22 Sep 2026 23:07:41 GMT",
-      "collected_at": "2026-09-22T23:25:31.630444+00:00"
+      "id": "1cc269307a245865",
+      "title": "cuequivariance-ops-cu12 0.12.0",
+      "link": "https://pypi.org/project/cuequivariance-ops-cu12/0.12.0/",
+      "published": "Wed, 23 Sep 2026 23:14:39 GMT",
+      "collected_at": "2026-09-23T23:23:47.464644+00:00"
     },
     {
-      "id": "138bb58e2005e787",
-      "title": "kugelaudio 2.0.1",
-      "link": "https://pypi.org/project/kugelaudio/2.0.1/",
-      "published": "Tue, 22 Sep 2026 23:07:42 GMT",
-      "collected_at": "2026-09-22T23:25:31.630441+00:00"
+      "id": "2ac4b1178894718c",
+      "title": "ai-parrot 1.0.6",
+      "link": "https://pypi.org/project/ai-parrot/1.0.6/",
+      "published": "Wed, 23 Sep 2026 23:14:43 GMT",
+      "collected_at": "2026-09-23T23:23:47.464641+00:00"
     },
     {
-      "id": "defdb673f95164dc",
-      "title": "contextbase-plugin-whatsapp-local 0.10.0",
-      "link": "https://pypi.org/project/contextbase-plugin-whatsapp-local/0.10.0/",
-      "published": "Tue, 22 Sep 2026 23:07:42 GMT",
-      "collected_at": "2026-09-22T23:25:31.630438+00:00"
+      "id": "9d246ac7b641e2f3",
+      "title": "axiolex 2.0.2",
+      "link": "https://pypi.org/project/axiolex/2.0.2/",
+      "published": "Wed, 23 Sep 2026 23:14:50 GMT",
+      "collected_at": "2026-09-23T23:23:47.464638+00:00"
     },
     {
-      "id": "a59d5015a42d0161",
-      "title": "contextbase-shared-plugins 0.10.0",
-      "link": "https://pypi.org/project/contextbase-shared-plugins/0.10.0/",
-      "published": "Tue, 22 Sep 2026 23:07:43 GMT",
-      "collected_at": "2026-09-22T23:25:31.630435+00:00"
+      "id": "737a312eef729c7a",
+      "title": "ai-parrot-advisors 1.0.6",
+      "link": "https://pypi.org/project/ai-parrot-advisors/1.0.6/",
+      "published": "Wed, 23 Sep 2026 23:14:58 GMT",
+      "collected_at": "2026-09-23T23:23:47.464635+00:00"
     },
     {
-      "id": "233ccd858039dbab",
-      "title": "contextbase-plugin-asana 0.10.0",
-      "link": "https://pypi.org/project/contextbase-plugin-asana/0.10.0/",
-      "published": "Tue, 22 Sep 2026 23:07:44 GMT",
-      "collected_at": "2026-09-22T23:25:31.630432+00:00"
+      "id": "54f52dc9a1f2c249",
+      "title": "ai-parrot-client-amazon 0.2.6",
+      "link": "https://pypi.org/project/ai-parrot-client-amazon/0.2.6/",
+      "published": "Wed, 23 Sep 2026 23:15:00 GMT",
+      "collected_at": "2026-09-23T23:23:47.464633+00:00"
     },
     {
-      "id": "2081280cad7dcd1c",
-      "title": "contextbase-plugin-gmail 0.10.0",
-      "link": "https://pypi.org/project/contextbase-plugin-gmail/0.10.0/",
-      "published": "Tue, 22 Sep 2026 23:07:45 GMT",
-      "collected_at": "2026-09-22T23:25:31.630429+00:00"
+      "id": "fea4a9e742baf92e",
+      "title": "ai-parrot-client-anthropic 0.2.6",
+      "link": "https://pypi.org/project/ai-parrot-client-anthropic/0.2.6/",
+      "published": "Wed, 23 Sep 2026 23:15:01 GMT",
+      "collected_at": "2026-09-23T23:23:47.464630+00:00"
     },
     {
-      "id": "d0980bf90fe9aed3",
-      "title": "contextbase-plugin-claude-local 0.10.0",
-      "link": "https://pypi.org/project/contextbase-plugin-claude-local/0.10.0/",
-      "published": "Tue, 22 Sep 2026 23:07:46 GMT",
-      "collected_at": "2026-09-22T23:25:31.630426+00:00"
+      "id": "db834183819ecae5",
+      "title": "ai-parrot-client-gemma4 0.2.6",
+      "link": "https://pypi.org/project/ai-parrot-client-gemma4/0.2.6/",
+      "published": "Wed, 23 Sep 2026 23:15:03 GMT",
+      "collected_at": "2026-09-23T23:23:47.464627+00:00"
     },
     {
-      "id": "496ec8b527b194eb",
-      "title": "contextbase-plugin-codex-local 0.10.0",
-      "link": "https://pypi.org/project/contextbase-plugin-codex-local/0.10.0/",
-      "published": "Tue, 22 Sep 2026 23:07:48 GMT",
-      "collected_at": "2026-09-22T23:25:31.630423+00:00"
+      "id": "9309b6729b8e7f2d",
+      "title": "ai-parrot-client-google 0.2.6",
+      "link": "https://pypi.org/project/ai-parrot-client-google/0.2.6/",
+      "published": "Wed, 23 Sep 2026 23:15:04 GMT",
+      "collected_at": "2026-09-23T23:23:47.464624+00:00"
     },
     {
-      "id": "29bfbe88fded4660",
-      "title": "contextbase-plugin-jira 0.10.0",
-      "link": "https://pypi.org/project/contextbase-plugin-jira/0.10.0/",
-      "published": "Tue, 22 Sep 2026 23:07:48 GMT",
-      "collected_at": "2026-09-22T23:25:31.630420+00:00"
+      "id": "7813b15c93f8fb7b",
+      "title": "ai-parrot-client-grok 0.2.6",
+      "link": "https://pypi.org/project/ai-parrot-client-grok/0.2.6/",
+      "published": "Wed, 23 Sep 2026 23:15:05 GMT",
+      "collected_at": "2026-09-23T23:23:47.464621+00:00"
     },
     {
-      "id": "ce448fdd10196632",
-      "title": "contextbase-plugin-github 0.10.0",
-      "link": "https://pypi.org/project/contextbase-plugin-github/0.10.0/",
-      "published": "Tue, 22 Sep 2026 23:07:49 GMT",
-      "collected_at": "2026-09-22T23:25:31.630417+00:00"
+      "id": "edb3707cdcdf1c5d",
+      "title": "ai-parrot-client-groq 0.2.6",
+      "link": "https://pypi.org/project/ai-parrot-client-groq/0.2.6/",
+      "published": "Wed, 23 Sep 2026 23:15:07 GMT",
+      "collected_at": "2026-09-23T23:23:47.464618+00:00"
     },
     {
-      "id": "bd1538c6b5eda0be",
-      "title": "contextbase-plugin-gong 0.10.0",
-      "link": "https://pypi.org/project/contextbase-plugin-gong/0.10.0/",
-      "published": "Tue, 22 Sep 2026 23:07:50 GMT",
-      "collected_at": "2026-09-22T23:25:31.630414+00:00"
+      "id": "4683189cfff9c551",
+      "title": "ai-parrot-client-hf 0.2.6",
+      "link": "https://pypi.org/project/ai-parrot-client-hf/0.2.6/",
+      "published": "Wed, 23 Sep 2026 23:15:08 GMT",
+      "collected_at": "2026-09-23T23:23:47.464615+00:00"
     }
   ]
 }
