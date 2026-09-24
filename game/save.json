@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-09-23T23:23:48.315157+00:00",
+  "updated_at": "2026-09-24T23:43:06.859648+00:00",
   "hero": "kgi8914z",
   "guild": "Overnight Foundry",
   "level": 7,
   "title": "도태의 반장",
-  "xp": 3178,
-  "xp_into_level": 28,
+  "xp": 3398,
+  "xp_into_level": 248,
   "xp_for_level": 1050,
   "xp_parts": {
     "unique_users": 40,
     "repeat_users": 0,
     "active_users_1d": 80,
     "api_calls": 0,
-    "dataset_records": 2758,
+    "dataset_records": 2958,
     "paying_users": 0,
     "self_uses_weekly": 60,
     "backlinks": 0,
     "stars": 0,
-    "nights": 240
+    "nights": 260
   },
   "row_gain": 100,
-  "nights": 12,
+  "nights": 13,
   "active_assets": 2,
   "inventory": [
     {
@@ -38,94 +38,94 @@
       "lane": "watch",
       "status": "incubator",
       "rarity": "희귀",
-      "stack": 1379,
+      "stack": 1479,
       "notes": "오늘 무엇이 패키지 세계에 나타났는지 한곳에서 못 본다"
     }
   ],
   "loot": [
     {
-      "id": "2f310a94ba2c2c41",
-      "title": "managed-deepagents 0.7.5.dev4",
-      "link": "https://pypi.org/project/managed-deepagents/0.7.5.dev4/",
-      "published": "Wed, 23 Sep 2026 23:14:33 GMT",
-      "collected_at": "2026-09-23T23:23:47.464646+00:00"
+      "id": "0cbc877d9446dfb0",
+      "title": "simpleaible 1.1.1.dev56",
+      "link": "https://pypi.org/project/simpleaible/1.1.1.dev56/",
+      "published": "Thu, 24 Sep 2026 23:10:34 GMT",
+      "collected_at": "2026-09-24T23:43:05.882009+00:00"
     },
     {
-      "id": "1cc269307a245865",
-      "title": "cuequivariance-ops-cu12 0.12.0",
-      "link": "https://pypi.org/project/cuequivariance-ops-cu12/0.12.0/",
-      "published": "Wed, 23 Sep 2026 23:14:39 GMT",
-      "collected_at": "2026-09-23T23:23:47.464644+00:00"
+      "id": "aaa9ce7ab5001d0e",
+      "title": "simplepyble 1.1.1.dev56",
+      "link": "https://pypi.org/project/simplepyble/1.1.1.dev56/",
+      "published": "Thu, 24 Sep 2026 23:10:39 GMT",
+      "collected_at": "2026-09-24T23:43:05.882006+00:00"
     },
     {
-      "id": "2ac4b1178894718c",
-      "title": "ai-parrot 1.0.6",
-      "link": "https://pypi.org/project/ai-parrot/1.0.6/",
-      "published": "Wed, 23 Sep 2026 23:14:43 GMT",
-      "collected_at": "2026-09-23T23:23:47.464641+00:00"
+      "id": "839fbc87b16027c4",
+      "title": "peteos 0.4.2",
+      "link": "https://pypi.org/project/peteos/0.4.2/",
+      "published": "Thu, 24 Sep 2026 23:10:40 GMT",
+      "collected_at": "2026-09-24T23:43:05.882003+00:00"
     },
     {
-      "id": "9d246ac7b641e2f3",
-      "title": "axiolex 2.0.2",
-      "link": "https://pypi.org/project/axiolex/2.0.2/",
-      "published": "Wed, 23 Sep 2026 23:14:50 GMT",
-      "collected_at": "2026-09-23T23:23:47.464638+00:00"
+      "id": "bd2a086177a6fcd9",
+      "title": "markdownizer 0.4.3",
+      "link": "https://pypi.org/project/markdownizer/0.4.3/",
+      "published": "Thu, 24 Sep 2026 23:11:03 GMT",
+      "collected_at": "2026-09-24T23:43:05.882000+00:00"
     },
     {
-      "id": "737a312eef729c7a",
-      "title": "ai-parrot-advisors 1.0.6",
-      "link": "https://pypi.org/project/ai-parrot-advisors/1.0.6/",
-      "published": "Wed, 23 Sep 2026 23:14:58 GMT",
-      "collected_at": "2026-09-23T23:23:47.464635+00:00"
+      "id": "68f8a616cb0ba8ea",
+      "title": "damira 0.0.1",
+      "link": "https://pypi.org/project/damira/0.0.1/",
+      "published": "Thu, 24 Sep 2026 23:11:11 GMT",
+      "collected_at": "2026-09-24T23:43:05.881998+00:00"
     },
     {
-      "id": "54f52dc9a1f2c249",
-      "title": "ai-parrot-client-amazon 0.2.6",
-      "link": "https://pypi.org/project/ai-parrot-client-amazon/0.2.6/",
-      "published": "Wed, 23 Sep 2026 23:15:00 GMT",
-      "collected_at": "2026-09-23T23:23:47.464633+00:00"
+      "id": "b61060aeaccd8374",
+      "title": "damira-cli 0.0.1",
+      "link": "https://pypi.org/project/damira-cli/0.0.1/",
+      "published": "Thu, 24 Sep 2026 23:11:12 GMT",
+      "collected_at": "2026-09-24T23:43:05.881995+00:00"
     },
     {
-      "id": "fea4a9e742baf92e",
-      "title": "ai-parrot-client-anthropic 0.2.6",
-      "link": "https://pypi.org/project/ai-parrot-client-anthropic/0.2.6/",
-      "published": "Wed, 23 Sep 2026 23:15:01 GMT",
-      "collected_at": "2026-09-23T23:23:47.464630+00:00"
+      "id": "4c23822bdfb78b44",
+      "title": "damira-mcp 0.0.1",
+      "link": "https://pypi.org/project/damira-mcp/0.0.1/",
+      "published": "Thu, 24 Sep 2026 23:11:13 GMT",
+      "collected_at": "2026-09-24T23:43:05.881992+00:00"
     },
     {
-      "id": "db834183819ecae5",
-      "title": "ai-parrot-client-gemma4 0.2.6",
-      "link": "https://pypi.org/project/ai-parrot-client-gemma4/0.2.6/",
-      "published": "Wed, 23 Sep 2026 23:15:03 GMT",
-      "collected_at": "2026-09-23T23:23:47.464627+00:00"
+      "id": "39fba80838cde0d7",
+      "title": "letee 0.2.5",
+      "link": "https://pypi.org/project/letee/0.2.5/",
+      "published": "Thu, 24 Sep 2026 23:11:16 GMT",
+      "collected_at": "2026-09-24T23:43:05.881989+00:00"
     },
     {
-      "id": "9309b6729b8e7f2d",
-      "title": "ai-parrot-client-google 0.2.6",
-      "link": "https://pypi.org/project/ai-parrot-client-google/0.2.6/",
-      "published": "Wed, 23 Sep 2026 23:15:04 GMT",
-      "collected_at": "2026-09-23T23:23:47.464624+00:00"
+      "id": "2dc6b5bf47867e6d",
+      "title": "certo-math 0.17.0",
+      "link": "https://pypi.org/project/certo-math/0.17.0/",
+      "published": "Thu, 24 Sep 2026 23:11:25 GMT",
+      "collected_at": "2026-09-24T23:43:05.881986+00:00"
     },
     {
-      "id": "7813b15c93f8fb7b",
-      "title": "ai-parrot-client-grok 0.2.6",
-      "link": "https://pypi.org/project/ai-parrot-client-grok/0.2.6/",
-      "published": "Wed, 23 Sep 2026 23:15:05 GMT",
-      "collected_at": "2026-09-23T23:23:47.464621+00:00"
+      "id": "5bb0065ec5afc21b",
+      "title": "unsung-card 0.4.1",
+      "link": "https://pypi.org/project/unsung-card/0.4.1/",
+      "published": "Thu, 24 Sep 2026 23:11:25 GMT",
+      "collected_at": "2026-09-24T23:43:05.881983+00:00"
     },
     {
-      "id": "edb3707cdcdf1c5d",
-      "title": "ai-parrot-client-groq 0.2.6",
-      "link": "https://pypi.org/project/ai-parrot-client-groq/0.2.6/",
-      "published": "Wed, 23 Sep 2026 23:15:07 GMT",
-      "collected_at": "2026-09-23T23:23:47.464618+00:00"
+      "id": "3a2b450ff51abcca",
+      "title": "spohnbook 0.0.1",
+      "link": "https://pypi.org/project/spohnbook/0.0.1/",
+      "published": "Thu, 24 Sep 2026 23:11:30 GMT",
+      "collected_at": "2026-09-24T23:43:05.881980+00:00"
     },
     {
-      "id": "4683189cfff9c551",
-      "title": "ai-parrot-client-hf 0.2.6",
-      "link": "https://pypi.org/project/ai-parrot-client-hf/0.2.6/",
-      "published": "Wed, 23 Sep 2026 23:15:08 GMT",
-      "collected_at": "2026-09-23T23:23:47.464615+00:00"
+      "id": "9ffd54d63551c17b",
+      "title": "wrg-ai-security-toolkit 0.7.0",
+      "link": "https://pypi.org/project/wrg-ai-security-toolkit/0.7.0/",
+      "published": "Thu, 24 Sep 2026 23:11:38 GMT",
+      "collected_at": "2026-09-24T23:43:05.881977+00:00"
     }
   ]
 }
