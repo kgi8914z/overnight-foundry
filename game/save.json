@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-09-25T23:45:11.130134+00:00",
+  "updated_at": "2026-09-26T23:20:43.372419+00:00",
   "hero": "kgi8914z",
   "guild": "Overnight Foundry",
   "level": 7,
   "title": "도태의 반장",
-  "xp": 3618,
-  "xp_into_level": 468,
+  "xp": 3838,
+  "xp_into_level": 688,
   "xp_for_level": 1050,
   "xp_parts": {
     "unique_users": 40,
     "repeat_users": 0,
     "active_users_1d": 80,
     "api_calls": 0,
-    "dataset_records": 3158,
+    "dataset_records": 3358,
     "paying_users": 0,
     "self_uses_weekly": 60,
     "backlinks": 0,
     "stars": 0,
-    "nights": 280
+    "nights": 300
   },
   "row_gain": 100,
-  "nights": 14,
+  "nights": 15,
   "active_assets": 2,
   "inventory": [
     {
@@ -38,94 +38,94 @@
       "lane": "watch",
       "status": "incubator",
       "rarity": "희귀",
-      "stack": 1579,
+      "stack": 1679,
       "notes": "오늘 무엇이 패키지 세계에 나타났는지 한곳에서 못 본다"
     }
   ],
   "loot": [
     {
-      "id": "471f4a9762c6d72a",
-      "title": "codex-aws-helper 0.3.0",
-      "link": "https://pypi.org/project/codex-aws-helper/0.3.0/",
-      "published": "Fri, 25 Sep 2026 23:23:43 GMT",
-      "collected_at": "2026-09-25T23:45:10.047808+00:00"
+      "id": "39697146baf0a135",
+      "title": "audit-test 1.0.3",
+      "link": "https://pypi.org/project/audit-test/1.0.3/",
+      "published": "Sat, 26 Sep 2026 23:03:13 GMT",
+      "collected_at": "2026-09-26T23:20:42.257792+00:00"
     },
     {
-      "id": "68192d1ad7a3c187",
-      "title": "agent-evidence-vectors 0.13.0",
-      "link": "https://pypi.org/project/agent-evidence-vectors/0.13.0/",
-      "published": "Fri, 25 Sep 2026 23:23:49 GMT",
-      "collected_at": "2026-09-25T23:45:10.047805+00:00"
+      "id": "7864923f40d70790",
+      "title": "zenn-topic-suggester 0.1.4",
+      "link": "https://pypi.org/project/zenn-topic-suggester/0.1.4/",
+      "published": "Sat, 26 Sep 2026 23:03:18 GMT",
+      "collected_at": "2026-09-26T23:20:42.257787+00:00"
     },
     {
-      "id": "c77379483c28b010",
-      "title": "clicked-evidence 0.2.0",
-      "link": "https://pypi.org/project/clicked-evidence/0.2.0/",
-      "published": "Fri, 25 Sep 2026 23:23:55 GMT",
-      "collected_at": "2026-09-25T23:45:10.047803+00:00"
+      "id": "b6abcd5da5e1b5e0",
+      "title": "edc-ds 1.0.5",
+      "link": "https://pypi.org/project/edc-ds/1.0.5/",
+      "published": "Sat, 26 Sep 2026 23:03:29 GMT",
+      "collected_at": "2026-09-26T23:20:42.257782+00:00"
     },
     {
-      "id": "825a7ae912fd5719",
-      "title": "providence-evidence 0.2.0",
-      "link": "https://pypi.org/project/providence-evidence/0.2.0/",
-      "published": "Fri, 25 Sep 2026 23:24:02 GMT",
-      "collected_at": "2026-09-25T23:45:10.047800+00:00"
+      "id": "bd6c697e73985938",
+      "title": "attune-project-api 26.9.2",
+      "link": "https://pypi.org/project/attune-project-api/26.9.2/",
+      "published": "Sat, 26 Sep 2026 23:03:34 GMT",
+      "collected_at": "2026-09-26T23:20:42.257776+00:00"
     },
     {
-      "id": "b06f7847e353fffd",
-      "title": "quoptuna 1.0.0",
-      "link": "https://pypi.org/project/quoptuna/1.0.0/",
-      "published": "Fri, 25 Sep 2026 23:24:09 GMT",
-      "collected_at": "2026-09-25T23:45:10.047797+00:00"
+      "id": "5652df99ccf3a953",
+      "title": "verinoda 0.3.2",
+      "link": "https://pypi.org/project/verinoda/0.3.2/",
+      "published": "Sat, 26 Sep 2026 23:03:42 GMT",
+      "collected_at": "2026-09-26T23:20:42.257771+00:00"
     },
     {
-      "id": "dc449d3da211b505",
-      "title": "inillucent 1.0.31",
-      "link": "https://pypi.org/project/inillucent/1.0.31/",
-      "published": "Fri, 25 Sep 2026 23:24:32 GMT",
-      "collected_at": "2026-09-25T23:45:10.047794+00:00"
+      "id": "c318a0b537d7ea01",
+      "title": "datacache 1.11.1",
+      "link": "https://pypi.org/project/datacache/1.11.1/",
+      "published": "Sat, 26 Sep 2026 23:03:50 GMT",
+      "collected_at": "2026-09-26T23:20:42.257766+00:00"
     },
     {
-      "id": "279cceabf8c5d0d3",
-      "title": "libre-devops-helpers 0.5.2",
-      "link": "https://pypi.org/project/libre-devops-helpers/0.5.2/",
-      "published": "Fri, 25 Sep 2026 23:24:35 GMT",
-      "collected_at": "2026-09-25T23:45:10.047791+00:00"
+      "id": "4a4dae4f1b14d4d1",
+      "title": "latexdetok 0.4.1",
+      "link": "https://pypi.org/project/latexdetok/0.4.1/",
+      "published": "Sat, 26 Sep 2026 23:03:58 GMT",
+      "collected_at": "2026-09-26T23:20:42.257760+00:00"
     },
     {
-      "id": "f2cf14757c9f0305",
-      "title": "labelbox-recursion-sdk 0.0.130",
-      "link": "https://pypi.org/project/labelbox-recursion-sdk/0.0.130/",
-      "published": "Fri, 25 Sep 2026 23:25:00 GMT",
-      "collected_at": "2026-09-25T23:45:10.047788+00:00"
+      "id": "5a44719141abf180",
+      "title": "paritok 1.3.13",
+      "link": "https://pypi.org/project/paritok/1.3.13/",
+      "published": "Sat, 26 Sep 2026 23:04:00 GMT",
+      "collected_at": "2026-09-26T23:20:42.257754+00:00"
     },
     {
-      "id": "235ec447fa23d859",
-      "title": "camera-ui-ml 1.2.16",
-      "link": "https://pypi.org/project/camera-ui-ml/1.2.16/",
-      "published": "Fri, 25 Sep 2026 23:25:18 GMT",
-      "collected_at": "2026-09-25T23:45:10.047785+00:00"
+      "id": "70b3f2f1ace1715c",
+      "title": "yggdryl 0.1.14",
+      "link": "https://pypi.org/project/yggdryl/0.1.14/",
+      "published": "Sat, 26 Sep 2026 23:04:02 GMT",
+      "collected_at": "2026-09-26T23:20:42.257749+00:00"
     },
     {
-      "id": "25434925e2213da5",
-      "title": "honeybee-radiance 1.66.294",
-      "link": "https://pypi.org/project/honeybee-radiance/1.66.294/",
-      "published": "Fri, 25 Sep 2026 23:25:23 GMT",
-      "collected_at": "2026-09-25T23:45:10.047782+00:00"
+      "id": "ee127a9198ac0ba1",
+      "title": "aegis-devops 0.1.2",
+      "link": "https://pypi.org/project/aegis-devops/0.1.2/",
+      "published": "Sat, 26 Sep 2026 23:04:10 GMT",
+      "collected_at": "2026-09-26T23:20:42.257744+00:00"
     },
     {
-      "id": "525d5672ff76526d",
-      "title": "python-data-toolkit 1.0.0",
-      "link": "https://pypi.org/project/python-data-toolkit/1.0.0/",
-      "published": "Fri, 25 Sep 2026 23:25:36 GMT",
-      "collected_at": "2026-09-25T23:45:10.047779+00:00"
+      "id": "600e31cc2241a3e1",
+      "title": "puragram 1.0.0",
+      "link": "https://pypi.org/project/puragram/1.0.0/",
+      "published": "Sat, 26 Sep 2026 23:04:17 GMT",
+      "collected_at": "2026-09-26T23:20:42.257739+00:00"
     },
     {
-      "id": "e0a4174f1736eb9b",
-      "title": "honeybee-energy 1.125.4",
-      "link": "https://pypi.org/project/honeybee-energy/1.125.4/",
-      "published": "Fri, 25 Sep 2026 23:25:55 GMT",
-      "collected_at": "2026-09-25T23:45:10.047776+00:00"
+      "id": "19bff38fb0802075",
+      "title": "whisper-ppi 0.1.2",
+      "link": "https://pypi.org/project/whisper-ppi/0.1.2/",
+      "published": "Sat, 26 Sep 2026 23:04:19 GMT",
+      "collected_at": "2026-09-26T23:20:42.257734+00:00"
     }
   ]
 }
