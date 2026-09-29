@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-09-27T23:32:30.872016+00:00",
+  "updated_at": "2026-09-29T00:47:01.258689+00:00",
   "hero": "kgi8914z",
   "guild": "Overnight Foundry",
-  "level": 7,
+  "level": 8,
   "title": "도태의 반장",
-  "xp": 4058,
-  "xp_into_level": 908,
-  "xp_for_level": 1050,
+  "xp": 4278,
+  "xp_into_level": 78,
+  "xp_for_level": 1200,
   "xp_parts": {
     "unique_users": 40,
     "repeat_users": 0,
     "active_users_1d": 80,
     "api_calls": 0,
-    "dataset_records": 3558,
+    "dataset_records": 3758,
     "paying_users": 0,
     "self_uses_weekly": 60,
     "backlinks": 0,
     "stars": 0,
-    "nights": 320
+    "nights": 340
   },
   "row_gain": 100,
-  "nights": 16,
+  "nights": 17,
   "active_assets": 2,
   "inventory": [
     {
@@ -38,94 +38,94 @@
       "lane": "watch",
       "status": "incubator",
       "rarity": "희귀",
-      "stack": 1779,
+      "stack": 1879,
       "notes": "오늘 무엇이 패키지 세계에 나타났는지 한곳에서 못 본다"
     }
   ],
   "loot": [
     {
-      "id": "8afccf4e23062be7",
-      "title": "pycdfpp 0.14.0",
-      "link": "https://pypi.org/project/pycdfpp/0.14.0/",
-      "published": "Sun, 27 Sep 2026 23:08:57 GMT",
-      "collected_at": "2026-09-27T23:32:29.745427+00:00"
+      "id": "5c8576058fb899c4",
+      "title": "nssh 0.30.2",
+      "link": "https://pypi.org/project/nssh/0.30.2/",
+      "published": "Tue, 29 Sep 2026 00:25:18 GMT",
+      "collected_at": "2026-09-29T00:47:00.256699+00:00"
     },
     {
-      "id": "e30d5349347095bb",
-      "title": "skt 1.0.15",
-      "link": "https://pypi.org/project/skt/1.0.15/",
-      "published": "Sun, 27 Sep 2026 23:09:11 GMT",
-      "collected_at": "2026-09-27T23:32:29.745425+00:00"
+      "id": "d0c3fd298e5848cd",
+      "title": "cloakbrowser-agent 0.1.0",
+      "link": "https://pypi.org/project/cloakbrowser-agent/0.1.0/",
+      "published": "Tue, 29 Sep 2026 00:25:36 GMT",
+      "collected_at": "2026-09-29T00:47:00.256693+00:00"
     },
     {
-      "id": "39efae907d5e36ff",
-      "title": "gridcalc 0.8.0",
-      "link": "https://pypi.org/project/gridcalc/0.8.0/",
-      "published": "Sun, 27 Sep 2026 23:09:19 GMT",
-      "collected_at": "2026-09-27T23:32:29.745423+00:00"
+      "id": "e766b080d81218c2",
+      "title": "agentkthx 0.7.13",
+      "link": "https://pypi.org/project/agentkthx/0.7.13/",
+      "published": "Tue, 29 Sep 2026 00:25:43 GMT",
+      "collected_at": "2026-09-29T00:47:00.256686+00:00"
     },
     {
-      "id": "e9739ffddb7b3c9a",
-      "title": "cogrind-workshop 0.1.2",
-      "link": "https://pypi.org/project/cogrind-workshop/0.1.2/",
-      "published": "Sun, 27 Sep 2026 23:10:07 GMT",
-      "collected_at": "2026-09-27T23:32:29.745421+00:00"
+      "id": "65219028bd2f24db",
+      "title": "stigmer-protos 3.40.1",
+      "link": "https://pypi.org/project/stigmer-protos/3.40.1/",
+      "published": "Tue, 29 Sep 2026 00:26:01 GMT",
+      "collected_at": "2026-09-29T00:47:00.256680+00:00"
     },
     {
-      "id": "f410c637c4e0d07c",
-      "title": "flint-slating 0.1.8",
-      "link": "https://pypi.org/project/flint-slating/0.1.8/",
-      "published": "Sun, 27 Sep 2026 23:10:08 GMT",
-      "collected_at": "2026-09-27T23:32:29.745420+00:00"
+      "id": "65f48fdb1bf81ded",
+      "title": "regula-documentreader-webclient 9.9.1062rc0",
+      "link": "https://pypi.org/project/regula-documentreader-webclient/9.9.1062rc0/",
+      "published": "Tue, 29 Sep 2026 00:26:42 GMT",
+      "collected_at": "2026-09-29T00:47:00.256673+00:00"
     },
     {
-      "id": "5225bbaf8598211b",
-      "title": "smalt-mcp 1.3.5",
-      "link": "https://pypi.org/project/smalt-mcp/1.3.5/",
-      "published": "Sun, 27 Sep 2026 23:10:09 GMT",
-      "collected_at": "2026-09-27T23:32:29.745418+00:00"
+      "id": "aa8426dee6820530",
+      "title": "afriverify 0.1.0",
+      "link": "https://pypi.org/project/afriverify/0.1.0/",
+      "published": "Tue, 29 Sep 2026 00:26:46 GMT",
+      "collected_at": "2026-09-29T00:47:00.256667+00:00"
     },
     {
-      "id": "a3dbc508314e2a1d",
-      "title": "pyguitest-recorder 0.7.0",
-      "link": "https://pypi.org/project/pyguitest-recorder/0.7.0/",
-      "published": "Sun, 27 Sep 2026 23:10:12 GMT",
-      "collected_at": "2026-09-27T23:32:29.745416+00:00"
+      "id": "711dec6f2e62a8ba",
+      "title": "answer-engine-benchmark 0.1.0",
+      "link": "https://pypi.org/project/answer-engine-benchmark/0.1.0/",
+      "published": "Tue, 29 Sep 2026 00:26:53 GMT",
+      "collected_at": "2026-09-29T00:47:00.256661+00:00"
     },
     {
-      "id": "ba831b1a6e1cf006",
-      "title": "ebony-enriching 0.1.12",
-      "link": "https://pypi.org/project/ebony-enriching/0.1.12/",
-      "published": "Sun, 27 Sep 2026 23:10:13 GMT",
-      "collected_at": "2026-09-27T23:32:29.745414+00:00"
+      "id": "8ff8856ca0278898",
+      "title": "gutfeel 0.8.0",
+      "link": "https://pypi.org/project/gutfeel/0.8.0/",
+      "published": "Tue, 29 Sep 2026 00:26:56 GMT",
+      "collected_at": "2026-09-29T00:47:00.256654+00:00"
     },
     {
-      "id": "6e3c8cba2df2cf16",
-      "title": "deco-assaying 0.3.7",
-      "link": "https://pypi.org/project/deco-assaying/0.3.7/",
-      "published": "Sun, 27 Sep 2026 23:10:15 GMT",
-      "collected_at": "2026-09-27T23:32:29.745412+00:00"
+      "id": "6a05f1f2c2790bc3",
+      "title": "nctpy 1.1.0",
+      "link": "https://pypi.org/project/nctpy/1.1.0/",
+      "published": "Tue, 29 Sep 2026 00:26:57 GMT",
+      "collected_at": "2026-09-29T00:47:00.256648+00:00"
     },
     {
-      "id": "3989a5e71993d6f2",
-      "title": "uacp-interop 0.16.0",
-      "link": "https://pypi.org/project/uacp-interop/0.16.0/",
-      "published": "Sun, 27 Sep 2026 23:10:28 GMT",
-      "collected_at": "2026-09-27T23:32:29.745411+00:00"
+      "id": "c598c92925d5cf9e",
+      "title": "gutfeel-mcp 0.8.0",
+      "link": "https://pypi.org/project/gutfeel-mcp/0.8.0/",
+      "published": "Tue, 29 Sep 2026 00:26:57 GMT",
+      "collected_at": "2026-09-29T00:47:00.256641+00:00"
     },
     {
-      "id": "d1f19bcdb558709b",
-      "title": "wwn 26.65",
-      "link": "https://pypi.org/project/wwn/26.65/",
-      "published": "Sun, 27 Sep 2026 23:10:55 GMT",
-      "collected_at": "2026-09-27T23:32:29.745409+00:00"
+      "id": "486d43c2043ade50",
+      "title": "empire-core 0.40.0",
+      "link": "https://pypi.org/project/empire-core/0.40.0/",
+      "published": "Tue, 29 Sep 2026 00:27:02 GMT",
+      "collected_at": "2026-09-29T00:47:00.256634+00:00"
     },
     {
-      "id": "02f27b6682f23213",
-      "title": "mcp-server-tempest 0.12.0",
-      "link": "https://pypi.org/project/mcp-server-tempest/0.12.0/",
-      "published": "Sun, 27 Sep 2026 23:11:17 GMT",
-      "collected_at": "2026-09-27T23:32:29.745407+00:00"
+      "id": "5b3e1f9a963719e1",
+      "title": "codedex 0.1.0",
+      "link": "https://pypi.org/project/codedex/0.1.0/",
+      "published": "Tue, 29 Sep 2026 00:27:03 GMT",
+      "collected_at": "2026-09-29T00:47:00.256627+00:00"
     }
   ]
 }
