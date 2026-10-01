@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-09-30T00:01:23.742486+00:00",
+  "updated_at": "2026-10-01T00:19:08.666622+00:00",
   "hero": "kgi8914z",
   "guild": "Overnight Foundry",
   "level": 8,
   "title": "도태의 반장",
-  "xp": 4498,
-  "xp_into_level": 298,
+  "xp": 4718,
+  "xp_into_level": 518,
   "xp_for_level": 1200,
   "xp_parts": {
     "unique_users": 40,
     "repeat_users": 0,
     "active_users_1d": 80,
     "api_calls": 0,
-    "dataset_records": 3958,
+    "dataset_records": 4158,
     "paying_users": 0,
     "self_uses_weekly": 60,
     "backlinks": 0,
     "stars": 0,
-    "nights": 360
+    "nights": 380
   },
   "row_gain": 100,
-  "nights": 18,
+  "nights": 19,
   "active_assets": 2,
   "inventory": [
     {
@@ -38,94 +38,94 @@
       "lane": "watch",
       "status": "incubator",
       "rarity": "희귀",
-      "stack": 1979,
+      "stack": 2079,
       "notes": "오늘 무엇이 패키지 세계에 나타났는지 한곳에서 못 본다"
     }
   ],
   "loot": [
     {
-      "id": "c2b1f5b5d4af9a32",
-      "title": "owlplanner 2026.9.30",
-      "link": "https://pypi.org/project/owlplanner/2026.9.30/",
-      "published": "Tue, 29 Sep 2026 23:44:24 GMT",
-      "collected_at": "2026-09-30T00:01:22.712605+00:00"
+      "id": "e250be56ae5edb4b",
+      "title": "cicd-jobs-monitor 0.4.7",
+      "link": "https://pypi.org/project/cicd-jobs-monitor/0.4.7/",
+      "published": "Wed, 30 Sep 2026 23:49:06 GMT",
+      "collected_at": "2026-10-01T00:19:07.559168+00:00"
     },
     {
-      "id": "b1be4ee978e7ac71",
-      "title": "nvidia-cudnn-jit-cu13 9.27.0.42",
-      "link": "https://pypi.org/project/nvidia-cudnn-jit-cu13/9.27.0.42/",
-      "published": "Tue, 29 Sep 2026 23:44:26 GMT",
-      "collected_at": "2026-09-30T00:01:22.712602+00:00"
+      "id": "b8cd3db372774278",
+      "title": "policyengine-household-api 0.33.3",
+      "link": "https://pypi.org/project/policyengine-household-api/0.33.3/",
+      "published": "Wed, 30 Sep 2026 23:49:17 GMT",
+      "collected_at": "2026-10-01T00:19:07.559165+00:00"
     },
     {
-      "id": "444c0ced8aca1768",
-      "title": "fxgui 12.10.2",
-      "link": "https://pypi.org/project/fxgui/12.10.2/",
-      "published": "Tue, 29 Sep 2026 23:44:47 GMT",
-      "collected_at": "2026-09-30T00:01:22.712599+00:00"
+      "id": "f7abe2241b2ed580",
+      "title": "visualdynamics 0.1.0a20",
+      "link": "https://pypi.org/project/visualdynamics/0.1.0a20/",
+      "published": "Wed, 30 Sep 2026 23:49:20 GMT",
+      "collected_at": "2026-10-01T00:19:07.559162+00:00"
     },
     {
-      "id": "4e7860fc21415716",
-      "title": "data-hub-watcher 1.2.1",
-      "link": "https://pypi.org/project/data-hub-watcher/1.2.1/",
-      "published": "Tue, 29 Sep 2026 23:45:42 GMT",
-      "collected_at": "2026-09-30T00:01:22.712596+00:00"
+      "id": "3c4fa4a8bcb518de",
+      "title": "navcom 0.2.1",
+      "link": "https://pypi.org/project/navcom/0.2.1/",
+      "published": "Wed, 30 Sep 2026 23:49:33 GMT",
+      "collected_at": "2026-10-01T00:19:07.559159+00:00"
     },
     {
-      "id": "61f4f34d75f7293a",
-      "title": "blackhole-sec 0.1.1",
-      "link": "https://pypi.org/project/blackhole-sec/0.1.1/",
-      "published": "Tue, 29 Sep 2026 23:46:08 GMT",
-      "collected_at": "2026-09-30T00:01:22.712593+00:00"
+      "id": "7d084a6b38b2423c",
+      "title": "automesh 0.4.7",
+      "link": "https://pypi.org/project/automesh/0.4.7/",
+      "published": "Wed, 30 Sep 2026 23:49:37 GMT",
+      "collected_at": "2026-10-01T00:19:07.559156+00:00"
     },
     {
-      "id": "f5a50536014b8217",
-      "title": "aik 0.1.5",
-      "link": "https://pypi.org/project/aik/0.1.5/",
-      "published": "Tue, 29 Sep 2026 23:46:27 GMT",
-      "collected_at": "2026-09-30T00:01:22.712590+00:00"
+      "id": "aa297804bc608385",
+      "title": "verifaied 0.32.0",
+      "link": "https://pypi.org/project/verifaied/0.32.0/",
+      "published": "Wed, 30 Sep 2026 23:49:44 GMT",
+      "collected_at": "2026-10-01T00:19:07.559153+00:00"
     },
     {
-      "id": "1b32d90e1f2c3604",
-      "title": "trustarc-cli 1.0.0.dev20260929194628",
-      "link": "https://pypi.org/project/trustarc-cli/1.0.0.dev20260929194628/",
-      "published": "Tue, 29 Sep 2026 23:46:30 GMT",
-      "collected_at": "2026-09-30T00:01:22.712588+00:00"
+      "id": "0ebaa7bf1cecf700",
+      "title": "szl-engine-bench 0.3.0",
+      "link": "https://pypi.org/project/szl-engine-bench/0.3.0/",
+      "published": "Wed, 30 Sep 2026 23:49:49 GMT",
+      "collected_at": "2026-10-01T00:19:07.559150+00:00"
     },
     {
-      "id": "ef4487bd45c46bee",
-      "title": "kalshi-python-sync 3.31.0",
-      "link": "https://pypi.org/project/kalshi-python-sync/3.31.0/",
-      "published": "Tue, 29 Sep 2026 23:46:49 GMT",
-      "collected_at": "2026-09-30T00:01:22.712584+00:00"
+      "id": "efeb3458945d3c71",
+      "title": "szl-ci-witness 0.1.0",
+      "link": "https://pypi.org/project/szl-ci-witness/0.1.0/",
+      "published": "Wed, 30 Sep 2026 23:49:50 GMT",
+      "collected_at": "2026-10-01T00:19:07.559147+00:00"
     },
     {
-      "id": "2adcd9af3e7d372d",
-      "title": "zrok2 2.0.6",
-      "link": "https://pypi.org/project/zrok2/2.0.6/",
-      "published": "Tue, 29 Sep 2026 23:46:50 GMT",
-      "collected_at": "2026-09-30T00:01:22.712582+00:00"
+      "id": "bdf36dcea6b79f9d",
+      "title": "schedview 0.24.0",
+      "link": "https://pypi.org/project/schedview/0.24.0/",
+      "published": "Wed, 30 Sep 2026 23:49:51 GMT",
+      "collected_at": "2026-10-01T00:19:07.559145+00:00"
     },
     {
-      "id": "a92824c63e2e2d38",
-      "title": "everyport 0.1.2",
-      "link": "https://pypi.org/project/everyport/0.1.2/",
-      "published": "Tue, 29 Sep 2026 23:46:58 GMT",
-      "collected_at": "2026-09-30T00:01:22.712579+00:00"
+      "id": "3181ce6b1ba708de",
+      "title": "szl-quant-bench 0.2.0",
+      "link": "https://pypi.org/project/szl-quant-bench/0.2.0/",
+      "published": "Wed, 30 Sep 2026 23:49:52 GMT",
+      "collected_at": "2026-10-01T00:19:07.559142+00:00"
     },
     {
-      "id": "6a136980bcb5fcd9",
-      "title": "kalshi-python-async 3.31.0",
-      "link": "https://pypi.org/project/kalshi-python-async/3.31.0/",
-      "published": "Tue, 29 Sep 2026 23:46:59 GMT",
-      "collected_at": "2026-09-30T00:01:22.712576+00:00"
+      "id": "d158d08a79b8eaf1",
+      "title": "tixio 0.1.0",
+      "link": "https://pypi.org/project/tixio/0.1.0/",
+      "published": "Wed, 30 Sep 2026 23:50:34 GMT",
+      "collected_at": "2026-10-01T00:19:07.559139+00:00"
     },
     {
-      "id": "6e2792abd72835e4",
-      "title": "typevet 0.1.0",
-      "link": "https://pypi.org/project/typevet/0.1.0/",
-      "published": "Tue, 29 Sep 2026 23:47:00 GMT",
-      "collected_at": "2026-09-30T00:01:22.712573+00:00"
+      "id": "c487e75113e258bd",
+      "title": "oculix-operix 1.1.1",
+      "link": "https://pypi.org/project/oculix-operix/1.1.1/",
+      "published": "Wed, 30 Sep 2026 23:50:38 GMT",
+      "collected_at": "2026-10-01T00:19:07.559136+00:00"
     }
   ]
 }
