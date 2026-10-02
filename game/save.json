@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-10-01T00:19:08.666622+00:00",
+  "updated_at": "2026-10-02T00:26:29.829799+00:00",
   "hero": "kgi8914z",
   "guild": "Overnight Foundry",
   "level": 8,
   "title": "도태의 반장",
-  "xp": 4718,
-  "xp_into_level": 518,
+  "xp": 4938,
+  "xp_into_level": 738,
   "xp_for_level": 1200,
   "xp_parts": {
     "unique_users": 40,
     "repeat_users": 0,
     "active_users_1d": 80,
     "api_calls": 0,
-    "dataset_records": 4158,
+    "dataset_records": 4358,
     "paying_users": 0,
     "self_uses_weekly": 60,
     "backlinks": 0,
     "stars": 0,
-    "nights": 380
+    "nights": 400
   },
   "row_gain": 100,
-  "nights": 19,
+  "nights": 20,
   "active_assets": 2,
   "inventory": [
     {
@@ -38,94 +38,94 @@
       "lane": "watch",
       "status": "incubator",
       "rarity": "희귀",
-      "stack": 2079,
+      "stack": 2179,
       "notes": "오늘 무엇이 패키지 세계에 나타났는지 한곳에서 못 본다"
     }
   ],
   "loot": [
     {
-      "id": "e250be56ae5edb4b",
-      "title": "cicd-jobs-monitor 0.4.7",
-      "link": "https://pypi.org/project/cicd-jobs-monitor/0.4.7/",
-      "published": "Wed, 30 Sep 2026 23:49:06 GMT",
-      "collected_at": "2026-10-01T00:19:07.559168+00:00"
+      "id": "3fa7e11edd2111c1",
+      "title": "mlx-spectro 0.9.8",
+      "link": "https://pypi.org/project/mlx-spectro/0.9.8/",
+      "published": "Fri, 02 Oct 2026 00:08:15 GMT",
+      "collected_at": "2026-10-02T00:26:27.146865+00:00"
     },
     {
-      "id": "b8cd3db372774278",
-      "title": "policyengine-household-api 0.33.3",
-      "link": "https://pypi.org/project/policyengine-household-api/0.33.3/",
-      "published": "Wed, 30 Sep 2026 23:49:17 GMT",
-      "collected_at": "2026-10-01T00:19:07.559165+00:00"
+      "id": "d19ef6b8d3d3b3dc",
+      "title": "azure-functions-langgraph 0.9.1",
+      "link": "https://pypi.org/project/azure-functions-langgraph/0.9.1/",
+      "published": "Fri, 02 Oct 2026 00:08:40 GMT",
+      "collected_at": "2026-10-02T00:26:27.146862+00:00"
     },
     {
-      "id": "f7abe2241b2ed580",
-      "title": "visualdynamics 0.1.0a20",
-      "link": "https://pypi.org/project/visualdynamics/0.1.0a20/",
-      "published": "Wed, 30 Sep 2026 23:49:20 GMT",
-      "collected_at": "2026-10-01T00:19:07.559162+00:00"
+      "id": "ec101bd9d54bbab2",
+      "title": "cyclo-manager 1.1.0",
+      "link": "https://pypi.org/project/cyclo-manager/1.1.0/",
+      "published": "Fri, 02 Oct 2026 00:09:12 GMT",
+      "collected_at": "2026-10-02T00:26:27.146859+00:00"
     },
     {
-      "id": "3c4fa4a8bcb518de",
-      "title": "navcom 0.2.1",
-      "link": "https://pypi.org/project/navcom/0.2.1/",
-      "published": "Wed, 30 Sep 2026 23:49:33 GMT",
-      "collected_at": "2026-10-01T00:19:07.559159+00:00"
+      "id": "5bd55b3f1387ed96",
+      "title": "semgrep 1.179.0",
+      "link": "https://pypi.org/project/semgrep/1.179.0/",
+      "published": "Fri, 02 Oct 2026 00:09:27 GMT",
+      "collected_at": "2026-10-02T00:26:27.146856+00:00"
     },
     {
-      "id": "7d084a6b38b2423c",
-      "title": "automesh 0.4.7",
-      "link": "https://pypi.org/project/automesh/0.4.7/",
-      "published": "Wed, 30 Sep 2026 23:49:37 GMT",
-      "collected_at": "2026-10-01T00:19:07.559156+00:00"
+      "id": "8963378fc119a5f3",
+      "title": "visualens 1.0.1",
+      "link": "https://pypi.org/project/visualens/1.0.1/",
+      "published": "Fri, 02 Oct 2026 00:09:27 GMT",
+      "collected_at": "2026-10-02T00:26:27.146853+00:00"
     },
     {
-      "id": "aa297804bc608385",
-      "title": "verifaied 0.32.0",
-      "link": "https://pypi.org/project/verifaied/0.32.0/",
-      "published": "Wed, 30 Sep 2026 23:49:44 GMT",
-      "collected_at": "2026-10-01T00:19:07.559153+00:00"
+      "id": "49b98ae6986fdf47",
+      "title": "agent-notes 2.35.0",
+      "link": "https://pypi.org/project/agent-notes/2.35.0/",
+      "published": "Fri, 02 Oct 2026 00:09:43 GMT",
+      "collected_at": "2026-10-02T00:26:27.146850+00:00"
     },
     {
-      "id": "0ebaa7bf1cecf700",
-      "title": "szl-engine-bench 0.3.0",
-      "link": "https://pypi.org/project/szl-engine-bench/0.3.0/",
-      "published": "Wed, 30 Sep 2026 23:49:49 GMT",
-      "collected_at": "2026-10-01T00:19:07.559150+00:00"
+      "id": "ec2d4cb463b19d49",
+      "title": "ring-sandbox 0.5.0",
+      "link": "https://pypi.org/project/ring-sandbox/0.5.0/",
+      "published": "Fri, 02 Oct 2026 00:10:08 GMT",
+      "collected_at": "2026-10-02T00:26:27.146847+00:00"
     },
     {
-      "id": "efeb3458945d3c71",
-      "title": "szl-ci-witness 0.1.0",
-      "link": "https://pypi.org/project/szl-ci-witness/0.1.0/",
-      "published": "Wed, 30 Sep 2026 23:49:50 GMT",
-      "collected_at": "2026-10-01T00:19:07.559147+00:00"
+      "id": "c170fb5ce3390517",
+      "title": "universal-sandbox-cli 0.1.1",
+      "link": "https://pypi.org/project/universal-sandbox-cli/0.1.1/",
+      "published": "Fri, 02 Oct 2026 00:10:15 GMT",
+      "collected_at": "2026-10-02T00:26:27.146844+00:00"
     },
     {
-      "id": "bdf36dcea6b79f9d",
-      "title": "schedview 0.24.0",
-      "link": "https://pypi.org/project/schedview/0.24.0/",
-      "published": "Wed, 30 Sep 2026 23:49:51 GMT",
-      "collected_at": "2026-10-01T00:19:07.559145+00:00"
+      "id": "abafa1ad9323a10b",
+      "title": "joltio 0.2.1",
+      "link": "https://pypi.org/project/joltio/0.2.1/",
+      "published": "Fri, 02 Oct 2026 00:10:22 GMT",
+      "collected_at": "2026-10-02T00:26:27.146841+00:00"
     },
     {
-      "id": "3181ce6b1ba708de",
-      "title": "szl-quant-bench 0.2.0",
-      "link": "https://pypi.org/project/szl-quant-bench/0.2.0/",
-      "published": "Wed, 30 Sep 2026 23:49:52 GMT",
-      "collected_at": "2026-10-01T00:19:07.559142+00:00"
+      "id": "db96e473bea327b1",
+      "title": "scc-firewall-manager-sdk 1.23.75",
+      "link": "https://pypi.org/project/scc-firewall-manager-sdk/1.23.75/",
+      "published": "Fri, 02 Oct 2026 00:10:35 GMT",
+      "collected_at": "2026-10-02T00:26:27.146838+00:00"
     },
     {
-      "id": "d158d08a79b8eaf1",
-      "title": "tixio 0.1.0",
-      "link": "https://pypi.org/project/tixio/0.1.0/",
-      "published": "Wed, 30 Sep 2026 23:50:34 GMT",
-      "collected_at": "2026-10-01T00:19:07.559139+00:00"
+      "id": "ecea62dd87b12dcf",
+      "title": "oshepherd 0.0.24",
+      "link": "https://pypi.org/project/oshepherd/0.0.24/",
+      "published": "Fri, 02 Oct 2026 00:10:40 GMT",
+      "collected_at": "2026-10-02T00:26:27.146835+00:00"
     },
     {
-      "id": "c487e75113e258bd",
-      "title": "oculix-operix 1.1.1",
-      "link": "https://pypi.org/project/oculix-operix/1.1.1/",
-      "published": "Wed, 30 Sep 2026 23:50:38 GMT",
-      "collected_at": "2026-10-01T00:19:07.559136+00:00"
+      "id": "5e794003cc73d9d5",
+      "title": "karotte 3.0.13",
+      "link": "https://pypi.org/project/karotte/3.0.13/",
+      "published": "Fri, 02 Oct 2026 00:10:40 GMT",
+      "collected_at": "2026-10-02T00:26:27.146832+00:00"
     }
   ]
 }
