@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-10-03T23:27:49.356264+00:00",
+  "updated_at": "2026-10-04T23:46:22.308825+00:00",
   "hero": "kgi8914z",
   "guild": "Overnight Foundry",
-  "level": 8,
-  "title": "도태의 반장",
-  "xp": 5358,
-  "xp_into_level": 1158,
-  "xp_for_level": 1200,
+  "level": 9,
+  "title": "선택하는 주조공",
+  "xp": 5578,
+  "xp_into_level": 178,
+  "xp_for_level": 1350,
   "xp_parts": {
     "unique_users": 40,
     "repeat_users": 0,
     "active_users_1d": 80,
     "api_calls": 0,
-    "dataset_records": 4758,
+    "dataset_records": 4958,
     "paying_users": 0,
     "self_uses_weekly": 60,
     "backlinks": 0,
     "stars": 0,
-    "nights": 420
+    "nights": 440
   },
   "row_gain": 100,
-  "nights": 21,
+  "nights": 22,
   "active_assets": 2,
   "inventory": [
     {
@@ -38,94 +38,94 @@
       "lane": "watch",
       "status": "incubator",
       "rarity": "희귀",
-      "stack": 2379,
+      "stack": 2479,
       "notes": "오늘 무엇이 패키지 세계에 나타났는지 한곳에서 못 본다"
     }
   ],
   "loot": [
     {
-      "id": "767a0af63aa46313",
-      "title": "tgtc-sdk 0.1.1",
-      "link": "https://pypi.org/project/tgtc-sdk/0.1.1/",
-      "published": "Sat, 03 Oct 2026 23:02:54 GMT",
-      "collected_at": "2026-10-03T23:27:48.548135+00:00"
+      "id": "e08d3d43bd4bf7cf",
+      "title": "filegrail 1.1.1",
+      "link": "https://pypi.org/project/filegrail/1.1.1/",
+      "published": "Sun, 04 Oct 2026 23:19:04 GMT",
+      "collected_at": "2026-10-04T23:46:21.395230+00:00"
     },
     {
-      "id": "8c85e136d5b4c506",
-      "title": "python-sdk-remote 0.0.209b3767",
-      "link": "https://pypi.org/project/python-sdk-remote/0.0.209b3767/",
-      "published": "Sat, 03 Oct 2026 23:03:05 GMT",
-      "collected_at": "2026-10-03T23:27:48.548132+00:00"
+      "id": "1d677ea6e3e5e7d9",
+      "title": "managed-deepagents 0.8.6.dev7",
+      "link": "https://pypi.org/project/managed-deepagents/0.8.6.dev7/",
+      "published": "Sun, 04 Oct 2026 23:19:09 GMT",
+      "collected_at": "2026-10-04T23:46:21.395229+00:00"
     },
     {
-      "id": "b89407a287064e2e",
-      "title": "docus 0.1.1",
-      "link": "https://pypi.org/project/docus/0.1.1/",
-      "published": "Sat, 03 Oct 2026 23:03:26 GMT",
-      "collected_at": "2026-10-03T23:27:48.548129+00:00"
+      "id": "e444541f8c47e656",
+      "title": "geoh5vista 0.4.0",
+      "link": "https://pypi.org/project/geoh5vista/0.4.0/",
+      "published": "Sun, 04 Oct 2026 23:19:20 GMT",
+      "collected_at": "2026-10-04T23:46:21.395227+00:00"
     },
     {
-      "id": "ca2dafe4c1533d2c",
-      "title": "dircue 1.2.0",
-      "link": "https://pypi.org/project/dircue/1.2.0/",
-      "published": "Sat, 03 Oct 2026 23:03:37 GMT",
-      "collected_at": "2026-10-03T23:27:48.548127+00:00"
+      "id": "d2469db2693514fd",
+      "title": "matrx-scheduler 0.3.311",
+      "link": "https://pypi.org/project/matrx-scheduler/0.3.311/",
+      "published": "Sun, 04 Oct 2026 23:19:38 GMT",
+      "collected_at": "2026-10-04T23:46:21.395225+00:00"
     },
     {
-      "id": "b10e4da5b53740cc",
-      "title": "supaapps-platform93-auth 0.2.0",
-      "link": "https://pypi.org/project/supaapps-platform93-auth/0.2.0/",
-      "published": "Sat, 03 Oct 2026 23:03:39 GMT",
-      "collected_at": "2026-10-03T23:27:48.548124+00:00"
+      "id": "77cde8df7b51442a",
+      "title": "rgba 0.3.7",
+      "link": "https://pypi.org/project/rgba/0.3.7/",
+      "published": "Sun, 04 Oct 2026 23:20:05 GMT",
+      "collected_at": "2026-10-04T23:46:21.395223+00:00"
     },
     {
-      "id": "fefa12f3d19aba4d",
-      "title": "supaapps-platform93-webhooks 0.2.0",
-      "link": "https://pypi.org/project/supaapps-platform93-webhooks/0.2.0/",
-      "published": "Sat, 03 Oct 2026 23:03:40 GMT",
-      "collected_at": "2026-10-03T23:27:48.548121+00:00"
+      "id": "41416a7d8263db86",
+      "title": "agnt5 0.14.0",
+      "link": "https://pypi.org/project/agnt5/0.14.0/",
+      "published": "Sun, 04 Oct 2026 23:20:44 GMT",
+      "collected_at": "2026-10-04T23:46:21.395221+00:00"
     },
     {
-      "id": "0d0921ee4cc93369",
-      "title": "kernelbot 0.0.2",
-      "link": "https://pypi.org/project/kernelbot/0.0.2/",
-      "published": "Sat, 03 Oct 2026 23:03:50 GMT",
-      "collected_at": "2026-10-03T23:27:48.548118+00:00"
+      "id": "423d73fe6b0a9c63",
+      "title": "matrx-seo 0.1.326",
+      "link": "https://pypi.org/project/matrx-seo/0.1.326/",
+      "published": "Sun, 04 Oct 2026 23:20:53 GMT",
+      "collected_at": "2026-10-04T23:46:21.395220+00:00"
     },
     {
-      "id": "33b094c24fe8537a",
-      "title": "libb-util 0.0.63",
-      "link": "https://pypi.org/project/libb-util/0.0.63/",
-      "published": "Sat, 03 Oct 2026 23:04:03 GMT",
-      "collected_at": "2026-10-03T23:27:48.548115+00:00"
+      "id": "132912b7d8be76e7",
+      "title": "fosu 0.6.1",
+      "link": "https://pypi.org/project/fosu/0.6.1/",
+      "published": "Sun, 04 Oct 2026 23:21:52 GMT",
+      "collected_at": "2026-10-04T23:46:21.395218+00:00"
     },
     {
-      "id": "2d8e49e9ddec7e98",
-      "title": "servo-client 0.7.6",
-      "link": "https://pypi.org/project/servo-client/0.7.6/",
-      "published": "Sat, 03 Oct 2026 23:04:15 GMT",
-      "collected_at": "2026-10-03T23:27:48.548112+00:00"
+      "id": "c688e2911f4de6be",
+      "title": "spacecrew 1.2.3",
+      "link": "https://pypi.org/project/spacecrew/1.2.3/",
+      "published": "Sun, 04 Oct 2026 23:22:01 GMT",
+      "collected_at": "2026-10-04T23:46:21.395216+00:00"
     },
     {
-      "id": "c538f43fee65ec55",
-      "title": "ida-mcp 20261003.0.1",
-      "link": "https://pypi.org/project/ida-mcp/20261003.0.1/",
-      "published": "Sat, 03 Oct 2026 23:04:51 GMT",
-      "collected_at": "2026-10-03T23:27:48.548109+00:00"
+      "id": "2a283ccebaf59d7e",
+      "title": "authzlock 0.3.0",
+      "link": "https://pypi.org/project/authzlock/0.3.0/",
+      "published": "Sun, 04 Oct 2026 23:22:03 GMT",
+      "collected_at": "2026-10-04T23:46:21.395215+00:00"
     },
     {
-      "id": "84351f64718db594",
-      "title": "datenwissenschaften 3.0.0",
-      "link": "https://pypi.org/project/datenwissenschaften/3.0.0/",
-      "published": "Sat, 03 Oct 2026 23:05:16 GMT",
-      "collected_at": "2026-10-03T23:27:48.548106+00:00"
+      "id": "42c3fd760b5f14cf",
+      "title": "robotframework-snapshot 0.1.0",
+      "link": "https://pypi.org/project/robotframework-snapshot/0.1.0/",
+      "published": "Sun, 04 Oct 2026 23:22:14 GMT",
+      "collected_at": "2026-10-04T23:46:21.395213+00:00"
     },
     {
-      "id": "f3f370ec76f276e9",
-      "title": "z-vision-generator 0.13.0b6",
-      "link": "https://pypi.org/project/z-vision-generator/0.13.0b6/",
-      "published": "Sat, 03 Oct 2026 23:05:30 GMT",
-      "collected_at": "2026-10-03T23:27:48.548103+00:00"
+      "id": "8ed0a2474334e692",
+      "title": "c2cgeoportal-commons 2.8.1.386",
+      "link": "https://pypi.org/project/c2cgeoportal-commons/2.8.1.386/",
+      "published": "Sun, 04 Oct 2026 23:22:24 GMT",
+      "collected_at": "2026-10-04T23:46:21.395212+00:00"
     }
   ]
 }
