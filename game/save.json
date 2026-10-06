@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-10-04T23:46:22.308825+00:00",
+  "updated_at": "2026-10-06T01:37:50.690694+00:00",
   "hero": "kgi8914z",
   "guild": "Overnight Foundry",
   "level": 9,
   "title": "선택하는 주조공",
-  "xp": 5578,
-  "xp_into_level": 178,
+  "xp": 5798,
+  "xp_into_level": 398,
   "xp_for_level": 1350,
   "xp_parts": {
     "unique_users": 40,
     "repeat_users": 0,
     "active_users_1d": 80,
     "api_calls": 0,
-    "dataset_records": 4958,
+    "dataset_records": 5158,
     "paying_users": 0,
     "self_uses_weekly": 60,
     "backlinks": 0,
     "stars": 0,
-    "nights": 440
+    "nights": 460
   },
   "row_gain": 100,
-  "nights": 22,
+  "nights": 23,
   "active_assets": 2,
   "inventory": [
     {
@@ -38,94 +38,94 @@
       "lane": "watch",
       "status": "incubator",
       "rarity": "희귀",
-      "stack": 2479,
+      "stack": 2579,
       "notes": "오늘 무엇이 패키지 세계에 나타났는지 한곳에서 못 본다"
     }
   ],
   "loot": [
     {
-      "id": "e08d3d43bd4bf7cf",
-      "title": "filegrail 1.1.1",
-      "link": "https://pypi.org/project/filegrail/1.1.1/",
-      "published": "Sun, 04 Oct 2026 23:19:04 GMT",
-      "collected_at": "2026-10-04T23:46:21.395230+00:00"
+      "id": "525d9084b6910af7",
+      "title": "nocville 0.2.1",
+      "link": "https://pypi.org/project/nocville/0.2.1/",
+      "published": "Tue, 06 Oct 2026 01:14:50 GMT",
+      "collected_at": "2026-10-06T01:37:47.759899+00:00"
     },
     {
-      "id": "1d677ea6e3e5e7d9",
-      "title": "managed-deepagents 0.8.6.dev7",
-      "link": "https://pypi.org/project/managed-deepagents/0.8.6.dev7/",
-      "published": "Sun, 04 Oct 2026 23:19:09 GMT",
-      "collected_at": "2026-10-04T23:46:21.395229+00:00"
+      "id": "8a1aac817ee24bb0",
+      "title": "piot-fixture-zzz-python-sdist 0.0.1791247698",
+      "link": "https://pypi.org/project/piot-fixture-zzz-python-sdist/0.0.1791247698/",
+      "published": "Tue, 06 Oct 2026 01:14:52 GMT",
+      "collected_at": "2026-10-06T01:37:47.759896+00:00"
     },
     {
-      "id": "e444541f8c47e656",
-      "title": "geoh5vista 0.4.0",
-      "link": "https://pypi.org/project/geoh5vista/0.4.0/",
-      "published": "Sun, 04 Oct 2026 23:19:20 GMT",
-      "collected_at": "2026-10-04T23:46:21.395227+00:00"
+      "id": "28ae3da027d7343e",
+      "title": "card-legal-data 2026.10.6.101427",
+      "link": "https://pypi.org/project/card-legal-data/2026.10.6.101427/",
+      "published": "Tue, 06 Oct 2026 01:15:46 GMT",
+      "collected_at": "2026-10-06T01:37:47.759893+00:00"
     },
     {
-      "id": "d2469db2693514fd",
-      "title": "matrx-scheduler 0.3.311",
-      "link": "https://pypi.org/project/matrx-scheduler/0.3.311/",
-      "published": "Sun, 04 Oct 2026 23:19:38 GMT",
-      "collected_at": "2026-10-04T23:46:21.395225+00:00"
+      "id": "5ed83a7b5941feb3",
+      "title": "card-legal-data-press-fss 2026.10.6.101427",
+      "link": "https://pypi.org/project/card-legal-data-press-fss/2026.10.6.101427/",
+      "published": "Tue, 06 Oct 2026 01:15:48 GMT",
+      "collected_at": "2026-10-06T01:37:47.759890+00:00"
     },
     {
-      "id": "77cde8df7b51442a",
-      "title": "rgba 0.3.7",
-      "link": "https://pypi.org/project/rgba/0.3.7/",
-      "published": "Sun, 04 Oct 2026 23:20:05 GMT",
-      "collected_at": "2026-10-04T23:46:21.395223+00:00"
+      "id": "f8fe01a167ba7192",
+      "title": "card-legal-data-precedents 2026.10.6.101427",
+      "link": "https://pypi.org/project/card-legal-data-precedents/2026.10.6.101427/",
+      "published": "Tue, 06 Oct 2026 01:15:49 GMT",
+      "collected_at": "2026-10-06T01:37:47.759888+00:00"
     },
     {
-      "id": "41416a7d8263db86",
-      "title": "agnt5 0.14.0",
-      "link": "https://pypi.org/project/agnt5/0.14.0/",
-      "published": "Sun, 04 Oct 2026 23:20:44 GMT",
-      "collected_at": "2026-10-04T23:46:21.395221+00:00"
+      "id": "9a2c10ceaf16200a",
+      "title": "card-legal-data-press 2026.10.6.101427",
+      "link": "https://pypi.org/project/card-legal-data-press/2026.10.6.101427/",
+      "published": "Tue, 06 Oct 2026 01:15:53 GMT",
+      "collected_at": "2026-10-06T01:37:47.759885+00:00"
     },
     {
-      "id": "423d73fe6b0a9c63",
-      "title": "matrx-seo 0.1.326",
-      "link": "https://pypi.org/project/matrx-seo/0.1.326/",
-      "published": "Sun, 04 Oct 2026 23:20:53 GMT",
-      "collected_at": "2026-10-04T23:46:21.395220+00:00"
+      "id": "317b58b293032ee1",
+      "title": "card-legal-data-guidelines 2026.10.6.101427",
+      "link": "https://pypi.org/project/card-legal-data-guidelines/2026.10.6.101427/",
+      "published": "Tue, 06 Oct 2026 01:15:58 GMT",
+      "collected_at": "2026-10-06T01:37:47.759882+00:00"
     },
     {
-      "id": "132912b7d8be76e7",
-      "title": "fosu 0.6.1",
-      "link": "https://pypi.org/project/fosu/0.6.1/",
-      "published": "Sun, 04 Oct 2026 23:21:52 GMT",
-      "collected_at": "2026-10-04T23:46:21.395218+00:00"
+      "id": "6f1967d068efd57e",
+      "title": "tree-sitter-kedi 0.4.1",
+      "link": "https://pypi.org/project/tree-sitter-kedi/0.4.1/",
+      "published": "Tue, 06 Oct 2026 01:16:04 GMT",
+      "collected_at": "2026-10-06T01:37:47.759879+00:00"
     },
     {
-      "id": "c688e2911f4de6be",
-      "title": "spacecrew 1.2.3",
-      "link": "https://pypi.org/project/spacecrew/1.2.3/",
-      "published": "Sun, 04 Oct 2026 23:22:01 GMT",
-      "collected_at": "2026-10-04T23:46:21.395216+00:00"
+      "id": "c5f76a4818f36cb7",
+      "title": "ovos-control-panel 0.0.1a52",
+      "link": "https://pypi.org/project/ovos-control-panel/0.0.1a52/",
+      "published": "Tue, 06 Oct 2026 01:16:19 GMT",
+      "collected_at": "2026-10-06T01:37:47.759876+00:00"
     },
     {
-      "id": "2a283ccebaf59d7e",
-      "title": "authzlock 0.3.0",
-      "link": "https://pypi.org/project/authzlock/0.3.0/",
-      "published": "Sun, 04 Oct 2026 23:22:03 GMT",
-      "collected_at": "2026-10-04T23:46:21.395215+00:00"
+      "id": "6fbe156b82db0149",
+      "title": "an 0.1.165",
+      "link": "https://pypi.org/project/an/0.1.165/",
+      "published": "Tue, 06 Oct 2026 01:16:22 GMT",
+      "collected_at": "2026-10-06T01:37:47.759873+00:00"
     },
     {
-      "id": "42c3fd760b5f14cf",
-      "title": "robotframework-snapshot 0.1.0",
-      "link": "https://pypi.org/project/robotframework-snapshot/0.1.0/",
-      "published": "Sun, 04 Oct 2026 23:22:14 GMT",
-      "collected_at": "2026-10-04T23:46:21.395213+00:00"
+      "id": "4e8228a997bd67ef",
+      "title": "sampledisco 0.4.1",
+      "link": "https://pypi.org/project/sampledisco/0.4.1/",
+      "published": "Tue, 06 Oct 2026 01:16:30 GMT",
+      "collected_at": "2026-10-06T01:37:47.759870+00:00"
     },
     {
-      "id": "8ed0a2474334e692",
-      "title": "c2cgeoportal-commons 2.8.1.386",
-      "link": "https://pypi.org/project/c2cgeoportal-commons/2.8.1.386/",
-      "published": "Sun, 04 Oct 2026 23:22:24 GMT",
-      "collected_at": "2026-10-04T23:46:21.395212+00:00"
+      "id": "61891fc66fa3c974",
+      "title": "astralprims 0.7.0",
+      "link": "https://pypi.org/project/astralprims/0.7.0/",
+      "published": "Tue, 06 Oct 2026 01:16:57 GMT",
+      "collected_at": "2026-10-06T01:37:47.759867+00:00"
     }
   ]
 }
