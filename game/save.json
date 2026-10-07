@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-10-06T01:37:50.690694+00:00",
+  "updated_at": "2026-10-07T00:18:56.305738+00:00",
   "hero": "kgi8914z",
   "guild": "Overnight Foundry",
   "level": 9,
   "title": "선택하는 주조공",
-  "xp": 5798,
-  "xp_into_level": 398,
+  "xp": 6018,
+  "xp_into_level": 618,
   "xp_for_level": 1350,
   "xp_parts": {
     "unique_users": 40,
     "repeat_users": 0,
     "active_users_1d": 80,
     "api_calls": 0,
-    "dataset_records": 5158,
+    "dataset_records": 5358,
     "paying_users": 0,
     "self_uses_weekly": 60,
     "backlinks": 0,
     "stars": 0,
-    "nights": 460
+    "nights": 480
   },
   "row_gain": 100,
-  "nights": 23,
+  "nights": 24,
   "active_assets": 2,
   "inventory": [
     {
@@ -38,94 +38,94 @@
       "lane": "watch",
       "status": "incubator",
       "rarity": "희귀",
-      "stack": 2579,
+      "stack": 2679,
       "notes": "오늘 무엇이 패키지 세계에 나타났는지 한곳에서 못 본다"
     }
   ],
   "loot": [
     {
-      "id": "525d9084b6910af7",
-      "title": "nocville 0.2.1",
-      "link": "https://pypi.org/project/nocville/0.2.1/",
-      "published": "Tue, 06 Oct 2026 01:14:50 GMT",
-      "collected_at": "2026-10-06T01:37:47.759899+00:00"
+      "id": "328eed33de1a4c32",
+      "title": "arches 8.2.0a13",
+      "link": "https://pypi.org/project/arches/8.2.0a13/",
+      "published": "Tue, 06 Oct 2026 23:56:40 GMT",
+      "collected_at": "2026-10-07T00:18:55.233046+00:00"
     },
     {
-      "id": "8a1aac817ee24bb0",
-      "title": "piot-fixture-zzz-python-sdist 0.0.1791247698",
-      "link": "https://pypi.org/project/piot-fixture-zzz-python-sdist/0.0.1791247698/",
-      "published": "Tue, 06 Oct 2026 01:14:52 GMT",
-      "collected_at": "2026-10-06T01:37:47.759896+00:00"
+      "id": "c2b6b0474fc66a22",
+      "title": "bughunt 0.10.7",
+      "link": "https://pypi.org/project/bughunt/0.10.7/",
+      "published": "Tue, 06 Oct 2026 23:56:46 GMT",
+      "collected_at": "2026-10-07T00:18:55.233045+00:00"
     },
     {
-      "id": "28ae3da027d7343e",
-      "title": "card-legal-data 2026.10.6.101427",
-      "link": "https://pypi.org/project/card-legal-data/2026.10.6.101427/",
-      "published": "Tue, 06 Oct 2026 01:15:46 GMT",
-      "collected_at": "2026-10-06T01:37:47.759893+00:00"
+      "id": "2570d3fdf1f88a5e",
+      "title": "pyrig 18.99.5",
+      "link": "https://pypi.org/project/pyrig/18.99.5/",
+      "published": "Tue, 06 Oct 2026 23:57:05 GMT",
+      "collected_at": "2026-10-07T00:18:55.233043+00:00"
     },
     {
-      "id": "5ed83a7b5941feb3",
-      "title": "card-legal-data-press-fss 2026.10.6.101427",
-      "link": "https://pypi.org/project/card-legal-data-press-fss/2026.10.6.101427/",
-      "published": "Tue, 06 Oct 2026 01:15:48 GMT",
-      "collected_at": "2026-10-06T01:37:47.759890+00:00"
+      "id": "4966ccc52a7c9596",
+      "title": "pyrig-pypi 3.21.3",
+      "link": "https://pypi.org/project/pyrig-pypi/3.21.3/",
+      "published": "Tue, 06 Oct 2026 23:57:16 GMT",
+      "collected_at": "2026-10-07T00:18:55.233042+00:00"
     },
     {
-      "id": "f8fe01a167ba7192",
-      "title": "card-legal-data-precedents 2026.10.6.101427",
-      "link": "https://pypi.org/project/card-legal-data-precedents/2026.10.6.101427/",
-      "published": "Tue, 06 Oct 2026 01:15:49 GMT",
-      "collected_at": "2026-10-06T01:37:47.759888+00:00"
+      "id": "50eebdfa7fb8c9d0",
+      "title": "qai-hub-models 0.64.0",
+      "link": "https://pypi.org/project/qai-hub-models/0.64.0/",
+      "published": "Tue, 06 Oct 2026 23:57:18 GMT",
+      "collected_at": "2026-10-07T00:18:55.233040+00:00"
     },
     {
-      "id": "9a2c10ceaf16200a",
-      "title": "card-legal-data-press 2026.10.6.101427",
-      "link": "https://pypi.org/project/card-legal-data-press/2026.10.6.101427/",
-      "published": "Tue, 06 Oct 2026 01:15:53 GMT",
-      "collected_at": "2026-10-06T01:37:47.759885+00:00"
+      "id": "97e7de3b9caba52a",
+      "title": "matrx-ai 0.5.511",
+      "link": "https://pypi.org/project/matrx-ai/0.5.511/",
+      "published": "Tue, 06 Oct 2026 23:57:19 GMT",
+      "collected_at": "2026-10-07T00:18:55.233039+00:00"
     },
     {
-      "id": "317b58b293032ee1",
-      "title": "card-legal-data-guidelines 2026.10.6.101427",
-      "link": "https://pypi.org/project/card-legal-data-guidelines/2026.10.6.101427/",
-      "published": "Tue, 06 Oct 2026 01:15:58 GMT",
-      "collected_at": "2026-10-06T01:37:47.759882+00:00"
+      "id": "75d6ed7d3dbbb981",
+      "title": "qai-hub-models-cli 0.64.0",
+      "link": "https://pypi.org/project/qai-hub-models-cli/0.64.0/",
+      "published": "Tue, 06 Oct 2026 23:57:20 GMT",
+      "collected_at": "2026-10-07T00:18:55.233037+00:00"
     },
     {
-      "id": "6f1967d068efd57e",
-      "title": "tree-sitter-kedi 0.4.1",
-      "link": "https://pypi.org/project/tree-sitter-kedi/0.4.1/",
-      "published": "Tue, 06 Oct 2026 01:16:04 GMT",
-      "collected_at": "2026-10-06T01:37:47.759879+00:00"
+      "id": "8f2ff7541e9e3dc6",
+      "title": "usd-exchange 3.0.1rc2",
+      "link": "https://pypi.org/project/usd-exchange/3.0.1rc2/",
+      "published": "Tue, 06 Oct 2026 23:57:27 GMT",
+      "collected_at": "2026-10-07T00:18:55.233036+00:00"
     },
     {
-      "id": "c5f76a4818f36cb7",
-      "title": "ovos-control-panel 0.0.1a52",
-      "link": "https://pypi.org/project/ovos-control-panel/0.0.1a52/",
-      "published": "Tue, 06 Oct 2026 01:16:19 GMT",
-      "collected_at": "2026-10-06T01:37:47.759876+00:00"
+      "id": "6b890481b91f4d7d",
+      "title": "crowdypy 0.5.1rc1",
+      "link": "https://pypi.org/project/crowdypy/0.5.1rc1/",
+      "published": "Tue, 06 Oct 2026 23:57:30 GMT",
+      "collected_at": "2026-10-07T00:18:55.233034+00:00"
     },
     {
-      "id": "6fbe156b82db0149",
-      "title": "an 0.1.165",
-      "link": "https://pypi.org/project/an/0.1.165/",
-      "published": "Tue, 06 Oct 2026 01:16:22 GMT",
-      "collected_at": "2026-10-06T01:37:47.759873+00:00"
+      "id": "5cf53b490ce2a324",
+      "title": "aesim.simba 2026.10.7",
+      "link": "https://pypi.org/project/aesim-simba/2026.10.7/",
+      "published": "Tue, 06 Oct 2026 23:57:43 GMT",
+      "collected_at": "2026-10-07T00:18:55.233033+00:00"
     },
     {
-      "id": "4e8228a997bd67ef",
-      "title": "sampledisco 0.4.1",
-      "link": "https://pypi.org/project/sampledisco/0.4.1/",
-      "published": "Tue, 06 Oct 2026 01:16:30 GMT",
-      "collected_at": "2026-10-06T01:37:47.759870+00:00"
+      "id": "43e217e9e2c6c331",
+      "title": "segmentstream-pipeline 0.1.0a48",
+      "link": "https://pypi.org/project/segmentstream-pipeline/0.1.0a48/",
+      "published": "Tue, 06 Oct 2026 23:57:49 GMT",
+      "collected_at": "2026-10-07T00:18:55.233031+00:00"
     },
     {
-      "id": "61891fc66fa3c974",
-      "title": "astralprims 0.7.0",
-      "link": "https://pypi.org/project/astralprims/0.7.0/",
-      "published": "Tue, 06 Oct 2026 01:16:57 GMT",
-      "collected_at": "2026-10-06T01:37:47.759867+00:00"
+      "id": "a0f6c38a93c9afb5",
+      "title": "firekeep-client 1.7.2",
+      "link": "https://pypi.org/project/firekeep-client/1.7.2/",
+      "published": "Tue, 06 Oct 2026 23:57:49 GMT",
+      "collected_at": "2026-10-07T00:18:55.233030+00:00"
     }
   ]
 }
