@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-10-07T00:18:56.305738+00:00",
+  "updated_at": "2026-10-08T00:39:46.657019+00:00",
   "hero": "kgi8914z",
   "guild": "Overnight Foundry",
   "level": 9,
   "title": "선택하는 주조공",
-  "xp": 6018,
-  "xp_into_level": 618,
+  "xp": 6238,
+  "xp_into_level": 838,
   "xp_for_level": 1350,
   "xp_parts": {
     "unique_users": 40,
     "repeat_users": 0,
     "active_users_1d": 80,
     "api_calls": 0,
-    "dataset_records": 5358,
+    "dataset_records": 5558,
     "paying_users": 0,
     "self_uses_weekly": 60,
     "backlinks": 0,
     "stars": 0,
-    "nights": 480
+    "nights": 500
   },
   "row_gain": 100,
-  "nights": 24,
+  "nights": 25,
   "active_assets": 2,
   "inventory": [
     {
@@ -38,94 +38,94 @@
       "lane": "watch",
       "status": "incubator",
       "rarity": "희귀",
-      "stack": 2679,
+      "stack": 2779,
       "notes": "오늘 무엇이 패키지 세계에 나타났는지 한곳에서 못 본다"
     }
   ],
   "loot": [
     {
-      "id": "328eed33de1a4c32",
-      "title": "arches 8.2.0a13",
-      "link": "https://pypi.org/project/arches/8.2.0a13/",
-      "published": "Tue, 06 Oct 2026 23:56:40 GMT",
-      "collected_at": "2026-10-07T00:18:55.233046+00:00"
+      "id": "d4ac5be66602e526",
+      "title": "regula-facesdk-webclient 8.4.876.dev0",
+      "link": "https://pypi.org/project/regula-facesdk-webclient/8.4.876.dev0/",
+      "published": "Thu, 08 Oct 2026 00:21:27 GMT",
+      "collected_at": "2026-10-08T00:39:44.423347+00:00"
     },
     {
-      "id": "c2b6b0474fc66a22",
-      "title": "bughunt 0.10.7",
-      "link": "https://pypi.org/project/bughunt/0.10.7/",
-      "published": "Tue, 06 Oct 2026 23:56:46 GMT",
-      "collected_at": "2026-10-07T00:18:55.233045+00:00"
+      "id": "a7301e1f8979a613",
+      "title": "flyteidl2 2.0.51",
+      "link": "https://pypi.org/project/flyteidl2/2.0.51/",
+      "published": "Thu, 08 Oct 2026 00:21:31 GMT",
+      "collected_at": "2026-10-08T00:39:44.423345+00:00"
     },
     {
-      "id": "2570d3fdf1f88a5e",
-      "title": "pyrig 18.99.5",
-      "link": "https://pypi.org/project/pyrig/18.99.5/",
-      "published": "Tue, 06 Oct 2026 23:57:05 GMT",
-      "collected_at": "2026-10-07T00:18:55.233043+00:00"
+      "id": "3471503edc7a868a",
+      "title": "packingsolver 0.1.1126",
+      "link": "https://pypi.org/project/packingsolver/0.1.1126/",
+      "published": "Thu, 08 Oct 2026 00:21:34 GMT",
+      "collected_at": "2026-10-08T00:39:44.423344+00:00"
     },
     {
-      "id": "4966ccc52a7c9596",
-      "title": "pyrig-pypi 3.21.3",
-      "link": "https://pypi.org/project/pyrig-pypi/3.21.3/",
-      "published": "Tue, 06 Oct 2026 23:57:16 GMT",
-      "collected_at": "2026-10-07T00:18:55.233042+00:00"
+      "id": "60d5cfef05c0a98d",
+      "title": "zwischen 0.69.1",
+      "link": "https://pypi.org/project/zwischen/0.69.1/",
+      "published": "Thu, 08 Oct 2026 00:22:14 GMT",
+      "collected_at": "2026-10-08T00:39:44.423342+00:00"
     },
     {
-      "id": "50eebdfa7fb8c9d0",
-      "title": "qai-hub-models 0.64.0",
-      "link": "https://pypi.org/project/qai-hub-models/0.64.0/",
-      "published": "Tue, 06 Oct 2026 23:57:18 GMT",
-      "collected_at": "2026-10-07T00:18:55.233040+00:00"
+      "id": "0658a1b35fc80554",
+      "title": "novafabric 0.104.0",
+      "link": "https://pypi.org/project/novafabric/0.104.0/",
+      "published": "Thu, 08 Oct 2026 00:22:57 GMT",
+      "collected_at": "2026-10-08T00:39:44.423340+00:00"
     },
     {
-      "id": "97e7de3b9caba52a",
-      "title": "matrx-ai 0.5.511",
-      "link": "https://pypi.org/project/matrx-ai/0.5.511/",
-      "published": "Tue, 06 Oct 2026 23:57:19 GMT",
-      "collected_at": "2026-10-07T00:18:55.233039+00:00"
+      "id": "99e3095daa9123f3",
+      "title": "databricks-connect 18.3.6",
+      "link": "https://pypi.org/project/databricks-connect/18.3.6/",
+      "published": "Thu, 08 Oct 2026 00:23:00 GMT",
+      "collected_at": "2026-10-08T00:39:44.423339+00:00"
     },
     {
-      "id": "75d6ed7d3dbbb981",
-      "title": "qai-hub-models-cli 0.64.0",
-      "link": "https://pypi.org/project/qai-hub-models-cli/0.64.0/",
-      "published": "Tue, 06 Oct 2026 23:57:20 GMT",
-      "collected_at": "2026-10-07T00:18:55.233037+00:00"
+      "id": "c4559104491197d0",
+      "title": "kre-mcp 0.1.0",
+      "link": "https://pypi.org/project/kre-mcp/0.1.0/",
+      "published": "Thu, 08 Oct 2026 00:23:14 GMT",
+      "collected_at": "2026-10-08T00:39:44.423337+00:00"
     },
     {
-      "id": "8f2ff7541e9e3dc6",
-      "title": "usd-exchange 3.0.1rc2",
-      "link": "https://pypi.org/project/usd-exchange/3.0.1rc2/",
-      "published": "Tue, 06 Oct 2026 23:57:27 GMT",
-      "collected_at": "2026-10-07T00:18:55.233036+00:00"
+      "id": "201852488b81fde7",
+      "title": "pytorches-universe 0.1.0",
+      "link": "https://pypi.org/project/pytorches-universe/0.1.0/",
+      "published": "Thu, 08 Oct 2026 00:23:19 GMT",
+      "collected_at": "2026-10-08T00:39:44.423335+00:00"
     },
     {
-      "id": "6b890481b91f4d7d",
-      "title": "crowdypy 0.5.1rc1",
-      "link": "https://pypi.org/project/crowdypy/0.5.1rc1/",
-      "published": "Tue, 06 Oct 2026 23:57:30 GMT",
-      "collected_at": "2026-10-07T00:18:55.233034+00:00"
+      "id": "b79f66e0e41c0cbb",
+      "title": "matrx-orm 3.1.221",
+      "link": "https://pypi.org/project/matrx-orm/3.1.221/",
+      "published": "Thu, 08 Oct 2026 00:23:33 GMT",
+      "collected_at": "2026-10-08T00:39:44.423333+00:00"
     },
     {
-      "id": "5cf53b490ce2a324",
-      "title": "aesim.simba 2026.10.7",
-      "link": "https://pypi.org/project/aesim-simba/2026.10.7/",
-      "published": "Tue, 06 Oct 2026 23:57:43 GMT",
-      "collected_at": "2026-10-07T00:18:55.233033+00:00"
+      "id": "536c4e2cfdb7c1b7",
+      "title": "baucli 1.0.132",
+      "link": "https://pypi.org/project/baucli/1.0.132/",
+      "published": "Thu, 08 Oct 2026 00:23:33 GMT",
+      "collected_at": "2026-10-08T00:39:44.423332+00:00"
     },
     {
-      "id": "43e217e9e2c6c331",
-      "title": "segmentstream-pipeline 0.1.0a48",
-      "link": "https://pypi.org/project/segmentstream-pipeline/0.1.0a48/",
-      "published": "Tue, 06 Oct 2026 23:57:49 GMT",
-      "collected_at": "2026-10-07T00:18:55.233031+00:00"
+      "id": "308b08fc589cec14",
+      "title": "virtuai-cli 1.0.3",
+      "link": "https://pypi.org/project/virtuai-cli/1.0.3/",
+      "published": "Thu, 08 Oct 2026 00:23:35 GMT",
+      "collected_at": "2026-10-08T00:39:44.423330+00:00"
     },
     {
-      "id": "a0f6c38a93c9afb5",
-      "title": "firekeep-client 1.7.2",
-      "link": "https://pypi.org/project/firekeep-client/1.7.2/",
-      "published": "Tue, 06 Oct 2026 23:57:49 GMT",
-      "collected_at": "2026-10-07T00:18:55.233030+00:00"
+      "id": "7ce6aad0e18dfe2e",
+      "title": "bugwhisper 0.1.0",
+      "link": "https://pypi.org/project/bugwhisper/0.1.0/",
+      "published": "Thu, 08 Oct 2026 00:23:44 GMT",
+      "collected_at": "2026-10-08T00:39:44.423328+00:00"
     }
   ]
 }
