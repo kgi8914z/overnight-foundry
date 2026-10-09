@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-10-08T00:39:46.657019+00:00",
+  "updated_at": "2026-10-09T00:55:38.105165+00:00",
   "hero": "kgi8914z",
   "guild": "Overnight Foundry",
   "level": 9,
   "title": "선택하는 주조공",
-  "xp": 6238,
-  "xp_into_level": 838,
+  "xp": 6458,
+  "xp_into_level": 1058,
   "xp_for_level": 1350,
   "xp_parts": {
     "unique_users": 40,
     "repeat_users": 0,
     "active_users_1d": 80,
     "api_calls": 0,
-    "dataset_records": 5558,
+    "dataset_records": 5758,
     "paying_users": 0,
     "self_uses_weekly": 60,
     "backlinks": 0,
     "stars": 0,
-    "nights": 500
+    "nights": 520
   },
   "row_gain": 100,
-  "nights": 25,
+  "nights": 26,
   "active_assets": 2,
   "inventory": [
     {
@@ -38,94 +38,94 @@
       "lane": "watch",
       "status": "incubator",
       "rarity": "희귀",
-      "stack": 2779,
+      "stack": 2879,
       "notes": "오늘 무엇이 패키지 세계에 나타났는지 한곳에서 못 본다"
     }
   ],
   "loot": [
     {
-      "id": "d4ac5be66602e526",
-      "title": "regula-facesdk-webclient 8.4.876.dev0",
-      "link": "https://pypi.org/project/regula-facesdk-webclient/8.4.876.dev0/",
-      "published": "Thu, 08 Oct 2026 00:21:27 GMT",
-      "collected_at": "2026-10-08T00:39:44.423347+00:00"
+      "id": "0d86dc3d26350bab",
+      "title": "tag-keeper 0.6.0",
+      "link": "https://pypi.org/project/tag-keeper/0.6.0/",
+      "published": "Fri, 09 Oct 2026 00:35:13 GMT",
+      "collected_at": "2026-10-09T00:55:33.598233+00:00"
     },
     {
-      "id": "a7301e1f8979a613",
-      "title": "flyteidl2 2.0.51",
-      "link": "https://pypi.org/project/flyteidl2/2.0.51/",
-      "published": "Thu, 08 Oct 2026 00:21:31 GMT",
-      "collected_at": "2026-10-08T00:39:44.423345+00:00"
+      "id": "10bf1a93b4df9fc7",
+      "title": "mcp-server-appwrite 1.0.9",
+      "link": "https://pypi.org/project/mcp-server-appwrite/1.0.9/",
+      "published": "Fri, 09 Oct 2026 00:35:21 GMT",
+      "collected_at": "2026-10-09T00:55:33.598230+00:00"
     },
     {
-      "id": "3471503edc7a868a",
-      "title": "packingsolver 0.1.1126",
-      "link": "https://pypi.org/project/packingsolver/0.1.1126/",
-      "published": "Thu, 08 Oct 2026 00:21:34 GMT",
-      "collected_at": "2026-10-08T00:39:44.423344+00:00"
+      "id": "993d2fca68a2ab99",
+      "title": "ttok 1.0",
+      "link": "https://pypi.org/project/ttok/1.0/",
+      "published": "Fri, 09 Oct 2026 00:35:54 GMT",
+      "collected_at": "2026-10-09T00:55:33.598227+00:00"
     },
     {
-      "id": "60d5cfef05c0a98d",
-      "title": "zwischen 0.69.1",
-      "link": "https://pypi.org/project/zwischen/0.69.1/",
-      "published": "Thu, 08 Oct 2026 00:22:14 GMT",
-      "collected_at": "2026-10-08T00:39:44.423342+00:00"
+      "id": "ae85a62aa6c6b402",
+      "title": "cadence-net 0.79.0",
+      "link": "https://pypi.org/project/cadence-net/0.79.0/",
+      "published": "Fri, 09 Oct 2026 00:36:28 GMT",
+      "collected_at": "2026-10-09T00:55:33.598224+00:00"
     },
     {
-      "id": "0658a1b35fc80554",
-      "title": "novafabric 0.104.0",
-      "link": "https://pypi.org/project/novafabric/0.104.0/",
-      "published": "Thu, 08 Oct 2026 00:22:57 GMT",
-      "collected_at": "2026-10-08T00:39:44.423340+00:00"
+      "id": "14e61d2fd42aba75",
+      "title": "myous 0.5.2",
+      "link": "https://pypi.org/project/myous/0.5.2/",
+      "published": "Fri, 09 Oct 2026 00:36:50 GMT",
+      "collected_at": "2026-10-09T00:55:33.598221+00:00"
     },
     {
-      "id": "99e3095daa9123f3",
-      "title": "databricks-connect 18.3.6",
-      "link": "https://pypi.org/project/databricks-connect/18.3.6/",
-      "published": "Thu, 08 Oct 2026 00:23:00 GMT",
-      "collected_at": "2026-10-08T00:39:44.423339+00:00"
+      "id": "d6585c8f8b771bd2",
+      "title": "falsesync 0.1.2",
+      "link": "https://pypi.org/project/falsesync/0.1.2/",
+      "published": "Fri, 09 Oct 2026 00:36:58 GMT",
+      "collected_at": "2026-10-09T00:55:33.598218+00:00"
     },
     {
-      "id": "c4559104491197d0",
-      "title": "kre-mcp 0.1.0",
-      "link": "https://pypi.org/project/kre-mcp/0.1.0/",
-      "published": "Thu, 08 Oct 2026 00:23:14 GMT",
-      "collected_at": "2026-10-08T00:39:44.423337+00:00"
+      "id": "19a97c6c2d43c7a6",
+      "title": "magnet-scout 0.2.1",
+      "link": "https://pypi.org/project/magnet-scout/0.2.1/",
+      "published": "Fri, 09 Oct 2026 00:37:05 GMT",
+      "collected_at": "2026-10-09T00:55:33.598216+00:00"
     },
     {
-      "id": "201852488b81fde7",
-      "title": "pytorches-universe 0.1.0",
-      "link": "https://pypi.org/project/pytorches-universe/0.1.0/",
-      "published": "Thu, 08 Oct 2026 00:23:19 GMT",
-      "collected_at": "2026-10-08T00:39:44.423335+00:00"
+      "id": "61493c1a785a5a8e",
+      "title": "exomem 0.112.0",
+      "link": "https://pypi.org/project/exomem/0.112.0/",
+      "published": "Fri, 09 Oct 2026 00:37:12 GMT",
+      "collected_at": "2026-10-09T00:55:33.598213+00:00"
     },
     {
-      "id": "b79f66e0e41c0cbb",
-      "title": "matrx-orm 3.1.221",
-      "link": "https://pypi.org/project/matrx-orm/3.1.221/",
-      "published": "Thu, 08 Oct 2026 00:23:33 GMT",
-      "collected_at": "2026-10-08T00:39:44.423333+00:00"
+      "id": "d5fb7f7c61c71316",
+      "title": "agentic-runner-contracts 3.7.0",
+      "link": "https://pypi.org/project/agentic-runner-contracts/3.7.0/",
+      "published": "Fri, 09 Oct 2026 00:37:24 GMT",
+      "collected_at": "2026-10-09T00:55:33.598210+00:00"
     },
     {
-      "id": "536c4e2cfdb7c1b7",
-      "title": "baucli 1.0.132",
-      "link": "https://pypi.org/project/baucli/1.0.132/",
-      "published": "Thu, 08 Oct 2026 00:23:33 GMT",
-      "collected_at": "2026-10-08T00:39:44.423332+00:00"
+      "id": "20d4e6295a298209",
+      "title": "nba-video-generator 5.0.8",
+      "link": "https://pypi.org/project/nba-video-generator/5.0.8/",
+      "published": "Fri, 09 Oct 2026 00:37:28 GMT",
+      "collected_at": "2026-10-09T00:55:33.598207+00:00"
     },
     {
-      "id": "308b08fc589cec14",
-      "title": "virtuai-cli 1.0.3",
-      "link": "https://pypi.org/project/virtuai-cli/1.0.3/",
-      "published": "Thu, 08 Oct 2026 00:23:35 GMT",
-      "collected_at": "2026-10-08T00:39:44.423330+00:00"
+      "id": "b3b0bc9bbe785d47",
+      "title": "agentic-runner 3.7.0",
+      "link": "https://pypi.org/project/agentic-runner/3.7.0/",
+      "published": "Fri, 09 Oct 2026 00:37:46 GMT",
+      "collected_at": "2026-10-09T00:55:33.598204+00:00"
     },
     {
-      "id": "7ce6aad0e18dfe2e",
-      "title": "bugwhisper 0.1.0",
-      "link": "https://pypi.org/project/bugwhisper/0.1.0/",
-      "published": "Thu, 08 Oct 2026 00:23:44 GMT",
-      "collected_at": "2026-10-08T00:39:44.423328+00:00"
+      "id": "0c76784e4ca63046",
+      "title": "hyperverse 0.0.1",
+      "link": "https://pypi.org/project/hyperverse/0.0.1/",
+      "published": "Fri, 09 Oct 2026 00:38:00 GMT",
+      "collected_at": "2026-10-09T00:55:33.598201+00:00"
     }
   ]
 }
