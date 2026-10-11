@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-10-10T00:26:41.787606+00:00",
+  "updated_at": "2026-10-11T00:03:21.501805+00:00",
   "hero": "kgi8914z",
   "guild": "Overnight Foundry",
-  "level": 9,
+  "level": 10,
   "title": "선택하는 주조공",
-  "xp": 6678,
-  "xp_into_level": 1278,
-  "xp_for_level": 1350,
+  "xp": 6898,
+  "xp_into_level": 148,
+  "xp_for_level": 1500,
   "xp_parts": {
     "unique_users": 40,
     "repeat_users": 0,
     "active_users_1d": 80,
     "api_calls": 0,
-    "dataset_records": 5958,
+    "dataset_records": 6158,
     "paying_users": 0,
     "self_uses_weekly": 60,
     "backlinks": 0,
     "stars": 0,
-    "nights": 540
+    "nights": 560
   },
   "row_gain": 100,
-  "nights": 27,
+  "nights": 28,
   "active_assets": 2,
   "inventory": [
     {
@@ -38,94 +38,94 @@
       "lane": "watch",
       "status": "incubator",
       "rarity": "희귀",
-      "stack": 2979,
+      "stack": 3079,
       "notes": "오늘 무엇이 패키지 세계에 나타났는지 한곳에서 못 본다"
     }
   ],
   "loot": [
     {
-      "id": "6630f8a6488f1d59",
-      "title": "pbix-mcp 0.9.133",
-      "link": "https://pypi.org/project/pbix-mcp/0.9.133/",
-      "published": "Fri, 09 Oct 2026 23:42:50 GMT",
-      "collected_at": "2026-10-10T00:26:40.647715+00:00"
+      "id": "010e51ed48f377b4",
+      "title": "olmoearth-inferencex 1.9.0",
+      "link": "https://pypi.org/project/olmoearth-inferencex/1.9.0/",
+      "published": "Sat, 10 Oct 2026 23:34:43 GMT",
+      "collected_at": "2026-10-11T00:03:20.415465+00:00"
     },
     {
-      "id": "7e46d5f2031d0637",
-      "title": "akosha 0.23.0",
-      "link": "https://pypi.org/project/akosha/0.23.0/",
-      "published": "Fri, 09 Oct 2026 23:42:52 GMT",
-      "collected_at": "2026-10-10T00:26:40.647712+00:00"
+      "id": "955c76a97650706c",
+      "title": "agentmandate 0.26.1",
+      "link": "https://pypi.org/project/agentmandate/0.26.1/",
+      "published": "Sat, 10 Oct 2026 23:34:47 GMT",
+      "collected_at": "2026-10-11T00:03:20.415462+00:00"
     },
     {
-      "id": "2d3a75e5986190d2",
-      "title": "kakaorm 0.4.9",
-      "link": "https://pypi.org/project/kakaorm/0.4.9/",
-      "published": "Fri, 09 Oct 2026 23:43:01 GMT",
-      "collected_at": "2026-10-10T00:26:40.647709+00:00"
+      "id": "c7a224dd2f997d06",
+      "title": "pyonir 0.2.3",
+      "link": "https://pypi.org/project/pyonir/0.2.3/",
+      "published": "Sat, 10 Oct 2026 23:35:17 GMT",
+      "collected_at": "2026-10-11T00:03:20.415460+00:00"
     },
     {
-      "id": "7ec046952d648a3c",
-      "title": "librus-synergia 0.3.18",
-      "link": "https://pypi.org/project/librus-synergia/0.3.18/",
-      "published": "Fri, 09 Oct 2026 23:43:09 GMT",
-      "collected_at": "2026-10-10T00:26:40.647705+00:00"
+      "id": "8b391df48fc50a50",
+      "title": "yt-dlp 2026.10.10.233141.dev0",
+      "link": "https://pypi.org/project/yt-dlp/2026.10.10.233141.dev0/",
+      "published": "Sat, 10 Oct 2026 23:35:30 GMT",
+      "collected_at": "2026-10-11T00:03:20.415457+00:00"
     },
     {
-      "id": "4c417eb36a90dd97",
-      "title": "cozy-runtime 0.23.2",
-      "link": "https://pypi.org/project/cozy-runtime/0.23.2/",
-      "published": "Fri, 09 Oct 2026 23:43:13 GMT",
-      "collected_at": "2026-10-10T00:26:40.647702+00:00"
+      "id": "bb157e1d45f74c1f",
+      "title": "pretorin 0.30.3",
+      "link": "https://pypi.org/project/pretorin/0.30.3/",
+      "published": "Sat, 10 Oct 2026 23:36:42 GMT",
+      "collected_at": "2026-10-11T00:03:20.415454+00:00"
     },
     {
-      "id": "858ffb303aad3d93",
-      "title": "hammerdown 1.3.1",
-      "link": "https://pypi.org/project/hammerdown/1.3.1/",
-      "published": "Fri, 09 Oct 2026 23:43:18 GMT",
-      "collected_at": "2026-10-10T00:26:40.647698+00:00"
+      "id": "59a4cf204c8eac9f",
+      "title": "kalshi-sdk 21.0.0",
+      "link": "https://pypi.org/project/kalshi-sdk/21.0.0/",
+      "published": "Sat, 10 Oct 2026 23:36:51 GMT",
+      "collected_at": "2026-10-11T00:03:20.415452+00:00"
     },
     {
-      "id": "6c695f9efe1c7065",
-      "title": "deltanet-tpu 0.2.0",
-      "link": "https://pypi.org/project/deltanet-tpu/0.2.0/",
-      "published": "Fri, 09 Oct 2026 23:43:19 GMT",
-      "collected_at": "2026-10-10T00:26:40.647695+00:00"
+      "id": "ee7e435ee4e006f5",
+      "title": "nemo-retriever 2026.10.10.dev690",
+      "link": "https://pypi.org/project/nemo-retriever/2026.10.10.dev690/",
+      "published": "Sat, 10 Oct 2026 23:37:07 GMT",
+      "collected_at": "2026-10-11T00:03:20.415449+00:00"
     },
     {
-      "id": "f55e9a308cb5fb8d",
-      "title": "patcherly-connector 2.11.3",
-      "link": "https://pypi.org/project/patcherly-connector/2.11.3/",
-      "published": "Fri, 09 Oct 2026 23:43:19 GMT",
-      "collected_at": "2026-10-10T00:26:40.647691+00:00"
+      "id": "4ef24d52bb3d85e7",
+      "title": "wnnlib 0.2.0",
+      "link": "https://pypi.org/project/wnnlib/0.2.0/",
+      "published": "Sat, 10 Oct 2026 23:37:24 GMT",
+      "collected_at": "2026-10-11T00:03:20.415446+00:00"
     },
     {
-      "id": "273c480e413fbc4e",
-      "title": "chalkruntime 3.43.63",
-      "link": "https://pypi.org/project/chalkruntime/3.43.63/",
-      "published": "Fri, 09 Oct 2026 23:43:25 GMT",
-      "collected_at": "2026-10-10T00:26:40.647687+00:00"
+      "id": "bc32511627ed73e7",
+      "title": "rietx-kernels 1.1.0",
+      "link": "https://pypi.org/project/rietx-kernels/1.1.0/",
+      "published": "Sat, 10 Oct 2026 23:37:26 GMT",
+      "collected_at": "2026-10-11T00:03:20.415444+00:00"
     },
     {
-      "id": "3439b7de9e5178c6",
-      "title": "datacache 1.24.0",
-      "link": "https://pypi.org/project/datacache/1.24.0/",
-      "published": "Fri, 09 Oct 2026 23:43:37 GMT",
-      "collected_at": "2026-10-10T00:26:40.647684+00:00"
+      "id": "68cf6f653739063c",
+      "title": "blazing-agents 0.19.0",
+      "link": "https://pypi.org/project/blazing-agents/0.19.0/",
+      "published": "Sat, 10 Oct 2026 23:37:30 GMT",
+      "collected_at": "2026-10-11T00:03:20.415441+00:00"
     },
     {
-      "id": "fa73d3b26dee4e35",
-      "title": "sloptrace 0.0.3",
-      "link": "https://pypi.org/project/sloptrace/0.0.3/",
-      "published": "Fri, 09 Oct 2026 23:43:43 GMT",
-      "collected_at": "2026-10-10T00:26:40.647679+00:00"
+      "id": "8e67ee99217738c2",
+      "title": "ghost-seatbelt 0.3.0",
+      "link": "https://pypi.org/project/ghost-seatbelt/0.3.0/",
+      "published": "Sat, 10 Oct 2026 23:37:33 GMT",
+      "collected_at": "2026-10-11T00:03:20.415439+00:00"
     },
     {
-      "id": "f4351663a2f10e7e",
-      "title": "desktopaccountingapi-quickbooks-desktop 0.5.4",
-      "link": "https://pypi.org/project/desktopaccountingapi-quickbooks-desktop/0.5.4/",
-      "published": "Fri, 09 Oct 2026 23:43:55 GMT",
-      "collected_at": "2026-10-10T00:26:40.647676+00:00"
+      "id": "ee3b2d83d388b4e7",
+      "title": "dreamscale 0.1.0a61",
+      "link": "https://pypi.org/project/dreamscale/0.1.0a61/",
+      "published": "Sat, 10 Oct 2026 23:37:34 GMT",
+      "collected_at": "2026-10-11T00:03:20.415436+00:00"
     }
   ]
 }
