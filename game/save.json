@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-10-11T00:03:21.501805+00:00",
+  "updated_at": "2026-10-12T00:08:47.270764+00:00",
   "hero": "kgi8914z",
   "guild": "Overnight Foundry",
   "level": 10,
   "title": "선택하는 주조공",
-  "xp": 6898,
-  "xp_into_level": 148,
+  "xp": 7118,
+  "xp_into_level": 368,
   "xp_for_level": 1500,
   "xp_parts": {
     "unique_users": 40,
     "repeat_users": 0,
     "active_users_1d": 80,
     "api_calls": 0,
-    "dataset_records": 6158,
+    "dataset_records": 6358,
     "paying_users": 0,
     "self_uses_weekly": 60,
     "backlinks": 0,
     "stars": 0,
-    "nights": 560
+    "nights": 580
   },
   "row_gain": 100,
-  "nights": 28,
+  "nights": 29,
   "active_assets": 2,
   "inventory": [
     {
@@ -38,94 +38,94 @@
       "lane": "watch",
       "status": "incubator",
       "rarity": "희귀",
-      "stack": 3079,
+      "stack": 3179,
       "notes": "오늘 무엇이 패키지 세계에 나타났는지 한곳에서 못 본다"
     }
   ],
   "loot": [
     {
-      "id": "010e51ed48f377b4",
-      "title": "olmoearth-inferencex 1.9.0",
-      "link": "https://pypi.org/project/olmoearth-inferencex/1.9.0/",
-      "published": "Sat, 10 Oct 2026 23:34:43 GMT",
-      "collected_at": "2026-10-11T00:03:20.415465+00:00"
+      "id": "07616ff6e3ed8b64",
+      "title": "reviso-cli 0.2.0",
+      "link": "https://pypi.org/project/reviso-cli/0.2.0/",
+      "published": "Sun, 11 Oct 2026 23:46:15 GMT",
+      "collected_at": "2026-10-12T00:08:43.163765+00:00"
     },
     {
-      "id": "955c76a97650706c",
-      "title": "agentmandate 0.26.1",
-      "link": "https://pypi.org/project/agentmandate/0.26.1/",
-      "published": "Sat, 10 Oct 2026 23:34:47 GMT",
-      "collected_at": "2026-10-11T00:03:20.415462+00:00"
+      "id": "f8075d65d688058f",
+      "title": "google-adk-scavio 0.4.1",
+      "link": "https://pypi.org/project/google-adk-scavio/0.4.1/",
+      "published": "Sun, 11 Oct 2026 23:46:19 GMT",
+      "collected_at": "2026-10-12T00:08:43.163763+00:00"
     },
     {
-      "id": "c7a224dd2f997d06",
-      "title": "pyonir 0.2.3",
-      "link": "https://pypi.org/project/pyonir/0.2.3/",
-      "published": "Sat, 10 Oct 2026 23:35:17 GMT",
-      "collected_at": "2026-10-11T00:03:20.415460+00:00"
+      "id": "0d6b115fc38d37e0",
+      "title": "openai-agents-scavio 0.5.1",
+      "link": "https://pypi.org/project/openai-agents-scavio/0.5.1/",
+      "published": "Sun, 11 Oct 2026 23:46:23 GMT",
+      "collected_at": "2026-10-12T00:08:43.163760+00:00"
     },
     {
-      "id": "8b391df48fc50a50",
-      "title": "yt-dlp 2026.10.10.233141.dev0",
-      "link": "https://pypi.org/project/yt-dlp/2026.10.10.233141.dev0/",
-      "published": "Sat, 10 Oct 2026 23:35:30 GMT",
-      "collected_at": "2026-10-11T00:03:20.415457+00:00"
+      "id": "d1ddf16d1c15a494",
+      "title": "llama-index-tools-scavio 0.3.1",
+      "link": "https://pypi.org/project/llama-index-tools-scavio/0.3.1/",
+      "published": "Sun, 11 Oct 2026 23:46:27 GMT",
+      "collected_at": "2026-10-12T00:08:43.163758+00:00"
     },
     {
-      "id": "bb157e1d45f74c1f",
-      "title": "pretorin 0.30.3",
-      "link": "https://pypi.org/project/pretorin/0.30.3/",
-      "published": "Sat, 10 Oct 2026 23:36:42 GMT",
-      "collected_at": "2026-10-11T00:03:20.415454+00:00"
+      "id": "f581748f97e16914",
+      "title": "autogen-scavio 0.8.1",
+      "link": "https://pypi.org/project/autogen-scavio/0.8.1/",
+      "published": "Sun, 11 Oct 2026 23:46:29 GMT",
+      "collected_at": "2026-10-12T00:08:43.163755+00:00"
     },
     {
-      "id": "59a4cf204c8eac9f",
-      "title": "kalshi-sdk 21.0.0",
-      "link": "https://pypi.org/project/kalshi-sdk/21.0.0/",
-      "published": "Sat, 10 Oct 2026 23:36:51 GMT",
-      "collected_at": "2026-10-11T00:03:20.415452+00:00"
+      "id": "2bca5f8fbc7a14a2",
+      "title": "pydantic-scavio 0.1.3",
+      "link": "https://pypi.org/project/pydantic-scavio/0.1.3/",
+      "published": "Sun, 11 Oct 2026 23:46:31 GMT",
+      "collected_at": "2026-10-12T00:08:43.163753+00:00"
     },
     {
-      "id": "ee7e435ee4e006f5",
-      "title": "nemo-retriever 2026.10.10.dev690",
-      "link": "https://pypi.org/project/nemo-retriever/2026.10.10.dev690/",
-      "published": "Sat, 10 Oct 2026 23:37:07 GMT",
-      "collected_at": "2026-10-11T00:03:20.415449+00:00"
+      "id": "984a7beb8b180bf5",
+      "title": "lattice-grid-pandas 1.99.0.0",
+      "link": "https://pypi.org/project/lattice-grid-pandas/1.99.0.0/",
+      "published": "Sun, 11 Oct 2026 23:46:32 GMT",
+      "collected_at": "2026-10-12T00:08:43.163750+00:00"
     },
     {
-      "id": "4ef24d52bb3d85e7",
-      "title": "wnnlib 0.2.0",
-      "link": "https://pypi.org/project/wnnlib/0.2.0/",
-      "published": "Sat, 10 Oct 2026 23:37:24 GMT",
-      "collected_at": "2026-10-11T00:03:20.415446+00:00"
+      "id": "5dfb992cd0214af3",
+      "title": "lattice-grid-jupyter 1.99.0.0",
+      "link": "https://pypi.org/project/lattice-grid-jupyter/1.99.0.0/",
+      "published": "Sun, 11 Oct 2026 23:46:34 GMT",
+      "collected_at": "2026-10-12T00:08:43.163747+00:00"
     },
     {
-      "id": "bc32511627ed73e7",
-      "title": "rietx-kernels 1.1.0",
-      "link": "https://pypi.org/project/rietx-kernels/1.1.0/",
-      "published": "Sat, 10 Oct 2026 23:37:26 GMT",
-      "collected_at": "2026-10-11T00:03:20.415444+00:00"
+      "id": "26e17c53420d5bb9",
+      "title": "pysvf 1.0.0.47",
+      "link": "https://pypi.org/project/pysvf/1.0.0.47/",
+      "published": "Sun, 11 Oct 2026 23:46:35 GMT",
+      "collected_at": "2026-10-12T00:08:43.163745+00:00"
     },
     {
-      "id": "68cf6f653739063c",
-      "title": "blazing-agents 0.19.0",
-      "link": "https://pypi.org/project/blazing-agents/0.19.0/",
-      "published": "Sat, 10 Oct 2026 23:37:30 GMT",
-      "collected_at": "2026-10-11T00:03:20.415441+00:00"
+      "id": "d50bfcff9e84041c",
+      "title": "lattice-grid-dash 1.99.0.0",
+      "link": "https://pypi.org/project/lattice-grid-dash/1.99.0.0/",
+      "published": "Sun, 11 Oct 2026 23:46:37 GMT",
+      "collected_at": "2026-10-12T00:08:43.163742+00:00"
     },
     {
-      "id": "8e67ee99217738c2",
-      "title": "ghost-seatbelt 0.3.0",
-      "link": "https://pypi.org/project/ghost-seatbelt/0.3.0/",
-      "published": "Sat, 10 Oct 2026 23:37:33 GMT",
-      "collected_at": "2026-10-11T00:03:20.415439+00:00"
+      "id": "e4facddea12acd91",
+      "title": "eawf 0.7.0rc2",
+      "link": "https://pypi.org/project/eawf/0.7.0rc2/",
+      "published": "Sun, 11 Oct 2026 23:46:59 GMT",
+      "collected_at": "2026-10-12T00:08:43.163740+00:00"
     },
     {
-      "id": "ee3b2d83d388b4e7",
-      "title": "dreamscale 0.1.0a61",
-      "link": "https://pypi.org/project/dreamscale/0.1.0a61/",
-      "published": "Sat, 10 Oct 2026 23:37:34 GMT",
-      "collected_at": "2026-10-11T00:03:20.415436+00:00"
+      "id": "4e1cf42fb9623550",
+      "title": "langchain-scavio 4.2.1",
+      "link": "https://pypi.org/project/langchain-scavio/4.2.1/",
+      "published": "Sun, 11 Oct 2026 23:47:07 GMT",
+      "collected_at": "2026-10-12T00:08:43.163737+00:00"
     }
   ]
 }
