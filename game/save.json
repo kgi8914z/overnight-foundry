@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-10-14T00:04:01.787721+00:00",
+  "updated_at": "2026-10-14T23:36:00.211628+00:00",
   "hero": "kgi8914z",
   "guild": "Overnight Foundry",
   "level": 10,
   "title": "선택하는 주조공",
-  "xp": 7558,
-  "xp_into_level": 808,
+  "xp": 7758,
+  "xp_into_level": 1008,
   "xp_for_level": 1500,
   "xp_parts": {
     "unique_users": 40,
     "repeat_users": 0,
     "active_users_1d": 80,
     "api_calls": 0,
-    "dataset_records": 6758,
+    "dataset_records": 6958,
     "paying_users": 0,
     "self_uses_weekly": 60,
     "backlinks": 0,
@@ -38,94 +38,94 @@
       "lane": "watch",
       "status": "incubator",
       "rarity": "희귀",
-      "stack": 3379,
+      "stack": 3479,
       "notes": "오늘 무엇이 패키지 세계에 나타났는지 한곳에서 못 본다"
     }
   ],
   "loot": [
     {
-      "id": "f5e41ed23a1474ab",
-      "title": "assistant-runtime-sdk 1.12.0",
-      "link": "https://pypi.org/project/assistant-runtime-sdk/1.12.0/",
-      "published": "Tue, 13 Oct 2026 23:48:24 GMT",
-      "collected_at": "2026-10-14T00:04:00.596907+00:00"
+      "id": "02ad156ff2339936",
+      "title": "ibm-watsonx-orchestrate 2.18.2",
+      "link": "https://pypi.org/project/ibm-watsonx-orchestrate/2.18.2/",
+      "published": "Wed, 14 Oct 2026 23:20:16 GMT",
+      "collected_at": "2026-10-14T23:35:59.278708+00:00"
     },
     {
-      "id": "414371bc15fb3ebe",
-      "title": "simpleaudit-studio 0.5.18",
-      "link": "https://pypi.org/project/simpleaudit-studio/0.5.18/",
-      "published": "Tue, 13 Oct 2026 23:48:28 GMT",
-      "collected_at": "2026-10-14T00:04:00.596905+00:00"
+      "id": "4cb0cb961e6e660e",
+      "title": "ibm-watsonx-orchestrate-clients 2.18.2",
+      "link": "https://pypi.org/project/ibm-watsonx-orchestrate-clients/2.18.2/",
+      "published": "Wed, 14 Oct 2026 23:20:18 GMT",
+      "collected_at": "2026-10-14T23:35:59.278707+00:00"
     },
     {
-      "id": "24a0eb5e1b03ed08",
-      "title": "azure-functions-logging 0.15.0",
-      "link": "https://pypi.org/project/azure-functions-logging/0.15.0/",
-      "published": "Tue, 13 Oct 2026 23:48:38 GMT",
-      "collected_at": "2026-10-14T00:04:00.596904+00:00"
+      "id": "a9330c4d16014c5a",
+      "title": "ibm-watsonx-orchestrate-core 2.18.2",
+      "link": "https://pypi.org/project/ibm-watsonx-orchestrate-core/2.18.2/",
+      "published": "Wed, 14 Oct 2026 23:20:19 GMT",
+      "collected_at": "2026-10-14T23:35:59.278705+00:00"
     },
     {
-      "id": "351dd92158a476e8",
-      "title": "azure-functions-validation 0.16.0",
-      "link": "https://pypi.org/project/azure-functions-validation/0.16.0/",
-      "published": "Tue, 13 Oct 2026 23:48:41 GMT",
-      "collected_at": "2026-10-14T00:04:00.596902+00:00"
+      "id": "60ac7e0aa343103a",
+      "title": "ibm-watsonx-orchestrate-mcp-server 2.18.2",
+      "link": "https://pypi.org/project/ibm-watsonx-orchestrate-mcp-server/2.18.2/",
+      "published": "Wed, 14 Oct 2026 23:20:20 GMT",
+      "collected_at": "2026-10-14T23:35:59.278703+00:00"
     },
     {
-      "id": "b8af02839252ebc7",
-      "title": "plcstream2py 0.0.5",
-      "link": "https://pypi.org/project/plcstream2py/0.0.5/",
-      "published": "Tue, 13 Oct 2026 23:48:59 GMT",
-      "collected_at": "2026-10-14T00:04:00.596900+00:00"
+      "id": "e2bcbdec36be32fd",
+      "title": "ibm-watsonx-orchestrate-sdk 2.18.2",
+      "link": "https://pypi.org/project/ibm-watsonx-orchestrate-sdk/2.18.2/",
+      "published": "Wed, 14 Oct 2026 23:20:21 GMT",
+      "collected_at": "2026-10-14T23:35:59.278701+00:00"
     },
     {
-      "id": "a7cb840663929110",
-      "title": "prompt-receipts 7.11",
-      "link": "https://pypi.org/project/prompt-receipts/7.11/",
-      "published": "Tue, 13 Oct 2026 23:49:02 GMT",
-      "collected_at": "2026-10-14T00:04:00.596899+00:00"
+      "id": "fda02a5936789ece",
+      "title": "sim-bridge 0.1.3",
+      "link": "https://pypi.org/project/sim-bridge/0.1.3/",
+      "published": "Wed, 14 Oct 2026 23:20:24 GMT",
+      "collected_at": "2026-10-14T23:35:59.278699+00:00"
     },
     {
-      "id": "cc847563697d83f0",
-      "title": "beta9 0.1.280",
-      "link": "https://pypi.org/project/beta9/0.1.280/",
-      "published": "Tue, 13 Oct 2026 23:49:40 GMT",
-      "collected_at": "2026-10-14T00:04:00.596897+00:00"
+      "id": "9be95ba52788dc85",
+      "title": "langstrothclient 1.1.0",
+      "link": "https://pypi.org/project/langstrothclient/1.1.0/",
+      "published": "Wed, 14 Oct 2026 23:20:29 GMT",
+      "collected_at": "2026-10-14T23:35:59.278697+00:00"
     },
     {
-      "id": "c3fe8d82493d6e76",
-      "title": "locus-tag 0.10.0",
-      "link": "https://pypi.org/project/locus-tag/0.10.0/",
-      "published": "Tue, 13 Oct 2026 23:49:46 GMT",
-      "collected_at": "2026-10-14T00:04:00.596895+00:00"
+      "id": "b59d903159812b0e",
+      "title": "bingads 13.0.30.1",
+      "link": "https://pypi.org/project/bingads/13.0.30.1/",
+      "published": "Wed, 14 Oct 2026 23:20:42 GMT",
+      "collected_at": "2026-10-14T23:35:59.278695+00:00"
     },
     {
-      "id": "6519fc8be5033063",
-      "title": "clai 2.56.0",
-      "link": "https://pypi.org/project/clai/2.56.0/",
-      "published": "Tue, 13 Oct 2026 23:49:53 GMT",
-      "collected_at": "2026-10-14T00:04:00.596893+00:00"
+      "id": "1b6e05f0a3ac15c8",
+      "title": "enomoto-solver 0.1.2",
+      "link": "https://pypi.org/project/enomoto-solver/0.1.2/",
+      "published": "Wed, 14 Oct 2026 23:20:47 GMT",
+      "collected_at": "2026-10-14T23:35:59.278693+00:00"
     },
     {
-      "id": "68bc61aa6b788b44",
-      "title": "pydantic-ai 2.56.0",
-      "link": "https://pypi.org/project/pydantic-ai/2.56.0/",
-      "published": "Tue, 13 Oct 2026 23:49:55 GMT",
-      "collected_at": "2026-10-14T00:04:00.596892+00:00"
+      "id": "7036a14c5c97e11c",
+      "title": "limelijourney-mcp 0.1.0",
+      "link": "https://pypi.org/project/limelijourney-mcp/0.1.0/",
+      "published": "Wed, 14 Oct 2026 23:20:51 GMT",
+      "collected_at": "2026-10-14T23:35:59.278692+00:00"
     },
     {
-      "id": "1c5479f77418fd2e",
-      "title": "pydantic-ai-examples 2.56.0",
-      "link": "https://pypi.org/project/pydantic-ai-examples/2.56.0/",
-      "published": "Tue, 13 Oct 2026 23:49:57 GMT",
-      "collected_at": "2026-10-14T00:04:00.596890+00:00"
+      "id": "0f18e198784554e6",
+      "title": "thinctx 1.0.2",
+      "link": "https://pypi.org/project/thinctx/1.0.2/",
+      "published": "Wed, 14 Oct 2026 23:20:54 GMT",
+      "collected_at": "2026-10-14T23:35:59.278690+00:00"
     },
     {
-      "id": "fae527ddcaa7b77b",
-      "title": "pydantic-ai-harness 0.56.0",
-      "link": "https://pypi.org/project/pydantic-ai-harness/0.56.0/",
-      "published": "Tue, 13 Oct 2026 23:49:58 GMT",
-      "collected_at": "2026-10-14T00:04:00.596888+00:00"
+      "id": "bc18c030455120d7",
+      "title": "pulsarlm 0.1.0a2",
+      "link": "https://pypi.org/project/pulsarlm/0.1.0a2/",
+      "published": "Wed, 14 Oct 2026 23:20:56 GMT",
+      "collected_at": "2026-10-14T23:35:59.278688+00:00"
     }
   ]
 }
