@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-10-13T02:22:03.586554+00:00",
+  "updated_at": "2026-10-14T00:04:01.787721+00:00",
   "hero": "kgi8914z",
   "guild": "Overnight Foundry",
   "level": 10,
   "title": "선택하는 주조공",
-  "xp": 7338,
-  "xp_into_level": 588,
+  "xp": 7558,
+  "xp_into_level": 808,
   "xp_for_level": 1500,
   "xp_parts": {
     "unique_users": 40,
     "repeat_users": 0,
     "active_users_1d": 80,
     "api_calls": 0,
-    "dataset_records": 6558,
+    "dataset_records": 6758,
     "paying_users": 0,
     "self_uses_weekly": 60,
     "backlinks": 0,
     "stars": 0,
-    "nights": 600
+    "nights": 620
   },
   "row_gain": 100,
-  "nights": 30,
+  "nights": 31,
   "active_assets": 2,
   "inventory": [
     {
@@ -38,94 +38,94 @@
       "lane": "watch",
       "status": "incubator",
       "rarity": "희귀",
-      "stack": 3279,
+      "stack": 3379,
       "notes": "오늘 무엇이 패키지 세계에 나타났는지 한곳에서 못 본다"
     }
   ],
   "loot": [
     {
-      "id": "fc62c9815904e7e3",
-      "title": "hotspots-cli 2.0.1",
-      "link": "https://pypi.org/project/hotspots-cli/2.0.1/",
-      "published": "Tue, 13 Oct 2026 02:03:28 GMT",
-      "collected_at": "2026-10-13T02:22:02.323104+00:00"
+      "id": "f5e41ed23a1474ab",
+      "title": "assistant-runtime-sdk 1.12.0",
+      "link": "https://pypi.org/project/assistant-runtime-sdk/1.12.0/",
+      "published": "Tue, 13 Oct 2026 23:48:24 GMT",
+      "collected_at": "2026-10-14T00:04:00.596907+00:00"
     },
     {
-      "id": "85e048c0c29f5c38",
-      "title": "xiaochaoui 4.1.2",
-      "link": "https://pypi.org/project/xiaochaoui/4.1.2/",
-      "published": "Tue, 13 Oct 2026 02:03:29 GMT",
-      "collected_at": "2026-10-13T02:22:02.323101+00:00"
+      "id": "414371bc15fb3ebe",
+      "title": "simpleaudit-studio 0.5.18",
+      "link": "https://pypi.org/project/simpleaudit-studio/0.5.18/",
+      "published": "Tue, 13 Oct 2026 23:48:28 GMT",
+      "collected_at": "2026-10-14T00:04:00.596905+00:00"
     },
     {
-      "id": "f8c079ad54da22a5",
-      "title": "minerals-oracle-x402 1.4.0",
-      "link": "https://pypi.org/project/minerals-oracle-x402/1.4.0/",
-      "published": "Tue, 13 Oct 2026 02:03:52 GMT",
-      "collected_at": "2026-10-13T02:22:02.323098+00:00"
+      "id": "24a0eb5e1b03ed08",
+      "title": "azure-functions-logging 0.15.0",
+      "link": "https://pypi.org/project/azure-functions-logging/0.15.0/",
+      "published": "Tue, 13 Oct 2026 23:48:38 GMT",
+      "collected_at": "2026-10-14T00:04:00.596904+00:00"
     },
     {
-      "id": "d586c5085d05f3c3",
-      "title": "polytope-theme 0.6.1",
-      "link": "https://pypi.org/project/polytope-theme/0.6.1/",
-      "published": "Tue, 13 Oct 2026 02:03:56 GMT",
-      "collected_at": "2026-10-13T02:22:02.323095+00:00"
+      "id": "351dd92158a476e8",
+      "title": "azure-functions-validation 0.16.0",
+      "link": "https://pypi.org/project/azure-functions-validation/0.16.0/",
+      "published": "Tue, 13 Oct 2026 23:48:41 GMT",
+      "collected_at": "2026-10-14T00:04:00.596902+00:00"
     },
     {
-      "id": "778d06a2dc8b4387",
-      "title": "pwfauth 1.4.0",
-      "link": "https://pypi.org/project/pwfauth/1.4.0/",
-      "published": "Tue, 13 Oct 2026 02:04:02 GMT",
-      "collected_at": "2026-10-13T02:22:02.323093+00:00"
+      "id": "b8af02839252ebc7",
+      "title": "plcstream2py 0.0.5",
+      "link": "https://pypi.org/project/plcstream2py/0.0.5/",
+      "published": "Tue, 13 Oct 2026 23:48:59 GMT",
+      "collected_at": "2026-10-14T00:04:00.596900+00:00"
     },
     {
-      "id": "713779747e5c5d43",
-      "title": "coiled 1.135.7.dev1",
-      "link": "https://pypi.org/project/coiled/1.135.7.dev1/",
-      "published": "Tue, 13 Oct 2026 02:04:03 GMT",
-      "collected_at": "2026-10-13T02:22:02.323090+00:00"
+      "id": "a7cb840663929110",
+      "title": "prompt-receipts 7.11",
+      "link": "https://pypi.org/project/prompt-receipts/7.11/",
+      "published": "Tue, 13 Oct 2026 23:49:02 GMT",
+      "collected_at": "2026-10-14T00:04:00.596899+00:00"
     },
     {
-      "id": "4988502a0c871468",
-      "title": "pygittools 0.3.0",
-      "link": "https://pypi.org/project/pygittools/0.3.0/",
-      "published": "Tue, 13 Oct 2026 02:04:22 GMT",
-      "collected_at": "2026-10-13T02:22:02.323087+00:00"
+      "id": "cc847563697d83f0",
+      "title": "beta9 0.1.280",
+      "link": "https://pypi.org/project/beta9/0.1.280/",
+      "published": "Tue, 13 Oct 2026 23:49:40 GMT",
+      "collected_at": "2026-10-14T00:04:00.596897+00:00"
     },
     {
-      "id": "1cc8343f3d0b9251",
-      "title": "pygitweb 0.3.0",
-      "link": "https://pypi.org/project/pygitweb/0.3.0/",
-      "published": "Tue, 13 Oct 2026 02:04:23 GMT",
-      "collected_at": "2026-10-13T02:22:02.323084+00:00"
+      "id": "c3fe8d82493d6e76",
+      "title": "locus-tag 0.10.0",
+      "link": "https://pypi.org/project/locus-tag/0.10.0/",
+      "published": "Tue, 13 Oct 2026 23:49:46 GMT",
+      "collected_at": "2026-10-14T00:04:00.596895+00:00"
     },
     {
-      "id": "fc965eea46881ace",
-      "title": "openrewrite 8.93.3",
-      "link": "https://pypi.org/project/openrewrite/8.93.3/",
-      "published": "Tue, 13 Oct 2026 02:04:28 GMT",
-      "collected_at": "2026-10-13T02:22:02.323081+00:00"
+      "id": "6519fc8be5033063",
+      "title": "clai 2.56.0",
+      "link": "https://pypi.org/project/clai/2.56.0/",
+      "published": "Tue, 13 Oct 2026 23:49:53 GMT",
+      "collected_at": "2026-10-14T00:04:00.596893+00:00"
     },
     {
-      "id": "da4dfb103e89c6a0",
-      "title": "probe-research 0.246.0",
-      "link": "https://pypi.org/project/probe-research/0.246.0/",
-      "published": "Tue, 13 Oct 2026 02:04:42 GMT",
-      "collected_at": "2026-10-13T02:22:02.323078+00:00"
+      "id": "68bc61aa6b788b44",
+      "title": "pydantic-ai 2.56.0",
+      "link": "https://pypi.org/project/pydantic-ai/2.56.0/",
+      "published": "Tue, 13 Oct 2026 23:49:55 GMT",
+      "collected_at": "2026-10-14T00:04:00.596892+00:00"
     },
     {
-      "id": "e79dce0864141d30",
-      "title": "samudra-ai 2.7.4",
-      "link": "https://pypi.org/project/samudra-ai/2.7.4/",
-      "published": "Tue, 13 Oct 2026 02:04:48 GMT",
-      "collected_at": "2026-10-13T02:22:02.323075+00:00"
+      "id": "1c5479f77418fd2e",
+      "title": "pydantic-ai-examples 2.56.0",
+      "link": "https://pypi.org/project/pydantic-ai-examples/2.56.0/",
+      "published": "Tue, 13 Oct 2026 23:49:57 GMT",
+      "collected_at": "2026-10-14T00:04:00.596890+00:00"
     },
     {
-      "id": "2835298579a37e88",
-      "title": "switchboard-chat 0.25.0",
-      "link": "https://pypi.org/project/switchboard-chat/0.25.0/",
-      "published": "Tue, 13 Oct 2026 02:05:05 GMT",
-      "collected_at": "2026-10-13T02:22:02.323072+00:00"
+      "id": "fae527ddcaa7b77b",
+      "title": "pydantic-ai-harness 0.56.0",
+      "link": "https://pypi.org/project/pydantic-ai-harness/0.56.0/",
+      "published": "Tue, 13 Oct 2026 23:49:58 GMT",
+      "collected_at": "2026-10-14T00:04:00.596888+00:00"
     }
   ]
 }
