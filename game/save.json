@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-10-14T23:36:00.211628+00:00",
+  "updated_at": "2026-10-15T23:30:04.865050+00:00",
   "hero": "kgi8914z",
   "guild": "Overnight Foundry",
   "level": 10,
   "title": "선택하는 주조공",
-  "xp": 7758,
-  "xp_into_level": 1008,
+  "xp": 7978,
+  "xp_into_level": 1228,
   "xp_for_level": 1500,
   "xp_parts": {
     "unique_users": 40,
     "repeat_users": 0,
     "active_users_1d": 80,
     "api_calls": 0,
-    "dataset_records": 6958,
+    "dataset_records": 7158,
     "paying_users": 0,
     "self_uses_weekly": 60,
     "backlinks": 0,
     "stars": 0,
-    "nights": 620
+    "nights": 640
   },
   "row_gain": 100,
-  "nights": 31,
+  "nights": 32,
   "active_assets": 2,
   "inventory": [
     {
@@ -38,94 +38,94 @@
       "lane": "watch",
       "status": "incubator",
       "rarity": "희귀",
-      "stack": 3479,
+      "stack": 3579,
       "notes": "오늘 무엇이 패키지 세계에 나타났는지 한곳에서 못 본다"
     }
   ],
   "loot": [
     {
-      "id": "02ad156ff2339936",
-      "title": "ibm-watsonx-orchestrate 2.18.2",
-      "link": "https://pypi.org/project/ibm-watsonx-orchestrate/2.18.2/",
-      "published": "Wed, 14 Oct 2026 23:20:16 GMT",
-      "collected_at": "2026-10-14T23:35:59.278708+00:00"
+      "id": "a29d0ecb35bc2e57",
+      "title": "specialagent 0.58.0",
+      "link": "https://pypi.org/project/specialagent/0.58.0/",
+      "published": "Thu, 15 Oct 2026 23:15:15 GMT",
+      "collected_at": "2026-10-15T23:30:03.657063+00:00"
     },
     {
-      "id": "4cb0cb961e6e660e",
-      "title": "ibm-watsonx-orchestrate-clients 2.18.2",
-      "link": "https://pypi.org/project/ibm-watsonx-orchestrate-clients/2.18.2/",
-      "published": "Wed, 14 Oct 2026 23:20:18 GMT",
-      "collected_at": "2026-10-14T23:35:59.278707+00:00"
+      "id": "8b06ec642063c57a",
+      "title": "graphed-executors 0.0.5",
+      "link": "https://pypi.org/project/graphed-executors/0.0.5/",
+      "published": "Thu, 15 Oct 2026 23:15:15 GMT",
+      "collected_at": "2026-10-15T23:30:03.657060+00:00"
     },
     {
-      "id": "a9330c4d16014c5a",
-      "title": "ibm-watsonx-orchestrate-core 2.18.2",
-      "link": "https://pypi.org/project/ibm-watsonx-orchestrate-core/2.18.2/",
-      "published": "Wed, 14 Oct 2026 23:20:19 GMT",
-      "collected_at": "2026-10-14T23:35:59.278705+00:00"
+      "id": "41b08d1d5d311289",
+      "title": "capt-hook 12.96.1",
+      "link": "https://pypi.org/project/capt-hook/12.96.1/",
+      "published": "Thu, 15 Oct 2026 23:15:15 GMT",
+      "collected_at": "2026-10-15T23:30:03.657058+00:00"
     },
     {
-      "id": "60ac7e0aa343103a",
-      "title": "ibm-watsonx-orchestrate-mcp-server 2.18.2",
-      "link": "https://pypi.org/project/ibm-watsonx-orchestrate-mcp-server/2.18.2/",
-      "published": "Wed, 14 Oct 2026 23:20:20 GMT",
-      "collected_at": "2026-10-14T23:35:59.278703+00:00"
+      "id": "7f0976332dee31e4",
+      "title": "xiaoyu-agent 0.74.0",
+      "link": "https://pypi.org/project/xiaoyu-agent/0.74.0/",
+      "published": "Thu, 15 Oct 2026 23:15:32 GMT",
+      "collected_at": "2026-10-15T23:30:03.657055+00:00"
     },
     {
-      "id": "e2bcbdec36be32fd",
-      "title": "ibm-watsonx-orchestrate-sdk 2.18.2",
-      "link": "https://pypi.org/project/ibm-watsonx-orchestrate-sdk/2.18.2/",
-      "published": "Wed, 14 Oct 2026 23:20:21 GMT",
-      "collected_at": "2026-10-14T23:35:59.278701+00:00"
+      "id": "2706746c736fb012",
+      "title": "openextract 1.1.0",
+      "link": "https://pypi.org/project/openextract/1.1.0/",
+      "published": "Thu, 15 Oct 2026 23:15:56 GMT",
+      "collected_at": "2026-10-15T23:30:03.657052+00:00"
     },
     {
-      "id": "fda02a5936789ece",
-      "title": "sim-bridge 0.1.3",
-      "link": "https://pypi.org/project/sim-bridge/0.1.3/",
-      "published": "Wed, 14 Oct 2026 23:20:24 GMT",
-      "collected_at": "2026-10-14T23:35:59.278699+00:00"
+      "id": "2ab92f7a9806d003",
+      "title": "mindroom 2026.10.306",
+      "link": "https://pypi.org/project/mindroom/2026.10.306/",
+      "published": "Thu, 15 Oct 2026 23:16:02 GMT",
+      "collected_at": "2026-10-15T23:30:03.657049+00:00"
     },
     {
-      "id": "9be95ba52788dc85",
-      "title": "langstrothclient 1.1.0",
-      "link": "https://pypi.org/project/langstrothclient/1.1.0/",
-      "published": "Wed, 14 Oct 2026 23:20:29 GMT",
-      "collected_at": "2026-10-14T23:35:59.278697+00:00"
+      "id": "2a40598b72089a18",
+      "title": "xiaoyu-agent-sdk 0.74.0",
+      "link": "https://pypi.org/project/xiaoyu-agent-sdk/0.74.0/",
+      "published": "Thu, 15 Oct 2026 23:16:27 GMT",
+      "collected_at": "2026-10-15T23:30:03.657046+00:00"
     },
     {
-      "id": "b59d903159812b0e",
-      "title": "bingads 13.0.30.1",
-      "link": "https://pypi.org/project/bingads/13.0.30.1/",
-      "published": "Wed, 14 Oct 2026 23:20:42 GMT",
-      "collected_at": "2026-10-14T23:35:59.278695+00:00"
+      "id": "9805e2c3899da71e",
+      "title": "barefootjs 0.39.6",
+      "link": "https://pypi.org/project/barefootjs/0.39.6/",
+      "published": "Thu, 15 Oct 2026 23:16:38 GMT",
+      "collected_at": "2026-10-15T23:30:03.657043+00:00"
     },
     {
-      "id": "1b6e05f0a3ac15c8",
-      "title": "enomoto-solver 0.1.2",
-      "link": "https://pypi.org/project/enomoto-solver/0.1.2/",
-      "published": "Wed, 14 Oct 2026 23:20:47 GMT",
-      "collected_at": "2026-10-14T23:35:59.278693+00:00"
+      "id": "2a5175bb61c4f521",
+      "title": "regents-cli 1.10.6",
+      "link": "https://pypi.org/project/regents-cli/1.10.6/",
+      "published": "Thu, 15 Oct 2026 23:16:45 GMT",
+      "collected_at": "2026-10-15T23:30:03.657041+00:00"
     },
     {
-      "id": "7036a14c5c97e11c",
-      "title": "limelijourney-mcp 0.1.0",
-      "link": "https://pypi.org/project/limelijourney-mcp/0.1.0/",
-      "published": "Wed, 14 Oct 2026 23:20:51 GMT",
-      "collected_at": "2026-10-14T23:35:59.278692+00:00"
+      "id": "69121d63d6052fe9",
+      "title": "pytest-vivarium 0.3.0",
+      "link": "https://pypi.org/project/pytest-vivarium/0.3.0/",
+      "published": "Thu, 15 Oct 2026 23:17:48 GMT",
+      "collected_at": "2026-10-15T23:30:03.657038+00:00"
     },
     {
-      "id": "0f18e198784554e6",
-      "title": "thinctx 1.0.2",
-      "link": "https://pypi.org/project/thinctx/1.0.2/",
-      "published": "Wed, 14 Oct 2026 23:20:54 GMT",
-      "collected_at": "2026-10-14T23:35:59.278690+00:00"
+      "id": "34cb45ee704c903c",
+      "title": "meshioplusplus 17.2.0",
+      "link": "https://pypi.org/project/meshioplusplus/17.2.0/",
+      "published": "Thu, 15 Oct 2026 23:17:49 GMT",
+      "collected_at": "2026-10-15T23:30:03.657035+00:00"
     },
     {
-      "id": "bc18c030455120d7",
-      "title": "pulsarlm 0.1.0a2",
-      "link": "https://pypi.org/project/pulsarlm/0.1.0a2/",
-      "published": "Wed, 14 Oct 2026 23:20:56 GMT",
-      "collected_at": "2026-10-14T23:35:59.278688+00:00"
+      "id": "d9fa3b4fa663611f",
+      "title": "topasmoo 0.3.0",
+      "link": "https://pypi.org/project/topasmoo/0.3.0/",
+      "published": "Thu, 15 Oct 2026 23:18:16 GMT",
+      "collected_at": "2026-10-15T23:30:03.657032+00:00"
     }
   ]
 }
