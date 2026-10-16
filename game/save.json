@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-10-15T23:30:04.865050+00:00",
+  "updated_at": "2026-10-16T23:12:17.849666+00:00",
   "hero": "kgi8914z",
   "guild": "Overnight Foundry",
   "level": 10,
   "title": "선택하는 주조공",
-  "xp": 7978,
-  "xp_into_level": 1228,
+  "xp": 8198,
+  "xp_into_level": 1448,
   "xp_for_level": 1500,
   "xp_parts": {
     "unique_users": 40,
     "repeat_users": 0,
     "active_users_1d": 80,
     "api_calls": 0,
-    "dataset_records": 7158,
+    "dataset_records": 7358,
     "paying_users": 0,
     "self_uses_weekly": 60,
     "backlinks": 0,
     "stars": 0,
-    "nights": 640
+    "nights": 660
   },
   "row_gain": 100,
-  "nights": 32,
+  "nights": 33,
   "active_assets": 2,
   "inventory": [
     {
@@ -38,94 +38,94 @@
       "lane": "watch",
       "status": "incubator",
       "rarity": "희귀",
-      "stack": 3579,
+      "stack": 3679,
       "notes": "오늘 무엇이 패키지 세계에 나타났는지 한곳에서 못 본다"
     }
   ],
   "loot": [
     {
-      "id": "a29d0ecb35bc2e57",
-      "title": "specialagent 0.58.0",
-      "link": "https://pypi.org/project/specialagent/0.58.0/",
-      "published": "Thu, 15 Oct 2026 23:15:15 GMT",
-      "collected_at": "2026-10-15T23:30:03.657063+00:00"
+      "id": "aa4cba33d7b3c52a",
+      "title": "pants-backend-secrets 0.7.0",
+      "link": "https://pypi.org/project/pants-backend-secrets/0.7.0/",
+      "published": "Fri, 16 Oct 2026 22:39:14 GMT",
+      "collected_at": "2026-10-16T23:12:15.224667+00:00"
     },
     {
-      "id": "8b06ec642063c57a",
-      "title": "graphed-executors 0.0.5",
-      "link": "https://pypi.org/project/graphed-executors/0.0.5/",
-      "published": "Thu, 15 Oct 2026 23:15:15 GMT",
-      "collected_at": "2026-10-15T23:30:03.657060+00:00"
+      "id": "997e07b51b56b890",
+      "title": "literegistry 1.0.58",
+      "link": "https://pypi.org/project/literegistry/1.0.58/",
+      "published": "Fri, 16 Oct 2026 22:39:30 GMT",
+      "collected_at": "2026-10-16T23:12:15.224663+00:00"
     },
     {
-      "id": "41b08d1d5d311289",
-      "title": "capt-hook 12.96.1",
-      "link": "https://pypi.org/project/capt-hook/12.96.1/",
-      "published": "Thu, 15 Oct 2026 23:15:15 GMT",
-      "collected_at": "2026-10-15T23:30:03.657058+00:00"
+      "id": "d69345263e677d4d",
+      "title": "fluidattacks_core_git 15.3.0",
+      "link": "https://pypi.org/project/fluidattacks-core-git/15.3.0/",
+      "published": "Fri, 16 Oct 2026 22:39:50 GMT",
+      "collected_at": "2026-10-16T23:12:15.224660+00:00"
     },
     {
-      "id": "7f0976332dee31e4",
-      "title": "xiaoyu-agent 0.74.0",
-      "link": "https://pypi.org/project/xiaoyu-agent/0.74.0/",
-      "published": "Thu, 15 Oct 2026 23:15:32 GMT",
-      "collected_at": "2026-10-15T23:30:03.657055+00:00"
+      "id": "3a64398dd2385034",
+      "title": "pepe-http 0.43.0",
+      "link": "https://pypi.org/project/pepe-http/0.43.0/",
+      "published": "Fri, 16 Oct 2026 22:40:05 GMT",
+      "collected_at": "2026-10-16T23:12:15.224656+00:00"
     },
     {
-      "id": "2706746c736fb012",
-      "title": "openextract 1.1.0",
-      "link": "https://pypi.org/project/openextract/1.1.0/",
-      "published": "Thu, 15 Oct 2026 23:15:56 GMT",
-      "collected_at": "2026-10-15T23:30:03.657052+00:00"
+      "id": "c8a5e1f1e7f5b6c8",
+      "title": "sbmlsim 0.10.0",
+      "link": "https://pypi.org/project/sbmlsim/0.10.0/",
+      "published": "Fri, 16 Oct 2026 22:40:40 GMT",
+      "collected_at": "2026-10-16T23:12:15.224653+00:00"
     },
     {
-      "id": "2ab92f7a9806d003",
-      "title": "mindroom 2026.10.306",
-      "link": "https://pypi.org/project/mindroom/2026.10.306/",
-      "published": "Thu, 15 Oct 2026 23:16:02 GMT",
-      "collected_at": "2026-10-15T23:30:03.657049+00:00"
+      "id": "d720c083af9305e6",
+      "title": "murmur-dictation 0.4.0",
+      "link": "https://pypi.org/project/murmur-dictation/0.4.0/",
+      "published": "Fri, 16 Oct 2026 22:41:01 GMT",
+      "collected_at": "2026-10-16T23:12:15.224649+00:00"
     },
     {
-      "id": "2a40598b72089a18",
-      "title": "xiaoyu-agent-sdk 0.74.0",
-      "link": "https://pypi.org/project/xiaoyu-agent-sdk/0.74.0/",
-      "published": "Thu, 15 Oct 2026 23:16:27 GMT",
-      "collected_at": "2026-10-15T23:30:03.657046+00:00"
+      "id": "1cdae44040361a06",
+      "title": "kuhaku 0.2.0",
+      "link": "https://pypi.org/project/kuhaku/0.2.0/",
+      "published": "Fri, 16 Oct 2026 22:41:23 GMT",
+      "collected_at": "2026-10-16T23:12:15.224646+00:00"
     },
     {
-      "id": "9805e2c3899da71e",
-      "title": "barefootjs 0.39.6",
-      "link": "https://pypi.org/project/barefootjs/0.39.6/",
-      "published": "Thu, 15 Oct 2026 23:16:38 GMT",
-      "collected_at": "2026-10-15T23:30:03.657043+00:00"
+      "id": "979587d3d67e977c",
+      "title": "jbom 7.12.0",
+      "link": "https://pypi.org/project/jbom/7.12.0/",
+      "published": "Fri, 16 Oct 2026 22:41:23 GMT",
+      "collected_at": "2026-10-16T23:12:15.224642+00:00"
     },
     {
-      "id": "2a5175bb61c4f521",
-      "title": "regents-cli 1.10.6",
-      "link": "https://pypi.org/project/regents-cli/1.10.6/",
-      "published": "Thu, 15 Oct 2026 23:16:45 GMT",
-      "collected_at": "2026-10-15T23:30:03.657041+00:00"
+      "id": "10cbc1ab7518949b",
+      "title": "exomem 0.121.0",
+      "link": "https://pypi.org/project/exomem/0.121.0/",
+      "published": "Fri, 16 Oct 2026 22:41:28 GMT",
+      "collected_at": "2026-10-16T23:12:15.224639+00:00"
     },
     {
-      "id": "69121d63d6052fe9",
-      "title": "pytest-vivarium 0.3.0",
-      "link": "https://pypi.org/project/pytest-vivarium/0.3.0/",
-      "published": "Thu, 15 Oct 2026 23:17:48 GMT",
-      "collected_at": "2026-10-15T23:30:03.657038+00:00"
+      "id": "96b04921a3aa5f23",
+      "title": "mahavishnu 0.36.0",
+      "link": "https://pypi.org/project/mahavishnu/0.36.0/",
+      "published": "Fri, 16 Oct 2026 22:41:28 GMT",
+      "collected_at": "2026-10-16T23:12:15.224636+00:00"
     },
     {
-      "id": "34cb45ee704c903c",
-      "title": "meshioplusplus 17.2.0",
-      "link": "https://pypi.org/project/meshioplusplus/17.2.0/",
-      "published": "Thu, 15 Oct 2026 23:17:49 GMT",
-      "collected_at": "2026-10-15T23:30:03.657035+00:00"
+      "id": "32d65e0e11bd1ce0",
+      "title": "forge-doctor-api 0.2.0",
+      "link": "https://pypi.org/project/forge-doctor-api/0.2.0/",
+      "published": "Fri, 16 Oct 2026 22:41:30 GMT",
+      "collected_at": "2026-10-16T23:12:15.224632+00:00"
     },
     {
-      "id": "d9fa3b4fa663611f",
-      "title": "topasmoo 0.3.0",
-      "link": "https://pypi.org/project/topasmoo/0.3.0/",
-      "published": "Thu, 15 Oct 2026 23:18:16 GMT",
-      "collected_at": "2026-10-15T23:30:03.657032+00:00"
+      "id": "739f7d60e3d45a65",
+      "title": "certo 0.1.8",
+      "link": "https://pypi.org/project/certo/0.1.8/",
+      "published": "Fri, 16 Oct 2026 22:41:55 GMT",
+      "collected_at": "2026-10-16T23:12:15.224629+00:00"
     }
   ]
 }
