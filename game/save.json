@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-10-16T23:12:17.849666+00:00",
+  "updated_at": "2026-10-17T22:49:24.274638+00:00",
   "hero": "kgi8914z",
   "guild": "Overnight Foundry",
-  "level": 10,
+  "level": 11,
   "title": "선택하는 주조공",
-  "xp": 8198,
-  "xp_into_level": 1448,
-  "xp_for_level": 1500,
+  "xp": 8418,
+  "xp_into_level": 168,
+  "xp_for_level": 1650,
   "xp_parts": {
     "unique_users": 40,
     "repeat_users": 0,
     "active_users_1d": 80,
     "api_calls": 0,
-    "dataset_records": 7358,
+    "dataset_records": 7558,
     "paying_users": 0,
     "self_uses_weekly": 60,
     "backlinks": 0,
     "stars": 0,
-    "nights": 660
+    "nights": 680
   },
   "row_gain": 100,
-  "nights": 33,
+  "nights": 34,
   "active_assets": 2,
   "inventory": [
     {
@@ -38,94 +38,94 @@
       "lane": "watch",
       "status": "incubator",
       "rarity": "희귀",
-      "stack": 3679,
+      "stack": 3779,
       "notes": "오늘 무엇이 패키지 세계에 나타났는지 한곳에서 못 본다"
     }
   ],
   "loot": [
     {
-      "id": "aa4cba33d7b3c52a",
-      "title": "pants-backend-secrets 0.7.0",
-      "link": "https://pypi.org/project/pants-backend-secrets/0.7.0/",
-      "published": "Fri, 16 Oct 2026 22:39:14 GMT",
-      "collected_at": "2026-10-16T23:12:15.224667+00:00"
+      "id": "b1dca55e27c43944",
+      "title": "mpdt 0.2.3",
+      "link": "https://pypi.org/project/mpdt/0.2.3/",
+      "published": "Sat, 17 Oct 2026 22:28:19 GMT",
+      "collected_at": "2026-10-17T22:49:23.101893+00:00"
     },
     {
-      "id": "997e07b51b56b890",
-      "title": "literegistry 1.0.58",
-      "link": "https://pypi.org/project/literegistry/1.0.58/",
-      "published": "Fri, 16 Oct 2026 22:39:30 GMT",
-      "collected_at": "2026-10-16T23:12:15.224663+00:00"
+      "id": "40f3b0a2fa816c18",
+      "title": "hiddifypanel 14.0.0b21",
+      "link": "https://pypi.org/project/hiddifypanel/14.0.0b21/",
+      "published": "Sat, 17 Oct 2026 22:28:45 GMT",
+      "collected_at": "2026-10-17T22:49:23.101891+00:00"
     },
     {
-      "id": "d69345263e677d4d",
-      "title": "fluidattacks_core_git 15.3.0",
-      "link": "https://pypi.org/project/fluidattacks-core-git/15.3.0/",
-      "published": "Fri, 16 Oct 2026 22:39:50 GMT",
-      "collected_at": "2026-10-16T23:12:15.224660+00:00"
+      "id": "51560f4187254353",
+      "title": "vortexpy 4.3.7",
+      "link": "https://pypi.org/project/vortexpy/4.3.7/",
+      "published": "Sat, 17 Oct 2026 22:28:58 GMT",
+      "collected_at": "2026-10-17T22:49:23.101889+00:00"
     },
     {
-      "id": "3a64398dd2385034",
-      "title": "pepe-http 0.43.0",
-      "link": "https://pypi.org/project/pepe-http/0.43.0/",
-      "published": "Fri, 16 Oct 2026 22:40:05 GMT",
-      "collected_at": "2026-10-16T23:12:15.224656+00:00"
+      "id": "2c12ed0affc5b8e7",
+      "title": "reactjs-clean-gen 0.4.0",
+      "link": "https://pypi.org/project/reactjs-clean-gen/0.4.0/",
+      "published": "Sat, 17 Oct 2026 22:29:00 GMT",
+      "collected_at": "2026-10-17T22:49:23.101887+00:00"
     },
     {
-      "id": "c8a5e1f1e7f5b6c8",
-      "title": "sbmlsim 0.10.0",
-      "link": "https://pypi.org/project/sbmlsim/0.10.0/",
-      "published": "Fri, 16 Oct 2026 22:40:40 GMT",
-      "collected_at": "2026-10-16T23:12:15.224653+00:00"
+      "id": "cbf8ac28fe8639b5",
+      "title": "esgo 0.0.1",
+      "link": "https://pypi.org/project/esgo/0.0.1/",
+      "published": "Sat, 17 Oct 2026 22:29:15 GMT",
+      "collected_at": "2026-10-17T22:49:23.101885+00:00"
     },
     {
-      "id": "d720c083af9305e6",
-      "title": "murmur-dictation 0.4.0",
-      "link": "https://pypi.org/project/murmur-dictation/0.4.0/",
-      "published": "Fri, 16 Oct 2026 22:41:01 GMT",
-      "collected_at": "2026-10-16T23:12:15.224649+00:00"
+      "id": "6fcf03e3d574dd42",
+      "title": "klok-cli 1.1.0",
+      "link": "https://pypi.org/project/klok-cli/1.1.0/",
+      "published": "Sat, 17 Oct 2026 22:29:18 GMT",
+      "collected_at": "2026-10-17T22:49:23.101883+00:00"
     },
     {
-      "id": "1cdae44040361a06",
-      "title": "kuhaku 0.2.0",
-      "link": "https://pypi.org/project/kuhaku/0.2.0/",
-      "published": "Fri, 16 Oct 2026 22:41:23 GMT",
-      "collected_at": "2026-10-16T23:12:15.224646+00:00"
+      "id": "2bae14db75083104",
+      "title": "graphed 0.0.8",
+      "link": "https://pypi.org/project/graphed/0.0.8/",
+      "published": "Sat, 17 Oct 2026 22:29:25 GMT",
+      "collected_at": "2026-10-17T22:49:23.101882+00:00"
     },
     {
-      "id": "979587d3d67e977c",
-      "title": "jbom 7.12.0",
-      "link": "https://pypi.org/project/jbom/7.12.0/",
-      "published": "Fri, 16 Oct 2026 22:41:23 GMT",
-      "collected_at": "2026-10-16T23:12:15.224642+00:00"
+      "id": "f829f4a1897eef69",
+      "title": "withlore 0.2.0a14",
+      "link": "https://pypi.org/project/withlore/0.2.0a14/",
+      "published": "Sat, 17 Oct 2026 22:29:34 GMT",
+      "collected_at": "2026-10-17T22:49:23.101880+00:00"
     },
     {
-      "id": "10cbc1ab7518949b",
-      "title": "exomem 0.121.0",
-      "link": "https://pypi.org/project/exomem/0.121.0/",
-      "published": "Fri, 16 Oct 2026 22:41:28 GMT",
-      "collected_at": "2026-10-16T23:12:15.224639+00:00"
+      "id": "d346c63f9fa96d56",
+      "title": "llmledger-mcp 0.1.0",
+      "link": "https://pypi.org/project/llmledger-mcp/0.1.0/",
+      "published": "Sat, 17 Oct 2026 22:29:34 GMT",
+      "collected_at": "2026-10-17T22:49:23.101878+00:00"
     },
     {
-      "id": "96b04921a3aa5f23",
-      "title": "mahavishnu 0.36.0",
-      "link": "https://pypi.org/project/mahavishnu/0.36.0/",
-      "published": "Fri, 16 Oct 2026 22:41:28 GMT",
-      "collected_at": "2026-10-16T23:12:15.224636+00:00"
+      "id": "baddc9f6de7e964d",
+      "title": "musil 0.36.4",
+      "link": "https://pypi.org/project/musil/0.36.4/",
+      "published": "Sat, 17 Oct 2026 22:29:36 GMT",
+      "collected_at": "2026-10-17T22:49:23.101876+00:00"
     },
     {
-      "id": "32d65e0e11bd1ce0",
-      "title": "forge-doctor-api 0.2.0",
-      "link": "https://pypi.org/project/forge-doctor-api/0.2.0/",
-      "published": "Fri, 16 Oct 2026 22:41:30 GMT",
-      "collected_at": "2026-10-16T23:12:15.224632+00:00"
+      "id": "4c8272eb832d2338",
+      "title": "arena-bridge 0.5.0",
+      "link": "https://pypi.org/project/arena-bridge/0.5.0/",
+      "published": "Sat, 17 Oct 2026 22:29:37 GMT",
+      "collected_at": "2026-10-17T22:49:23.101874+00:00"
     },
     {
-      "id": "739f7d60e3d45a65",
-      "title": "certo 0.1.8",
-      "link": "https://pypi.org/project/certo/0.1.8/",
-      "published": "Fri, 16 Oct 2026 22:41:55 GMT",
-      "collected_at": "2026-10-16T23:12:15.224629+00:00"
+      "id": "cbcfb05fce96b06e",
+      "title": "elfhub 0.1.0",
+      "link": "https://pypi.org/project/elfhub/0.1.0/",
+      "published": "Sat, 17 Oct 2026 22:29:48 GMT",
+      "collected_at": "2026-10-17T22:49:23.101872+00:00"
     }
   ]
 }
