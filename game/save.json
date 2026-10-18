@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-10-17T22:49:24.274638+00:00",
+  "updated_at": "2026-10-18T22:42:32.358360+00:00",
   "hero": "kgi8914z",
   "guild": "Overnight Foundry",
   "level": 11,
   "title": "선택하는 주조공",
-  "xp": 8418,
-  "xp_into_level": 168,
+  "xp": 8638,
+  "xp_into_level": 388,
   "xp_for_level": 1650,
   "xp_parts": {
     "unique_users": 40,
     "repeat_users": 0,
     "active_users_1d": 80,
     "api_calls": 0,
-    "dataset_records": 7558,
+    "dataset_records": 7758,
     "paying_users": 0,
     "self_uses_weekly": 60,
     "backlinks": 0,
     "stars": 0,
-    "nights": 680
+    "nights": 700
   },
   "row_gain": 100,
-  "nights": 34,
+  "nights": 35,
   "active_assets": 2,
   "inventory": [
     {
@@ -38,94 +38,94 @@
       "lane": "watch",
       "status": "incubator",
       "rarity": "희귀",
-      "stack": 3779,
+      "stack": 3879,
       "notes": "오늘 무엇이 패키지 세계에 나타났는지 한곳에서 못 본다"
     }
   ],
   "loot": [
     {
-      "id": "b1dca55e27c43944",
-      "title": "mpdt 0.2.3",
-      "link": "https://pypi.org/project/mpdt/0.2.3/",
-      "published": "Sat, 17 Oct 2026 22:28:19 GMT",
-      "collected_at": "2026-10-17T22:49:23.101893+00:00"
+      "id": "d6f8ad1d4541a28c",
+      "title": "terraingenpy 0.1.1.dev13",
+      "link": "https://pypi.org/project/terraingenpy/0.1.1.dev13/",
+      "published": "Sun, 18 Oct 2026 22:21:56 GMT",
+      "collected_at": "2026-10-18T22:42:31.499462+00:00"
     },
     {
-      "id": "40f3b0a2fa816c18",
-      "title": "hiddifypanel 14.0.0b21",
-      "link": "https://pypi.org/project/hiddifypanel/14.0.0b21/",
-      "published": "Sat, 17 Oct 2026 22:28:45 GMT",
-      "collected_at": "2026-10-17T22:49:23.101891+00:00"
+      "id": "55de5da1b0b8d66f",
+      "title": "meshbook-cli 0.12.0",
+      "link": "https://pypi.org/project/meshbook-cli/0.12.0/",
+      "published": "Sun, 18 Oct 2026 22:22:12 GMT",
+      "collected_at": "2026-10-18T22:42:31.499461+00:00"
     },
     {
-      "id": "51560f4187254353",
-      "title": "vortexpy 4.3.7",
-      "link": "https://pypi.org/project/vortexpy/4.3.7/",
-      "published": "Sat, 17 Oct 2026 22:28:58 GMT",
-      "collected_at": "2026-10-17T22:49:23.101889+00:00"
+      "id": "c95f0b6f0f72c3bb",
+      "title": "parody 0.63.2",
+      "link": "https://pypi.org/project/parody/0.63.2/",
+      "published": "Sun, 18 Oct 2026 22:22:30 GMT",
+      "collected_at": "2026-10-18T22:42:31.499459+00:00"
     },
     {
-      "id": "2c12ed0affc5b8e7",
-      "title": "reactjs-clean-gen 0.4.0",
-      "link": "https://pypi.org/project/reactjs-clean-gen/0.4.0/",
-      "published": "Sat, 17 Oct 2026 22:29:00 GMT",
-      "collected_at": "2026-10-17T22:49:23.101887+00:00"
+      "id": "70a5ba317568b95d",
+      "title": "monosmith 1.28.0",
+      "link": "https://pypi.org/project/monosmith/1.28.0/",
+      "published": "Sun, 18 Oct 2026 22:22:38 GMT",
+      "collected_at": "2026-10-18T22:42:31.499457+00:00"
     },
     {
-      "id": "cbf8ac28fe8639b5",
-      "title": "esgo 0.0.1",
-      "link": "https://pypi.org/project/esgo/0.0.1/",
-      "published": "Sat, 17 Oct 2026 22:29:15 GMT",
-      "collected_at": "2026-10-17T22:49:23.101885+00:00"
+      "id": "35b9267d56712984",
+      "title": "croatian-stemmer 0.4.1",
+      "link": "https://pypi.org/project/croatian-stemmer/0.4.1/",
+      "published": "Sun, 18 Oct 2026 22:22:48 GMT",
+      "collected_at": "2026-10-18T22:42:31.499456+00:00"
     },
     {
-      "id": "6fcf03e3d574dd42",
-      "title": "klok-cli 1.1.0",
-      "link": "https://pypi.org/project/klok-cli/1.1.0/",
-      "published": "Sat, 17 Oct 2026 22:29:18 GMT",
-      "collected_at": "2026-10-17T22:49:23.101883+00:00"
+      "id": "1d7bb1685fdde7d2",
+      "title": "RIFT 0.0.17.14rc8",
+      "link": "https://pypi.org/project/rift/0.0.17.14rc8/",
+      "published": "Sun, 18 Oct 2026 22:22:49 GMT",
+      "collected_at": "2026-10-18T22:42:31.499454+00:00"
     },
     {
-      "id": "2bae14db75083104",
-      "title": "graphed 0.0.8",
-      "link": "https://pypi.org/project/graphed/0.0.8/",
-      "published": "Sat, 17 Oct 2026 22:29:25 GMT",
-      "collected_at": "2026-10-17T22:49:23.101882+00:00"
+      "id": "bd6f99bc87c637f9",
+      "title": "cds-interpret 0.5.1",
+      "link": "https://pypi.org/project/cds-interpret/0.5.1/",
+      "published": "Sun, 18 Oct 2026 22:22:58 GMT",
+      "collected_at": "2026-10-18T22:42:31.499453+00:00"
     },
     {
-      "id": "f829f4a1897eef69",
-      "title": "withlore 0.2.0a14",
-      "link": "https://pypi.org/project/withlore/0.2.0a14/",
-      "published": "Sat, 17 Oct 2026 22:29:34 GMT",
-      "collected_at": "2026-10-17T22:49:23.101880+00:00"
+      "id": "57a169d16c136b1b",
+      "title": "plone.meta 2.12.0",
+      "link": "https://pypi.org/project/plone-meta/2.12.0/",
+      "published": "Sun, 18 Oct 2026 22:23:50 GMT",
+      "collected_at": "2026-10-18T22:42:31.499451+00:00"
     },
     {
-      "id": "d346c63f9fa96d56",
-      "title": "llmledger-mcp 0.1.0",
-      "link": "https://pypi.org/project/llmledger-mcp/0.1.0/",
-      "published": "Sat, 17 Oct 2026 22:29:34 GMT",
-      "collected_at": "2026-10-17T22:49:23.101878+00:00"
+      "id": "b6834b2e622d6697",
+      "title": "graflo 1.19.0",
+      "link": "https://pypi.org/project/graflo/1.19.0/",
+      "published": "Sun, 18 Oct 2026 22:24:01 GMT",
+      "collected_at": "2026-10-18T22:42:31.499449+00:00"
     },
     {
-      "id": "baddc9f6de7e964d",
-      "title": "musil 0.36.4",
-      "link": "https://pypi.org/project/musil/0.36.4/",
-      "published": "Sat, 17 Oct 2026 22:29:36 GMT",
-      "collected_at": "2026-10-17T22:49:23.101876+00:00"
+      "id": "a24c508d4e1c7dd8",
+      "title": "ragnor 0.4.1",
+      "link": "https://pypi.org/project/ragnor/0.4.1/",
+      "published": "Sun, 18 Oct 2026 22:24:15 GMT",
+      "collected_at": "2026-10-18T22:42:31.499448+00:00"
     },
     {
-      "id": "4c8272eb832d2338",
-      "title": "arena-bridge 0.5.0",
-      "link": "https://pypi.org/project/arena-bridge/0.5.0/",
-      "published": "Sat, 17 Oct 2026 22:29:37 GMT",
-      "collected_at": "2026-10-17T22:49:23.101874+00:00"
+      "id": "effc751d9d9f08cf",
+      "title": "proteworks 0.1.1",
+      "link": "https://pypi.org/project/proteworks/0.1.1/",
+      "published": "Sun, 18 Oct 2026 22:25:07 GMT",
+      "collected_at": "2026-10-18T22:42:31.499446+00:00"
     },
     {
-      "id": "cbcfb05fce96b06e",
-      "title": "elfhub 0.1.0",
-      "link": "https://pypi.org/project/elfhub/0.1.0/",
-      "published": "Sat, 17 Oct 2026 22:29:48 GMT",
-      "collected_at": "2026-10-17T22:49:23.101872+00:00"
+      "id": "44f74ffe9531f055",
+      "title": "prespyc 0.3.0",
+      "link": "https://pypi.org/project/prespyc/0.3.0/",
+      "published": "Sun, 18 Oct 2026 22:25:14 GMT",
+      "collected_at": "2026-10-18T22:42:31.499444+00:00"
     }
   ]
 }
