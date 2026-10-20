@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-10-18T22:42:32.358360+00:00",
+  "updated_at": "2026-10-20T00:04:15.041564+00:00",
   "hero": "kgi8914z",
   "guild": "Overnight Foundry",
   "level": 11,
   "title": "선택하는 주조공",
-  "xp": 8638,
-  "xp_into_level": 388,
+  "xp": 8858,
+  "xp_into_level": 608,
   "xp_for_level": 1650,
   "xp_parts": {
     "unique_users": 40,
     "repeat_users": 0,
     "active_users_1d": 80,
     "api_calls": 0,
-    "dataset_records": 7758,
+    "dataset_records": 7958,
     "paying_users": 0,
     "self_uses_weekly": 60,
     "backlinks": 0,
     "stars": 0,
-    "nights": 700
+    "nights": 720
   },
   "row_gain": 100,
-  "nights": 35,
+  "nights": 36,
   "active_assets": 2,
   "inventory": [
     {
@@ -38,94 +38,94 @@
       "lane": "watch",
       "status": "incubator",
       "rarity": "희귀",
-      "stack": 3879,
+      "stack": 3979,
       "notes": "오늘 무엇이 패키지 세계에 나타났는지 한곳에서 못 본다"
     }
   ],
   "loot": [
     {
-      "id": "d6f8ad1d4541a28c",
-      "title": "terraingenpy 0.1.1.dev13",
-      "link": "https://pypi.org/project/terraingenpy/0.1.1.dev13/",
-      "published": "Sun, 18 Oct 2026 22:21:56 GMT",
-      "collected_at": "2026-10-18T22:42:31.499462+00:00"
+      "id": "81518c611890b4d5",
+      "title": "metamist 8.0.0.dev59",
+      "link": "https://pypi.org/project/metamist/8.0.0.dev59/",
+      "published": "Mon, 19 Oct 2026 23:44:15 GMT",
+      "collected_at": "2026-10-20T00:04:13.808006+00:00"
     },
     {
-      "id": "55de5da1b0b8d66f",
-      "title": "meshbook-cli 0.12.0",
-      "link": "https://pypi.org/project/meshbook-cli/0.12.0/",
-      "published": "Sun, 18 Oct 2026 22:22:12 GMT",
-      "collected_at": "2026-10-18T22:42:31.499461+00:00"
+      "id": "df108a6acb18d8c7",
+      "title": "horde-sdk 0.33.0",
+      "link": "https://pypi.org/project/horde-sdk/0.33.0/",
+      "published": "Mon, 19 Oct 2026 23:44:22 GMT",
+      "collected_at": "2026-10-20T00:04:13.808003+00:00"
     },
     {
-      "id": "c95f0b6f0f72c3bb",
-      "title": "parody 0.63.2",
-      "link": "https://pypi.org/project/parody/0.63.2/",
-      "published": "Sun, 18 Oct 2026 22:22:30 GMT",
-      "collected_at": "2026-10-18T22:42:31.499459+00:00"
+      "id": "9cc730e257e66c92",
+      "title": "nemo-compass 0.1.0",
+      "link": "https://pypi.org/project/nemo-compass/0.1.0/",
+      "published": "Mon, 19 Oct 2026 23:44:39 GMT",
+      "collected_at": "2026-10-20T00:04:13.808001+00:00"
     },
     {
-      "id": "70a5ba317568b95d",
-      "title": "monosmith 1.28.0",
-      "link": "https://pypi.org/project/monosmith/1.28.0/",
-      "published": "Sun, 18 Oct 2026 22:22:38 GMT",
-      "collected_at": "2026-10-18T22:42:31.499457+00:00"
+      "id": "50f5464564069887",
+      "title": "GitLarder 0.9.3",
+      "link": "https://pypi.org/project/gitlarder/0.9.3/",
+      "published": "Mon, 19 Oct 2026 23:44:40 GMT",
+      "collected_at": "2026-10-20T00:04:13.807998+00:00"
     },
     {
-      "id": "35b9267d56712984",
-      "title": "croatian-stemmer 0.4.1",
-      "link": "https://pypi.org/project/croatian-stemmer/0.4.1/",
-      "published": "Sun, 18 Oct 2026 22:22:48 GMT",
-      "collected_at": "2026-10-18T22:42:31.499456+00:00"
+      "id": "c07a0620abd3bf0c",
+      "title": "forgetful-ai 0.6.0",
+      "link": "https://pypi.org/project/forgetful-ai/0.6.0/",
+      "published": "Mon, 19 Oct 2026 23:44:48 GMT",
+      "collected_at": "2026-10-20T00:04:13.807995+00:00"
     },
     {
-      "id": "1d7bb1685fdde7d2",
-      "title": "RIFT 0.0.17.14rc8",
-      "link": "https://pypi.org/project/rift/0.0.17.14rc8/",
-      "published": "Sun, 18 Oct 2026 22:22:49 GMT",
-      "collected_at": "2026-10-18T22:42:31.499454+00:00"
+      "id": "79d57ae5c5c14671",
+      "title": "executable-engineering 0.1.44",
+      "link": "https://pypi.org/project/executable-engineering/0.1.44/",
+      "published": "Mon, 19 Oct 2026 23:44:49 GMT",
+      "collected_at": "2026-10-20T00:04:13.807992+00:00"
     },
     {
-      "id": "bd6f99bc87c637f9",
-      "title": "cds-interpret 0.5.1",
-      "link": "https://pypi.org/project/cds-interpret/0.5.1/",
-      "published": "Sun, 18 Oct 2026 22:22:58 GMT",
-      "collected_at": "2026-10-18T22:42:31.499453+00:00"
+      "id": "d1d32e2763899c50",
+      "title": "polyvector 0.1.0",
+      "link": "https://pypi.org/project/polyvector/0.1.0/",
+      "published": "Mon, 19 Oct 2026 23:44:51 GMT",
+      "collected_at": "2026-10-20T00:04:13.807989+00:00"
     },
     {
-      "id": "57a169d16c136b1b",
-      "title": "plone.meta 2.12.0",
-      "link": "https://pypi.org/project/plone-meta/2.12.0/",
-      "published": "Sun, 18 Oct 2026 22:23:50 GMT",
-      "collected_at": "2026-10-18T22:42:31.499451+00:00"
+      "id": "0149f9785632a8b6",
+      "title": "codecraftai-testplus 1.2.0",
+      "link": "https://pypi.org/project/codecraftai-testplus/1.2.0/",
+      "published": "Mon, 19 Oct 2026 23:45:18 GMT",
+      "collected_at": "2026-10-20T00:04:13.807986+00:00"
     },
     {
-      "id": "b6834b2e622d6697",
-      "title": "graflo 1.19.0",
-      "link": "https://pypi.org/project/graflo/1.19.0/",
-      "published": "Sun, 18 Oct 2026 22:24:01 GMT",
-      "collected_at": "2026-10-18T22:42:31.499449+00:00"
+      "id": "a314a64fcf00b715",
+      "title": "pyzed-ui 1.2.0",
+      "link": "https://pypi.org/project/pyzed-ui/1.2.0/",
+      "published": "Mon, 19 Oct 2026 23:45:27 GMT",
+      "collected_at": "2026-10-20T00:04:13.807983+00:00"
     },
     {
-      "id": "a24c508d4e1c7dd8",
-      "title": "ragnor 0.4.1",
-      "link": "https://pypi.org/project/ragnor/0.4.1/",
-      "published": "Sun, 18 Oct 2026 22:24:15 GMT",
-      "collected_at": "2026-10-18T22:42:31.499448+00:00"
+      "id": "38799be2a970f09f",
+      "title": "cybrid-api-organization-python 0.129.1342",
+      "link": "https://pypi.org/project/cybrid-api-organization-python/0.129.1342/",
+      "published": "Mon, 19 Oct 2026 23:45:57 GMT",
+      "collected_at": "2026-10-20T00:04:13.807980+00:00"
     },
     {
-      "id": "effc751d9d9f08cf",
-      "title": "proteworks 0.1.1",
-      "link": "https://pypi.org/project/proteworks/0.1.1/",
-      "published": "Sun, 18 Oct 2026 22:25:07 GMT",
-      "collected_at": "2026-10-18T22:42:31.499446+00:00"
+      "id": "50f66e26fbd09e6c",
+      "title": "open-net-worth 0.1.24",
+      "link": "https://pypi.org/project/open-net-worth/0.1.24/",
+      "published": "Mon, 19 Oct 2026 23:46:23 GMT",
+      "collected_at": "2026-10-20T00:04:13.807977+00:00"
     },
     {
-      "id": "44f74ffe9531f055",
-      "title": "prespyc 0.3.0",
-      "link": "https://pypi.org/project/prespyc/0.3.0/",
-      "published": "Sun, 18 Oct 2026 22:25:14 GMT",
-      "collected_at": "2026-10-18T22:42:31.499444+00:00"
+      "id": "e87b6887aefecf88",
+      "title": "cybrid-api-id-python 0.129.1342",
+      "link": "https://pypi.org/project/cybrid-api-id-python/0.129.1342/",
+      "published": "Mon, 19 Oct 2026 23:46:31 GMT",
+      "collected_at": "2026-10-20T00:04:13.807974+00:00"
     }
   ]
 }
