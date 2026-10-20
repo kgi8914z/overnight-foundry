@@ -1,10 +1,10 @@
 # OVERNIGHT REPORT 2026-10-20
 
-선택하는 주조공 Lv 11 · XP 8858 · 다음 레벨까지 1042
+선택하는 주조공 Lv 11 · XP 9058 · 다음 레벨까지 842
 
 ## Completed
 - foundry: lifecycle=incubator records=0
-- watch-pypi-updates: lifecycle=incubator records=3979
+- watch-pypi-updates: lifecycle=incubator records=4079
 
 ## Waiting for approval
 - Merge PR #4: feat: guild hall dashboard and delta XP — https://github.com/kgi8914z/overnight-foundry/pull/4
@@ -14,10 +14,10 @@
 - Slots incubator/growing/maintenance: {'incubator': 1, 'growing': 0, 'maintenance': 0}
 - Unique users: 1
 - Repeat users: 0
-- Dataset records: 3979 (+100)
+- Dataset records: 4079 (+100)
 - Stars (vanity): 0
 - MRR: $0
-- XP: 8858
+- XP: 9058
 - Level: 11
 
 ## Scout seeds

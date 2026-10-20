@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-10-20T00:04:15.041564+00:00",
+  "updated_at": "2026-10-20T23:35:06.418500+00:00",
   "hero": "kgi8914z",
   "guild": "Overnight Foundry",
   "level": 11,
   "title": "선택하는 주조공",
-  "xp": 8858,
-  "xp_into_level": 608,
+  "xp": 9058,
+  "xp_into_level": 808,
   "xp_for_level": 1650,
   "xp_parts": {
     "unique_users": 40,
     "repeat_users": 0,
     "active_users_1d": 80,
     "api_calls": 0,
-    "dataset_records": 7958,
+    "dataset_records": 8158,
     "paying_users": 0,
     "self_uses_weekly": 60,
     "backlinks": 0,
@@ -38,94 +38,94 @@
       "lane": "watch",
       "status": "incubator",
       "rarity": "희귀",
-      "stack": 3979,
+      "stack": 4079,
       "notes": "오늘 무엇이 패키지 세계에 나타났는지 한곳에서 못 본다"
     }
   ],
   "loot": [
     {
-      "id": "81518c611890b4d5",
-      "title": "metamist 8.0.0.dev59",
-      "link": "https://pypi.org/project/metamist/8.0.0.dev59/",
-      "published": "Mon, 19 Oct 2026 23:44:15 GMT",
-      "collected_at": "2026-10-20T00:04:13.808006+00:00"
+      "id": "539a4488ac6b3004",
+      "title": "variantcentrifuge 0.23.0",
+      "link": "https://pypi.org/project/variantcentrifuge/0.23.0/",
+      "published": "Tue, 20 Oct 2026 23:21:35 GMT",
+      "collected_at": "2026-10-20T23:35:05.481159+00:00"
     },
     {
-      "id": "df108a6acb18d8c7",
-      "title": "horde-sdk 0.33.0",
-      "link": "https://pypi.org/project/horde-sdk/0.33.0/",
-      "published": "Mon, 19 Oct 2026 23:44:22 GMT",
-      "collected_at": "2026-10-20T00:04:13.808003+00:00"
+      "id": "cf942383ab172007",
+      "title": "genealogy-research-workbench 0.6.0",
+      "link": "https://pypi.org/project/genealogy-research-workbench/0.6.0/",
+      "published": "Tue, 20 Oct 2026 23:22:21 GMT",
+      "collected_at": "2026-10-20T23:35:05.481157+00:00"
     },
     {
-      "id": "9cc730e257e66c92",
-      "title": "nemo-compass 0.1.0",
-      "link": "https://pypi.org/project/nemo-compass/0.1.0/",
-      "published": "Mon, 19 Oct 2026 23:44:39 GMT",
-      "collected_at": "2026-10-20T00:04:13.808001+00:00"
+      "id": "5124b6b48c04372f",
+      "title": "forge-dashboard-sdk 3.0.19",
+      "link": "https://pypi.org/project/forge-dashboard-sdk/3.0.19/",
+      "published": "Tue, 20 Oct 2026 23:22:36 GMT",
+      "collected_at": "2026-10-20T23:35:05.481155+00:00"
     },
     {
-      "id": "50f5464564069887",
-      "title": "GitLarder 0.9.3",
-      "link": "https://pypi.org/project/gitlarder/0.9.3/",
-      "published": "Mon, 19 Oct 2026 23:44:40 GMT",
-      "collected_at": "2026-10-20T00:04:13.807998+00:00"
+      "id": "7f20b99e6d6c1660",
+      "title": "Apycula 0.35",
+      "link": "https://pypi.org/project/apycula/0.35/",
+      "published": "Tue, 20 Oct 2026 23:22:39 GMT",
+      "collected_at": "2026-10-20T23:35:05.481153+00:00"
     },
     {
-      "id": "c07a0620abd3bf0c",
-      "title": "forgetful-ai 0.6.0",
-      "link": "https://pypi.org/project/forgetful-ai/0.6.0/",
-      "published": "Mon, 19 Oct 2026 23:44:48 GMT",
-      "collected_at": "2026-10-20T00:04:13.807995+00:00"
+      "id": "0241ab46a6a58480",
+      "title": "aion-engine 0.0.5",
+      "link": "https://pypi.org/project/aion-engine/0.0.5/",
+      "published": "Tue, 20 Oct 2026 23:22:42 GMT",
+      "collected_at": "2026-10-20T23:35:05.481151+00:00"
     },
     {
-      "id": "79d57ae5c5c14671",
-      "title": "executable-engineering 0.1.44",
-      "link": "https://pypi.org/project/executable-engineering/0.1.44/",
-      "published": "Mon, 19 Oct 2026 23:44:49 GMT",
-      "collected_at": "2026-10-20T00:04:13.807992+00:00"
+      "id": "07f1a108806f47a4",
+      "title": "ailia-llm 1.5.1",
+      "link": "https://pypi.org/project/ailia-llm/1.5.1/",
+      "published": "Tue, 20 Oct 2026 23:22:50 GMT",
+      "collected_at": "2026-10-20T23:35:05.481150+00:00"
     },
     {
-      "id": "d1d32e2763899c50",
-      "title": "polyvector 0.1.0",
-      "link": "https://pypi.org/project/polyvector/0.1.0/",
-      "published": "Mon, 19 Oct 2026 23:44:51 GMT",
-      "collected_at": "2026-10-20T00:04:13.807989+00:00"
+      "id": "e522a7100925ad8b",
+      "title": "audio-transcode-watcher 0.7.2",
+      "link": "https://pypi.org/project/audio-transcode-watcher/0.7.2/",
+      "published": "Tue, 20 Oct 2026 23:22:53 GMT",
+      "collected_at": "2026-10-20T23:35:05.481148+00:00"
     },
     {
-      "id": "0149f9785632a8b6",
-      "title": "codecraftai-testplus 1.2.0",
-      "link": "https://pypi.org/project/codecraftai-testplus/1.2.0/",
-      "published": "Mon, 19 Oct 2026 23:45:18 GMT",
-      "collected_at": "2026-10-20T00:04:13.807986+00:00"
+      "id": "b0a498b2dbc86526",
+      "title": "openvpn-status-reader 0.3.0",
+      "link": "https://pypi.org/project/openvpn-status-reader/0.3.0/",
+      "published": "Tue, 20 Oct 2026 23:22:54 GMT",
+      "collected_at": "2026-10-20T23:35:05.481146+00:00"
     },
     {
-      "id": "a314a64fcf00b715",
-      "title": "pyzed-ui 1.2.0",
-      "link": "https://pypi.org/project/pyzed-ui/1.2.0/",
-      "published": "Mon, 19 Oct 2026 23:45:27 GMT",
-      "collected_at": "2026-10-20T00:04:13.807983+00:00"
+      "id": "8c0f02e0a19d4040",
+      "title": "astraform-conformance 0.3.5",
+      "link": "https://pypi.org/project/astraform-conformance/0.3.5/",
+      "published": "Tue, 20 Oct 2026 23:22:56 GMT",
+      "collected_at": "2026-10-20T23:35:05.481144+00:00"
     },
     {
-      "id": "38799be2a970f09f",
-      "title": "cybrid-api-organization-python 0.129.1342",
-      "link": "https://pypi.org/project/cybrid-api-organization-python/0.129.1342/",
-      "published": "Mon, 19 Oct 2026 23:45:57 GMT",
-      "collected_at": "2026-10-20T00:04:13.807980+00:00"
+      "id": "2ad0838b39f6a445",
+      "title": "souleyez 5.0.16",
+      "link": "https://pypi.org/project/souleyez/5.0.16/",
+      "published": "Tue, 20 Oct 2026 23:22:58 GMT",
+      "collected_at": "2026-10-20T23:35:05.481143+00:00"
     },
     {
-      "id": "50f66e26fbd09e6c",
-      "title": "open-net-worth 0.1.24",
-      "link": "https://pypi.org/project/open-net-worth/0.1.24/",
-      "published": "Mon, 19 Oct 2026 23:46:23 GMT",
-      "collected_at": "2026-10-20T00:04:13.807977+00:00"
+      "id": "f38e393353a2eda9",
+      "title": "astraform-sdk 0.3.5",
+      "link": "https://pypi.org/project/astraform-sdk/0.3.5/",
+      "published": "Tue, 20 Oct 2026 23:22:58 GMT",
+      "collected_at": "2026-10-20T23:35:05.481141+00:00"
     },
     {
-      "id": "e87b6887aefecf88",
-      "title": "cybrid-api-id-python 0.129.1342",
-      "link": "https://pypi.org/project/cybrid-api-id-python/0.129.1342/",
-      "published": "Mon, 19 Oct 2026 23:46:31 GMT",
-      "collected_at": "2026-10-20T00:04:13.807974+00:00"
+      "id": "65d81272b2265c85",
+      "title": "richapi 0.4.0",
+      "link": "https://pypi.org/project/richapi/0.4.0/",
+      "published": "Tue, 20 Oct 2026 23:23:21 GMT",
+      "collected_at": "2026-10-20T23:35:05.481139+00:00"
     }
   ]
 }
