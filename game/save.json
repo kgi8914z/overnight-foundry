@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-10-20T23:35:06.418500+00:00",
+  "updated_at": "2026-10-21T23:52:12.983411+00:00",
   "hero": "kgi8914z",
   "guild": "Overnight Foundry",
   "level": 11,
   "title": "선택하는 주조공",
-  "xp": 9058,
-  "xp_into_level": 808,
+  "xp": 9278,
+  "xp_into_level": 1028,
   "xp_for_level": 1650,
   "xp_parts": {
     "unique_users": 40,
     "repeat_users": 0,
     "active_users_1d": 80,
     "api_calls": 0,
-    "dataset_records": 8158,
+    "dataset_records": 8358,
     "paying_users": 0,
     "self_uses_weekly": 60,
     "backlinks": 0,
     "stars": 0,
-    "nights": 720
+    "nights": 740
   },
   "row_gain": 100,
-  "nights": 36,
+  "nights": 37,
   "active_assets": 2,
   "inventory": [
     {
@@ -38,94 +38,94 @@
       "lane": "watch",
       "status": "incubator",
       "rarity": "희귀",
-      "stack": 4079,
+      "stack": 4179,
       "notes": "오늘 무엇이 패키지 세계에 나타났는지 한곳에서 못 본다"
     }
   ],
   "loot": [
     {
-      "id": "539a4488ac6b3004",
-      "title": "variantcentrifuge 0.23.0",
-      "link": "https://pypi.org/project/variantcentrifuge/0.23.0/",
-      "published": "Tue, 20 Oct 2026 23:21:35 GMT",
-      "collected_at": "2026-10-20T23:35:05.481159+00:00"
+      "id": "c5d7c5f9794343bc",
+      "title": "yt-dlp 2026.10.21.233146.dev0",
+      "link": "https://pypi.org/project/yt-dlp/2026.10.21.233146.dev0/",
+      "published": "Wed, 21 Oct 2026 23:35:55 GMT",
+      "collected_at": "2026-10-21T23:52:12.108628+00:00"
     },
     {
-      "id": "cf942383ab172007",
-      "title": "genealogy-research-workbench 0.6.0",
-      "link": "https://pypi.org/project/genealogy-research-workbench/0.6.0/",
-      "published": "Tue, 20 Oct 2026 23:22:21 GMT",
-      "collected_at": "2026-10-20T23:35:05.481157+00:00"
+      "id": "9a696f5da54ca170",
+      "title": "theforge-core 0.5.6",
+      "link": "https://pypi.org/project/theforge-core/0.5.6/",
+      "published": "Wed, 21 Oct 2026 23:35:57 GMT",
+      "collected_at": "2026-10-21T23:52:12.108625+00:00"
     },
     {
-      "id": "5124b6b48c04372f",
-      "title": "forge-dashboard-sdk 3.0.19",
-      "link": "https://pypi.org/project/forge-dashboard-sdk/3.0.19/",
-      "published": "Tue, 20 Oct 2026 23:22:36 GMT",
-      "collected_at": "2026-10-20T23:35:05.481155+00:00"
+      "id": "75ae420948c16446",
+      "title": "mcp-souschef 7.4.0",
+      "link": "https://pypi.org/project/mcp-souschef/7.4.0/",
+      "published": "Wed, 21 Oct 2026 23:36:15 GMT",
+      "collected_at": "2026-10-21T23:52:12.108622+00:00"
     },
     {
-      "id": "7f20b99e6d6c1660",
-      "title": "Apycula 0.35",
-      "link": "https://pypi.org/project/apycula/0.35/",
-      "published": "Tue, 20 Oct 2026 23:22:39 GMT",
-      "collected_at": "2026-10-20T23:35:05.481153+00:00"
+      "id": "6154b9f954366dc7",
+      "title": "hsluv 5.0.5rc1",
+      "link": "https://pypi.org/project/hsluv/5.0.5rc1/",
+      "published": "Wed, 21 Oct 2026 23:36:15 GMT",
+      "collected_at": "2026-10-21T23:52:12.108620+00:00"
     },
     {
-      "id": "0241ab46a6a58480",
-      "title": "aion-engine 0.0.5",
-      "link": "https://pypi.org/project/aion-engine/0.0.5/",
-      "published": "Tue, 20 Oct 2026 23:22:42 GMT",
-      "collected_at": "2026-10-20T23:35:05.481151+00:00"
+      "id": "30b2756a4ce3b332",
+      "title": "nemo-retriever 2026.10.21.dev701",
+      "link": "https://pypi.org/project/nemo-retriever/2026.10.21.dev701/",
+      "published": "Wed, 21 Oct 2026 23:36:17 GMT",
+      "collected_at": "2026-10-21T23:52:12.108617+00:00"
     },
     {
-      "id": "07f1a108806f47a4",
-      "title": "ailia-llm 1.5.1",
-      "link": "https://pypi.org/project/ailia-llm/1.5.1/",
-      "published": "Tue, 20 Oct 2026 23:22:50 GMT",
-      "collected_at": "2026-10-20T23:35:05.481150+00:00"
+      "id": "05d48d930113c02a",
+      "title": "dataerai-sdk 0.3.0b6",
+      "link": "https://pypi.org/project/dataerai-sdk/0.3.0b6/",
+      "published": "Wed, 21 Oct 2026 23:36:33 GMT",
+      "collected_at": "2026-10-21T23:52:12.108614+00:00"
     },
     {
-      "id": "e522a7100925ad8b",
-      "title": "audio-transcode-watcher 0.7.2",
-      "link": "https://pypi.org/project/audio-transcode-watcher/0.7.2/",
-      "published": "Tue, 20 Oct 2026 23:22:53 GMT",
-      "collected_at": "2026-10-20T23:35:05.481148+00:00"
+      "id": "f97897abaa2adbb6",
+      "title": "dataerai-cli-beta 0.1.92",
+      "link": "https://pypi.org/project/dataerai-cli-beta/0.1.92/",
+      "published": "Wed, 21 Oct 2026 23:36:37 GMT",
+      "collected_at": "2026-10-21T23:52:12.108611+00:00"
     },
     {
-      "id": "b0a498b2dbc86526",
-      "title": "openvpn-status-reader 0.3.0",
-      "link": "https://pypi.org/project/openvpn-status-reader/0.3.0/",
-      "published": "Tue, 20 Oct 2026 23:22:54 GMT",
-      "collected_at": "2026-10-20T23:35:05.481146+00:00"
+      "id": "d2cbe63590acf586",
+      "title": "mmcif-io 0.2.0",
+      "link": "https://pypi.org/project/mmcif-io/0.2.0/",
+      "published": "Wed, 21 Oct 2026 23:36:43 GMT",
+      "collected_at": "2026-10-21T23:52:12.108608+00:00"
     },
     {
-      "id": "8c0f02e0a19d4040",
-      "title": "astraform-conformance 0.3.5",
-      "link": "https://pypi.org/project/astraform-conformance/0.3.5/",
-      "published": "Tue, 20 Oct 2026 23:22:56 GMT",
-      "collected_at": "2026-10-20T23:35:05.481144+00:00"
+      "id": "6545e306b42337df",
+      "title": "sparkforge-aws 0.5.6",
+      "link": "https://pypi.org/project/sparkforge-aws/0.5.6/",
+      "published": "Wed, 21 Oct 2026 23:36:49 GMT",
+      "collected_at": "2026-10-21T23:52:12.108606+00:00"
     },
     {
-      "id": "2ad0838b39f6a445",
-      "title": "souleyez 5.0.16",
-      "link": "https://pypi.org/project/souleyez/5.0.16/",
-      "published": "Tue, 20 Oct 2026 23:22:58 GMT",
-      "collected_at": "2026-10-20T23:35:05.481143+00:00"
+      "id": "c4fd2640a7e3b39b",
+      "title": "aegis-devops 1.2.0",
+      "link": "https://pypi.org/project/aegis-devops/1.2.0/",
+      "published": "Wed, 21 Oct 2026 23:36:57 GMT",
+      "collected_at": "2026-10-21T23:52:12.108603+00:00"
     },
     {
-      "id": "f38e393353a2eda9",
-      "title": "astraform-sdk 0.3.5",
-      "link": "https://pypi.org/project/astraform-sdk/0.3.5/",
-      "published": "Tue, 20 Oct 2026 23:22:58 GMT",
-      "collected_at": "2026-10-20T23:35:05.481141+00:00"
+      "id": "c3cd0decb6293538",
+      "title": "starpulse 0.5.1b1806",
+      "link": "https://pypi.org/project/starpulse/0.5.1b1806/",
+      "published": "Wed, 21 Oct 2026 23:37:17 GMT",
+      "collected_at": "2026-10-21T23:52:12.108600+00:00"
     },
     {
-      "id": "65d81272b2265c85",
-      "title": "richapi 0.4.0",
-      "link": "https://pypi.org/project/richapi/0.4.0/",
-      "published": "Tue, 20 Oct 2026 23:23:21 GMT",
-      "collected_at": "2026-10-20T23:35:05.481139+00:00"
+      "id": "af2e467053be42b9",
+      "title": "envilder 0.5.2",
+      "link": "https://pypi.org/project/envilder/0.5.2/",
+      "published": "Wed, 21 Oct 2026 23:37:20 GMT",
+      "collected_at": "2026-10-21T23:52:12.108598+00:00"
     }
   ]
 }
