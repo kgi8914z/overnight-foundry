@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-10-21T23:52:12.983411+00:00",
+  "updated_at": "2026-10-22T23:49:14.633960+00:00",
   "hero": "kgi8914z",
   "guild": "Overnight Foundry",
   "level": 11,
   "title": "선택하는 주조공",
-  "xp": 9278,
-  "xp_into_level": 1028,
+  "xp": 9498,
+  "xp_into_level": 1248,
   "xp_for_level": 1650,
   "xp_parts": {
     "unique_users": 40,
     "repeat_users": 0,
     "active_users_1d": 80,
     "api_calls": 0,
-    "dataset_records": 8358,
+    "dataset_records": 8558,
     "paying_users": 0,
     "self_uses_weekly": 60,
     "backlinks": 0,
     "stars": 0,
-    "nights": 740
+    "nights": 760
   },
   "row_gain": 100,
-  "nights": 37,
+  "nights": 38,
   "active_assets": 2,
   "inventory": [
     {
@@ -38,94 +38,94 @@
       "lane": "watch",
       "status": "incubator",
       "rarity": "희귀",
-      "stack": 4179,
+      "stack": 4279,
       "notes": "오늘 무엇이 패키지 세계에 나타났는지 한곳에서 못 본다"
     }
   ],
   "loot": [
     {
-      "id": "c5d7c5f9794343bc",
-      "title": "yt-dlp 2026.10.21.233146.dev0",
-      "link": "https://pypi.org/project/yt-dlp/2026.10.21.233146.dev0/",
-      "published": "Wed, 21 Oct 2026 23:35:55 GMT",
-      "collected_at": "2026-10-21T23:52:12.108628+00:00"
+      "id": "97d16480a4906dda",
+      "title": "mcp-server-lint 0.34.1",
+      "link": "https://pypi.org/project/mcp-server-lint/0.34.1/",
+      "published": "Thu, 22 Oct 2026 23:21:25 GMT",
+      "collected_at": "2026-10-22T23:49:13.418006+00:00"
     },
     {
-      "id": "9a696f5da54ca170",
-      "title": "theforge-core 0.5.6",
-      "link": "https://pypi.org/project/theforge-core/0.5.6/",
-      "published": "Wed, 21 Oct 2026 23:35:57 GMT",
-      "collected_at": "2026-10-21T23:52:12.108625+00:00"
+      "id": "610eddc30dce5c06",
+      "title": "track-4dgs 1.4.2",
+      "link": "https://pypi.org/project/track-4dgs/1.4.2/",
+      "published": "Thu, 22 Oct 2026 23:21:33 GMT",
+      "collected_at": "2026-10-22T23:49:13.418002+00:00"
     },
     {
-      "id": "75ae420948c16446",
-      "title": "mcp-souschef 7.4.0",
-      "link": "https://pypi.org/project/mcp-souschef/7.4.0/",
-      "published": "Wed, 21 Oct 2026 23:36:15 GMT",
-      "collected_at": "2026-10-21T23:52:12.108622+00:00"
+      "id": "512f19228a9582ee",
+      "title": "pulumi-awsx 3.12.0a1792709707",
+      "link": "https://pypi.org/project/pulumi-awsx/3.12.0a1792709707/",
+      "published": "Thu, 22 Oct 2026 23:21:37 GMT",
+      "collected_at": "2026-10-22T23:49:13.417998+00:00"
     },
     {
-      "id": "6154b9f954366dc7",
-      "title": "hsluv 5.0.5rc1",
-      "link": "https://pypi.org/project/hsluv/5.0.5rc1/",
-      "published": "Wed, 21 Oct 2026 23:36:15 GMT",
-      "collected_at": "2026-10-21T23:52:12.108620+00:00"
+      "id": "5b0fe029c391f9e9",
+      "title": "oto-core 1.197.0",
+      "link": "https://pypi.org/project/oto-core/1.197.0/",
+      "published": "Thu, 22 Oct 2026 23:22:06 GMT",
+      "collected_at": "2026-10-22T23:49:13.417977+00:00"
     },
     {
-      "id": "30b2756a4ce3b332",
-      "title": "nemo-retriever 2026.10.21.dev701",
-      "link": "https://pypi.org/project/nemo-retriever/2026.10.21.dev701/",
-      "published": "Wed, 21 Oct 2026 23:36:17 GMT",
-      "collected_at": "2026-10-21T23:52:12.108617+00:00"
+      "id": "c78de0229d149b8a",
+      "title": "asteroid-odyssey 1.9.115",
+      "link": "https://pypi.org/project/asteroid-odyssey/1.9.115/",
+      "published": "Thu, 22 Oct 2026 23:22:09 GMT",
+      "collected_at": "2026-10-22T23:49:13.417975+00:00"
     },
     {
-      "id": "05d48d930113c02a",
-      "title": "dataerai-sdk 0.3.0b6",
-      "link": "https://pypi.org/project/dataerai-sdk/0.3.0b6/",
-      "published": "Wed, 21 Oct 2026 23:36:33 GMT",
-      "collected_at": "2026-10-21T23:52:12.108614+00:00"
+      "id": "fcdca9af59a4de31",
+      "title": "importlib-metadata 9.1.0",
+      "link": "https://pypi.org/project/importlib-metadata/9.1.0/",
+      "published": "Thu, 22 Oct 2026 23:22:12 GMT",
+      "collected_at": "2026-10-22T23:49:13.417973+00:00"
     },
     {
-      "id": "f97897abaa2adbb6",
-      "title": "dataerai-cli-beta 0.1.92",
-      "link": "https://pypi.org/project/dataerai-cli-beta/0.1.92/",
-      "published": "Wed, 21 Oct 2026 23:36:37 GMT",
-      "collected_at": "2026-10-21T23:52:12.108611+00:00"
+      "id": "77cbb1ba72babd8b",
+      "title": "zernio-sdk 1.4.1321",
+      "link": "https://pypi.org/project/zernio-sdk/1.4.1321/",
+      "published": "Thu, 22 Oct 2026 23:22:18 GMT",
+      "collected_at": "2026-10-22T23:49:13.417970+00:00"
     },
     {
-      "id": "d2cbe63590acf586",
-      "title": "mmcif-io 0.2.0",
-      "link": "https://pypi.org/project/mmcif-io/0.2.0/",
-      "published": "Wed, 21 Oct 2026 23:36:43 GMT",
-      "collected_at": "2026-10-21T23:52:12.108608+00:00"
+      "id": "154dc9dfd10f3e2d",
+      "title": "late-sdk 1.4.1321",
+      "link": "https://pypi.org/project/late-sdk/1.4.1321/",
+      "published": "Thu, 22 Oct 2026 23:22:26 GMT",
+      "collected_at": "2026-10-22T23:49:13.417968+00:00"
     },
     {
-      "id": "6545e306b42337df",
-      "title": "sparkforge-aws 0.5.6",
-      "link": "https://pypi.org/project/sparkforge-aws/0.5.6/",
-      "published": "Wed, 21 Oct 2026 23:36:49 GMT",
-      "collected_at": "2026-10-21T23:52:12.108606+00:00"
+      "id": "0f6ad83cc6fe0e9d",
+      "title": "greenray-aio 0.9.3",
+      "link": "https://pypi.org/project/greenray-aio/0.9.3/",
+      "published": "Thu, 22 Oct 2026 23:22:32 GMT",
+      "collected_at": "2026-10-22T23:49:13.417966+00:00"
     },
     {
-      "id": "c4fd2640a7e3b39b",
-      "title": "aegis-devops 1.2.0",
-      "link": "https://pypi.org/project/aegis-devops/1.2.0/",
-      "published": "Wed, 21 Oct 2026 23:36:57 GMT",
-      "collected_at": "2026-10-21T23:52:12.108603+00:00"
+      "id": "78bc8172ae30389d",
+      "title": "plur-hermes 0.22.1",
+      "link": "https://pypi.org/project/plur-hermes/0.22.1/",
+      "published": "Thu, 22 Oct 2026 23:22:44 GMT",
+      "collected_at": "2026-10-22T23:49:13.417964+00:00"
     },
     {
-      "id": "c3cd0decb6293538",
-      "title": "starpulse 0.5.1b1806",
-      "link": "https://pypi.org/project/starpulse/0.5.1b1806/",
-      "published": "Wed, 21 Oct 2026 23:37:17 GMT",
-      "collected_at": "2026-10-21T23:52:12.108600+00:00"
+      "id": "89691dbc7a7f59c6",
+      "title": "ghl-pro-mcp 0.4.9",
+      "link": "https://pypi.org/project/ghl-pro-mcp/0.4.9/",
+      "published": "Thu, 22 Oct 2026 23:22:47 GMT",
+      "collected_at": "2026-10-22T23:49:13.417962+00:00"
     },
     {
-      "id": "af2e467053be42b9",
-      "title": "envilder 0.5.2",
-      "link": "https://pypi.org/project/envilder/0.5.2/",
-      "published": "Wed, 21 Oct 2026 23:37:20 GMT",
-      "collected_at": "2026-10-21T23:52:12.108598+00:00"
+      "id": "11b6d4dc27f6d510",
+      "title": "streamlz 3.7.1",
+      "link": "https://pypi.org/project/streamlz/3.7.1/",
+      "published": "Thu, 22 Oct 2026 23:22:54 GMT",
+      "collected_at": "2026-10-22T23:49:13.417960+00:00"
     }
   ]
 }
