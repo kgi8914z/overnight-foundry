@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-10-22T23:49:14.633960+00:00",
+  "updated_at": "2026-10-23T23:43:02.335496+00:00",
   "hero": "kgi8914z",
   "guild": "Overnight Foundry",
   "level": 11,
   "title": "선택하는 주조공",
-  "xp": 9498,
-  "xp_into_level": 1248,
+  "xp": 9718,
+  "xp_into_level": 1468,
   "xp_for_level": 1650,
   "xp_parts": {
     "unique_users": 40,
     "repeat_users": 0,
     "active_users_1d": 80,
     "api_calls": 0,
-    "dataset_records": 8558,
+    "dataset_records": 8758,
     "paying_users": 0,
     "self_uses_weekly": 60,
     "backlinks": 0,
     "stars": 0,
-    "nights": 760
+    "nights": 780
   },
   "row_gain": 100,
-  "nights": 38,
+  "nights": 39,
   "active_assets": 2,
   "inventory": [
     {
@@ -38,94 +38,94 @@
       "lane": "watch",
       "status": "incubator",
       "rarity": "희귀",
-      "stack": 4279,
+      "stack": 4379,
       "notes": "오늘 무엇이 패키지 세계에 나타났는지 한곳에서 못 본다"
     }
   ],
   "loot": [
     {
-      "id": "97d16480a4906dda",
-      "title": "mcp-server-lint 0.34.1",
-      "link": "https://pypi.org/project/mcp-server-lint/0.34.1/",
-      "published": "Thu, 22 Oct 2026 23:21:25 GMT",
-      "collected_at": "2026-10-22T23:49:13.418006+00:00"
+      "id": "05493e19a41ebaca",
+      "title": "olmoearth-inferencex 1.14.1",
+      "link": "https://pypi.org/project/olmoearth-inferencex/1.14.1/",
+      "published": "Fri, 23 Oct 2026 23:25:56 GMT",
+      "collected_at": "2026-10-23T23:43:01.418009+00:00"
     },
     {
-      "id": "610eddc30dce5c06",
-      "title": "track-4dgs 1.4.2",
-      "link": "https://pypi.org/project/track-4dgs/1.4.2/",
-      "published": "Thu, 22 Oct 2026 23:21:33 GMT",
-      "collected_at": "2026-10-22T23:49:13.418002+00:00"
+      "id": "73753d99946f9dbb",
+      "title": "pycristal 0.2.0",
+      "link": "https://pypi.org/project/pycristal/0.2.0/",
+      "published": "Fri, 23 Oct 2026 23:26:02 GMT",
+      "collected_at": "2026-10-23T23:43:01.418006+00:00"
     },
     {
-      "id": "512f19228a9582ee",
-      "title": "pulumi-awsx 3.12.0a1792709707",
-      "link": "https://pypi.org/project/pulumi-awsx/3.12.0a1792709707/",
-      "published": "Thu, 22 Oct 2026 23:21:37 GMT",
-      "collected_at": "2026-10-22T23:49:13.417998+00:00"
+      "id": "6720843999080674",
+      "title": "boost-skill-cli 1.2.207",
+      "link": "https://pypi.org/project/boost-skill-cli/1.2.207/",
+      "published": "Fri, 23 Oct 2026 23:26:05 GMT",
+      "collected_at": "2026-10-23T23:43:01.418003+00:00"
     },
     {
-      "id": "5b0fe029c391f9e9",
-      "title": "oto-core 1.197.0",
-      "link": "https://pypi.org/project/oto-core/1.197.0/",
-      "published": "Thu, 22 Oct 2026 23:22:06 GMT",
-      "collected_at": "2026-10-22T23:49:13.417977+00:00"
+      "id": "b9602dd1e47cdd81",
+      "title": "incident-io 2.26.0",
+      "link": "https://pypi.org/project/incident-io/2.26.0/",
+      "published": "Fri, 23 Oct 2026 23:26:18 GMT",
+      "collected_at": "2026-10-23T23:43:01.418000+00:00"
     },
     {
-      "id": "c78de0229d149b8a",
-      "title": "asteroid-odyssey 1.9.115",
-      "link": "https://pypi.org/project/asteroid-odyssey/1.9.115/",
-      "published": "Thu, 22 Oct 2026 23:22:09 GMT",
-      "collected_at": "2026-10-22T23:49:13.417975+00:00"
+      "id": "c6aa446d93315272",
+      "title": "brainlayer 1.5.71",
+      "link": "https://pypi.org/project/brainlayer/1.5.71/",
+      "published": "Fri, 23 Oct 2026 23:26:24 GMT",
+      "collected_at": "2026-10-23T23:43:01.417997+00:00"
     },
     {
-      "id": "fcdca9af59a4de31",
-      "title": "importlib-metadata 9.1.0",
-      "link": "https://pypi.org/project/importlib-metadata/9.1.0/",
-      "published": "Thu, 22 Oct 2026 23:22:12 GMT",
-      "collected_at": "2026-10-22T23:49:13.417973+00:00"
+      "id": "ca16c0a909c5535b",
+      "title": "cozy-runtime 0.31.0",
+      "link": "https://pypi.org/project/cozy-runtime/0.31.0/",
+      "published": "Fri, 23 Oct 2026 23:26:25 GMT",
+      "collected_at": "2026-10-23T23:43:01.417995+00:00"
     },
     {
-      "id": "77cbb1ba72babd8b",
-      "title": "zernio-sdk 1.4.1321",
-      "link": "https://pypi.org/project/zernio-sdk/1.4.1321/",
-      "published": "Thu, 22 Oct 2026 23:22:18 GMT",
-      "collected_at": "2026-10-22T23:49:13.417970+00:00"
+      "id": "1570772643a5aa83",
+      "title": "tabletask 0.2.3",
+      "link": "https://pypi.org/project/tabletask/0.2.3/",
+      "published": "Fri, 23 Oct 2026 23:26:28 GMT",
+      "collected_at": "2026-10-23T23:43:01.417991+00:00"
     },
     {
-      "id": "154dc9dfd10f3e2d",
-      "title": "late-sdk 1.4.1321",
-      "link": "https://pypi.org/project/late-sdk/1.4.1321/",
-      "published": "Thu, 22 Oct 2026 23:22:26 GMT",
-      "collected_at": "2026-10-22T23:49:13.417968+00:00"
+      "id": "f17a9e756bdcd6aa",
+      "title": "shade-sdk 0.19.0",
+      "link": "https://pypi.org/project/shade-sdk/0.19.0/",
+      "published": "Fri, 23 Oct 2026 23:26:33 GMT",
+      "collected_at": "2026-10-23T23:43:01.417988+00:00"
     },
     {
-      "id": "0f6ad83cc6fe0e9d",
-      "title": "greenray-aio 0.9.3",
-      "link": "https://pypi.org/project/greenray-aio/0.9.3/",
-      "published": "Thu, 22 Oct 2026 23:22:32 GMT",
-      "collected_at": "2026-10-22T23:49:13.417966+00:00"
+      "id": "b45ac66f45b08bfb",
+      "title": "agnix 0.59.2",
+      "link": "https://pypi.org/project/agnix/0.59.2/",
+      "published": "Fri, 23 Oct 2026 23:26:41 GMT",
+      "collected_at": "2026-10-23T23:43:01.417985+00:00"
     },
     {
-      "id": "78bc8172ae30389d",
-      "title": "plur-hermes 0.22.1",
-      "link": "https://pypi.org/project/plur-hermes/0.22.1/",
-      "published": "Thu, 22 Oct 2026 23:22:44 GMT",
-      "collected_at": "2026-10-22T23:49:13.417964+00:00"
+      "id": "5095b7bcd3a71065",
+      "title": "openrewrite 8.94.0.dev20261023232140",
+      "link": "https://pypi.org/project/openrewrite/8.94.0.dev20261023232140/",
+      "published": "Fri, 23 Oct 2026 23:26:42 GMT",
+      "collected_at": "2026-10-23T23:43:01.417982+00:00"
     },
     {
-      "id": "89691dbc7a7f59c6",
-      "title": "ghl-pro-mcp 0.4.9",
-      "link": "https://pypi.org/project/ghl-pro-mcp/0.4.9/",
-      "published": "Thu, 22 Oct 2026 23:22:47 GMT",
-      "collected_at": "2026-10-22T23:49:13.417962+00:00"
+      "id": "a2e4dc91a49d7683",
+      "title": "vcenter-lookup-bridge-client 1.6.0",
+      "link": "https://pypi.org/project/vcenter-lookup-bridge-client/1.6.0/",
+      "published": "Fri, 23 Oct 2026 23:26:51 GMT",
+      "collected_at": "2026-10-23T23:43:01.417979+00:00"
     },
     {
-      "id": "11b6d4dc27f6d510",
-      "title": "streamlz 3.7.1",
-      "link": "https://pypi.org/project/streamlz/3.7.1/",
-      "published": "Thu, 22 Oct 2026 23:22:54 GMT",
-      "collected_at": "2026-10-22T23:49:13.417960+00:00"
+      "id": "7450987dc699d8aa",
+      "title": "orchestral-client 0.1.9",
+      "link": "https://pypi.org/project/orchestral-client/0.1.9/",
+      "published": "Fri, 23 Oct 2026 23:26:53 GMT",
+      "collected_at": "2026-10-23T23:43:01.417976+00:00"
     }
   ]
 }
