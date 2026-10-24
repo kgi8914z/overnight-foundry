@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-10-23T23:43:02.335496+00:00",
+  "updated_at": "2026-10-24T22:49:19.229718+00:00",
   "hero": "kgi8914z",
   "guild": "Overnight Foundry",
-  "level": 11,
-  "title": "선택하는 주조공",
-  "xp": 9718,
-  "xp_into_level": 1468,
-  "xp_for_level": 1650,
+  "level": 12,
+  "title": "제국 회계관",
+  "xp": 9938,
+  "xp_into_level": 38,
+  "xp_for_level": 1800,
   "xp_parts": {
     "unique_users": 40,
     "repeat_users": 0,
     "active_users_1d": 80,
     "api_calls": 0,
-    "dataset_records": 8758,
+    "dataset_records": 8958,
     "paying_users": 0,
     "self_uses_weekly": 60,
     "backlinks": 0,
     "stars": 0,
-    "nights": 780
+    "nights": 800
   },
   "row_gain": 100,
-  "nights": 39,
+  "nights": 40,
   "active_assets": 2,
   "inventory": [
     {
@@ -38,94 +38,94 @@
       "lane": "watch",
       "status": "incubator",
       "rarity": "희귀",
-      "stack": 4379,
+      "stack": 4479,
       "notes": "오늘 무엇이 패키지 세계에 나타났는지 한곳에서 못 본다"
     }
   ],
   "loot": [
     {
-      "id": "05493e19a41ebaca",
-      "title": "olmoearth-inferencex 1.14.1",
-      "link": "https://pypi.org/project/olmoearth-inferencex/1.14.1/",
-      "published": "Fri, 23 Oct 2026 23:25:56 GMT",
-      "collected_at": "2026-10-23T23:43:01.418009+00:00"
+      "id": "fbc9a9ed0d7a72a2",
+      "title": "osp-provider-runtime 0.12.0",
+      "link": "https://pypi.org/project/osp-provider-runtime/0.12.0/",
+      "published": "Sat, 24 Oct 2026 22:36:13 GMT",
+      "collected_at": "2026-10-24T22:49:18.097814+00:00"
     },
     {
-      "id": "73753d99946f9dbb",
-      "title": "pycristal 0.2.0",
-      "link": "https://pypi.org/project/pycristal/0.2.0/",
-      "published": "Fri, 23 Oct 2026 23:26:02 GMT",
-      "collected_at": "2026-10-23T23:43:01.418006+00:00"
+      "id": "23c2bb335a8e05db",
+      "title": "topos-node 1.5.23",
+      "link": "https://pypi.org/project/topos-node/1.5.23/",
+      "published": "Sat, 24 Oct 2026 22:36:20 GMT",
+      "collected_at": "2026-10-24T22:49:18.097812+00:00"
     },
     {
-      "id": "6720843999080674",
-      "title": "boost-skill-cli 1.2.207",
-      "link": "https://pypi.org/project/boost-skill-cli/1.2.207/",
-      "published": "Fri, 23 Oct 2026 23:26:05 GMT",
-      "collected_at": "2026-10-23T23:43:01.418003+00:00"
+      "id": "2498d6a20c6bb8a1",
+      "title": "repo-standards 6.12.10",
+      "link": "https://pypi.org/project/repo-standards/6.12.10/",
+      "published": "Sat, 24 Oct 2026 22:36:33 GMT",
+      "collected_at": "2026-10-24T22:49:18.097810+00:00"
     },
     {
-      "id": "b9602dd1e47cdd81",
-      "title": "incident-io 2.26.0",
-      "link": "https://pypi.org/project/incident-io/2.26.0/",
-      "published": "Fri, 23 Oct 2026 23:26:18 GMT",
-      "collected_at": "2026-10-23T23:43:01.418000+00:00"
+      "id": "c02965c4daa2d07b",
+      "title": "reg2es 2.5.0",
+      "link": "https://pypi.org/project/reg2es/2.5.0/",
+      "published": "Sat, 24 Oct 2026 22:36:34 GMT",
+      "collected_at": "2026-10-24T22:49:18.097808+00:00"
     },
     {
-      "id": "c6aa446d93315272",
-      "title": "brainlayer 1.5.71",
-      "link": "https://pypi.org/project/brainlayer/1.5.71/",
-      "published": "Fri, 23 Oct 2026 23:26:24 GMT",
-      "collected_at": "2026-10-23T23:43:01.417997+00:00"
+      "id": "796c6b51a32e9f58",
+      "title": "helia-aot 1.0.1",
+      "link": "https://pypi.org/project/helia-aot/1.0.1/",
+      "published": "Sat, 24 Oct 2026 22:36:34 GMT",
+      "collected_at": "2026-10-24T22:49:18.097806+00:00"
     },
     {
-      "id": "ca16c0a909c5535b",
-      "title": "cozy-runtime 0.31.0",
-      "link": "https://pypi.org/project/cozy-runtime/0.31.0/",
-      "published": "Fri, 23 Oct 2026 23:26:25 GMT",
-      "collected_at": "2026-10-23T23:43:01.417995+00:00"
+      "id": "2fbb6e90a59d3014",
+      "title": "mvc-projen 0.0.63",
+      "link": "https://pypi.org/project/mvc-projen/0.0.63/",
+      "published": "Sat, 24 Oct 2026 22:36:37 GMT",
+      "collected_at": "2026-10-24T22:49:18.097804+00:00"
     },
     {
-      "id": "1570772643a5aa83",
-      "title": "tabletask 0.2.3",
-      "link": "https://pypi.org/project/tabletask/0.2.3/",
-      "published": "Fri, 23 Oct 2026 23:26:28 GMT",
-      "collected_at": "2026-10-23T23:43:01.417991+00:00"
+      "id": "5a910315ed68585e",
+      "title": "code-reality-lsp-bridge 0.19.0",
+      "link": "https://pypi.org/project/code-reality-lsp-bridge/0.19.0/",
+      "published": "Sat, 24 Oct 2026 22:36:45 GMT",
+      "collected_at": "2026-10-24T22:49:18.097801+00:00"
     },
     {
-      "id": "f17a9e756bdcd6aa",
-      "title": "shade-sdk 0.19.0",
-      "link": "https://pypi.org/project/shade-sdk/0.19.0/",
-      "published": "Fri, 23 Oct 2026 23:26:33 GMT",
-      "collected_at": "2026-10-23T23:43:01.417988+00:00"
+      "id": "1090f49bc7e641e3",
+      "title": "pyrefly-producer 0.19.0",
+      "link": "https://pypi.org/project/pyrefly-producer/0.19.0/",
+      "published": "Sat, 24 Oct 2026 22:36:50 GMT",
+      "collected_at": "2026-10-24T22:49:18.097799+00:00"
     },
     {
-      "id": "b45ac66f45b08bfb",
-      "title": "agnix 0.59.2",
-      "link": "https://pypi.org/project/agnix/0.59.2/",
-      "published": "Fri, 23 Oct 2026 23:26:41 GMT",
-      "collected_at": "2026-10-23T23:43:01.417985+00:00"
+      "id": "07c92e71d479798e",
+      "title": "code-reality 0.19.0",
+      "link": "https://pypi.org/project/code-reality/0.19.0/",
+      "published": "Sat, 24 Oct 2026 22:36:51 GMT",
+      "collected_at": "2026-10-24T22:49:18.097797+00:00"
     },
     {
-      "id": "5095b7bcd3a71065",
-      "title": "openrewrite 8.94.0.dev20261023232140",
-      "link": "https://pypi.org/project/openrewrite/8.94.0.dev20261023232140/",
-      "published": "Fri, 23 Oct 2026 23:26:42 GMT",
-      "collected_at": "2026-10-23T23:43:01.417982+00:00"
+      "id": "97f5a9a07ed695e2",
+      "title": "steam-data-schema 1.0.0.dev1",
+      "link": "https://pypi.org/project/steam-data-schema/1.0.0.dev1/",
+      "published": "Sat, 24 Oct 2026 22:36:58 GMT",
+      "collected_at": "2026-10-24T22:49:18.097794+00:00"
     },
     {
-      "id": "a2e4dc91a49d7683",
-      "title": "vcenter-lookup-bridge-client 1.6.0",
-      "link": "https://pypi.org/project/vcenter-lookup-bridge-client/1.6.0/",
-      "published": "Fri, 23 Oct 2026 23:26:51 GMT",
-      "collected_at": "2026-10-23T23:43:01.417979+00:00"
+      "id": "e54450899b06389c",
+      "title": "netbox-services 0.2.0",
+      "link": "https://pypi.org/project/netbox-services/0.2.0/",
+      "published": "Sat, 24 Oct 2026 22:37:00 GMT",
+      "collected_at": "2026-10-24T22:49:18.097792+00:00"
     },
     {
-      "id": "7450987dc699d8aa",
-      "title": "orchestral-client 0.1.9",
-      "link": "https://pypi.org/project/orchestral-client/0.1.9/",
-      "published": "Fri, 23 Oct 2026 23:26:53 GMT",
-      "collected_at": "2026-10-23T23:43:01.417976+00:00"
+      "id": "e87110650c09aa52",
+      "title": "cdk-simplewebsite-deploy 3.0.2",
+      "link": "https://pypi.org/project/cdk-simplewebsite-deploy/3.0.2/",
+      "published": "Sat, 24 Oct 2026 22:37:03 GMT",
+      "collected_at": "2026-10-24T22:49:18.097790+00:00"
     }
   ]
 }
