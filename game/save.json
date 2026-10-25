@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-10-24T22:49:19.229718+00:00",
+  "updated_at": "2026-10-25T22:59:22.911980+00:00",
   "hero": "kgi8914z",
   "guild": "Overnight Foundry",
   "level": 12,
   "title": "제국 회계관",
-  "xp": 9938,
-  "xp_into_level": 38,
+  "xp": 10158,
+  "xp_into_level": 258,
   "xp_for_level": 1800,
   "xp_parts": {
     "unique_users": 40,
     "repeat_users": 0,
     "active_users_1d": 80,
     "api_calls": 0,
-    "dataset_records": 8958,
+    "dataset_records": 9158,
     "paying_users": 0,
     "self_uses_weekly": 60,
     "backlinks": 0,
     "stars": 0,
-    "nights": 800
+    "nights": 820
   },
   "row_gain": 100,
-  "nights": 40,
+  "nights": 41,
   "active_assets": 2,
   "inventory": [
     {
@@ -38,94 +38,94 @@
       "lane": "watch",
       "status": "incubator",
       "rarity": "희귀",
-      "stack": 4479,
+      "stack": 4579,
       "notes": "오늘 무엇이 패키지 세계에 나타났는지 한곳에서 못 본다"
     }
   ],
   "loot": [
     {
-      "id": "fbc9a9ed0d7a72a2",
-      "title": "osp-provider-runtime 0.12.0",
-      "link": "https://pypi.org/project/osp-provider-runtime/0.12.0/",
-      "published": "Sat, 24 Oct 2026 22:36:13 GMT",
-      "collected_at": "2026-10-24T22:49:18.097814+00:00"
+      "id": "f1e243093d6ed767",
+      "title": "shardloom 1.0.0",
+      "link": "https://pypi.org/project/shardloom/1.0.0/",
+      "published": "Sun, 25 Oct 2026 22:43:36 GMT",
+      "collected_at": "2026-10-25T22:59:22.080869+00:00"
     },
     {
-      "id": "23c2bb335a8e05db",
-      "title": "topos-node 1.5.23",
-      "link": "https://pypi.org/project/topos-node/1.5.23/",
-      "published": "Sat, 24 Oct 2026 22:36:20 GMT",
-      "collected_at": "2026-10-24T22:49:18.097812+00:00"
+      "id": "53228d0824c9bf2f",
+      "title": "pybearings 0.4.1",
+      "link": "https://pypi.org/project/pybearings/0.4.1/",
+      "published": "Sun, 25 Oct 2026 22:43:40 GMT",
+      "collected_at": "2026-10-25T22:59:22.080863+00:00"
     },
     {
-      "id": "2498d6a20c6bb8a1",
-      "title": "repo-standards 6.12.10",
-      "link": "https://pypi.org/project/repo-standards/6.12.10/",
-      "published": "Sat, 24 Oct 2026 22:36:33 GMT",
-      "collected_at": "2026-10-24T22:49:18.097810+00:00"
+      "id": "1088c557783d9704",
+      "title": "ai-protocol-client 0.1.0",
+      "link": "https://pypi.org/project/ai-protocol-client/0.1.0/",
+      "published": "Sun, 25 Oct 2026 22:43:57 GMT",
+      "collected_at": "2026-10-25T22:59:22.080857+00:00"
     },
     {
-      "id": "c02965c4daa2d07b",
-      "title": "reg2es 2.5.0",
-      "link": "https://pypi.org/project/reg2es/2.5.0/",
-      "published": "Sat, 24 Oct 2026 22:36:34 GMT",
-      "collected_at": "2026-10-24T22:49:18.097808+00:00"
+      "id": "89a1907b948e7b9b",
+      "title": "pyrig-overrides 4.25.16",
+      "link": "https://pypi.org/project/pyrig-overrides/4.25.16/",
+      "published": "Sun, 25 Oct 2026 22:44:00 GMT",
+      "collected_at": "2026-10-25T22:59:22.080851+00:00"
     },
     {
-      "id": "796c6b51a32e9f58",
-      "title": "helia-aot 1.0.1",
-      "link": "https://pypi.org/project/helia-aot/1.0.1/",
-      "published": "Sat, 24 Oct 2026 22:36:34 GMT",
-      "collected_at": "2026-10-24T22:49:18.097806+00:00"
+      "id": "56e8e420d74b325e",
+      "title": "nodepick 0.1.5",
+      "link": "https://pypi.org/project/nodepick/0.1.5/",
+      "published": "Sun, 25 Oct 2026 22:44:00 GMT",
+      "collected_at": "2026-10-25T22:59:22.080846+00:00"
     },
     {
-      "id": "2fbb6e90a59d3014",
-      "title": "mvc-projen 0.0.63",
-      "link": "https://pypi.org/project/mvc-projen/0.0.63/",
-      "published": "Sat, 24 Oct 2026 22:36:37 GMT",
-      "collected_at": "2026-10-24T22:49:18.097804+00:00"
+      "id": "acf708655df3cef5",
+      "title": "neuromatch-course-kit 0.1.9",
+      "link": "https://pypi.org/project/neuromatch-course-kit/0.1.9/",
+      "published": "Sun, 25 Oct 2026 22:44:05 GMT",
+      "collected_at": "2026-10-25T22:59:22.080840+00:00"
     },
     {
-      "id": "5a910315ed68585e",
-      "title": "code-reality-lsp-bridge 0.19.0",
-      "link": "https://pypi.org/project/code-reality-lsp-bridge/0.19.0/",
-      "published": "Sat, 24 Oct 2026 22:36:45 GMT",
-      "collected_at": "2026-10-24T22:49:18.097801+00:00"
+      "id": "ce2a6b7f2dbb14cb",
+      "title": "hank-model-authority 1.7.9",
+      "link": "https://pypi.org/project/hank-model-authority/1.7.9/",
+      "published": "Sun, 25 Oct 2026 22:44:08 GMT",
+      "collected_at": "2026-10-25T22:59:22.080835+00:00"
     },
     {
-      "id": "1090f49bc7e641e3",
-      "title": "pyrefly-producer 0.19.0",
-      "link": "https://pypi.org/project/pyrefly-producer/0.19.0/",
-      "published": "Sat, 24 Oct 2026 22:36:50 GMT",
-      "collected_at": "2026-10-24T22:49:18.097799+00:00"
+      "id": "b59ff21154d16d3a",
+      "title": "nodepick-cli 0.1.5",
+      "link": "https://pypi.org/project/nodepick-cli/0.1.5/",
+      "published": "Sun, 25 Oct 2026 22:44:16 GMT",
+      "collected_at": "2026-10-25T22:59:22.080830+00:00"
     },
     {
-      "id": "07c92e71d479798e",
-      "title": "code-reality 0.19.0",
-      "link": "https://pypi.org/project/code-reality/0.19.0/",
-      "published": "Sat, 24 Oct 2026 22:36:51 GMT",
-      "collected_at": "2026-10-24T22:49:18.097797+00:00"
+      "id": "3239dd6df406d7f6",
+      "title": "thinker-research 0.1.10",
+      "link": "https://pypi.org/project/thinker-research/0.1.10/",
+      "published": "Sun, 25 Oct 2026 22:44:35 GMT",
+      "collected_at": "2026-10-25T22:59:22.080824+00:00"
     },
     {
-      "id": "97f5a9a07ed695e2",
-      "title": "steam-data-schema 1.0.0.dev1",
-      "link": "https://pypi.org/project/steam-data-schema/1.0.0.dev1/",
-      "published": "Sat, 24 Oct 2026 22:36:58 GMT",
-      "collected_at": "2026-10-24T22:49:18.097794+00:00"
+      "id": "3e31bdc863368f43",
+      "title": "atlas-pca 0.4.2",
+      "link": "https://pypi.org/project/atlas-pca/0.4.2/",
+      "published": "Sun, 25 Oct 2026 22:44:54 GMT",
+      "collected_at": "2026-10-25T22:59:22.080819+00:00"
     },
     {
-      "id": "e54450899b06389c",
-      "title": "netbox-services 0.2.0",
-      "link": "https://pypi.org/project/netbox-services/0.2.0/",
-      "published": "Sat, 24 Oct 2026 22:37:00 GMT",
-      "collected_at": "2026-10-24T22:49:18.097792+00:00"
+      "id": "38c36a837d854b0e",
+      "title": "pyrig-codecov 3.18.16",
+      "link": "https://pypi.org/project/pyrig-codecov/3.18.16/",
+      "published": "Sun, 25 Oct 2026 22:45:01 GMT",
+      "collected_at": "2026-10-25T22:59:22.080814+00:00"
     },
     {
-      "id": "e87110650c09aa52",
-      "title": "cdk-simplewebsite-deploy 3.0.2",
-      "link": "https://pypi.org/project/cdk-simplewebsite-deploy/3.0.2/",
-      "published": "Sat, 24 Oct 2026 22:37:03 GMT",
-      "collected_at": "2026-10-24T22:49:18.097790+00:00"
+      "id": "b322918cc0bb8cc8",
+      "title": "cfasim-model 0.13.0",
+      "link": "https://pypi.org/project/cfasim-model/0.13.0/",
+      "published": "Sun, 25 Oct 2026 22:45:02 GMT",
+      "collected_at": "2026-10-25T22:59:22.080808+00:00"
     }
   ]
 }
