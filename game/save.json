@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-10-25T22:59:22.911980+00:00",
+  "updated_at": "2026-10-27T00:10:54.586164+00:00",
   "hero": "kgi8914z",
   "guild": "Overnight Foundry",
   "level": 12,
   "title": "제국 회계관",
-  "xp": 10158,
-  "xp_into_level": 258,
+  "xp": 10378,
+  "xp_into_level": 478,
   "xp_for_level": 1800,
   "xp_parts": {
     "unique_users": 40,
     "repeat_users": 0,
     "active_users_1d": 80,
     "api_calls": 0,
-    "dataset_records": 9158,
+    "dataset_records": 9358,
     "paying_users": 0,
     "self_uses_weekly": 60,
     "backlinks": 0,
     "stars": 0,
-    "nights": 820
+    "nights": 840
   },
   "row_gain": 100,
-  "nights": 41,
+  "nights": 42,
   "active_assets": 2,
   "inventory": [
     {
@@ -38,94 +38,94 @@
       "lane": "watch",
       "status": "incubator",
       "rarity": "희귀",
-      "stack": 4579,
+      "stack": 4679,
       "notes": "오늘 무엇이 패키지 세계에 나타났는지 한곳에서 못 본다"
     }
   ],
   "loot": [
     {
-      "id": "f1e243093d6ed767",
-      "title": "shardloom 1.0.0",
-      "link": "https://pypi.org/project/shardloom/1.0.0/",
-      "published": "Sun, 25 Oct 2026 22:43:36 GMT",
-      "collected_at": "2026-10-25T22:59:22.080869+00:00"
+      "id": "68db1877ea9df2b0",
+      "title": "agriopendata 0.3.0",
+      "link": "https://pypi.org/project/agriopendata/0.3.0/",
+      "published": "Mon, 26 Oct 2026 23:56:39 GMT",
+      "collected_at": "2026-10-27T00:10:51.235368+00:00"
     },
     {
-      "id": "53228d0824c9bf2f",
-      "title": "pybearings 0.4.1",
-      "link": "https://pypi.org/project/pybearings/0.4.1/",
-      "published": "Sun, 25 Oct 2026 22:43:40 GMT",
-      "collected_at": "2026-10-25T22:59:22.080863+00:00"
+      "id": "b8b71dfcb0076ec4",
+      "title": "rapid-mlx 0.16.10",
+      "link": "https://pypi.org/project/rapid-mlx/0.16.10/",
+      "published": "Mon, 26 Oct 2026 23:57:23 GMT",
+      "collected_at": "2026-10-27T00:10:51.235365+00:00"
     },
     {
-      "id": "1088c557783d9704",
-      "title": "ai-protocol-client 0.1.0",
-      "link": "https://pypi.org/project/ai-protocol-client/0.1.0/",
-      "published": "Sun, 25 Oct 2026 22:43:57 GMT",
-      "collected_at": "2026-10-25T22:59:22.080857+00:00"
+      "id": "027c19222fff2d14",
+      "title": "precleared 0.1.1",
+      "link": "https://pypi.org/project/precleared/0.1.1/",
+      "published": "Mon, 26 Oct 2026 23:57:24 GMT",
+      "collected_at": "2026-10-27T00:10:51.235363+00:00"
     },
     {
-      "id": "89a1907b948e7b9b",
-      "title": "pyrig-overrides 4.25.16",
-      "link": "https://pypi.org/project/pyrig-overrides/4.25.16/",
-      "published": "Sun, 25 Oct 2026 22:44:00 GMT",
-      "collected_at": "2026-10-25T22:59:22.080851+00:00"
+      "id": "837932d2e2ae542e",
+      "title": "kanvas-board 0.4.0rc4",
+      "link": "https://pypi.org/project/kanvas-board/0.4.0rc4/",
+      "published": "Mon, 26 Oct 2026 23:57:25 GMT",
+      "collected_at": "2026-10-27T00:10:51.235360+00:00"
     },
     {
-      "id": "56e8e420d74b325e",
-      "title": "nodepick 0.1.5",
-      "link": "https://pypi.org/project/nodepick/0.1.5/",
-      "published": "Sun, 25 Oct 2026 22:44:00 GMT",
-      "collected_at": "2026-10-25T22:59:22.080846+00:00"
+      "id": "b7cc7f8c17a5d9c2",
+      "title": "open-net-worth 0.1.27",
+      "link": "https://pypi.org/project/open-net-worth/0.1.27/",
+      "published": "Mon, 26 Oct 2026 23:57:58 GMT",
+      "collected_at": "2026-10-27T00:10:51.235358+00:00"
     },
     {
-      "id": "acf708655df3cef5",
-      "title": "neuromatch-course-kit 0.1.9",
-      "link": "https://pypi.org/project/neuromatch-course-kit/0.1.9/",
-      "published": "Sun, 25 Oct 2026 22:44:05 GMT",
-      "collected_at": "2026-10-25T22:59:22.080840+00:00"
+      "id": "0b9cc4843eb79128",
+      "title": "cad2geo 0.12.3",
+      "link": "https://pypi.org/project/cad2geo/0.12.3/",
+      "published": "Mon, 26 Oct 2026 23:58:19 GMT",
+      "collected_at": "2026-10-27T00:10:51.235355+00:00"
     },
     {
-      "id": "ce2a6b7f2dbb14cb",
-      "title": "hank-model-authority 1.7.9",
-      "link": "https://pypi.org/project/hank-model-authority/1.7.9/",
-      "published": "Sun, 25 Oct 2026 22:44:08 GMT",
-      "collected_at": "2026-10-25T22:59:22.080835+00:00"
+      "id": "c64e02468a181cb9",
+      "title": "NCZ2Geo 0.13.1",
+      "link": "https://pypi.org/project/ncz2geo/0.13.1/",
+      "published": "Mon, 26 Oct 2026 23:58:27 GMT",
+      "collected_at": "2026-10-27T00:10:51.235353+00:00"
     },
     {
-      "id": "b59ff21154d16d3a",
-      "title": "nodepick-cli 0.1.5",
-      "link": "https://pypi.org/project/nodepick-cli/0.1.5/",
-      "published": "Sun, 25 Oct 2026 22:44:16 GMT",
-      "collected_at": "2026-10-25T22:59:22.080830+00:00"
+      "id": "3820dfd0111a96eb",
+      "title": "geoai2analytics-sdk 0.12.3",
+      "link": "https://pypi.org/project/geoai2analytics-sdk/0.12.3/",
+      "published": "Mon, 26 Oct 2026 23:58:31 GMT",
+      "collected_at": "2026-10-27T00:10:51.235350+00:00"
     },
     {
-      "id": "3239dd6df406d7f6",
-      "title": "thinker-research 0.1.10",
-      "link": "https://pypi.org/project/thinker-research/0.1.10/",
-      "published": "Sun, 25 Oct 2026 22:44:35 GMT",
-      "collected_at": "2026-10-25T22:59:22.080824+00:00"
+      "id": "aa3808f8986c179b",
+      "title": "multilayer-sdk 0.12.3",
+      "link": "https://pypi.org/project/multilayer-sdk/0.12.3/",
+      "published": "Mon, 26 Oct 2026 23:58:33 GMT",
+      "collected_at": "2026-10-27T00:10:51.235348+00:00"
     },
     {
-      "id": "3e31bdc863368f43",
-      "title": "atlas-pca 0.4.2",
-      "link": "https://pypi.org/project/atlas-pca/0.4.2/",
-      "published": "Sun, 25 Oct 2026 22:44:54 GMT",
-      "collected_at": "2026-10-25T22:59:22.080819+00:00"
+      "id": "d1faeb91a28c2fb7",
+      "title": "warpsock 4.3.1",
+      "link": "https://pypi.org/project/warpsock/4.3.1/",
+      "published": "Mon, 26 Oct 2026 23:58:34 GMT",
+      "collected_at": "2026-10-27T00:10:51.235345+00:00"
     },
     {
-      "id": "38c36a837d854b0e",
-      "title": "pyrig-codecov 3.18.16",
-      "link": "https://pypi.org/project/pyrig-codecov/3.18.16/",
-      "published": "Sun, 25 Oct 2026 22:45:01 GMT",
-      "collected_at": "2026-10-25T22:59:22.080814+00:00"
+      "id": "1cfb5a5a71733195",
+      "title": "rail-engine-ingest 0.5.1",
+      "link": "https://pypi.org/project/rail-engine-ingest/0.5.1/",
+      "published": "Mon, 26 Oct 2026 23:58:36 GMT",
+      "collected_at": "2026-10-27T00:10:51.235343+00:00"
     },
     {
-      "id": "b322918cc0bb8cc8",
-      "title": "cfasim-model 0.13.0",
-      "link": "https://pypi.org/project/cfasim-model/0.13.0/",
-      "published": "Sun, 25 Oct 2026 22:45:02 GMT",
-      "collected_at": "2026-10-25T22:59:22.080808+00:00"
+      "id": "08ef0865f99f49e5",
+      "title": "rail-engine 0.5.1",
+      "link": "https://pypi.org/project/rail-engine/0.5.1/",
+      "published": "Mon, 26 Oct 2026 23:58:39 GMT",
+      "collected_at": "2026-10-27T00:10:51.235340+00:00"
     }
   ]
 }
