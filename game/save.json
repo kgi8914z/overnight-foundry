@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-10-27T00:10:54.586164+00:00",
+  "updated_at": "2026-10-28T00:12:43.613835+00:00",
   "hero": "kgi8914z",
   "guild": "Overnight Foundry",
   "level": 12,
   "title": "제국 회계관",
-  "xp": 10378,
-  "xp_into_level": 478,
+  "xp": 10598,
+  "xp_into_level": 698,
   "xp_for_level": 1800,
   "xp_parts": {
     "unique_users": 40,
     "repeat_users": 0,
     "active_users_1d": 80,
     "api_calls": 0,
-    "dataset_records": 9358,
+    "dataset_records": 9558,
     "paying_users": 0,
     "self_uses_weekly": 60,
     "backlinks": 0,
     "stars": 0,
-    "nights": 840
+    "nights": 860
   },
   "row_gain": 100,
-  "nights": 42,
+  "nights": 43,
   "active_assets": 2,
   "inventory": [
     {
@@ -38,94 +38,94 @@
       "lane": "watch",
       "status": "incubator",
       "rarity": "희귀",
-      "stack": 4679,
+      "stack": 4779,
       "notes": "오늘 무엇이 패키지 세계에 나타났는지 한곳에서 못 본다"
     }
   ],
   "loot": [
     {
-      "id": "68db1877ea9df2b0",
-      "title": "agriopendata 0.3.0",
-      "link": "https://pypi.org/project/agriopendata/0.3.0/",
-      "published": "Mon, 26 Oct 2026 23:56:39 GMT",
-      "collected_at": "2026-10-27T00:10:51.235368+00:00"
+      "id": "8c0bc0b31520f3b4",
+      "title": "open-net-worth 0.1.28",
+      "link": "https://pypi.org/project/open-net-worth/0.1.28/",
+      "published": "Tue, 27 Oct 2026 23:53:03 GMT",
+      "collected_at": "2026-10-28T00:12:39.466072+00:00"
     },
     {
-      "id": "b8b71dfcb0076ec4",
-      "title": "rapid-mlx 0.16.10",
-      "link": "https://pypi.org/project/rapid-mlx/0.16.10/",
-      "published": "Mon, 26 Oct 2026 23:57:23 GMT",
-      "collected_at": "2026-10-27T00:10:51.235365+00:00"
+      "id": "9ef3f63a61010f17",
+      "title": "genesis-blackbox 0.1.2",
+      "link": "https://pypi.org/project/genesis-blackbox/0.1.2/",
+      "published": "Tue, 27 Oct 2026 23:53:37 GMT",
+      "collected_at": "2026-10-28T00:12:39.466068+00:00"
     },
     {
-      "id": "027c19222fff2d14",
-      "title": "precleared 0.1.1",
-      "link": "https://pypi.org/project/precleared/0.1.1/",
-      "published": "Mon, 26 Oct 2026 23:57:24 GMT",
-      "collected_at": "2026-10-27T00:10:51.235363+00:00"
+      "id": "d04aa3a4991b6029",
+      "title": "oireachtas-data 0.2.0",
+      "link": "https://pypi.org/project/oireachtas-data/0.2.0/",
+      "published": "Tue, 27 Oct 2026 23:53:42 GMT",
+      "collected_at": "2026-10-28T00:12:39.466063+00:00"
     },
     {
-      "id": "837932d2e2ae542e",
-      "title": "kanvas-board 0.4.0rc4",
-      "link": "https://pypi.org/project/kanvas-board/0.4.0rc4/",
-      "published": "Mon, 26 Oct 2026 23:57:25 GMT",
-      "collected_at": "2026-10-27T00:10:51.235360+00:00"
+      "id": "3afa28161c28ff1e",
+      "title": "primr 1.39.27",
+      "link": "https://pypi.org/project/primr/1.39.27/",
+      "published": "Tue, 27 Oct 2026 23:53:46 GMT",
+      "collected_at": "2026-10-28T00:12:39.466057+00:00"
     },
     {
-      "id": "b7cc7f8c17a5d9c2",
-      "title": "open-net-worth 0.1.27",
-      "link": "https://pypi.org/project/open-net-worth/0.1.27/",
-      "published": "Mon, 26 Oct 2026 23:57:58 GMT",
-      "collected_at": "2026-10-27T00:10:51.235358+00:00"
+      "id": "1dccb75767eb6b83",
+      "title": "ovos-skill-icanhazdadjokes 0.26.0a2",
+      "link": "https://pypi.org/project/ovos-skill-icanhazdadjokes/0.26.0a2/",
+      "published": "Tue, 27 Oct 2026 23:53:52 GMT",
+      "collected_at": "2026-10-28T00:12:39.466051+00:00"
     },
     {
-      "id": "0b9cc4843eb79128",
-      "title": "cad2geo 0.12.3",
-      "link": "https://pypi.org/project/cad2geo/0.12.3/",
-      "published": "Mon, 26 Oct 2026 23:58:19 GMT",
-      "collected_at": "2026-10-27T00:10:51.235355+00:00"
+      "id": "08842e4876d9b6f4",
+      "title": "hatch-angee 0.2.5",
+      "link": "https://pypi.org/project/hatch-angee/0.2.5/",
+      "published": "Tue, 27 Oct 2026 23:54:01 GMT",
+      "collected_at": "2026-10-28T00:12:39.466046+00:00"
     },
     {
-      "id": "c64e02468a181cb9",
-      "title": "NCZ2Geo 0.13.1",
-      "link": "https://pypi.org/project/ncz2geo/0.13.1/",
-      "published": "Mon, 26 Oct 2026 23:58:27 GMT",
-      "collected_at": "2026-10-27T00:10:51.235353+00:00"
+      "id": "7077622994d9e912",
+      "title": "reason-machines-harbor 0.3.41",
+      "link": "https://pypi.org/project/reason-machines-harbor/0.3.41/",
+      "published": "Tue, 27 Oct 2026 23:54:26 GMT",
+      "collected_at": "2026-10-28T00:12:39.466040+00:00"
     },
     {
-      "id": "3820dfd0111a96eb",
-      "title": "geoai2analytics-sdk 0.12.3",
-      "link": "https://pypi.org/project/geoai2analytics-sdk/0.12.3/",
-      "published": "Mon, 26 Oct 2026 23:58:31 GMT",
-      "collected_at": "2026-10-27T00:10:51.235350+00:00"
+      "id": "75016d17847ddbe6",
+      "title": "atlassian-browser-mcp 1.4.1",
+      "link": "https://pypi.org/project/atlassian-browser-mcp/1.4.1/",
+      "published": "Tue, 27 Oct 2026 23:54:47 GMT",
+      "collected_at": "2026-10-28T00:12:39.466035+00:00"
     },
     {
-      "id": "aa3808f8986c179b",
-      "title": "multilayer-sdk 0.12.3",
-      "link": "https://pypi.org/project/multilayer-sdk/0.12.3/",
-      "published": "Mon, 26 Oct 2026 23:58:33 GMT",
-      "collected_at": "2026-10-27T00:10:51.235348+00:00"
+      "id": "2432c159724af34d",
+      "title": "mindroom 2026.10.616",
+      "link": "https://pypi.org/project/mindroom/2026.10.616/",
+      "published": "Tue, 27 Oct 2026 23:54:47 GMT",
+      "collected_at": "2026-10-28T00:12:39.466029+00:00"
     },
     {
-      "id": "d1faeb91a28c2fb7",
-      "title": "warpsock 4.3.1",
-      "link": "https://pypi.org/project/warpsock/4.3.1/",
-      "published": "Mon, 26 Oct 2026 23:58:34 GMT",
-      "collected_at": "2026-10-27T00:10:51.235345+00:00"
+      "id": "71419094ef149e74",
+      "title": "kube-noob 0.3.1",
+      "link": "https://pypi.org/project/kube-noob/0.3.1/",
+      "published": "Tue, 27 Oct 2026 23:54:47 GMT",
+      "collected_at": "2026-10-28T00:12:39.466024+00:00"
     },
     {
-      "id": "1cfb5a5a71733195",
-      "title": "rail-engine-ingest 0.5.1",
-      "link": "https://pypi.org/project/rail-engine-ingest/0.5.1/",
-      "published": "Mon, 26 Oct 2026 23:58:36 GMT",
-      "collected_at": "2026-10-27T00:10:51.235343+00:00"
+      "id": "7a61883deae7f5fc",
+      "title": "labelarray 0.1.5",
+      "link": "https://pypi.org/project/labelarray/0.1.5/",
+      "published": "Tue, 27 Oct 2026 23:54:50 GMT",
+      "collected_at": "2026-10-28T00:12:39.466019+00:00"
     },
     {
-      "id": "08ef0865f99f49e5",
-      "title": "rail-engine 0.5.1",
-      "link": "https://pypi.org/project/rail-engine/0.5.1/",
-      "published": "Mon, 26 Oct 2026 23:58:39 GMT",
-      "collected_at": "2026-10-27T00:10:51.235340+00:00"
+      "id": "73616aad36a19814",
+      "title": "ovos-utils 0.15.7a1",
+      "link": "https://pypi.org/project/ovos-utils/0.15.7a1/",
+      "published": "Tue, 27 Oct 2026 23:54:52 GMT",
+      "collected_at": "2026-10-28T00:12:39.466013+00:00"
     }
   ]
 }
