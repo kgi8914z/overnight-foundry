@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-10-28T00:12:43.613835+00:00",
+  "updated_at": "2026-10-29T00:33:11.195830+00:00",
   "hero": "kgi8914z",
   "guild": "Overnight Foundry",
   "level": 12,
   "title": "제국 회계관",
-  "xp": 10598,
-  "xp_into_level": 698,
+  "xp": 10818,
+  "xp_into_level": 918,
   "xp_for_level": 1800,
   "xp_parts": {
     "unique_users": 40,
     "repeat_users": 0,
     "active_users_1d": 80,
     "api_calls": 0,
-    "dataset_records": 9558,
+    "dataset_records": 9758,
     "paying_users": 0,
     "self_uses_weekly": 60,
     "backlinks": 0,
     "stars": 0,
-    "nights": 860
+    "nights": 880
   },
   "row_gain": 100,
-  "nights": 43,
+  "nights": 44,
   "active_assets": 2,
   "inventory": [
     {
@@ -38,94 +38,94 @@
       "lane": "watch",
       "status": "incubator",
       "rarity": "희귀",
-      "stack": 4779,
+      "stack": 4879,
       "notes": "오늘 무엇이 패키지 세계에 나타났는지 한곳에서 못 본다"
     }
   ],
   "loot": [
     {
-      "id": "8c0bc0b31520f3b4",
-      "title": "open-net-worth 0.1.28",
-      "link": "https://pypi.org/project/open-net-worth/0.1.28/",
-      "published": "Tue, 27 Oct 2026 23:53:03 GMT",
-      "collected_at": "2026-10-28T00:12:39.466072+00:00"
+      "id": "bd50ad4eaa57b8c8",
+      "title": "mandacaru 26.10.40",
+      "link": "https://pypi.org/project/mandacaru/26.10.40/",
+      "published": "Thu, 29 Oct 2026 00:22:03 GMT",
+      "collected_at": "2026-10-29T00:33:10.377848+00:00"
     },
     {
-      "id": "9ef3f63a61010f17",
-      "title": "genesis-blackbox 0.1.2",
-      "link": "https://pypi.org/project/genesis-blackbox/0.1.2/",
-      "published": "Tue, 27 Oct 2026 23:53:37 GMT",
-      "collected_at": "2026-10-28T00:12:39.466068+00:00"
+      "id": "112dc06b8fea0397",
+      "title": "Excalidraw-Interface 0.1.4",
+      "link": "https://pypi.org/project/excalidraw-interface/0.1.4/",
+      "published": "Thu, 29 Oct 2026 00:22:14 GMT",
+      "collected_at": "2026-10-29T00:33:10.377846+00:00"
     },
     {
-      "id": "d04aa3a4991b6029",
-      "title": "oireachtas-data 0.2.0",
-      "link": "https://pypi.org/project/oireachtas-data/0.2.0/",
-      "published": "Tue, 27 Oct 2026 23:53:42 GMT",
-      "collected_at": "2026-10-28T00:12:39.466063+00:00"
+      "id": "e17614f1032ab276",
+      "title": "promptscan 0.3.0",
+      "link": "https://pypi.org/project/promptscan/0.3.0/",
+      "published": "Thu, 29 Oct 2026 00:22:18 GMT",
+      "collected_at": "2026-10-29T00:33:10.377843+00:00"
     },
     {
-      "id": "3afa28161c28ff1e",
-      "title": "primr 1.39.27",
-      "link": "https://pypi.org/project/primr/1.39.27/",
-      "published": "Tue, 27 Oct 2026 23:53:46 GMT",
-      "collected_at": "2026-10-28T00:12:39.466057+00:00"
+      "id": "adbace0810ab02a9",
+      "title": "bmk 3.32.0",
+      "link": "https://pypi.org/project/bmk/3.32.0/",
+      "published": "Thu, 29 Oct 2026 00:22:42 GMT",
+      "collected_at": "2026-10-29T00:33:10.377841+00:00"
     },
     {
-      "id": "1dccb75767eb6b83",
-      "title": "ovos-skill-icanhazdadjokes 0.26.0a2",
-      "link": "https://pypi.org/project/ovos-skill-icanhazdadjokes/0.26.0a2/",
-      "published": "Tue, 27 Oct 2026 23:53:52 GMT",
-      "collected_at": "2026-10-28T00:12:39.466051+00:00"
+      "id": "85de103882c44fa8",
+      "title": "abx-plugins 1.13.608",
+      "link": "https://pypi.org/project/abx-plugins/1.13.608/",
+      "published": "Thu, 29 Oct 2026 00:23:06 GMT",
+      "collected_at": "2026-10-29T00:33:10.377839+00:00"
     },
     {
-      "id": "08842e4876d9b6f4",
-      "title": "hatch-angee 0.2.5",
-      "link": "https://pypi.org/project/hatch-angee/0.2.5/",
-      "published": "Tue, 27 Oct 2026 23:54:01 GMT",
-      "collected_at": "2026-10-28T00:12:39.466046+00:00"
+      "id": "44e4faf863025c7c",
+      "title": "agentic-devtools 0.2.655",
+      "link": "https://pypi.org/project/agentic-devtools/0.2.655/",
+      "published": "Thu, 29 Oct 2026 00:23:12 GMT",
+      "collected_at": "2026-10-29T00:33:10.377836+00:00"
     },
     {
-      "id": "7077622994d9e912",
-      "title": "reason-machines-harbor 0.3.41",
-      "link": "https://pypi.org/project/reason-machines-harbor/0.3.41/",
-      "published": "Tue, 27 Oct 2026 23:54:26 GMT",
-      "collected_at": "2026-10-28T00:12:39.466040+00:00"
+      "id": "0f74442414eae959",
+      "title": "mcp-common 0.33.0",
+      "link": "https://pypi.org/project/mcp-common/0.33.0/",
+      "published": "Thu, 29 Oct 2026 00:23:15 GMT",
+      "collected_at": "2026-10-29T00:33:10.377834+00:00"
     },
     {
-      "id": "75016d17847ddbe6",
-      "title": "atlassian-browser-mcp 1.4.1",
-      "link": "https://pypi.org/project/atlassian-browser-mcp/1.4.1/",
-      "published": "Tue, 27 Oct 2026 23:54:47 GMT",
-      "collected_at": "2026-10-28T00:12:39.466035+00:00"
+      "id": "ed5666dbd5527b0e",
+      "title": "hyperextract 0.11.0",
+      "link": "https://pypi.org/project/hyperextract/0.11.0/",
+      "published": "Thu, 29 Oct 2026 00:23:15 GMT",
+      "collected_at": "2026-10-29T00:33:10.377831+00:00"
     },
     {
-      "id": "2432c159724af34d",
-      "title": "mindroom 2026.10.616",
-      "link": "https://pypi.org/project/mindroom/2026.10.616/",
-      "published": "Tue, 27 Oct 2026 23:54:47 GMT",
-      "collected_at": "2026-10-28T00:12:39.466029+00:00"
+      "id": "e1ac06d3a085e9bb",
+      "title": "led-ticker-core 4.32.0",
+      "link": "https://pypi.org/project/led-ticker-core/4.32.0/",
+      "published": "Thu, 29 Oct 2026 00:23:17 GMT",
+      "collected_at": "2026-10-29T00:33:10.377829+00:00"
     },
     {
-      "id": "71419094ef149e74",
-      "title": "kube-noob 0.3.1",
-      "link": "https://pypi.org/project/kube-noob/0.3.1/",
-      "published": "Tue, 27 Oct 2026 23:54:47 GMT",
-      "collected_at": "2026-10-28T00:12:39.466024+00:00"
+      "id": "e43b360201866c09",
+      "title": "city-sdk 0.9.94",
+      "link": "https://pypi.org/project/city-sdk/0.9.94/",
+      "published": "Thu, 29 Oct 2026 00:24:10 GMT",
+      "collected_at": "2026-10-29T00:33:10.377826+00:00"
     },
     {
-      "id": "7a61883deae7f5fc",
-      "title": "labelarray 0.1.5",
-      "link": "https://pypi.org/project/labelarray/0.1.5/",
-      "published": "Tue, 27 Oct 2026 23:54:50 GMT",
-      "collected_at": "2026-10-28T00:12:39.466019+00:00"
+      "id": "707c51ac372b0cdc",
+      "title": "city-cli 0.9.94",
+      "link": "https://pypi.org/project/city-cli/0.9.94/",
+      "published": "Thu, 29 Oct 2026 00:24:13 GMT",
+      "collected_at": "2026-10-29T00:33:10.377824+00:00"
     },
     {
-      "id": "73616aad36a19814",
-      "title": "ovos-utils 0.15.7a1",
-      "link": "https://pypi.org/project/ovos-utils/0.15.7a1/",
-      "published": "Tue, 27 Oct 2026 23:54:52 GMT",
-      "collected_at": "2026-10-28T00:12:39.466013+00:00"
+      "id": "cfe5bb41f98e2a90",
+      "title": "maicos 0.13",
+      "link": "https://pypi.org/project/maicos/0.13/",
+      "published": "Thu, 29 Oct 2026 00:24:20 GMT",
+      "collected_at": "2026-10-29T00:33:10.377821+00:00"
     }
   ]
 }
