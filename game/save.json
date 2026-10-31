@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-10-30T00:32:47.155226+00:00",
+  "updated_at": "2026-10-31T00:18:50.858897+00:00",
   "hero": "kgi8914z",
   "guild": "Overnight Foundry",
   "level": 12,
   "title": "제국 회계관",
-  "xp": 11038,
-  "xp_into_level": 1138,
+  "xp": 11258,
+  "xp_into_level": 1358,
   "xp_for_level": 1800,
   "xp_parts": {
     "unique_users": 40,
     "repeat_users": 0,
     "active_users_1d": 80,
     "api_calls": 0,
-    "dataset_records": 9958,
+    "dataset_records": 10158,
     "paying_users": 0,
     "self_uses_weekly": 60,
     "backlinks": 0,
     "stars": 0,
-    "nights": 900
+    "nights": 920
   },
   "row_gain": 100,
-  "nights": 45,
+  "nights": 46,
   "active_assets": 2,
   "inventory": [
     {
@@ -38,94 +38,94 @@
       "lane": "watch",
       "status": "incubator",
       "rarity": "희귀",
-      "stack": 4979,
+      "stack": 5079,
       "notes": "오늘 무엇이 패키지 세계에 나타났는지 한곳에서 못 본다"
     }
   ],
   "loot": [
     {
-      "id": "217e22c260df9079",
-      "title": "actinv 1.7.0",
-      "link": "https://pypi.org/project/actinv/1.7.0/",
-      "published": "Fri, 30 Oct 2026 00:11:01 GMT",
-      "collected_at": "2026-10-30T00:32:45.976483+00:00"
+      "id": "c86b4dec07f39d79",
+      "title": "romanalfaz 0.1.0a8",
+      "link": "https://pypi.org/project/romanalfaz/0.1.0a8/",
+      "published": "Fri, 30 Oct 2026 23:59:08 GMT",
+      "collected_at": "2026-10-31T00:18:50.108392+00:00"
     },
     {
-      "id": "08da63e4c1781649",
-      "title": "atsfill 0.0.5.dev194",
-      "link": "https://pypi.org/project/atsfill/0.0.5.dev194/",
-      "published": "Fri, 30 Oct 2026 00:11:03 GMT",
-      "collected_at": "2026-10-30T00:32:45.976480+00:00"
+      "id": "997710303f6bc836",
+      "title": "pygoattracker 0.10.1",
+      "link": "https://pypi.org/project/pygoattracker/0.10.1/",
+      "published": "Fri, 30 Oct 2026 23:59:11 GMT",
+      "collected_at": "2026-10-31T00:18:50.108389+00:00"
     },
     {
-      "id": "5d4bd8022f35126b",
-      "title": "ontocast 0.8.1",
-      "link": "https://pypi.org/project/ontocast/0.8.1/",
-      "published": "Fri, 30 Oct 2026 00:11:32 GMT",
-      "collected_at": "2026-10-30T00:32:45.976477+00:00"
+      "id": "f01d9bcaa71a69ce",
+      "title": "nanobook 0.19.3",
+      "link": "https://pypi.org/project/nanobook/0.19.3/",
+      "published": "Fri, 30 Oct 2026 23:59:16 GMT",
+      "collected_at": "2026-10-31T00:18:50.108385+00:00"
     },
     {
-      "id": "2d62af2ae0fe3483",
-      "title": "sagemaker-train 1.28.0",
-      "link": "https://pypi.org/project/sagemaker-train/1.28.0/",
-      "published": "Fri, 30 Oct 2026 00:11:35 GMT",
-      "collected_at": "2026-10-30T00:32:45.976475+00:00"
+      "id": "75aab0ee48020334",
+      "title": "experiential 0.7.224",
+      "link": "https://pypi.org/project/experiential/0.7.224/",
+      "published": "Fri, 30 Oct 2026 23:59:28 GMT",
+      "collected_at": "2026-10-31T00:18:50.108382+00:00"
     },
     {
-      "id": "dd46804062ae6203",
-      "title": "educabot-xrp 1.0.0",
-      "link": "https://pypi.org/project/educabot-xrp/1.0.0/",
-      "published": "Fri, 30 Oct 2026 00:11:42 GMT",
-      "collected_at": "2026-10-30T00:32:45.976472+00:00"
+      "id": "e6a122fe97084f69",
+      "title": "sparkrelay-py 0.1.0",
+      "link": "https://pypi.org/project/sparkrelay-py/0.1.0/",
+      "published": "Fri, 30 Oct 2026 23:59:30 GMT",
+      "collected_at": "2026-10-31T00:18:50.108379+00:00"
     },
     {
-      "id": "aca8000e53444206",
-      "title": "keramos-hearth 0.1.1",
-      "link": "https://pypi.org/project/keramos-hearth/0.1.1/",
-      "published": "Fri, 30 Oct 2026 00:11:45 GMT",
-      "collected_at": "2026-10-30T00:32:45.976469+00:00"
+      "id": "14a0e9bffb48cb21",
+      "title": "geoespacialprueba 0.0.1",
+      "link": "https://pypi.org/project/geoespacialprueba/0.0.1/",
+      "published": "Fri, 30 Oct 2026 23:59:32 GMT",
+      "collected_at": "2026-10-31T00:18:50.108376+00:00"
     },
     {
-      "id": "b85f109c422dcb1a",
-      "title": "agent-countercheck 0.16.0",
-      "link": "https://pypi.org/project/agent-countercheck/0.16.0/",
-      "published": "Fri, 30 Oct 2026 00:12:09 GMT",
-      "collected_at": "2026-10-30T00:32:45.976466+00:00"
+      "id": "c023f2e956530d10",
+      "title": "superroute-sapp 0.2.2",
+      "link": "https://pypi.org/project/superroute-sapp/0.2.2/",
+      "published": "Fri, 30 Oct 2026 23:59:57 GMT",
+      "collected_at": "2026-10-31T00:18:50.108373+00:00"
     },
     {
-      "id": "b748886525785615",
-      "title": "doukimd 1.0.0",
-      "link": "https://pypi.org/project/doukimd/1.0.0/",
-      "published": "Fri, 30 Oct 2026 00:12:14 GMT",
-      "collected_at": "2026-10-30T00:32:45.976463+00:00"
+      "id": "78a9ffaeba0b5c52",
+      "title": "clone-repo 2.0.0",
+      "link": "https://pypi.org/project/clone-repo/2.0.0/",
+      "published": "Sat, 31 Oct 2026 00:00:18 GMT",
+      "collected_at": "2026-10-31T00:18:50.108370+00:00"
     },
     {
-      "id": "f4c568d52f65dd07",
-      "title": "morpho.py 0.2.4",
-      "link": "https://pypi.org/project/morpho-py/0.2.4/",
-      "published": "Fri, 30 Oct 2026 00:12:15 GMT",
-      "collected_at": "2026-10-30T00:32:45.976460+00:00"
+      "id": "eb3bf5a833defc5b",
+      "title": "hart 0.23.0",
+      "link": "https://pypi.org/project/hart/0.23.0/",
+      "published": "Sat, 31 Oct 2026 00:00:35 GMT",
+      "collected_at": "2026-10-31T00:18:50.108367+00:00"
     },
     {
-      "id": "7c93ac8542370365",
-      "title": "countercheck 0.16.0",
-      "link": "https://pypi.org/project/countercheck/0.16.0/",
-      "published": "Fri, 30 Oct 2026 00:12:19 GMT",
-      "collected_at": "2026-10-30T00:32:45.976458+00:00"
+      "id": "97a618fd36189137",
+      "title": "floating-dynamics 0.1.0",
+      "link": "https://pypi.org/project/floating-dynamics/0.1.0/",
+      "published": "Sat, 31 Oct 2026 00:01:09 GMT",
+      "collected_at": "2026-10-31T00:18:50.108364+00:00"
     },
     {
-      "id": "0595887a53a8399e",
-      "title": "litert-quantizer-nightly 0.12.0.dev20261030",
-      "link": "https://pypi.org/project/litert-quantizer-nightly/0.12.0.dev20261030/",
-      "published": "Fri, 30 Oct 2026 00:12:46 GMT",
-      "collected_at": "2026-10-30T00:32:45.976455+00:00"
+      "id": "3ccfde242d732ebd",
+      "title": "omna-plugin 0.6.6",
+      "link": "https://pypi.org/project/omna-plugin/0.6.6/",
+      "published": "Sat, 31 Oct 2026 00:01:31 GMT",
+      "collected_at": "2026-10-31T00:18:50.108361+00:00"
     },
     {
-      "id": "8ef6c72271c8e2c7",
-      "title": "skills-tree 1.105.0",
-      "link": "https://pypi.org/project/skills-tree/1.105.0/",
-      "published": "Fri, 30 Oct 2026 00:12:49 GMT",
-      "collected_at": "2026-10-30T00:32:45.976452+00:00"
+      "id": "3cb63a7c7efdd40e",
+      "title": "portals-api 0.1.1",
+      "link": "https://pypi.org/project/portals-api/0.1.1/",
+      "published": "Sat, 31 Oct 2026 00:01:55 GMT",
+      "collected_at": "2026-10-31T00:18:50.108358+00:00"
     }
   ]
 }
