@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-10-31T23:54:26.327458+00:00",
+  "updated_at": "2026-11-02T00:09:06.468177+00:00",
   "hero": "kgi8914z",
   "guild": "Overnight Foundry",
   "level": 12,
   "title": "제국 회계관",
-  "xp": 11458,
-  "xp_into_level": 1558,
+  "xp": 11678,
+  "xp_into_level": 1778,
   "xp_for_level": 1800,
   "xp_parts": {
     "unique_users": 40,
     "repeat_users": 0,
     "active_users_1d": 80,
     "api_calls": 0,
-    "dataset_records": 10358,
+    "dataset_records": 10558,
     "paying_users": 0,
     "self_uses_weekly": 60,
     "backlinks": 0,
     "stars": 0,
-    "nights": 920
+    "nights": 940
   },
   "row_gain": 100,
-  "nights": 46,
+  "nights": 47,
   "active_assets": 2,
   "inventory": [
     {
@@ -38,94 +38,94 @@
       "lane": "watch",
       "status": "incubator",
       "rarity": "희귀",
-      "stack": 5179,
+      "stack": 5279,
       "notes": "오늘 무엇이 패키지 세계에 나타났는지 한곳에서 못 본다"
     }
   ],
   "loot": [
     {
-      "id": "14284019c22d9ce0",
-      "title": "winrt-Windows.UI.Input.Preview 4!10.0.28000.2957",
-      "link": "https://pypi.org/project/winrt-windows-ui-input-preview/4!10.0.28000.2957/",
-      "published": "Sat, 31 Oct 2026 23:42:11 GMT",
-      "collected_at": "2026-10-31T23:54:25.277751+00:00"
+      "id": "2ec0b1491e85db3e",
+      "title": "data-boar 1.8.0",
+      "link": "https://pypi.org/project/data-boar/1.8.0/",
+      "published": "Sun, 01 Nov 2026 23:15:29 GMT",
+      "collected_at": "2026-11-02T00:09:05.527640+00:00"
     },
     {
-      "id": "baccf3e5d6d99cea",
-      "title": "winrt-Windows.UI.Input.Preview.Injection 4!10.0.28000.2957",
-      "link": "https://pypi.org/project/winrt-windows-ui-input-preview-injection/4!10.0.28000.2957/",
-      "published": "Sat, 31 Oct 2026 23:42:12 GMT",
-      "collected_at": "2026-10-31T23:54:25.277748+00:00"
+      "id": "538ec4e818993924",
+      "title": "nnschemaparser 0.3.2",
+      "link": "https://pypi.org/project/nnschemaparser/0.3.2/",
+      "published": "Sun, 01 Nov 2026 23:16:00 GMT",
+      "collected_at": "2026-11-02T00:09:05.527637+00:00"
     },
     {
-      "id": "e23cda369ba48ab3",
-      "title": "winrt-Windows.UI.Input.Preview.Text 4!10.0.28000.2957",
-      "link": "https://pypi.org/project/winrt-windows-ui-input-preview-text/4!10.0.28000.2957/",
-      "published": "Sat, 31 Oct 2026 23:42:13 GMT",
-      "collected_at": "2026-10-31T23:54:25.277745+00:00"
+      "id": "5531a52919d7c7d4",
+      "title": "pysanepic 0.6.3",
+      "link": "https://pypi.org/project/pysanepic/0.6.3/",
+      "published": "Sun, 01 Nov 2026 23:16:06 GMT",
+      "collected_at": "2026-11-02T00:09:05.527635+00:00"
     },
     {
-      "id": "ea17382647fce536",
-      "title": "winrt-Windows.UI.Input.Spatial 4!10.0.28000.2957",
-      "link": "https://pypi.org/project/winrt-windows-ui-input-spatial/4!10.0.28000.2957/",
-      "published": "Sat, 31 Oct 2026 23:42:14 GMT",
-      "collected_at": "2026-10-31T23:54:25.277742+00:00"
+      "id": "e401a7124a26ae13",
+      "title": "vis-agent 0.4.12",
+      "link": "https://pypi.org/project/vis-agent/0.4.12/",
+      "published": "Sun, 01 Nov 2026 23:16:26 GMT",
+      "collected_at": "2026-11-02T00:09:05.527631+00:00"
     },
     {
-      "id": "6d13e8014b9fe96a",
-      "title": "winrt-Windows.UI.Notifications 4!10.0.28000.2957",
-      "link": "https://pypi.org/project/winrt-windows-ui-notifications/4!10.0.28000.2957/",
-      "published": "Sat, 31 Oct 2026 23:42:15 GMT",
-      "collected_at": "2026-10-31T23:54:25.277740+00:00"
+      "id": "48a5f07074d74124",
+      "title": "retrade 0.2.0",
+      "link": "https://pypi.org/project/retrade/0.2.0/",
+      "published": "Sun, 01 Nov 2026 23:16:33 GMT",
+      "collected_at": "2026-11-02T00:09:05.527629+00:00"
     },
     {
-      "id": "122d483b73c938f3",
-      "title": "winrt-Windows.UI.Notifications.Management 4!10.0.28000.2957",
-      "link": "https://pypi.org/project/winrt-windows-ui-notifications-management/4!10.0.28000.2957/",
-      "published": "Sat, 31 Oct 2026 23:42:16 GMT",
-      "collected_at": "2026-10-31T23:54:25.277737+00:00"
+      "id": "8917af54e6d346b3",
+      "title": "monosmith 2.0.0b17",
+      "link": "https://pypi.org/project/monosmith/2.0.0b17/",
+      "published": "Sun, 01 Nov 2026 23:16:37 GMT",
+      "collected_at": "2026-11-02T00:09:05.527626+00:00"
     },
     {
-      "id": "4e6186354f549bb9",
-      "title": "winrt-Windows.UI.Notifications.Preview 4!10.0.28000.2957",
-      "link": "https://pypi.org/project/winrt-windows-ui-notifications-preview/4!10.0.28000.2957/",
-      "published": "Sat, 31 Oct 2026 23:42:16 GMT",
-      "collected_at": "2026-10-31T23:54:25.277734+00:00"
+      "id": "c11fd5bb8e8a5e04",
+      "title": "tidy3a 0.16.0",
+      "link": "https://pypi.org/project/tidy3a/0.16.0/",
+      "published": "Sun, 01 Nov 2026 23:16:50 GMT",
+      "collected_at": "2026-11-02T00:09:05.527622+00:00"
     },
     {
-      "id": "fed8d24e0ffcbfbd",
-      "title": "winrt-Windows.UI.Popups 4!10.0.28000.2957",
-      "link": "https://pypi.org/project/winrt-windows-ui-popups/4!10.0.28000.2957/",
-      "published": "Sat, 31 Oct 2026 23:42:17 GMT",
-      "collected_at": "2026-10-31T23:54:25.277729+00:00"
+      "id": "1fb285fd07933cae",
+      "title": "autoware-carla-scenario 21.6.8",
+      "link": "https://pypi.org/project/autoware-carla-scenario/21.6.8/",
+      "published": "Sun, 01 Nov 2026 23:17:00 GMT",
+      "collected_at": "2026-11-02T00:09:05.527619+00:00"
     },
     {
-      "id": "5d93fb3fa186eac2",
-      "title": "winrt-Windows.UI.Shell 4!10.0.28000.2957",
-      "link": "https://pypi.org/project/winrt-windows-ui-shell/4!10.0.28000.2957/",
-      "published": "Sat, 31 Oct 2026 23:42:18 GMT",
-      "collected_at": "2026-10-31T23:54:25.277721+00:00"
+      "id": "522e90687f061f16",
+      "title": "minimalai-mcp 0.1.0",
+      "link": "https://pypi.org/project/minimalai-mcp/0.1.0/",
+      "published": "Sun, 01 Nov 2026 23:17:13 GMT",
+      "collected_at": "2026-11-02T00:09:05.527616+00:00"
     },
     {
-      "id": "96e6d68d73402b63",
-      "title": "winrt-Windows.UI.Shell.CompanionWindows 4!10.0.28000.2957",
-      "link": "https://pypi.org/project/winrt-windows-ui-shell-companionwindows/4!10.0.28000.2957/",
-      "published": "Sat, 31 Oct 2026 23:42:19 GMT",
-      "collected_at": "2026-10-31T23:54:25.277686+00:00"
+      "id": "be6f9daad44cd963",
+      "title": "ctrlrelay 0.16.4",
+      "link": "https://pypi.org/project/ctrlrelay/0.16.4/",
+      "published": "Sun, 01 Nov 2026 23:17:34 GMT",
+      "collected_at": "2026-11-02T00:09:05.527613+00:00"
     },
     {
-      "id": "07c5c542e4d639f5",
-      "title": "winrt-Windows.UI.Shell.Tasks 4!10.0.28000.2957",
-      "link": "https://pypi.org/project/winrt-windows-ui-shell-tasks/4!10.0.28000.2957/",
-      "published": "Sat, 31 Oct 2026 23:42:20 GMT",
-      "collected_at": "2026-10-31T23:54:25.277683+00:00"
+      "id": "ddf6b59faa458a69",
+      "title": "archolith-menhir 0.3.0",
+      "link": "https://pypi.org/project/archolith-menhir/0.3.0/",
+      "published": "Sun, 01 Nov 2026 23:17:36 GMT",
+      "collected_at": "2026-11-02T00:09:05.527609+00:00"
     },
     {
-      "id": "1b7947404c25b017",
-      "title": "winrt-Windows.UI.StartScreen 4!10.0.28000.2957",
-      "link": "https://pypi.org/project/winrt-windows-ui-startscreen/4!10.0.28000.2957/",
-      "published": "Sat, 31 Oct 2026 23:42:21 GMT",
-      "collected_at": "2026-10-31T23:54:25.277680+00:00"
+      "id": "2d063a6f619d2ef5",
+      "title": "nao-fair-autostart 0.1.0",
+      "link": "https://pypi.org/project/nao-fair-autostart/0.1.0/",
+      "published": "Sun, 01 Nov 2026 23:17:56 GMT",
+      "collected_at": "2026-11-02T00:09:05.527606+00:00"
     }
   ]
 }
