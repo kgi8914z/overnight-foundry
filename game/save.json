@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-04T00:59:43.929071+00:00",
+  "updated_at": "2026-11-05T01:14:48.562101+00:00",
   "hero": "kgi8914z",
   "guild": "Overnight Foundry",
   "level": 13,
   "title": "제국 회계관",
-  "xp": 12118,
-  "xp_into_level": 418,
+  "xp": 12338,
+  "xp_into_level": 638,
   "xp_for_level": 1950,
   "xp_parts": {
     "unique_users": 40,
     "repeat_users": 0,
     "active_users_1d": 80,
     "api_calls": 0,
-    "dataset_records": 10958,
+    "dataset_records": 11158,
     "paying_users": 0,
     "self_uses_weekly": 60,
     "backlinks": 0,
     "stars": 0,
-    "nights": 980
+    "nights": 1000
   },
   "row_gain": 100,
-  "nights": 49,
+  "nights": 50,
   "active_assets": 2,
   "inventory": [
     {
@@ -38,94 +38,94 @@
       "lane": "watch",
       "status": "incubator",
       "rarity": "희귀",
-      "stack": 5479,
+      "stack": 5579,
       "notes": "오늘 무엇이 패키지 세계에 나타났는지 한곳에서 못 본다"
     }
   ],
   "loot": [
     {
-      "id": "79a9a889dd41b7c9",
-      "title": "mcp-combiner 0.21.2",
-      "link": "https://pypi.org/project/mcp-combiner/0.21.2/",
-      "published": "Wed, 04 Nov 2026 00:43:59 GMT",
-      "collected_at": "2026-11-04T00:59:42.890035+00:00"
+      "id": "9bfb1dbc9fe99d0b",
+      "title": "appsync-scalars 0.1.2",
+      "link": "https://pypi.org/project/appsync-scalars/0.1.2/",
+      "published": "Thu, 05 Nov 2026 01:01:36 GMT",
+      "collected_at": "2026-11-05T01:14:47.515823+00:00"
     },
     {
-      "id": "d47c29feb799551b",
-      "title": "keycardai-mcp 2.3.6",
-      "link": "https://pypi.org/project/keycardai-mcp/2.3.6/",
-      "published": "Wed, 04 Nov 2026 00:44:14 GMT",
-      "collected_at": "2026-11-04T00:59:42.890032+00:00"
+      "id": "17eea9ef7d13381b",
+      "title": "torchmonarch 0.8.0.dev20261105",
+      "link": "https://pypi.org/project/torchmonarch/0.8.0.dev20261105/",
+      "published": "Thu, 05 Nov 2026 01:01:50 GMT",
+      "collected_at": "2026-11-05T01:14:47.515820+00:00"
     },
     {
-      "id": "63989d547103c7ed",
-      "title": "nvidia-ncore 20.0.0b2",
-      "link": "https://pypi.org/project/nvidia-ncore/20.0.0b2/",
-      "published": "Wed, 04 Nov 2026 00:44:15 GMT",
-      "collected_at": "2026-11-04T00:59:42.890030+00:00"
+      "id": "1b45c59d6fd0cc98",
+      "title": "remoteRF-server 1.7.17",
+      "link": "https://pypi.org/project/remoterf-server/1.7.17/",
+      "published": "Thu, 05 Nov 2026 01:01:56 GMT",
+      "collected_at": "2026-11-05T01:14:47.515817+00:00"
     },
     {
-      "id": "7586c78c591ba3ac",
-      "title": "matmalib 0.3.7",
-      "link": "https://pypi.org/project/matmalib/0.3.7/",
-      "published": "Wed, 04 Nov 2026 00:44:35 GMT",
-      "collected_at": "2026-11-04T00:59:42.890027+00:00"
+      "id": "fea4198495a9cfc8",
+      "title": "command-creator 3.0.0b2",
+      "link": "https://pypi.org/project/command-creator/3.0.0b2/",
+      "published": "Thu, 05 Nov 2026 01:02:23 GMT",
+      "collected_at": "2026-11-05T01:14:47.515814+00:00"
     },
     {
-      "id": "18b533a7c9ce1ffa",
-      "title": "korean-tax-mcp 0.12.5",
-      "link": "https://pypi.org/project/korean-tax-mcp/0.12.5/",
-      "published": "Wed, 04 Nov 2026 00:44:36 GMT",
-      "collected_at": "2026-11-04T00:59:42.890024+00:00"
+      "id": "907868fadd7d91ad",
+      "title": "tempest-fastapi-sdk 0.345.0",
+      "link": "https://pypi.org/project/tempest-fastapi-sdk/0.345.0/",
+      "published": "Thu, 05 Nov 2026 01:02:29 GMT",
+      "collected_at": "2026-11-05T01:14:47.515810+00:00"
     },
     {
-      "id": "fde1319143ac0501",
-      "title": "kicad-mcp-pro 4.7.0",
-      "link": "https://pypi.org/project/kicad-mcp-pro/4.7.0/",
-      "published": "Wed, 04 Nov 2026 00:44:42 GMT",
-      "collected_at": "2026-11-04T00:59:42.890021+00:00"
+      "id": "b2aa8abbb28c390d",
+      "title": "phip-seq-library-generator 1.0.0",
+      "link": "https://pypi.org/project/phip-seq-library-generator/1.0.0/",
+      "published": "Thu, 05 Nov 2026 01:02:33 GMT",
+      "collected_at": "2026-11-05T01:14:47.515807+00:00"
     },
     {
-      "id": "cfef6a156f443666",
-      "title": "tree-sitter-opencl 0.0.3",
-      "link": "https://pypi.org/project/tree-sitter-opencl/0.0.3/",
-      "published": "Wed, 04 Nov 2026 00:44:46 GMT",
-      "collected_at": "2026-11-04T00:59:42.890018+00:00"
+      "id": "e67088d11e6faa6a",
+      "title": "oep-client-python 0.0.45",
+      "link": "https://pypi.org/project/oep-client-python/0.0.45/",
+      "published": "Thu, 05 Nov 2026 01:02:36 GMT",
+      "collected_at": "2026-11-05T01:14:47.515804+00:00"
     },
     {
-      "id": "3fb83c168e363ee2",
-      "title": "ckpt-policy 0.22.0",
-      "link": "https://pypi.org/project/ckpt-policy/0.22.0/",
-      "published": "Wed, 04 Nov 2026 00:44:56 GMT",
-      "collected_at": "2026-11-04T00:59:42.890015+00:00"
+      "id": "506bde03d5d295fb",
+      "title": "orca-gym 26.10.1",
+      "link": "https://pypi.org/project/orca-gym/26.10.1/",
+      "published": "Thu, 05 Nov 2026 01:02:42 GMT",
+      "collected_at": "2026-11-05T01:14:47.515801+00:00"
     },
     {
-      "id": "c07ae1e9f266e49d",
-      "title": "nexor-agora 0.30.1",
-      "link": "https://pypi.org/project/nexor-agora/0.30.1/",
-      "published": "Wed, 04 Nov 2026 00:44:57 GMT",
-      "collected_at": "2026-11-04T00:59:42.890012+00:00"
+      "id": "cf9e2a3095c36cbe",
+      "title": "orca-lab 26.10.1",
+      "link": "https://pypi.org/project/orca-lab/26.10.1/",
+      "published": "Thu, 05 Nov 2026 01:02:46 GMT",
+      "collected_at": "2026-11-05T01:14:47.515798+00:00"
     },
     {
-      "id": "648a8621632f41d2",
-      "title": "alienplatform 3.3.52",
-      "link": "https://pypi.org/project/alienplatform/3.3.52/",
-      "published": "Wed, 04 Nov 2026 00:44:57 GMT",
-      "collected_at": "2026-11-04T00:59:42.890009+00:00"
+      "id": "2259c0ce1de3541d",
+      "title": "my-claude-code 8.12.0",
+      "link": "https://pypi.org/project/my-claude-code/8.12.0/",
+      "published": "Thu, 05 Nov 2026 01:02:56 GMT",
+      "collected_at": "2026-11-05T01:14:47.515795+00:00"
     },
     {
-      "id": "bd79ca5f94836807",
-      "title": "nexor-agora-connector 0.30.1",
-      "link": "https://pypi.org/project/nexor-agora-connector/0.30.1/",
-      "published": "Wed, 04 Nov 2026 00:44:59 GMT",
-      "collected_at": "2026-11-04T00:59:42.890006+00:00"
+      "id": "5f6cc9246eec1121",
+      "title": "shade-plugins-google 0.2.0",
+      "link": "https://pypi.org/project/shade-plugins-google/0.2.0/",
+      "published": "Thu, 05 Nov 2026 01:02:56 GMT",
+      "collected_at": "2026-11-05T01:14:47.515792+00:00"
     },
     {
-      "id": "cb829d3772380155",
-      "title": "llm-ports 1.0.1",
-      "link": "https://pypi.org/project/llm-ports/1.0.1/",
-      "published": "Wed, 04 Nov 2026 00:45:00 GMT",
-      "collected_at": "2026-11-04T00:59:42.890003+00:00"
+      "id": "2dc5cdd59491abca",
+      "title": "django-cfg 2.3.380",
+      "link": "https://pypi.org/project/django-cfg/2.3.380/",
+      "published": "Thu, 05 Nov 2026 01:03:01 GMT",
+      "collected_at": "2026-11-05T01:14:47.515789+00:00"
     }
   ]
 }
