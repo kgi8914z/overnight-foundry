@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-05T01:14:48.562101+00:00",
+  "updated_at": "2026-11-06T01:19:47.678928+00:00",
   "hero": "kgi8914z",
   "guild": "Overnight Foundry",
   "level": 13,
   "title": "제국 회계관",
-  "xp": 12338,
-  "xp_into_level": 638,
+  "xp": 12558,
+  "xp_into_level": 858,
   "xp_for_level": 1950,
   "xp_parts": {
     "unique_users": 40,
     "repeat_users": 0,
     "active_users_1d": 80,
     "api_calls": 0,
-    "dataset_records": 11158,
+    "dataset_records": 11358,
     "paying_users": 0,
     "self_uses_weekly": 60,
     "backlinks": 0,
     "stars": 0,
-    "nights": 1000
+    "nights": 1020
   },
   "row_gain": 100,
-  "nights": 50,
+  "nights": 51,
   "active_assets": 2,
   "inventory": [
     {
@@ -38,94 +38,94 @@
       "lane": "watch",
       "status": "incubator",
       "rarity": "희귀",
-      "stack": 5579,
+      "stack": 5679,
       "notes": "오늘 무엇이 패키지 세계에 나타났는지 한곳에서 못 본다"
     }
   ],
   "loot": [
     {
-      "id": "9bfb1dbc9fe99d0b",
-      "title": "appsync-scalars 0.1.2",
-      "link": "https://pypi.org/project/appsync-scalars/0.1.2/",
-      "published": "Thu, 05 Nov 2026 01:01:36 GMT",
-      "collected_at": "2026-11-05T01:14:47.515823+00:00"
+      "id": "d85e75e0d0a86fc7",
+      "title": "notte-sdk 1.10.6",
+      "link": "https://pypi.org/project/notte-sdk/1.10.6/",
+      "published": "Fri, 06 Nov 2026 01:01:11 GMT",
+      "collected_at": "2026-11-06T01:19:44.941193+00:00"
     },
     {
-      "id": "17eea9ef7d13381b",
-      "title": "torchmonarch 0.8.0.dev20261105",
-      "link": "https://pypi.org/project/torchmonarch/0.8.0.dev20261105/",
-      "published": "Thu, 05 Nov 2026 01:01:50 GMT",
-      "collected_at": "2026-11-05T01:14:47.515820+00:00"
+      "id": "5e834bdb140b098c",
+      "title": "stabilize 0.34.4",
+      "link": "https://pypi.org/project/stabilize/0.34.4/",
+      "published": "Fri, 06 Nov 2026 01:01:15 GMT",
+      "collected_at": "2026-11-06T01:19:44.941192+00:00"
     },
     {
-      "id": "1b45c59d6fd0cc98",
-      "title": "remoteRF-server 1.7.17",
-      "link": "https://pypi.org/project/remoterf-server/1.7.17/",
-      "published": "Thu, 05 Nov 2026 01:01:56 GMT",
-      "collected_at": "2026-11-05T01:14:47.515817+00:00"
+      "id": "90c474f198be5248",
+      "title": "icadkit 0.3.15",
+      "link": "https://pypi.org/project/icadkit/0.3.15/",
+      "published": "Fri, 06 Nov 2026 01:01:18 GMT",
+      "collected_at": "2026-11-06T01:19:44.941190+00:00"
     },
     {
-      "id": "fea4198495a9cfc8",
-      "title": "command-creator 3.0.0b2",
-      "link": "https://pypi.org/project/command-creator/3.0.0b2/",
-      "published": "Thu, 05 Nov 2026 01:02:23 GMT",
-      "collected_at": "2026-11-05T01:14:47.515814+00:00"
+      "id": "5b9487e6a68025b2",
+      "title": "radiodish-actor 1.0.0",
+      "link": "https://pypi.org/project/radiodish-actor/1.0.0/",
+      "published": "Fri, 06 Nov 2026 01:01:19 GMT",
+      "collected_at": "2026-11-06T01:19:44.941189+00:00"
     },
     {
-      "id": "907868fadd7d91ad",
-      "title": "tempest-fastapi-sdk 0.345.0",
-      "link": "https://pypi.org/project/tempest-fastapi-sdk/0.345.0/",
-      "published": "Thu, 05 Nov 2026 01:02:29 GMT",
-      "collected_at": "2026-11-05T01:14:47.515810+00:00"
+      "id": "53906e200b172635",
+      "title": "yamc 0.17.0",
+      "link": "https://pypi.org/project/yamc/0.17.0/",
+      "published": "Fri, 06 Nov 2026 01:01:23 GMT",
+      "collected_at": "2026-11-06T01:19:44.941187+00:00"
     },
     {
-      "id": "b2aa8abbb28c390d",
-      "title": "phip-seq-library-generator 1.0.0",
-      "link": "https://pypi.org/project/phip-seq-library-generator/1.0.0/",
-      "published": "Thu, 05 Nov 2026 01:02:33 GMT",
-      "collected_at": "2026-11-05T01:14:47.515807+00:00"
+      "id": "01ce94ab62f1f439",
+      "title": "axmp-ai-agent-core 1.5.0rc23",
+      "link": "https://pypi.org/project/axmp-ai-agent-core/1.5.0rc23/",
+      "published": "Fri, 06 Nov 2026 01:01:25 GMT",
+      "collected_at": "2026-11-06T01:19:44.941185+00:00"
     },
     {
-      "id": "e67088d11e6faa6a",
-      "title": "oep-client-python 0.0.45",
-      "link": "https://pypi.org/project/oep-client-python/0.0.45/",
-      "published": "Thu, 05 Nov 2026 01:02:36 GMT",
-      "collected_at": "2026-11-05T01:14:47.515804+00:00"
+      "id": "7b27d025e4a9b2d8",
+      "title": "agatha-protobuf 1.24.0",
+      "link": "https://pypi.org/project/agatha-protobuf/1.24.0/",
+      "published": "Fri, 06 Nov 2026 01:01:48 GMT",
+      "collected_at": "2026-11-06T01:19:44.941184+00:00"
     },
     {
-      "id": "506bde03d5d295fb",
-      "title": "orca-gym 26.10.1",
-      "link": "https://pypi.org/project/orca-gym/26.10.1/",
-      "published": "Thu, 05 Nov 2026 01:02:42 GMT",
-      "collected_at": "2026-11-05T01:14:47.515801+00:00"
+      "id": "947ca7de3c686a30",
+      "title": "browser-daemon-client 0.13.1",
+      "link": "https://pypi.org/project/browser-daemon-client/0.13.1/",
+      "published": "Fri, 06 Nov 2026 01:02:18 GMT",
+      "collected_at": "2026-11-06T01:19:44.941182+00:00"
     },
     {
-      "id": "cf9e2a3095c36cbe",
-      "title": "orca-lab 26.10.1",
-      "link": "https://pypi.org/project/orca-lab/26.10.1/",
-      "published": "Thu, 05 Nov 2026 01:02:46 GMT",
-      "collected_at": "2026-11-05T01:14:47.515798+00:00"
+      "id": "f04a805839a55f5a",
+      "title": "mimir-agent 1.0.0rc2",
+      "link": "https://pypi.org/project/mimir-agent/1.0.0rc2/",
+      "published": "Fri, 06 Nov 2026 01:02:19 GMT",
+      "collected_at": "2026-11-06T01:19:44.941180+00:00"
     },
     {
-      "id": "2259c0ce1de3541d",
-      "title": "my-claude-code 8.12.0",
-      "link": "https://pypi.org/project/my-claude-code/8.12.0/",
-      "published": "Thu, 05 Nov 2026 01:02:56 GMT",
-      "collected_at": "2026-11-05T01:14:47.515795+00:00"
+      "id": "4810798e3f7e06e9",
+      "title": "rtorrent-rpc 0.10.0",
+      "link": "https://pypi.org/project/rtorrent-rpc/0.10.0/",
+      "published": "Fri, 06 Nov 2026 01:02:20 GMT",
+      "collected_at": "2026-11-06T01:19:44.941178+00:00"
     },
     {
-      "id": "5f6cc9246eec1121",
-      "title": "shade-plugins-google 0.2.0",
-      "link": "https://pypi.org/project/shade-plugins-google/0.2.0/",
-      "published": "Thu, 05 Nov 2026 01:02:56 GMT",
-      "collected_at": "2026-11-05T01:14:47.515792+00:00"
+      "id": "0e24a29920c0d31d",
+      "title": "mimir-cultivate 1.0.0rc2",
+      "link": "https://pypi.org/project/mimir-cultivate/1.0.0rc2/",
+      "published": "Fri, 06 Nov 2026 01:02:21 GMT",
+      "collected_at": "2026-11-06T01:19:44.941176+00:00"
     },
     {
-      "id": "2dc5cdd59491abca",
-      "title": "django-cfg 2.3.380",
-      "link": "https://pypi.org/project/django-cfg/2.3.380/",
-      "published": "Thu, 05 Nov 2026 01:03:01 GMT",
-      "collected_at": "2026-11-05T01:14:47.515789+00:00"
+      "id": "d60178979743f746",
+      "title": "teadata 0.0.133",
+      "link": "https://pypi.org/project/teadata/0.0.133/",
+      "published": "Fri, 06 Nov 2026 01:02:42 GMT",
+      "collected_at": "2026-11-06T01:19:44.941175+00:00"
     }
   ]
 }
