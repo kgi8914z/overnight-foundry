@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-06T01:19:47.678928+00:00",
+  "updated_at": "2026-11-07T00:34:14.412356+00:00",
   "hero": "kgi8914z",
   "guild": "Overnight Foundry",
   "level": 13,
   "title": "제국 회계관",
-  "xp": 12558,
-  "xp_into_level": 858,
+  "xp": 12778,
+  "xp_into_level": 1078,
   "xp_for_level": 1950,
   "xp_parts": {
     "unique_users": 40,
     "repeat_users": 0,
     "active_users_1d": 80,
     "api_calls": 0,
-    "dataset_records": 11358,
+    "dataset_records": 11558,
     "paying_users": 0,
     "self_uses_weekly": 60,
     "backlinks": 0,
     "stars": 0,
-    "nights": 1020
+    "nights": 1040
   },
   "row_gain": 100,
-  "nights": 51,
+  "nights": 52,
   "active_assets": 2,
   "inventory": [
     {
@@ -38,94 +38,94 @@
       "lane": "watch",
       "status": "incubator",
       "rarity": "희귀",
-      "stack": 5679,
+      "stack": 5779,
       "notes": "오늘 무엇이 패키지 세계에 나타났는지 한곳에서 못 본다"
     }
   ],
   "loot": [
     {
-      "id": "d85e75e0d0a86fc7",
-      "title": "notte-sdk 1.10.6",
-      "link": "https://pypi.org/project/notte-sdk/1.10.6/",
-      "published": "Fri, 06 Nov 2026 01:01:11 GMT",
-      "collected_at": "2026-11-06T01:19:44.941193+00:00"
+      "id": "a84bd421eb101fd7",
+      "title": "cfasim 0.15.1",
+      "link": "https://pypi.org/project/cfasim/0.15.1/",
+      "published": "Sat, 07 Nov 2026 00:16:51 GMT",
+      "collected_at": "2026-11-07T00:34:13.431521+00:00"
     },
     {
-      "id": "5e834bdb140b098c",
-      "title": "stabilize 0.34.4",
-      "link": "https://pypi.org/project/stabilize/0.34.4/",
-      "published": "Fri, 06 Nov 2026 01:01:15 GMT",
-      "collected_at": "2026-11-06T01:19:44.941192+00:00"
+      "id": "890c8706b194068f",
+      "title": "skmemory 0.11.83",
+      "link": "https://pypi.org/project/skmemory/0.11.83/",
+      "published": "Sat, 07 Nov 2026 00:17:09 GMT",
+      "collected_at": "2026-11-07T00:34:13.431515+00:00"
     },
     {
-      "id": "90c474f198be5248",
-      "title": "icadkit 0.3.15",
-      "link": "https://pypi.org/project/icadkit/0.3.15/",
-      "published": "Fri, 06 Nov 2026 01:01:18 GMT",
-      "collected_at": "2026-11-06T01:19:44.941190+00:00"
+      "id": "6d4ed2ee402ab5ca",
+      "title": "comicfn2dict 1.1.0",
+      "link": "https://pypi.org/project/comicfn2dict/1.1.0/",
+      "published": "Sat, 07 Nov 2026 00:17:19 GMT",
+      "collected_at": "2026-11-07T00:34:13.431512+00:00"
     },
     {
-      "id": "5b9487e6a68025b2",
-      "title": "radiodish-actor 1.0.0",
-      "link": "https://pypi.org/project/radiodish-actor/1.0.0/",
-      "published": "Fri, 06 Nov 2026 01:01:19 GMT",
-      "collected_at": "2026-11-06T01:19:44.941189+00:00"
+      "id": "074c6903d0434708",
+      "title": "bitcoin-core-rpc 2026.11.7",
+      "link": "https://pypi.org/project/bitcoin-core-rpc/2026.11.7/",
+      "published": "Sat, 07 Nov 2026 00:17:41 GMT",
+      "collected_at": "2026-11-07T00:34:13.431508+00:00"
     },
     {
-      "id": "53906e200b172635",
-      "title": "yamc 0.17.0",
-      "link": "https://pypi.org/project/yamc/0.17.0/",
-      "published": "Fri, 06 Nov 2026 01:01:23 GMT",
-      "collected_at": "2026-11-06T01:19:44.941187+00:00"
+      "id": "0632ea637cc3cb05",
+      "title": "xbcar 1.2.1",
+      "link": "https://pypi.org/project/xbcar/1.2.1/",
+      "published": "Sat, 07 Nov 2026 00:17:58 GMT",
+      "collected_at": "2026-11-07T00:34:13.431506+00:00"
     },
     {
-      "id": "01ce94ab62f1f439",
-      "title": "axmp-ai-agent-core 1.5.0rc23",
-      "link": "https://pypi.org/project/axmp-ai-agent-core/1.5.0rc23/",
-      "published": "Fri, 06 Nov 2026 01:01:25 GMT",
-      "collected_at": "2026-11-06T01:19:44.941185+00:00"
+      "id": "bd274c0f782c8894",
+      "title": "mcp-server-appwrite 2.4.3",
+      "link": "https://pypi.org/project/mcp-server-appwrite/2.4.3/",
+      "published": "Sat, 07 Nov 2026 00:18:25 GMT",
+      "collected_at": "2026-11-07T00:34:13.431503+00:00"
     },
     {
-      "id": "7b27d025e4a9b2d8",
-      "title": "agatha-protobuf 1.24.0",
-      "link": "https://pypi.org/project/agatha-protobuf/1.24.0/",
-      "published": "Fri, 06 Nov 2026 01:01:48 GMT",
-      "collected_at": "2026-11-06T01:19:44.941184+00:00"
+      "id": "64c1393c47c83ef9",
+      "title": "emby-curator 3.4.6",
+      "link": "https://pypi.org/project/emby-curator/3.4.6/",
+      "published": "Sat, 07 Nov 2026 00:18:32 GMT",
+      "collected_at": "2026-11-07T00:34:13.431500+00:00"
     },
     {
-      "id": "947ca7de3c686a30",
-      "title": "browser-daemon-client 0.13.1",
-      "link": "https://pypi.org/project/browser-daemon-client/0.13.1/",
-      "published": "Fri, 06 Nov 2026 01:02:18 GMT",
-      "collected_at": "2026-11-06T01:19:44.941182+00:00"
+      "id": "04839ec19ccf163d",
+      "title": "sensopy 0.0.1",
+      "link": "https://pypi.org/project/sensopy/0.0.1/",
+      "published": "Sat, 07 Nov 2026 00:18:51 GMT",
+      "collected_at": "2026-11-07T00:34:13.431496+00:00"
     },
     {
-      "id": "f04a805839a55f5a",
-      "title": "mimir-agent 1.0.0rc2",
-      "link": "https://pypi.org/project/mimir-agent/1.0.0rc2/",
-      "published": "Fri, 06 Nov 2026 01:02:19 GMT",
-      "collected_at": "2026-11-06T01:19:44.941180+00:00"
+      "id": "e193e2e130fffeb1",
+      "title": "atensec-thoth 0.7.0",
+      "link": "https://pypi.org/project/atensec-thoth/0.7.0/",
+      "published": "Sat, 07 Nov 2026 00:19:05 GMT",
+      "collected_at": "2026-11-07T00:34:13.431493+00:00"
     },
     {
-      "id": "4810798e3f7e06e9",
-      "title": "rtorrent-rpc 0.10.0",
-      "link": "https://pypi.org/project/rtorrent-rpc/0.10.0/",
-      "published": "Fri, 06 Nov 2026 01:02:20 GMT",
-      "collected_at": "2026-11-06T01:19:44.941178+00:00"
+      "id": "41be0386194f0a1c",
+      "title": "pelican-webdav-client 0.1.2",
+      "link": "https://pypi.org/project/pelican-webdav-client/0.1.2/",
+      "published": "Sat, 07 Nov 2026 00:19:18 GMT",
+      "collected_at": "2026-11-07T00:34:13.431490+00:00"
     },
     {
-      "id": "0e24a29920c0d31d",
-      "title": "mimir-cultivate 1.0.0rc2",
-      "link": "https://pypi.org/project/mimir-cultivate/1.0.0rc2/",
-      "published": "Fri, 06 Nov 2026 01:02:21 GMT",
-      "collected_at": "2026-11-06T01:19:44.941176+00:00"
+      "id": "3c2058fb3e66365c",
+      "title": "bookai-cli 0.15.0",
+      "link": "https://pypi.org/project/bookai-cli/0.15.0/",
+      "published": "Sat, 07 Nov 2026 00:19:30 GMT",
+      "collected_at": "2026-11-07T00:34:13.431487+00:00"
     },
     {
-      "id": "d60178979743f746",
-      "title": "teadata 0.0.133",
-      "link": "https://pypi.org/project/teadata/0.0.133/",
-      "published": "Fri, 06 Nov 2026 01:02:42 GMT",
-      "collected_at": "2026-11-06T01:19:44.941175+00:00"
+      "id": "c48150e514bcf2b9",
+      "title": "blockwatch-cli 0.18.0",
+      "link": "https://pypi.org/project/blockwatch-cli/0.18.0/",
+      "published": "Sat, 07 Nov 2026 00:19:39 GMT",
+      "collected_at": "2026-11-07T00:34:13.431484+00:00"
     }
   ]
 }
