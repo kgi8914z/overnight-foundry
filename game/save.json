@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-07T00:34:14.412356+00:00",
+  "updated_at": "2026-11-08T00:08:37.419136+00:00",
   "hero": "kgi8914z",
   "guild": "Overnight Foundry",
   "level": 13,
   "title": "제국 회계관",
-  "xp": 12778,
-  "xp_into_level": 1078,
+  "xp": 12998,
+  "xp_into_level": 1298,
   "xp_for_level": 1950,
   "xp_parts": {
     "unique_users": 40,
     "repeat_users": 0,
     "active_users_1d": 80,
     "api_calls": 0,
-    "dataset_records": 11558,
+    "dataset_records": 11758,
     "paying_users": 0,
     "self_uses_weekly": 60,
     "backlinks": 0,
     "stars": 0,
-    "nights": 1040
+    "nights": 1060
   },
   "row_gain": 100,
-  "nights": 52,
+  "nights": 53,
   "active_assets": 2,
   "inventory": [
     {
@@ -38,94 +38,94 @@
       "lane": "watch",
       "status": "incubator",
       "rarity": "희귀",
-      "stack": 5779,
+      "stack": 5879,
       "notes": "오늘 무엇이 패키지 세계에 나타났는지 한곳에서 못 본다"
     }
   ],
   "loot": [
     {
-      "id": "a84bd421eb101fd7",
-      "title": "cfasim 0.15.1",
-      "link": "https://pypi.org/project/cfasim/0.15.1/",
-      "published": "Sat, 07 Nov 2026 00:16:51 GMT",
-      "collected_at": "2026-11-07T00:34:13.431521+00:00"
+      "id": "6e19c8582b36acbc",
+      "title": "assert-no-comments 20261107233510",
+      "link": "https://pypi.org/project/assert-no-comments/20261107233510/",
+      "published": "Sat, 07 Nov 2026 23:35:29 GMT",
+      "collected_at": "2026-11-08T00:08:36.131776+00:00"
     },
     {
-      "id": "890c8706b194068f",
-      "title": "skmemory 0.11.83",
-      "link": "https://pypi.org/project/skmemory/0.11.83/",
-      "published": "Sat, 07 Nov 2026 00:17:09 GMT",
-      "collected_at": "2026-11-07T00:34:13.431515+00:00"
+      "id": "7d26161c9f9f179e",
+      "title": "throughline-ratify 0.19.1",
+      "link": "https://pypi.org/project/throughline-ratify/0.19.1/",
+      "published": "Sat, 07 Nov 2026 23:35:33 GMT",
+      "collected_at": "2026-11-08T00:08:36.131774+00:00"
     },
     {
-      "id": "6d4ed2ee402ab5ca",
-      "title": "comicfn2dict 1.1.0",
-      "link": "https://pypi.org/project/comicfn2dict/1.1.0/",
-      "published": "Sat, 07 Nov 2026 00:17:19 GMT",
-      "collected_at": "2026-11-07T00:34:13.431512+00:00"
+      "id": "220fef7c5765b370",
+      "title": "fmsl 0.35.0",
+      "link": "https://pypi.org/project/fmsl/0.35.0/",
+      "published": "Sat, 07 Nov 2026 23:35:51 GMT",
+      "collected_at": "2026-11-08T00:08:36.131772+00:00"
     },
     {
-      "id": "074c6903d0434708",
-      "title": "bitcoin-core-rpc 2026.11.7",
-      "link": "https://pypi.org/project/bitcoin-core-rpc/2026.11.7/",
-      "published": "Sat, 07 Nov 2026 00:17:41 GMT",
-      "collected_at": "2026-11-07T00:34:13.431508+00:00"
+      "id": "ccd21c8644fac3ad",
+      "title": "pullup 0.0.12",
+      "link": "https://pypi.org/project/pullup/0.0.12/",
+      "published": "Sat, 07 Nov 2026 23:36:06 GMT",
+      "collected_at": "2026-11-08T00:08:36.131770+00:00"
     },
     {
-      "id": "0632ea637cc3cb05",
-      "title": "xbcar 1.2.1",
-      "link": "https://pypi.org/project/xbcar/1.2.1/",
-      "published": "Sat, 07 Nov 2026 00:17:58 GMT",
-      "collected_at": "2026-11-07T00:34:13.431506+00:00"
+      "id": "04d5fcceec7e5035",
+      "title": "pylon-analyzer 0.1.1",
+      "link": "https://pypi.org/project/pylon-analyzer/0.1.1/",
+      "published": "Sat, 07 Nov 2026 23:36:18 GMT",
+      "collected_at": "2026-11-08T00:08:36.131768+00:00"
     },
     {
-      "id": "bd274c0f782c8894",
-      "title": "mcp-server-appwrite 2.4.3",
-      "link": "https://pypi.org/project/mcp-server-appwrite/2.4.3/",
-      "published": "Sat, 07 Nov 2026 00:18:25 GMT",
-      "collected_at": "2026-11-07T00:34:13.431503+00:00"
+      "id": "b885333512a29c4a",
+      "title": "cbp-action 1.0.6",
+      "link": "https://pypi.org/project/cbp-action/1.0.6/",
+      "published": "Sat, 07 Nov 2026 23:36:43 GMT",
+      "collected_at": "2026-11-08T00:08:36.131765+00:00"
     },
     {
-      "id": "64c1393c47c83ef9",
-      "title": "emby-curator 3.4.6",
-      "link": "https://pypi.org/project/emby-curator/3.4.6/",
-      "published": "Sat, 07 Nov 2026 00:18:32 GMT",
-      "collected_at": "2026-11-07T00:34:13.431500+00:00"
+      "id": "25583a76af6a46c6",
+      "title": "pettrace-ml 0.2.36",
+      "link": "https://pypi.org/project/pettrace-ml/0.2.36/",
+      "published": "Sat, 07 Nov 2026 23:36:51 GMT",
+      "collected_at": "2026-11-08T00:08:36.131763+00:00"
     },
     {
-      "id": "04839ec19ccf163d",
-      "title": "sensopy 0.0.1",
-      "link": "https://pypi.org/project/sensopy/0.0.1/",
-      "published": "Sat, 07 Nov 2026 00:18:51 GMT",
-      "collected_at": "2026-11-07T00:34:13.431496+00:00"
+      "id": "398dba5cd00aa245",
+      "title": "galley-jl-python 0.3.0",
+      "link": "https://pypi.org/project/galley-jl-python/0.3.0/",
+      "published": "Sat, 07 Nov 2026 23:37:08 GMT",
+      "collected_at": "2026-11-08T00:08:36.131761+00:00"
     },
     {
-      "id": "e193e2e130fffeb1",
-      "title": "atensec-thoth 0.7.0",
-      "link": "https://pypi.org/project/atensec-thoth/0.7.0/",
-      "published": "Sat, 07 Nov 2026 00:19:05 GMT",
-      "collected_at": "2026-11-07T00:34:13.431493+00:00"
+      "id": "273d08465cc5c87c",
+      "title": "dagster-community-components 0.10.128",
+      "link": "https://pypi.org/project/dagster-community-components/0.10.128/",
+      "published": "Sat, 07 Nov 2026 23:37:10 GMT",
+      "collected_at": "2026-11-08T00:08:36.131759+00:00"
     },
     {
-      "id": "41be0386194f0a1c",
-      "title": "pelican-webdav-client 0.1.2",
-      "link": "https://pypi.org/project/pelican-webdav-client/0.1.2/",
-      "published": "Sat, 07 Nov 2026 00:19:18 GMT",
-      "collected_at": "2026-11-07T00:34:13.431490+00:00"
+      "id": "0fae20cd80e74d08",
+      "title": "prompt-tokensaver 0.4.0",
+      "link": "https://pypi.org/project/prompt-tokensaver/0.4.0/",
+      "published": "Sat, 07 Nov 2026 23:37:14 GMT",
+      "collected_at": "2026-11-08T00:08:36.131756+00:00"
     },
     {
-      "id": "3c2058fb3e66365c",
-      "title": "bookai-cli 0.15.0",
-      "link": "https://pypi.org/project/bookai-cli/0.15.0/",
-      "published": "Sat, 07 Nov 2026 00:19:30 GMT",
-      "collected_at": "2026-11-07T00:34:13.431487+00:00"
+      "id": "689987e4650a5375",
+      "title": "nyx-memory 7.22.0",
+      "link": "https://pypi.org/project/nyx-memory/7.22.0/",
+      "published": "Sat, 07 Nov 2026 23:37:25 GMT",
+      "collected_at": "2026-11-08T00:08:36.131754+00:00"
     },
     {
-      "id": "c48150e514bcf2b9",
-      "title": "blockwatch-cli 0.18.0",
-      "link": "https://pypi.org/project/blockwatch-cli/0.18.0/",
-      "published": "Sat, 07 Nov 2026 00:19:39 GMT",
-      "collected_at": "2026-11-07T00:34:13.431484+00:00"
+      "id": "8408f50fa02b9174",
+      "title": "torchvisir 0.0.1",
+      "link": "https://pypi.org/project/torchvisir/0.0.1/",
+      "published": "Sat, 07 Nov 2026 23:37:49 GMT",
+      "collected_at": "2026-11-08T00:08:36.131751+00:00"
     }
   ]
 }
