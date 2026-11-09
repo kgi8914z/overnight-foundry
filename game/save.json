@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-08T00:08:37.419136+00:00",
+  "updated_at": "2026-11-09T00:25:46.322936+00:00",
   "hero": "kgi8914z",
   "guild": "Overnight Foundry",
   "level": 13,
   "title": "제국 회계관",
-  "xp": 12998,
-  "xp_into_level": 1298,
+  "xp": 13218,
+  "xp_into_level": 1518,
   "xp_for_level": 1950,
   "xp_parts": {
     "unique_users": 40,
     "repeat_users": 0,
     "active_users_1d": 80,
     "api_calls": 0,
-    "dataset_records": 11758,
+    "dataset_records": 11958,
     "paying_users": 0,
     "self_uses_weekly": 60,
     "backlinks": 0,
     "stars": 0,
-    "nights": 1060
+    "nights": 1080
   },
   "row_gain": 100,
-  "nights": 53,
+  "nights": 54,
   "active_assets": 2,
   "inventory": [
     {
@@ -38,94 +38,94 @@
       "lane": "watch",
       "status": "incubator",
       "rarity": "희귀",
-      "stack": 5879,
+      "stack": 5979,
       "notes": "오늘 무엇이 패키지 세계에 나타났는지 한곳에서 못 본다"
     }
   ],
   "loot": [
     {
-      "id": "6e19c8582b36acbc",
-      "title": "assert-no-comments 20261107233510",
-      "link": "https://pypi.org/project/assert-no-comments/20261107233510/",
-      "published": "Sat, 07 Nov 2026 23:35:29 GMT",
-      "collected_at": "2026-11-08T00:08:36.131776+00:00"
+      "id": "89f735cbe5c54362",
+      "title": "mnestic 0.19.0",
+      "link": "https://pypi.org/project/mnestic/0.19.0/",
+      "published": "Mon, 09 Nov 2026 00:07:43 GMT",
+      "collected_at": "2026-11-09T00:25:45.530701+00:00"
     },
     {
-      "id": "7d26161c9f9f179e",
-      "title": "throughline-ratify 0.19.1",
-      "link": "https://pypi.org/project/throughline-ratify/0.19.1/",
-      "published": "Sat, 07 Nov 2026 23:35:33 GMT",
-      "collected_at": "2026-11-08T00:08:36.131774+00:00"
+      "id": "2e7827938bdb3a81",
+      "title": "qem 0.2.0",
+      "link": "https://pypi.org/project/qem/0.2.0/",
+      "published": "Mon, 09 Nov 2026 00:07:46 GMT",
+      "collected_at": "2026-11-09T00:25:45.530699+00:00"
     },
     {
-      "id": "220fef7c5765b370",
-      "title": "fmsl 0.35.0",
-      "link": "https://pypi.org/project/fmsl/0.35.0/",
-      "published": "Sat, 07 Nov 2026 23:35:51 GMT",
-      "collected_at": "2026-11-08T00:08:36.131772+00:00"
+      "id": "eff349027a617a45",
+      "title": "hpcpy 0.11.1",
+      "link": "https://pypi.org/project/hpcpy/0.11.1/",
+      "published": "Mon, 09 Nov 2026 00:07:47 GMT",
+      "collected_at": "2026-11-09T00:25:45.530698+00:00"
     },
     {
-      "id": "ccd21c8644fac3ad",
-      "title": "pullup 0.0.12",
-      "link": "https://pypi.org/project/pullup/0.0.12/",
-      "published": "Sat, 07 Nov 2026 23:36:06 GMT",
-      "collected_at": "2026-11-08T00:08:36.131770+00:00"
+      "id": "285a7da998ac7ac1",
+      "title": "mixing 0.0.117",
+      "link": "https://pypi.org/project/mixing/0.0.117/",
+      "published": "Mon, 09 Nov 2026 00:07:48 GMT",
+      "collected_at": "2026-11-09T00:25:45.530696+00:00"
     },
     {
-      "id": "04d5fcceec7e5035",
-      "title": "pylon-analyzer 0.1.1",
-      "link": "https://pypi.org/project/pylon-analyzer/0.1.1/",
-      "published": "Sat, 07 Nov 2026 23:36:18 GMT",
-      "collected_at": "2026-11-08T00:08:36.131768+00:00"
+      "id": "f9e8757a97a90042",
+      "title": "perron-core 0.3.1",
+      "link": "https://pypi.org/project/perron-core/0.3.1/",
+      "published": "Mon, 09 Nov 2026 00:08:05 GMT",
+      "collected_at": "2026-11-09T00:25:45.530694+00:00"
     },
     {
-      "id": "b885333512a29c4a",
-      "title": "cbp-action 1.0.6",
-      "link": "https://pypi.org/project/cbp-action/1.0.6/",
-      "published": "Sat, 07 Nov 2026 23:36:43 GMT",
-      "collected_at": "2026-11-08T00:08:36.131765+00:00"
+      "id": "0f3fb39b4b167165",
+      "title": "lingo-api 23.0.2",
+      "link": "https://pypi.org/project/lingo-api/23.0.2/",
+      "published": "Mon, 09 Nov 2026 00:08:15 GMT",
+      "collected_at": "2026-11-09T00:25:45.530693+00:00"
     },
     {
-      "id": "25583a76af6a46c6",
-      "title": "pettrace-ml 0.2.36",
-      "link": "https://pypi.org/project/pettrace-ml/0.2.36/",
-      "published": "Sat, 07 Nov 2026 23:36:51 GMT",
-      "collected_at": "2026-11-08T00:08:36.131763+00:00"
+      "id": "90ec35231712bfc7",
+      "title": "kevward 0.12.5",
+      "link": "https://pypi.org/project/kevward/0.12.5/",
+      "published": "Mon, 09 Nov 2026 00:08:28 GMT",
+      "collected_at": "2026-11-09T00:25:45.530691+00:00"
     },
     {
-      "id": "398dba5cd00aa245",
-      "title": "galley-jl-python 0.3.0",
-      "link": "https://pypi.org/project/galley-jl-python/0.3.0/",
-      "published": "Sat, 07 Nov 2026 23:37:08 GMT",
-      "collected_at": "2026-11-08T00:08:36.131761+00:00"
+      "id": "755e2d878f165c58",
+      "title": "beeverforge 0.1.1",
+      "link": "https://pypi.org/project/beeverforge/0.1.1/",
+      "published": "Mon, 09 Nov 2026 00:08:43 GMT",
+      "collected_at": "2026-11-09T00:25:45.530690+00:00"
     },
     {
-      "id": "273d08465cc5c87c",
-      "title": "dagster-community-components 0.10.128",
-      "link": "https://pypi.org/project/dagster-community-components/0.10.128/",
-      "published": "Sat, 07 Nov 2026 23:37:10 GMT",
-      "collected_at": "2026-11-08T00:08:36.131759+00:00"
+      "id": "e1ca6cc494f78eea",
+      "title": "ecosemantic-relay 0.1.14",
+      "link": "https://pypi.org/project/ecosemantic-relay/0.1.14/",
+      "published": "Mon, 09 Nov 2026 00:08:59 GMT",
+      "collected_at": "2026-11-09T00:25:45.530688+00:00"
     },
     {
-      "id": "0fae20cd80e74d08",
-      "title": "prompt-tokensaver 0.4.0",
-      "link": "https://pypi.org/project/prompt-tokensaver/0.4.0/",
-      "published": "Sat, 07 Nov 2026 23:37:14 GMT",
-      "collected_at": "2026-11-08T00:08:36.131756+00:00"
+      "id": "1d31ec0878693e4e",
+      "title": "pytest-queryguard 0.10.0",
+      "link": "https://pypi.org/project/pytest-queryguard/0.10.0/",
+      "published": "Mon, 09 Nov 2026 00:09:01 GMT",
+      "collected_at": "2026-11-09T00:25:45.530687+00:00"
     },
     {
-      "id": "689987e4650a5375",
-      "title": "nyx-memory 7.22.0",
-      "link": "https://pypi.org/project/nyx-memory/7.22.0/",
-      "published": "Sat, 07 Nov 2026 23:37:25 GMT",
-      "collected_at": "2026-11-08T00:08:36.131754+00:00"
+      "id": "7f29b082b062608a",
+      "title": "ecosemantic 0.1.14",
+      "link": "https://pypi.org/project/ecosemantic/0.1.14/",
+      "published": "Mon, 09 Nov 2026 00:09:02 GMT",
+      "collected_at": "2026-11-09T00:25:45.530685+00:00"
     },
     {
-      "id": "8408f50fa02b9174",
-      "title": "torchvisir 0.0.1",
-      "link": "https://pypi.org/project/torchvisir/0.0.1/",
-      "published": "Sat, 07 Nov 2026 23:37:49 GMT",
-      "collected_at": "2026-11-08T00:08:36.131751+00:00"
+      "id": "d48469332f7ba378",
+      "title": "ecosemantic-core 0.1.14",
+      "link": "https://pypi.org/project/ecosemantic-core/0.1.14/",
+      "published": "Mon, 09 Nov 2026 00:09:04 GMT",
+      "collected_at": "2026-11-09T00:25:45.530684+00:00"
     }
   ]
 }
