@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-09T00:25:46.322936+00:00",
+  "updated_at": "2026-11-10T03:06:05.219696+00:00",
   "hero": "kgi8914z",
   "guild": "Overnight Foundry",
   "level": 13,
   "title": "제국 회계관",
-  "xp": 13218,
-  "xp_into_level": 1518,
+  "xp": 13438,
+  "xp_into_level": 1738,
   "xp_for_level": 1950,
   "xp_parts": {
     "unique_users": 40,
     "repeat_users": 0,
     "active_users_1d": 80,
     "api_calls": 0,
-    "dataset_records": 11958,
+    "dataset_records": 12158,
     "paying_users": 0,
     "self_uses_weekly": 60,
     "backlinks": 0,
     "stars": 0,
-    "nights": 1080
+    "nights": 1100
   },
   "row_gain": 100,
-  "nights": 54,
+  "nights": 55,
   "active_assets": 2,
   "inventory": [
     {
@@ -38,94 +38,94 @@
       "lane": "watch",
       "status": "incubator",
       "rarity": "희귀",
-      "stack": 5979,
+      "stack": 6079,
       "notes": "오늘 무엇이 패키지 세계에 나타났는지 한곳에서 못 본다"
     }
   ],
   "loot": [
     {
-      "id": "89f735cbe5c54362",
-      "title": "mnestic 0.19.0",
-      "link": "https://pypi.org/project/mnestic/0.19.0/",
-      "published": "Mon, 09 Nov 2026 00:07:43 GMT",
-      "collected_at": "2026-11-09T00:25:45.530701+00:00"
+      "id": "132451d82fbc78dc",
+      "title": "os-optics-kit 0.2.0",
+      "link": "https://pypi.org/project/os-optics-kit/0.2.0/",
+      "published": "Tue, 10 Nov 2026 02:50:28 GMT",
+      "collected_at": "2026-11-10T03:06:04.376268+00:00"
     },
     {
-      "id": "2e7827938bdb3a81",
-      "title": "qem 0.2.0",
-      "link": "https://pypi.org/project/qem/0.2.0/",
-      "published": "Mon, 09 Nov 2026 00:07:46 GMT",
-      "collected_at": "2026-11-09T00:25:45.530699+00:00"
+      "id": "cf36653ddc0e076a",
+      "title": "odoo-addon-contract 16.0.2.18.0.3",
+      "link": "https://pypi.org/project/odoo-addon-contract/16.0.2.18.0.3/",
+      "published": "Tue, 10 Nov 2026 02:50:43 GMT",
+      "collected_at": "2026-11-10T03:06:04.376266+00:00"
     },
     {
-      "id": "eff349027a617a45",
-      "title": "hpcpy 0.11.1",
-      "link": "https://pypi.org/project/hpcpy/0.11.1/",
-      "published": "Mon, 09 Nov 2026 00:07:47 GMT",
-      "collected_at": "2026-11-09T00:25:45.530698+00:00"
+      "id": "a93e506906a2e213",
+      "title": "truassure 1.6.2",
+      "link": "https://pypi.org/project/truassure/1.6.2/",
+      "published": "Tue, 10 Nov 2026 02:50:53 GMT",
+      "collected_at": "2026-11-10T03:06:04.376263+00:00"
     },
     {
-      "id": "285a7da998ac7ac1",
-      "title": "mixing 0.0.117",
-      "link": "https://pypi.org/project/mixing/0.0.117/",
-      "published": "Mon, 09 Nov 2026 00:07:48 GMT",
-      "collected_at": "2026-11-09T00:25:45.530696+00:00"
+      "id": "a0f4689f603ab224",
+      "title": "token-xray-ml 0.1.1",
+      "link": "https://pypi.org/project/token-xray-ml/0.1.1/",
+      "published": "Tue, 10 Nov 2026 02:51:00 GMT",
+      "collected_at": "2026-11-10T03:06:04.376259+00:00"
     },
     {
-      "id": "f9e8757a97a90042",
-      "title": "perron-core 0.3.1",
-      "link": "https://pypi.org/project/perron-core/0.3.1/",
-      "published": "Mon, 09 Nov 2026 00:08:05 GMT",
-      "collected_at": "2026-11-09T00:25:45.530694+00:00"
+      "id": "69e4e55a25c4ac4f",
+      "title": "odoo12-addon-l10n-be-cooperator 12.0.2.4.3.99.dev13",
+      "link": "https://pypi.org/project/odoo12-addon-l10n-be-cooperator/12.0.2.4.3.99.dev13/",
+      "published": "Tue, 10 Nov 2026 02:51:09 GMT",
+      "collected_at": "2026-11-10T03:06:04.376257+00:00"
     },
     {
-      "id": "0f3fb39b4b167165",
-      "title": "lingo-api 23.0.2",
-      "link": "https://pypi.org/project/lingo-api/23.0.2/",
-      "published": "Mon, 09 Nov 2026 00:08:15 GMT",
-      "collected_at": "2026-11-09T00:25:45.530693+00:00"
+      "id": "92d6a757a899a2b3",
+      "title": "odoo14-addon-l10n-be-cooperator 14.0.1.2.8.dev7",
+      "link": "https://pypi.org/project/odoo14-addon-l10n-be-cooperator/14.0.1.2.8.dev7/",
+      "published": "Tue, 10 Nov 2026 02:51:13 GMT",
+      "collected_at": "2026-11-10T03:06:04.376254+00:00"
     },
     {
-      "id": "90ec35231712bfc7",
-      "title": "kevward 0.12.5",
-      "link": "https://pypi.org/project/kevward/0.12.5/",
-      "published": "Mon, 09 Nov 2026 00:08:28 GMT",
-      "collected_at": "2026-11-09T00:25:45.530691+00:00"
+      "id": "c5fd854c003244df",
+      "title": "verifiers 0.4.2.dev27",
+      "link": "https://pypi.org/project/verifiers/0.4.2.dev27/",
+      "published": "Tue, 10 Nov 2026 02:51:13 GMT",
+      "collected_at": "2026-11-10T03:06:04.376251+00:00"
     },
     {
-      "id": "755e2d878f165c58",
-      "title": "beeverforge 0.1.1",
-      "link": "https://pypi.org/project/beeverforge/0.1.1/",
-      "published": "Mon, 09 Nov 2026 00:08:43 GMT",
-      "collected_at": "2026-11-09T00:25:45.530690+00:00"
+      "id": "73e48616e13baacc",
+      "title": "aims-bench 0.2.1",
+      "link": "https://pypi.org/project/aims-bench/0.2.1/",
+      "published": "Tue, 10 Nov 2026 02:51:28 GMT",
+      "collected_at": "2026-11-10T03:06:04.376248+00:00"
     },
     {
-      "id": "e1ca6cc494f78eea",
-      "title": "ecosemantic-relay 0.1.14",
-      "link": "https://pypi.org/project/ecosemantic-relay/0.1.14/",
-      "published": "Mon, 09 Nov 2026 00:08:59 GMT",
-      "collected_at": "2026-11-09T00:25:45.530688+00:00"
+      "id": "80696c4ba8696c51",
+      "title": "mtjk 2.7.11.post14",
+      "link": "https://pypi.org/project/mtjk/2.7.11.post14/",
+      "published": "Tue, 10 Nov 2026 02:51:36 GMT",
+      "collected_at": "2026-11-10T03:06:04.376245+00:00"
     },
     {
-      "id": "1d31ec0878693e4e",
-      "title": "pytest-queryguard 0.10.0",
-      "link": "https://pypi.org/project/pytest-queryguard/0.10.0/",
-      "published": "Mon, 09 Nov 2026 00:09:01 GMT",
-      "collected_at": "2026-11-09T00:25:45.530687+00:00"
+      "id": "b2b6a2b2a090a86b",
+      "title": "odoo-addon-website-sale-financial-risk 16.0.1.0.0.6",
+      "link": "https://pypi.org/project/odoo-addon-website-sale-financial-risk/16.0.1.0.0.6/",
+      "published": "Tue, 10 Nov 2026 02:51:51 GMT",
+      "collected_at": "2026-11-10T03:06:04.376242+00:00"
     },
     {
-      "id": "7f29b082b062608a",
-      "title": "ecosemantic 0.1.14",
-      "link": "https://pypi.org/project/ecosemantic/0.1.14/",
-      "published": "Mon, 09 Nov 2026 00:09:02 GMT",
-      "collected_at": "2026-11-09T00:25:45.530685+00:00"
+      "id": "2d45f1a510533cf9",
+      "title": "amazon-sagemaker-sql-editor 1.0.0",
+      "link": "https://pypi.org/project/amazon-sagemaker-sql-editor/1.0.0/",
+      "published": "Tue, 10 Nov 2026 02:51:55 GMT",
+      "collected_at": "2026-11-10T03:06:04.376239+00:00"
     },
     {
-      "id": "d48469332f7ba378",
-      "title": "ecosemantic-core 0.1.14",
-      "link": "https://pypi.org/project/ecosemantic-core/0.1.14/",
-      "published": "Mon, 09 Nov 2026 00:09:04 GMT",
-      "collected_at": "2026-11-09T00:25:45.530684+00:00"
+      "id": "f84a4789f6fd5f0d",
+      "title": "odoo-addon-account-financial-risk 19.0.1.0.1.1",
+      "link": "https://pypi.org/project/odoo-addon-account-financial-risk/19.0.1.0.1.1/",
+      "published": "Tue, 10 Nov 2026 02:51:55 GMT",
+      "collected_at": "2026-11-10T03:06:04.376236+00:00"
     }
   ]
 }
