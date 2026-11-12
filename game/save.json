@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-11T00:58:10.361032+00:00",
+  "updated_at": "2026-11-12T02:05:32.452332+00:00",
   "hero": "kgi8914z",
   "guild": "Overnight Foundry",
   "level": 14,
   "title": "제국 회계관",
-  "xp": 13658,
-  "xp_into_level": 8,
+  "xp": 13878,
+  "xp_into_level": 228,
   "xp_for_level": 2100,
   "xp_parts": {
     "unique_users": 40,
     "repeat_users": 0,
     "active_users_1d": 80,
     "api_calls": 0,
-    "dataset_records": 12358,
+    "dataset_records": 12558,
     "paying_users": 0,
     "self_uses_weekly": 60,
     "backlinks": 0,
     "stars": 0,
-    "nights": 1120
+    "nights": 1140
   },
   "row_gain": 100,
-  "nights": 56,
+  "nights": 57,
   "active_assets": 2,
   "inventory": [
     {
@@ -38,94 +38,94 @@
       "lane": "watch",
       "status": "incubator",
       "rarity": "희귀",
-      "stack": 6179,
+      "stack": 6279,
       "notes": "오늘 무엇이 패키지 세계에 나타났는지 한곳에서 못 본다"
     }
   ],
   "loot": [
     {
-      "id": "e1dcdc7b69538ebc",
-      "title": "cdk-simplewebsite-deploy 3.0.5",
-      "link": "https://pypi.org/project/cdk-simplewebsite-deploy/3.0.5/",
-      "published": "Wed, 11 Nov 2026 00:43:29 GMT",
-      "collected_at": "2026-11-11T00:58:09.257001+00:00"
+      "id": "2d553405ff24e1a8",
+      "title": "amiga-re-kit 1.0.62",
+      "link": "https://pypi.org/project/amiga-re-kit/1.0.62/",
+      "published": "Thu, 12 Nov 2026 01:52:04 GMT",
+      "collected_at": "2026-11-12T02:05:31.515381+00:00"
     },
     {
-      "id": "a2e2c2d753caa625",
-      "title": "Geode-Conversion 6.8.1",
-      "link": "https://pypi.org/project/geode-conversion/6.8.1/",
-      "published": "Wed, 11 Nov 2026 00:43:43 GMT",
-      "collected_at": "2026-11-11T00:58:09.256997+00:00"
+      "id": "d319bbafd3c54b58",
+      "title": "polyglot-ai 0.18.21",
+      "link": "https://pypi.org/project/polyglot-ai/0.18.21/",
+      "published": "Thu, 12 Nov 2026 01:52:44 GMT",
+      "collected_at": "2026-11-12T02:05:31.515378+00:00"
     },
     {
-      "id": "a5eeb0ae71e5a7e9",
-      "title": "minimindslab-env-file-diff 0.1.0",
-      "link": "https://pypi.org/project/minimindslab-env-file-diff/0.1.0/",
-      "published": "Wed, 11 Nov 2026 00:43:43 GMT",
-      "collected_at": "2026-11-11T00:58:09.256994+00:00"
+      "id": "8ae8e7b59dcfd24a",
+      "title": "githost 2026.11.11.0",
+      "link": "https://pypi.org/project/githost/2026.11.11.0/",
+      "published": "Thu, 12 Nov 2026 01:53:29 GMT",
+      "collected_at": "2026-11-12T02:05:31.515375+00:00"
     },
     {
-      "id": "10cd4c33e64f5438",
-      "title": "pyrig-badge 0.5.74",
-      "link": "https://pypi.org/project/pyrig-badge/0.5.74/",
-      "published": "Wed, 11 Nov 2026 00:43:52 GMT",
-      "collected_at": "2026-11-11T00:58:09.256991+00:00"
+      "id": "5b1e5caa3049135e",
+      "title": "contextbase-client 1.0.0",
+      "link": "https://pypi.org/project/contextbase-client/1.0.0/",
+      "published": "Thu, 12 Nov 2026 01:53:34 GMT",
+      "collected_at": "2026-11-12T02:05:31.515371+00:00"
     },
     {
-      "id": "8af21ae1d4039ff2",
-      "title": "civics-cdf-validator 1.67.dev9",
-      "link": "https://pypi.org/project/civics-cdf-validator/1.67.dev9/",
-      "published": "Wed, 11 Nov 2026 00:43:58 GMT",
-      "collected_at": "2026-11-11T00:58:09.256988+00:00"
+      "id": "ec9ff226e5f75856",
+      "title": "cgcnn2 1.0.0",
+      "link": "https://pypi.org/project/cgcnn2/1.0.0/",
+      "published": "Thu, 12 Nov 2026 01:53:47 GMT",
+      "collected_at": "2026-11-12T02:05:31.515368+00:00"
     },
     {
-      "id": "529d7e57ece97bdf",
-      "title": "Unified-python-sdk 0.61.17",
-      "link": "https://pypi.org/project/unified-python-sdk/0.61.17/",
-      "published": "Wed, 11 Nov 2026 00:44:05 GMT",
-      "collected_at": "2026-11-11T00:58:09.256985+00:00"
+      "id": "831199b1bb5a0a8e",
+      "title": "agents-inc 0.6.3",
+      "link": "https://pypi.org/project/agents-inc/0.6.3/",
+      "published": "Thu, 12 Nov 2026 01:53:49 GMT",
+      "collected_at": "2026-11-12T02:05:31.515365+00:00"
     },
     {
-      "id": "097bd1ee6f2c6645",
-      "title": "aind-metadata-reader 0.2.2",
-      "link": "https://pypi.org/project/aind-metadata-reader/0.2.2/",
-      "published": "Wed, 11 Nov 2026 00:44:05 GMT",
-      "collected_at": "2026-11-11T00:58:09.256981+00:00"
+      "id": "029d9baef5f4ce84",
+      "title": "eloine 0.6.50",
+      "link": "https://pypi.org/project/eloine/0.6.50/",
+      "published": "Thu, 12 Nov 2026 01:54:18 GMT",
+      "collected_at": "2026-11-12T02:05:31.515362+00:00"
     },
     {
-      "id": "35a95cb46e0516db",
-      "title": "Geode-Background 9.16.1",
-      "link": "https://pypi.org/project/geode-background/9.16.1/",
-      "published": "Wed, 11 Nov 2026 00:44:15 GMT",
-      "collected_at": "2026-11-11T00:58:09.256978+00:00"
+      "id": "ef326dce84262359",
+      "title": "domani 0.6.0",
+      "link": "https://pypi.org/project/domani/0.6.0/",
+      "published": "Thu, 12 Nov 2026 01:54:30 GMT",
+      "collected_at": "2026-11-12T02:05:31.515359+00:00"
     },
     {
-      "id": "8e860764fa772e05",
-      "title": "agent-sanitizer 2.71.0",
-      "link": "https://pypi.org/project/agent-sanitizer/2.71.0/",
-      "published": "Wed, 11 Nov 2026 00:44:19 GMT",
-      "collected_at": "2026-11-11T00:58:09.256975+00:00"
+      "id": "eae0ae9f2bbc243a",
+      "title": "ag_ui_strands 1.0.4",
+      "link": "https://pypi.org/project/ag-ui-strands/1.0.4/",
+      "published": "Thu, 12 Nov 2026 01:54:38 GMT",
+      "collected_at": "2026-11-12T02:05:31.515356+00:00"
     },
     {
-      "id": "ee006b508785ac8b",
-      "title": "pyrig-private 0.3.53",
-      "link": "https://pypi.org/project/pyrig-private/0.3.53/",
-      "published": "Wed, 11 Nov 2026 00:44:22 GMT",
-      "collected_at": "2026-11-11T00:58:09.256972+00:00"
+      "id": "86215c71dd6cdc1d",
+      "title": "ag-ui-claude-sdk 0.2.4",
+      "link": "https://pypi.org/project/ag-ui-claude-sdk/0.2.4/",
+      "published": "Thu, 12 Nov 2026 01:54:42 GMT",
+      "collected_at": "2026-11-12T02:05:31.515353+00:00"
     },
     {
-      "id": "a3f8e995dc4fbf76",
-      "title": "aindy-runtime 2.35.0",
-      "link": "https://pypi.org/project/aindy-runtime/2.35.0/",
-      "published": "Wed, 11 Nov 2026 00:44:28 GMT",
-      "collected_at": "2026-11-11T00:58:09.256969+00:00"
+      "id": "87edc4a8d31e23af",
+      "title": "cdktn-provider-newrelic 17.0.2",
+      "link": "https://pypi.org/project/cdktn-provider-newrelic/17.0.2/",
+      "published": "Thu, 12 Nov 2026 01:54:47 GMT",
+      "collected_at": "2026-11-12T02:05:31.515349+00:00"
     },
     {
-      "id": "d362c84de3202163",
-      "title": "remove-ai-watermarks 0.56.0",
-      "link": "https://pypi.org/project/remove-ai-watermarks/0.56.0/",
-      "published": "Wed, 11 Nov 2026 00:44:33 GMT",
-      "collected_at": "2026-11-11T00:58:09.256966+00:00"
+      "id": "228f0c701c23521a",
+      "title": "xgdb-connect-native 0.0.1",
+      "link": "https://pypi.org/project/xgdb-connect-native/0.0.1/",
+      "published": "Thu, 12 Nov 2026 01:54:51 GMT",
+      "collected_at": "2026-11-12T02:05:31.515346+00:00"
     }
   ]
 }
