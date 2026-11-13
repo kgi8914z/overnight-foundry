@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-12T02:05:32.452332+00:00",
+  "updated_at": "2026-11-13T01:37:44.463409+00:00",
   "hero": "kgi8914z",
   "guild": "Overnight Foundry",
   "level": 14,
   "title": "제국 회계관",
-  "xp": 13878,
-  "xp_into_level": 228,
+  "xp": 14098,
+  "xp_into_level": 448,
   "xp_for_level": 2100,
   "xp_parts": {
     "unique_users": 40,
     "repeat_users": 0,
     "active_users_1d": 80,
     "api_calls": 0,
-    "dataset_records": 12558,
+    "dataset_records": 12758,
     "paying_users": 0,
     "self_uses_weekly": 60,
     "backlinks": 0,
     "stars": 0,
-    "nights": 1140
+    "nights": 1160
   },
   "row_gain": 100,
-  "nights": 57,
+  "nights": 58,
   "active_assets": 2,
   "inventory": [
     {
@@ -38,94 +38,94 @@
       "lane": "watch",
       "status": "incubator",
       "rarity": "희귀",
-      "stack": 6279,
+      "stack": 6379,
       "notes": "오늘 무엇이 패키지 세계에 나타났는지 한곳에서 못 본다"
     }
   ],
   "loot": [
     {
-      "id": "2d553405ff24e1a8",
-      "title": "amiga-re-kit 1.0.62",
-      "link": "https://pypi.org/project/amiga-re-kit/1.0.62/",
-      "published": "Thu, 12 Nov 2026 01:52:04 GMT",
-      "collected_at": "2026-11-12T02:05:31.515381+00:00"
+      "id": "47470bedbcc04616",
+      "title": "cscec-gwdoc-mcp 0.2.6",
+      "link": "https://pypi.org/project/cscec-gwdoc-mcp/0.2.6/",
+      "published": "Fri, 13 Nov 2026 01:26:12 GMT",
+      "collected_at": "2026-11-13T01:37:43.537712+00:00"
     },
     {
-      "id": "d319bbafd3c54b58",
-      "title": "polyglot-ai 0.18.21",
-      "link": "https://pypi.org/project/polyglot-ai/0.18.21/",
-      "published": "Thu, 12 Nov 2026 01:52:44 GMT",
-      "collected_at": "2026-11-12T02:05:31.515378+00:00"
+      "id": "c05d59a757ff14a9",
+      "title": "o41-metrics-collector 0.3.3",
+      "link": "https://pypi.org/project/o41-metrics-collector/0.3.3/",
+      "published": "Fri, 13 Nov 2026 01:26:13 GMT",
+      "collected_at": "2026-11-13T01:37:43.537709+00:00"
     },
     {
-      "id": "8ae8e7b59dcfd24a",
-      "title": "githost 2026.11.11.0",
-      "link": "https://pypi.org/project/githost/2026.11.11.0/",
-      "published": "Thu, 12 Nov 2026 01:53:29 GMT",
-      "collected_at": "2026-11-12T02:05:31.515375+00:00"
+      "id": "e80a2bb3d3c47ff4",
+      "title": "o41-checkpoint 0.1.6",
+      "link": "https://pypi.org/project/o41-checkpoint/0.1.6/",
+      "published": "Fri, 13 Nov 2026 01:26:14 GMT",
+      "collected_at": "2026-11-13T01:37:43.537706+00:00"
     },
     {
-      "id": "5b1e5caa3049135e",
-      "title": "contextbase-client 1.0.0",
-      "link": "https://pypi.org/project/contextbase-client/1.0.0/",
-      "published": "Thu, 12 Nov 2026 01:53:34 GMT",
-      "collected_at": "2026-11-12T02:05:31.515371+00:00"
+      "id": "ac01806cc3d188ce",
+      "title": "cartapy 2.1.6",
+      "link": "https://pypi.org/project/cartapy/2.1.6/",
+      "published": "Fri, 13 Nov 2026 01:26:14 GMT",
+      "collected_at": "2026-11-13T01:37:43.537702+00:00"
     },
     {
-      "id": "ec9ff226e5f75856",
-      "title": "cgcnn2 1.0.0",
-      "link": "https://pypi.org/project/cgcnn2/1.0.0/",
-      "published": "Thu, 12 Nov 2026 01:53:47 GMT",
-      "collected_at": "2026-11-12T02:05:31.515368+00:00"
+      "id": "dd160b92bf7f8bca",
+      "title": "amiga-re-kit 1.0.70",
+      "link": "https://pypi.org/project/amiga-re-kit/1.0.70/",
+      "published": "Fri, 13 Nov 2026 01:26:16 GMT",
+      "collected_at": "2026-11-13T01:37:43.537699+00:00"
     },
     {
-      "id": "831199b1bb5a0a8e",
-      "title": "agents-inc 0.6.3",
-      "link": "https://pypi.org/project/agents-inc/0.6.3/",
-      "published": "Thu, 12 Nov 2026 01:53:49 GMT",
-      "collected_at": "2026-11-12T02:05:31.515365+00:00"
+      "id": "42350006d1974c8e",
+      "title": "uh-harness 1.1.0",
+      "link": "https://pypi.org/project/uh-harness/1.1.0/",
+      "published": "Fri, 13 Nov 2026 01:26:18 GMT",
+      "collected_at": "2026-11-13T01:37:43.537695+00:00"
     },
     {
-      "id": "029d9baef5f4ce84",
-      "title": "eloine 0.6.50",
-      "link": "https://pypi.org/project/eloine/0.6.50/",
-      "published": "Thu, 12 Nov 2026 01:54:18 GMT",
-      "collected_at": "2026-11-12T02:05:31.515362+00:00"
+      "id": "fb1e0c6bd9ae2563",
+      "title": "ferroguard 0.3.7",
+      "link": "https://pypi.org/project/ferroguard/0.3.7/",
+      "published": "Fri, 13 Nov 2026 01:26:22 GMT",
+      "collected_at": "2026-11-13T01:37:43.537692+00:00"
     },
     {
-      "id": "ef326dce84262359",
-      "title": "domani 0.6.0",
-      "link": "https://pypi.org/project/domani/0.6.0/",
-      "published": "Thu, 12 Nov 2026 01:54:30 GMT",
-      "collected_at": "2026-11-12T02:05:31.515359+00:00"
+      "id": "4b41106816ea0036",
+      "title": "o41-metrics-duckdb 0.5.3",
+      "link": "https://pypi.org/project/o41-metrics-duckdb/0.5.3/",
+      "published": "Fri, 13 Nov 2026 01:26:22 GMT",
+      "collected_at": "2026-11-13T01:37:43.537688+00:00"
     },
     {
-      "id": "eae0ae9f2bbc243a",
-      "title": "ag_ui_strands 1.0.4",
-      "link": "https://pypi.org/project/ag-ui-strands/1.0.4/",
-      "published": "Thu, 12 Nov 2026 01:54:38 GMT",
-      "collected_at": "2026-11-12T02:05:31.515356+00:00"
+      "id": "d0a738d5a2734177",
+      "title": "zinn-sdk 0.1.1748",
+      "link": "https://pypi.org/project/zinn-sdk/0.1.1748/",
+      "published": "Fri, 13 Nov 2026 01:26:49 GMT",
+      "collected_at": "2026-11-13T01:37:43.537685+00:00"
     },
     {
-      "id": "86215c71dd6cdc1d",
-      "title": "ag-ui-claude-sdk 0.2.4",
-      "link": "https://pypi.org/project/ag-ui-claude-sdk/0.2.4/",
-      "published": "Thu, 12 Nov 2026 01:54:42 GMT",
-      "collected_at": "2026-11-12T02:05:31.515353+00:00"
+      "id": "b8b05be8849b3aa6",
+      "title": "pigeon-home-runner 3.16.24.15",
+      "link": "https://pypi.org/project/pigeon-home-runner/3.16.24.15/",
+      "published": "Fri, 13 Nov 2026 01:27:02 GMT",
+      "collected_at": "2026-11-13T01:37:43.537682+00:00"
     },
     {
-      "id": "87edc4a8d31e23af",
-      "title": "cdktn-provider-newrelic 17.0.2",
-      "link": "https://pypi.org/project/cdktn-provider-newrelic/17.0.2/",
-      "published": "Thu, 12 Nov 2026 01:54:47 GMT",
-      "collected_at": "2026-11-12T02:05:31.515349+00:00"
+      "id": "a287763e86c0dae8",
+      "title": "tatolab-stream 0.68.84",
+      "link": "https://pypi.org/project/tatolab-stream/0.68.84/",
+      "published": "Fri, 13 Nov 2026 01:27:14 GMT",
+      "collected_at": "2026-11-13T01:37:43.537678+00:00"
     },
     {
-      "id": "228f0c701c23521a",
-      "title": "xgdb-connect-native 0.0.1",
-      "link": "https://pypi.org/project/xgdb-connect-native/0.0.1/",
-      "published": "Thu, 12 Nov 2026 01:54:51 GMT",
-      "collected_at": "2026-11-12T02:05:31.515346+00:00"
+      "id": "33d2c9a62edbe5be",
+      "title": "types-boto3-autoscaling 1.44.2",
+      "link": "https://pypi.org/project/types-boto3-autoscaling/1.44.2/",
+      "published": "Fri, 13 Nov 2026 01:27:33 GMT",
+      "collected_at": "2026-11-13T01:37:43.537675+00:00"
     }
   ]
 }
