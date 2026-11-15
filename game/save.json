@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-14T01:11:38.897679+00:00",
+  "updated_at": "2026-11-15T00:37:29.784479+00:00",
   "hero": "kgi8914z",
   "guild": "Overnight Foundry",
   "level": 14,
   "title": "제국 회계관",
-  "xp": 14318,
-  "xp_into_level": 668,
+  "xp": 14538,
+  "xp_into_level": 888,
   "xp_for_level": 2100,
   "xp_parts": {
     "unique_users": 40,
     "repeat_users": 0,
     "active_users_1d": 80,
     "api_calls": 0,
-    "dataset_records": 12958,
+    "dataset_records": 13158,
     "paying_users": 0,
     "self_uses_weekly": 60,
     "backlinks": 0,
     "stars": 0,
-    "nights": 1180
+    "nights": 1200
   },
   "row_gain": 100,
-  "nights": 59,
+  "nights": 60,
   "active_assets": 2,
   "inventory": [
     {
@@ -38,94 +38,94 @@
       "lane": "watch",
       "status": "incubator",
       "rarity": "희귀",
-      "stack": 6479,
+      "stack": 6579,
       "notes": "오늘 무엇이 패키지 세계에 나타났는지 한곳에서 못 본다"
     }
   ],
   "loot": [
     {
-      "id": "2e59b8af058d6d32",
-      "title": "proxmox-mcp-plus 0.7.0",
-      "link": "https://pypi.org/project/proxmox-mcp-plus/0.7.0/",
-      "published": "Sat, 14 Nov 2026 00:46:39 GMT",
-      "collected_at": "2026-11-14T01:11:37.879671+00:00"
+      "id": "7cf3384884e0bce3",
+      "title": "osprey-framework 2026.11.0",
+      "link": "https://pypi.org/project/osprey-framework/2026.11.0/",
+      "published": "Sun, 15 Nov 2026 00:08:55 GMT",
+      "collected_at": "2026-11-15T00:37:28.770709+00:00"
     },
     {
-      "id": "847f3b1d6f6639d2",
-      "title": "tokensafe 3.0.1",
-      "link": "https://pypi.org/project/tokensafe/3.0.1/",
-      "published": "Sat, 14 Nov 2026 00:46:45 GMT",
-      "collected_at": "2026-11-14T01:11:37.879668+00:00"
+      "id": "576f0f991d0d499e",
+      "title": "boomslang-lm 0.0.1",
+      "link": "https://pypi.org/project/boomslang-lm/0.0.1/",
+      "published": "Sun, 15 Nov 2026 00:08:58 GMT",
+      "collected_at": "2026-11-15T00:37:28.770704+00:00"
     },
     {
-      "id": "411e426f8c8030a1",
-      "title": "fxbx 0.8.11",
-      "link": "https://pypi.org/project/fxbx/0.8.11/",
-      "published": "Sat, 14 Nov 2026 00:47:12 GMT",
-      "collected_at": "2026-11-14T01:11:37.879665+00:00"
+      "id": "cf0667179097f896",
+      "title": "agentenv-framework 0.9.1535",
+      "link": "https://pypi.org/project/agentenv-framework/0.9.1535/",
+      "published": "Sun, 15 Nov 2026 00:09:16 GMT",
+      "collected_at": "2026-11-15T00:37:28.770699+00:00"
     },
     {
-      "id": "8aa32da98c39a0b0",
-      "title": "simplint 0.12.3",
-      "link": "https://pypi.org/project/simplint/0.12.3/",
-      "published": "Sat, 14 Nov 2026 00:47:21 GMT",
-      "collected_at": "2026-11-14T01:11:37.879662+00:00"
+      "id": "4bff9e96e01e9e04",
+      "title": "prusik 0.241.0",
+      "link": "https://pypi.org/project/prusik/0.241.0/",
+      "published": "Sun, 15 Nov 2026 00:09:45 GMT",
+      "collected_at": "2026-11-15T00:37:28.770693+00:00"
     },
     {
-      "id": "894a5fd56e7f76ea",
-      "title": "frist 0.23.0",
-      "link": "https://pypi.org/project/frist/0.23.0/",
-      "published": "Sat, 14 Nov 2026 00:47:33 GMT",
-      "collected_at": "2026-11-14T01:11:37.879660+00:00"
+      "id": "ae2867f04e3207cb",
+      "title": "dinkster-inference 0.1.3.dev6192",
+      "link": "https://pypi.org/project/dinkster-inference/0.1.3.dev6192/",
+      "published": "Sun, 15 Nov 2026 00:10:01 GMT",
+      "collected_at": "2026-11-15T00:37:28.770688+00:00"
     },
     {
-      "id": "9093f30fe5af3f55",
-      "title": "trade-learn 0.3.5",
-      "link": "https://pypi.org/project/trade-learn/0.3.5/",
-      "published": "Sat, 14 Nov 2026 00:47:34 GMT",
-      "collected_at": "2026-11-14T01:11:37.879657+00:00"
+      "id": "7009a9c36db911ab",
+      "title": "tokenspeed-engine 0.1.0.post20261115",
+      "link": "https://pypi.org/project/tokenspeed-engine/0.1.0.post20261115/",
+      "published": "Sun, 15 Nov 2026 00:10:09 GMT",
+      "collected_at": "2026-11-15T00:37:28.770683+00:00"
     },
     {
-      "id": "178fde91c8729eac",
-      "title": "ry 0.0.109",
-      "link": "https://pypi.org/project/ry/0.0.109/",
-      "published": "Sat, 14 Nov 2026 00:48:33 GMT",
-      "collected_at": "2026-11-14T01:11:37.879654+00:00"
+      "id": "369268913d72952e",
+      "title": "build123d-techdraw 0.6.1",
+      "link": "https://pypi.org/project/build123d-techdraw/0.6.1/",
+      "published": "Sun, 15 Nov 2026 00:10:21 GMT",
+      "collected_at": "2026-11-15T00:37:28.770677+00:00"
     },
     {
-      "id": "019bc8ba7ff4b260",
-      "title": "cybrid-api-id-python 0.129.1607",
-      "link": "https://pypi.org/project/cybrid-api-id-python/0.129.1607/",
-      "published": "Sat, 14 Nov 2026 00:48:36 GMT",
-      "collected_at": "2026-11-14T01:11:37.879651+00:00"
+      "id": "c77e82df3a81770a",
+      "title": "cloudlanguagetools 18.0.0",
+      "link": "https://pypi.org/project/cloudlanguagetools/18.0.0/",
+      "published": "Sun, 15 Nov 2026 00:10:40 GMT",
+      "collected_at": "2026-11-15T00:37:28.770671+00:00"
     },
     {
-      "id": "3d207736fa6e769b",
-      "title": "cybrid-api-organization-python 0.129.1607",
-      "link": "https://pypi.org/project/cybrid-api-organization-python/0.129.1607/",
-      "published": "Sat, 14 Nov 2026 00:48:52 GMT",
-      "collected_at": "2026-11-14T01:11:37.879648+00:00"
+      "id": "ad711fc2027dc5aa",
+      "title": "gillie 0.2.3",
+      "link": "https://pypi.org/project/gillie/0.2.3/",
+      "published": "Sun, 15 Nov 2026 00:10:46 GMT",
+      "collected_at": "2026-11-15T00:37:28.770666+00:00"
     },
     {
-      "id": "cd657e26c73deb69",
-      "title": "cybrid-api-bank-python 0.129.1607",
-      "link": "https://pypi.org/project/cybrid-api-bank-python/0.129.1607/",
-      "published": "Sat, 14 Nov 2026 00:49:31 GMT",
-      "collected_at": "2026-11-14T01:11:37.879645+00:00"
+      "id": "762d8f5ff16c57fe",
+      "title": "runspec-console 0.446.0",
+      "link": "https://pypi.org/project/runspec-console/0.446.0/",
+      "published": "Sun, 15 Nov 2026 00:10:47 GMT",
+      "collected_at": "2026-11-15T00:37:28.770660+00:00"
     },
     {
-      "id": "0fc002fa3784812c",
-      "title": "caeli-data 0.12.0",
-      "link": "https://pypi.org/project/caeli-data/0.12.0/",
-      "published": "Sat, 14 Nov 2026 00:49:49 GMT",
-      "collected_at": "2026-11-14T01:11:37.879642+00:00"
+      "id": "d1742c2f46d019a2",
+      "title": "drafter 2.2.2",
+      "link": "https://pypi.org/project/drafter/2.2.2/",
+      "published": "Sun, 15 Nov 2026 00:10:48 GMT",
+      "collected_at": "2026-11-15T00:37:28.770654+00:00"
     },
     {
-      "id": "df5c874c8b62f9c8",
-      "title": "autoware-carla-scenario 27.0.14",
-      "link": "https://pypi.org/project/autoware-carla-scenario/27.0.14/",
-      "published": "Sat, 14 Nov 2026 00:50:04 GMT",
-      "collected_at": "2026-11-14T01:11:37.879639+00:00"
+      "id": "8a4530780c3f2da1",
+      "title": "logics-manager 2.24.7",
+      "link": "https://pypi.org/project/logics-manager/2.24.7/",
+      "published": "Sun, 15 Nov 2026 00:11:21 GMT",
+      "collected_at": "2026-11-15T00:37:28.770649+00:00"
     }
   ]
 }
