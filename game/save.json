@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-16T00:38:07.586038+00:00",
+  "updated_at": "2026-11-17T03:21:05.479125+00:00",
   "hero": "kgi8914z",
   "guild": "Overnight Foundry",
   "level": 14,
   "title": "제국 회계관",
-  "xp": 14758,
-  "xp_into_level": 1108,
+  "xp": 14978,
+  "xp_into_level": 1328,
   "xp_for_level": 2100,
   "xp_parts": {
     "unique_users": 40,
     "repeat_users": 0,
     "active_users_1d": 80,
     "api_calls": 0,
-    "dataset_records": 13358,
+    "dataset_records": 13558,
     "paying_users": 0,
     "self_uses_weekly": 60,
     "backlinks": 0,
     "stars": 0,
-    "nights": 1220
+    "nights": 1240
   },
   "row_gain": 100,
-  "nights": 61,
+  "nights": 62,
   "active_assets": 2,
   "inventory": [
     {
@@ -38,94 +38,94 @@
       "lane": "watch",
       "status": "incubator",
       "rarity": "희귀",
-      "stack": 6679,
+      "stack": 6779,
       "notes": "오늘 무엇이 패키지 세계에 나타났는지 한곳에서 못 본다"
     }
   ],
   "loot": [
     {
-      "id": "ed959003b6bc6c23",
-      "title": "aws_sdk_transcribe 0.0.0",
-      "link": "https://pypi.org/project/aws-sdk-transcribe/0.0.0/",
-      "published": "Mon, 16 Nov 2026 00:17:46 GMT",
-      "collected_at": "2026-11-16T00:38:06.863782+00:00"
+      "id": "1e2a55f6774d640f",
+      "title": "aaw-core 0.1.19",
+      "link": "https://pypi.org/project/aaw-core/0.1.19/",
+      "published": "Tue, 17 Nov 2026 03:07:48 GMT",
+      "collected_at": "2026-11-17T03:21:04.593568+00:00"
     },
     {
-      "id": "93f2ec8bac071bd7",
-      "title": "dex-connector-hiver 0.2.0",
-      "link": "https://pypi.org/project/dex-connector-hiver/0.2.0/",
-      "published": "Mon, 16 Nov 2026 00:17:49 GMT",
-      "collected_at": "2026-11-16T00:38:06.863781+00:00"
+      "id": "c7b37d461222db65",
+      "title": "Geode-Explicit 8.5.0",
+      "link": "https://pypi.org/project/geode-explicit/8.5.0/",
+      "published": "Tue, 17 Nov 2026 03:07:52 GMT",
+      "collected_at": "2026-11-17T03:21:04.593565+00:00"
     },
     {
-      "id": "c99f453d56cabbcc",
-      "title": "aws_sdk_organizations 0.0.0",
-      "link": "https://pypi.org/project/aws-sdk-organizations/0.0.0/",
-      "published": "Mon, 16 Nov 2026 00:18:08 GMT",
-      "collected_at": "2026-11-16T00:38:06.863779+00:00"
+      "id": "b8f2bd77e73bcb73",
+      "title": "jetstream-api 0.31.3",
+      "link": "https://pypi.org/project/jetstream-api/0.31.3/",
+      "published": "Tue, 17 Nov 2026 03:07:53 GMT",
+      "collected_at": "2026-11-17T03:21:04.593562+00:00"
     },
     {
-      "id": "472826c95940f6b1",
-      "title": "open-net-worth 0.1.55",
-      "link": "https://pypi.org/project/open-net-worth/0.1.55/",
-      "published": "Mon, 16 Nov 2026 00:18:38 GMT",
-      "collected_at": "2026-11-16T00:38:06.863778+00:00"
+      "id": "2b380a2cac2f772b",
+      "title": "langflow-base 1.14.0.dev30",
+      "link": "https://pypi.org/project/langflow-base/1.14.0.dev30/",
+      "published": "Tue, 17 Nov 2026 03:07:58 GMT",
+      "collected_at": "2026-11-17T03:21:04.593559+00:00"
     },
     {
-      "id": "9c79a38308571144",
-      "title": "spatial-computing 0.15.0",
-      "link": "https://pypi.org/project/spatial-computing/0.15.0/",
-      "published": "Mon, 16 Nov 2026 00:18:42 GMT",
-      "collected_at": "2026-11-16T00:38:06.863776+00:00"
+      "id": "a0f9e3e97185c3ff",
+      "title": "standardbots 2.20261027.31",
+      "link": "https://pypi.org/project/standardbots/2.20261027.31/",
+      "published": "Tue, 17 Nov 2026 03:08:00 GMT",
+      "collected_at": "2026-11-17T03:21:04.593556+00:00"
     },
     {
-      "id": "5528d56abe445e4d",
-      "title": "infrawrench-sdk 1.111.0",
-      "link": "https://pypi.org/project/infrawrench-sdk/1.111.0/",
-      "published": "Mon, 16 Nov 2026 00:18:53 GMT",
-      "collected_at": "2026-11-16T00:38:06.863774+00:00"
+      "id": "dd9397f3e8ce33f2",
+      "title": "pyaprilaire 0.10.0",
+      "link": "https://pypi.org/project/pyaprilaire/0.10.0/",
+      "published": "Tue, 17 Nov 2026 03:08:05 GMT",
+      "collected_at": "2026-11-17T03:21:04.593553+00:00"
     },
     {
-      "id": "b97adc143604fefd",
-      "title": "tesserae-utils 0.2.2",
-      "link": "https://pypi.org/project/tesserae-utils/0.2.2/",
-      "published": "Mon, 16 Nov 2026 00:19:02 GMT",
-      "collected_at": "2026-11-16T00:38:06.863773+00:00"
+      "id": "5c853e72447ac6da",
+      "title": "judgekeeper-mcp 0.0.1",
+      "link": "https://pypi.org/project/judgekeeper-mcp/0.0.1/",
+      "published": "Tue, 17 Nov 2026 03:08:26 GMT",
+      "collected_at": "2026-11-17T03:21:04.593550+00:00"
     },
     {
-      "id": "9cde6dcf6da06a90",
-      "title": "ubic-governance-mcp 1.0.1",
-      "link": "https://pypi.org/project/ubic-governance-mcp/1.0.1/",
-      "published": "Mon, 16 Nov 2026 00:19:42 GMT",
-      "collected_at": "2026-11-16T00:38:06.863771+00:00"
+      "id": "c5b0ec3a284cb7eb",
+      "title": "zillion-agent 0.3.12",
+      "link": "https://pypi.org/project/zillion-agent/0.3.12/",
+      "published": "Tue, 17 Nov 2026 03:08:28 GMT",
+      "collected_at": "2026-11-17T03:21:04.593547+00:00"
     },
     {
-      "id": "6a9669df9277eacb",
-      "title": "elaraai-east-py 1.0.108",
-      "link": "https://pypi.org/project/elaraai-east-py/1.0.108/",
-      "published": "Mon, 16 Nov 2026 00:20:33 GMT",
-      "collected_at": "2026-11-16T00:38:06.863769+00:00"
+      "id": "53104af046c9c586",
+      "title": "fin-primitives 3.6.0",
+      "link": "https://pypi.org/project/fin-primitives/3.6.0/",
+      "published": "Tue, 17 Nov 2026 03:08:37 GMT",
+      "collected_at": "2026-11-17T03:21:04.593544+00:00"
     },
     {
-      "id": "7d8ad223eb81bdaf",
-      "title": "pyEDM 2.5.8",
-      "link": "https://pypi.org/project/pyedm/2.5.8/",
-      "published": "Mon, 16 Nov 2026 00:20:43 GMT",
-      "collected_at": "2026-11-16T00:38:06.863768+00:00"
+      "id": "7e7282b9c2aa807f",
+      "title": "smartoken-mcp 0.1.0",
+      "link": "https://pypi.org/project/smartoken-mcp/0.1.0/",
+      "published": "Tue, 17 Nov 2026 03:08:38 GMT",
+      "collected_at": "2026-11-17T03:21:04.593541+00:00"
     },
     {
-      "id": "81e40717f5c47bd2",
-      "title": "raster-mosaic 0.3.3",
-      "link": "https://pypi.org/project/raster-mosaic/0.3.3/",
-      "published": "Mon, 16 Nov 2026 00:20:48 GMT",
-      "collected_at": "2026-11-16T00:38:06.863766+00:00"
+      "id": "96181f1301aaab55",
+      "title": "unifi-protect-mcp 0.13.2",
+      "link": "https://pypi.org/project/unifi-protect-mcp/0.13.2/",
+      "published": "Tue, 17 Nov 2026 03:08:51 GMT",
+      "collected_at": "2026-11-17T03:21:04.593538+00:00"
     },
     {
-      "id": "eee90c44b9b9dc59",
-      "title": "elaraai-east-py-cli 1.0.108",
-      "link": "https://pypi.org/project/elaraai-east-py-cli/1.0.108/",
-      "published": "Mon, 16 Nov 2026 00:20:54 GMT",
-      "collected_at": "2026-11-16T00:38:06.863764+00:00"
+      "id": "beb8f08a341ad265",
+      "title": "langflow 1.14.0.dev30",
+      "link": "https://pypi.org/project/langflow/1.14.0.dev30/",
+      "published": "Tue, 17 Nov 2026 03:08:58 GMT",
+      "collected_at": "2026-11-17T03:21:04.593535+00:00"
     }
   ]
 }
