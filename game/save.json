@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-18T02:41:19.543449+00:00",
+  "updated_at": "2026-11-19T02:11:46.409901+00:00",
   "hero": "kgi8914z",
   "guild": "Overnight Foundry",
   "level": 14,
   "title": "제국 회계관",
-  "xp": 15198,
-  "xp_into_level": 1548,
+  "xp": 15418,
+  "xp_into_level": 1768,
   "xp_for_level": 2100,
   "xp_parts": {
     "unique_users": 40,
     "repeat_users": 0,
     "active_users_1d": 80,
     "api_calls": 0,
-    "dataset_records": 13758,
+    "dataset_records": 13958,
     "paying_users": 0,
     "self_uses_weekly": 60,
     "backlinks": 0,
     "stars": 0,
-    "nights": 1260
+    "nights": 1280
   },
   "row_gain": 100,
-  "nights": 63,
+  "nights": 64,
   "active_assets": 2,
   "inventory": [
     {
@@ -38,94 +38,94 @@
       "lane": "watch",
       "status": "incubator",
       "rarity": "희귀",
-      "stack": 6879,
+      "stack": 6979,
       "notes": "오늘 무엇이 패키지 세계에 나타났는지 한곳에서 못 본다"
     }
   ],
   "loot": [
     {
-      "id": "8c73b68fd4841fb3",
-      "title": "types-boto3-connect-contact-lens 1.44.5",
-      "link": "https://pypi.org/project/types-boto3-connect-contact-lens/1.44.5/",
-      "published": "Wed, 18 Nov 2026 02:27:25 GMT",
-      "collected_at": "2026-11-18T02:41:16.740560+00:00"
+      "id": "612b0ac083f05f1a",
+      "title": "surestop 0.3.0",
+      "link": "https://pypi.org/project/surestop/0.3.0/",
+      "published": "Thu, 19 Nov 2026 01:17:36 GMT",
+      "collected_at": "2026-11-19T02:11:45.352547+00:00"
     },
     {
-      "id": "59751dd739c1786c",
-      "title": "types-boto3-connectcases 1.44.5",
-      "link": "https://pypi.org/project/types-boto3-connectcases/1.44.5/",
-      "published": "Wed, 18 Nov 2026 02:27:28 GMT",
-      "collected_at": "2026-11-18T02:41:16.740558+00:00"
+      "id": "95f258dcc2d0b7ae",
+      "title": "oep-client-python 0.0.59",
+      "link": "https://pypi.org/project/oep-client-python/0.0.59/",
+      "published": "Thu, 19 Nov 2026 01:17:51 GMT",
+      "collected_at": "2026-11-19T02:11:45.352544+00:00"
     },
     {
-      "id": "c16b14e1173a833c",
-      "title": "types-boto3-controltower 1.44.5",
-      "link": "https://pypi.org/project/types-boto3-controltower/1.44.5/",
-      "published": "Wed, 18 Nov 2026 02:27:28 GMT",
-      "collected_at": "2026-11-18T02:41:16.740555+00:00"
+      "id": "6f1624b8d3022452",
+      "title": "cruxible-provider-runtime 0.5.0",
+      "link": "https://pypi.org/project/cruxible-provider-runtime/0.5.0/",
+      "published": "Thu, 19 Nov 2026 01:17:54 GMT",
+      "collected_at": "2026-11-19T02:11:45.352541+00:00"
     },
     {
-      "id": "dbc96de8bda03e58",
-      "title": "types-boto3-devops-agent 1.44.5",
-      "link": "https://pypi.org/project/types-boto3-devops-agent/1.44.5/",
-      "published": "Wed, 18 Nov 2026 02:27:30 GMT",
-      "collected_at": "2026-11-18T02:41:16.740552+00:00"
+      "id": "dd9c98eabb2b6055",
+      "title": "ai 0.10.1",
+      "link": "https://pypi.org/project/ai/0.10.1/",
+      "published": "Thu, 19 Nov 2026 01:18:38 GMT",
+      "collected_at": "2026-11-19T02:11:45.352538+00:00"
     },
     {
-      "id": "1e8c95adde7d23dc",
-      "title": "types-boto3-ec2 1.44.5",
-      "link": "https://pypi.org/project/types-boto3-ec2/1.44.5/",
-      "published": "Wed, 18 Nov 2026 02:27:31 GMT",
-      "collected_at": "2026-11-18T02:41:16.740549+00:00"
+      "id": "f607fbd06928df13",
+      "title": "iphone-mcp 0.2.0",
+      "link": "https://pypi.org/project/iphone-mcp/0.2.0/",
+      "published": "Thu, 19 Nov 2026 01:19:04 GMT",
+      "collected_at": "2026-11-19T02:11:45.352535+00:00"
     },
     {
-      "id": "14695b2ddc473697",
-      "title": "types-boto3-ecr 1.44.5",
-      "link": "https://pypi.org/project/types-boto3-ecr/1.44.5/",
-      "published": "Wed, 18 Nov 2026 02:27:34 GMT",
-      "collected_at": "2026-11-18T02:41:16.740546+00:00"
+      "id": "70ddf738f88a7b66",
+      "title": "exact-tests 0.11.0",
+      "link": "https://pypi.org/project/exact-tests/0.11.0/",
+      "published": "Thu, 19 Nov 2026 01:19:42 GMT",
+      "collected_at": "2026-11-19T02:11:45.352532+00:00"
     },
     {
-      "id": "c09861769f32df96",
-      "title": "vivarium-dagger 0.1.1",
-      "link": "https://pypi.org/project/vivarium-dagger/0.1.1/",
-      "published": "Wed, 18 Nov 2026 02:27:35 GMT",
-      "collected_at": "2026-11-18T02:41:16.740544+00:00"
+      "id": "35b530a0d590076e",
+      "title": "aidd-cli 0.5.1",
+      "link": "https://pypi.org/project/aidd-cli/0.5.1/",
+      "published": "Thu, 19 Nov 2026 01:19:49 GMT",
+      "collected_at": "2026-11-19T02:11:45.352529+00:00"
     },
     {
-      "id": "4a6c3b8c4d662983",
-      "title": "types-boto3-elementalinference 1.44.5",
-      "link": "https://pypi.org/project/types-boto3-elementalinference/1.44.5/",
-      "published": "Wed, 18 Nov 2026 02:27:36 GMT",
-      "collected_at": "2026-11-18T02:41:16.740541+00:00"
+      "id": "17c9f93c7055bc4e",
+      "title": "mufem 0.8.34b0",
+      "link": "https://pypi.org/project/mufem/0.8.34b0/",
+      "published": "Thu, 19 Nov 2026 01:19:53 GMT",
+      "collected_at": "2026-11-19T02:11:45.352526+00:00"
     },
     {
-      "id": "66f893561b054150",
-      "title": "types-boto3-elasticache 1.44.5",
-      "link": "https://pypi.org/project/types-boto3-elasticache/1.44.5/",
-      "published": "Wed, 18 Nov 2026 02:27:39 GMT",
-      "collected_at": "2026-11-18T02:41:16.740539+00:00"
+      "id": "2fc01855ab8892aa",
+      "title": "cruxible-provider-web 0.7.0",
+      "link": "https://pypi.org/project/cruxible-provider-web/0.7.0/",
+      "published": "Thu, 19 Nov 2026 01:19:54 GMT",
+      "collected_at": "2026-11-19T02:11:45.352523+00:00"
     },
     {
-      "id": "60031ac2a2f2d43a",
-      "title": "types-boto3-inspector2 1.44.5",
-      "link": "https://pypi.org/project/types-boto3-inspector2/1.44.5/",
-      "published": "Wed, 18 Nov 2026 02:27:39 GMT",
-      "collected_at": "2026-11-18T02:41:16.740536+00:00"
+      "id": "ef7a69569515ba51",
+      "title": "gauge-sc 0.1.0a2",
+      "link": "https://pypi.org/project/gauge-sc/0.1.0a2/",
+      "published": "Thu, 19 Nov 2026 01:19:57 GMT",
+      "collected_at": "2026-11-19T02:11:45.352521+00:00"
     },
     {
-      "id": "96df6c980d214610",
-      "title": "types-boto3-kinesis 1.44.5",
-      "link": "https://pypi.org/project/types-boto3-kinesis/1.44.5/",
-      "published": "Wed, 18 Nov 2026 02:27:41 GMT",
-      "collected_at": "2026-11-18T02:41:16.740534+00:00"
+      "id": "00f186e7dcc0f898",
+      "title": "url-normalize 4.0.0",
+      "link": "https://pypi.org/project/url-normalize/4.0.0/",
+      "published": "Thu, 19 Nov 2026 01:19:59 GMT",
+      "collected_at": "2026-11-19T02:11:45.352518+00:00"
     },
     {
-      "id": "ab799c95498c3120",
-      "title": "types-boto3-lambda 1.44.5",
-      "link": "https://pypi.org/project/types-boto3-lambda/1.44.5/",
-      "published": "Wed, 18 Nov 2026 02:27:42 GMT",
-      "collected_at": "2026-11-18T02:41:16.740531+00:00"
+      "id": "2afb2eac70ff6068",
+      "title": "m5stack-stubs 2.5.5",
+      "link": "https://pypi.org/project/m5stack-stubs/2.5.5/",
+      "published": "Thu, 19 Nov 2026 01:20:19 GMT",
+      "collected_at": "2026-11-19T02:11:45.352515+00:00"
     }
   ]
 }
