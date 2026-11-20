@@ -1,10 +1,10 @@
-# OVERNIGHT REPORT 2026-11-19
+# OVERNIGHT REPORT 2026-11-20
 
-제국 회계관 Lv 14 · XP 15418 · 다음 레벨까지 332
+제국 회계관 Lv 14 · XP 15638 · 다음 레벨까지 112
 
 ## Completed
 - foundry: lifecycle=incubator records=0
-- watch-pypi-updates: lifecycle=incubator records=6979
+- watch-pypi-updates: lifecycle=incubator records=7079
 
 ## Waiting for approval
 - Merge PR #4: feat: guild hall dashboard and delta XP — https://github.com/kgi8914z/overnight-foundry/pull/4
@@ -14,10 +14,10 @@
 - Slots incubator/growing/maintenance: {'incubator': 1, 'growing': 0, 'maintenance': 0}
 - Unique users: 1
 - Repeat users: 0
-- Dataset records: 6979 (+100)
+- Dataset records: 7079 (+100)
 - Stars (vanity): 0
 - MRR: $0
-- XP: 15418
+- XP: 15638
 - Level: 14
 
 ## Scout seeds
