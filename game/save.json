@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-20T01:58:42.123932+00:00",
+  "updated_at": "2026-11-21T01:55:37.275157+00:00",
   "hero": "kgi8914z",
   "guild": "Overnight Foundry",
-  "level": 14,
+  "level": 15,
   "title": "제국 회계관",
-  "xp": 15638,
-  "xp_into_level": 1988,
-  "xp_for_level": 2100,
+  "xp": 15858,
+  "xp_into_level": 108,
+  "xp_for_level": 2250,
   "xp_parts": {
     "unique_users": 40,
     "repeat_users": 0,
     "active_users_1d": 80,
     "api_calls": 0,
-    "dataset_records": 14158,
+    "dataset_records": 14358,
     "paying_users": 0,
     "self_uses_weekly": 60,
     "backlinks": 0,
     "stars": 0,
-    "nights": 1300
+    "nights": 1320
   },
   "row_gain": 100,
-  "nights": 65,
+  "nights": 66,
   "active_assets": 2,
   "inventory": [
     {
@@ -38,94 +38,94 @@
       "lane": "watch",
       "status": "incubator",
       "rarity": "희귀",
-      "stack": 7079,
+      "stack": 7179,
       "notes": "오늘 무엇이 패키지 세계에 나타났는지 한곳에서 못 본다"
     }
   ],
   "loot": [
     {
-      "id": "fda392fcae564d93",
-      "title": "imbi-gateway 2.58.0",
-      "link": "https://pypi.org/project/imbi-gateway/2.58.0/",
-      "published": "Fri, 20 Nov 2026 01:43:20 GMT",
-      "collected_at": "2026-11-20T01:58:41.233662+00:00"
+      "id": "85d6f08149c7abad",
+      "title": "whosaid 1.48.2",
+      "link": "https://pypi.org/project/whosaid/1.48.2/",
+      "published": "Sat, 21 Nov 2026 01:37:02 GMT",
+      "collected_at": "2026-11-21T01:55:34.456023+00:00"
     },
     {
-      "id": "3e974f7680e39bda",
-      "title": "imbi-mcp 2.58.0",
-      "link": "https://pypi.org/project/imbi-mcp/2.58.0/",
-      "published": "Fri, 20 Nov 2026 01:43:22 GMT",
-      "collected_at": "2026-11-20T01:58:41.233660+00:00"
+      "id": "617100647ee126c7",
+      "title": "pyharbinger 0.3.0",
+      "link": "https://pypi.org/project/pyharbinger/0.3.0/",
+      "published": "Sat, 21 Nov 2026 01:37:39 GMT",
+      "collected_at": "2026-11-21T01:55:34.456019+00:00"
     },
     {
-      "id": "7cb6acff4a869674",
-      "title": "nova-forge 0.4.9",
-      "link": "https://pypi.org/project/nova-forge/0.4.9/",
-      "published": "Fri, 20 Nov 2026 01:43:22 GMT",
-      "collected_at": "2026-11-20T01:58:41.233659+00:00"
+      "id": "7871c1aa8bf20e80",
+      "title": "tessapps 0.6.5",
+      "link": "https://pypi.org/project/tessapps/0.6.5/",
+      "published": "Sat, 21 Nov 2026 01:37:43 GMT",
+      "collected_at": "2026-11-21T01:55:34.456001+00:00"
     },
     {
-      "id": "9c8915c07241aa62",
-      "title": "imbi-plugin-anthropic 2.58.0",
-      "link": "https://pypi.org/project/imbi-plugin-anthropic/2.58.0/",
-      "published": "Fri, 20 Nov 2026 01:43:23 GMT",
-      "collected_at": "2026-11-20T01:58:41.233657+00:00"
+      "id": "35793f9438a1ae89",
+      "title": "unicad-kit 0.1.0.540",
+      "link": "https://pypi.org/project/unicad-kit/0.1.0.540/",
+      "published": "Sat, 21 Nov 2026 01:38:17 GMT",
+      "collected_at": "2026-11-21T01:55:34.455998+00:00"
     },
     {
-      "id": "df4e82033268b96a",
-      "title": "imbi-plugin-aws 2.58.0",
-      "link": "https://pypi.org/project/imbi-plugin-aws/2.58.0/",
-      "published": "Fri, 20 Nov 2026 01:43:24 GMT",
-      "collected_at": "2026-11-20T01:58:41.233655+00:00"
+      "id": "27572e211d724478",
+      "title": "pyharbinger 0.4.0",
+      "link": "https://pypi.org/project/pyharbinger/0.4.0/",
+      "published": "Sat, 21 Nov 2026 01:38:19 GMT",
+      "collected_at": "2026-11-21T01:55:34.455995+00:00"
     },
     {
-      "id": "ccfbcbbc9c901410",
-      "title": "imbi-plugin-github 2.58.0",
-      "link": "https://pypi.org/project/imbi-plugin-github/2.58.0/",
-      "published": "Fri, 20 Nov 2026 01:43:25 GMT",
-      "collected_at": "2026-11-20T01:58:41.233653+00:00"
+      "id": "d558dd40ae45d5ab",
+      "title": "arbi-serve 0.3.57",
+      "link": "https://pypi.org/project/arbi-serve/0.3.57/",
+      "published": "Sat, 21 Nov 2026 01:38:29 GMT",
+      "collected_at": "2026-11-21T01:55:34.455993+00:00"
     },
     {
-      "id": "455da1020a4a9794",
-      "title": "imbi-plugin-google 2.58.0",
-      "link": "https://pypi.org/project/imbi-plugin-google/2.58.0/",
-      "published": "Fri, 20 Nov 2026 01:43:26 GMT",
-      "collected_at": "2026-11-20T01:58:41.233652+00:00"
+      "id": "6d1c5dd4d2c349e4",
+      "title": "rlm-tools 0.1.1",
+      "link": "https://pypi.org/project/rlm-tools/0.1.1/",
+      "published": "Sat, 21 Nov 2026 01:38:39 GMT",
+      "collected_at": "2026-11-21T01:55:34.455990+00:00"
     },
     {
-      "id": "c8c80ca2e7e8fdd9",
-      "title": "imbi-plugin-logzio 2.58.0",
-      "link": "https://pypi.org/project/imbi-plugin-logzio/2.58.0/",
-      "published": "Fri, 20 Nov 2026 01:43:28 GMT",
-      "collected_at": "2026-11-20T01:58:41.233650+00:00"
+      "id": "4e62a68a303a523a",
+      "title": "pyproject-toml-version 1.0.0",
+      "link": "https://pypi.org/project/pyproject-toml-version/1.0.0/",
+      "published": "Sat, 21 Nov 2026 01:38:49 GMT",
+      "collected_at": "2026-11-21T01:55:34.455987+00:00"
     },
     {
-      "id": "d260120175b99216",
-      "title": "imbi-plugin-oidc 2.58.0",
-      "link": "https://pypi.org/project/imbi-plugin-oidc/2.58.0/",
-      "published": "Fri, 20 Nov 2026 01:43:29 GMT",
-      "collected_at": "2026-11-20T01:58:41.233648+00:00"
+      "id": "35af4884eea93e89",
+      "title": "vibe-seller 0.3.4",
+      "link": "https://pypi.org/project/vibe-seller/0.3.4/",
+      "published": "Sat, 21 Nov 2026 01:39:02 GMT",
+      "collected_at": "2026-11-21T01:55:34.455984+00:00"
     },
     {
-      "id": "502e44e5055e55aa",
-      "title": "imbi-plugin-openai 2.58.0",
-      "link": "https://pypi.org/project/imbi-plugin-openai/2.58.0/",
-      "published": "Fri, 20 Nov 2026 01:43:30 GMT",
-      "collected_at": "2026-11-20T01:58:41.233647+00:00"
+      "id": "d46ed4c32b22a0ea",
+      "title": "rumi-eo 0.31.0",
+      "link": "https://pypi.org/project/rumi-eo/0.31.0/",
+      "published": "Sat, 21 Nov 2026 01:39:06 GMT",
+      "collected_at": "2026-11-21T01:55:34.455981+00:00"
     },
     {
-      "id": "ab0cdbdaf11e2fc9",
-      "title": "abx-plugins 1.13.791",
-      "link": "https://pypi.org/project/abx-plugins/1.13.791/",
-      "published": "Fri, 20 Nov 2026 01:43:30 GMT",
-      "collected_at": "2026-11-20T01:58:41.233645+00:00"
+      "id": "e49bfc771d53a10f",
+      "title": "basecradle 0.20.0",
+      "link": "https://pypi.org/project/basecradle/0.20.0/",
+      "published": "Sat, 21 Nov 2026 01:39:24 GMT",
+      "collected_at": "2026-11-21T01:55:34.455978+00:00"
     },
     {
-      "id": "3538376fc93ca03d",
-      "title": "imbi-plugin-pagerduty 2.58.0",
-      "link": "https://pypi.org/project/imbi-plugin-pagerduty/2.58.0/",
-      "published": "Fri, 20 Nov 2026 01:43:31 GMT",
-      "collected_at": "2026-11-20T01:58:41.233643+00:00"
+      "id": "d1ab53ecb7b75f25",
+      "title": "flow-compute 3.29.0",
+      "link": "https://pypi.org/project/flow-compute/3.29.0/",
+      "published": "Sat, 21 Nov 2026 01:39:33 GMT",
+      "collected_at": "2026-11-21T01:55:34.455976+00:00"
     }
   ]
 }
