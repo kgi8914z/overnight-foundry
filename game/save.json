@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-22T00:51:43.431141+00:00",
+  "updated_at": "2026-11-23T01:20:48.792047+00:00",
   "hero": "kgi8914z",
   "guild": "Overnight Foundry",
   "level": 15,
   "title": "제국 회계관",
-  "xp": 16078,
-  "xp_into_level": 328,
+  "xp": 16298,
+  "xp_into_level": 548,
   "xp_for_level": 2250,
   "xp_parts": {
     "unique_users": 40,
     "repeat_users": 0,
     "active_users_1d": 80,
     "api_calls": 0,
-    "dataset_records": 14558,
+    "dataset_records": 14758,
     "paying_users": 0,
     "self_uses_weekly": 60,
     "backlinks": 0,
     "stars": 0,
-    "nights": 1340
+    "nights": 1360
   },
   "row_gain": 100,
-  "nights": 67,
+  "nights": 68,
   "active_assets": 2,
   "inventory": [
     {
@@ -38,94 +38,94 @@
       "lane": "watch",
       "status": "incubator",
       "rarity": "희귀",
-      "stack": 7279,
+      "stack": 7379,
       "notes": "오늘 무엇이 패키지 세계에 나타났는지 한곳에서 못 본다"
     }
   ],
   "loot": [
     {
-      "id": "5b0b2b41dced13cd",
-      "title": "printobserver-sdk 0.14.0",
-      "link": "https://pypi.org/project/printobserver-sdk/0.14.0/",
-      "published": "Sun, 22 Nov 2026 00:12:53 GMT",
-      "collected_at": "2026-11-22T00:51:42.418591+00:00"
+      "id": "98f98ead9bacf2be",
+      "title": "hypgraph 0.8.14",
+      "link": "https://pypi.org/project/hypgraph/0.8.14/",
+      "published": "Mon, 23 Nov 2026 01:03:34 GMT",
+      "collected_at": "2026-11-23T01:20:48.047423+00:00"
     },
     {
-      "id": "d6b30aa087b19fd5",
-      "title": "meetstream-agent-kit 0.3.5",
-      "link": "https://pypi.org/project/meetstream-agent-kit/0.3.5/",
-      "published": "Sun, 22 Nov 2026 00:12:56 GMT",
-      "collected_at": "2026-11-22T00:51:42.418588+00:00"
+      "id": "f227e332feef3d4f",
+      "title": "pypetest 2026.11.23",
+      "link": "https://pypi.org/project/pypetest/2026.11.23/",
+      "published": "Mon, 23 Nov 2026 01:03:38 GMT",
+      "collected_at": "2026-11-23T01:20:48.047420+00:00"
     },
     {
-      "id": "d359c51c94bfb55e",
-      "title": "braindecode 2.1.0.dev4294968717",
-      "link": "https://pypi.org/project/braindecode/2.1.0.dev4294968717/",
-      "published": "Sun, 22 Nov 2026 00:13:20 GMT",
-      "collected_at": "2026-11-22T00:51:42.418586+00:00"
+      "id": "ef92bef4750c860c",
+      "title": "bigcontext-schema 0.13.2",
+      "link": "https://pypi.org/project/bigcontext-schema/0.13.2/",
+      "published": "Mon, 23 Nov 2026 01:03:52 GMT",
+      "collected_at": "2026-11-23T01:20:48.047417+00:00"
     },
     {
-      "id": "acb3cc0b22d6a4a8",
-      "title": "kevward 0.16.0",
-      "link": "https://pypi.org/project/kevward/0.16.0/",
-      "published": "Sun, 22 Nov 2026 00:13:22 GMT",
-      "collected_at": "2026-11-22T00:51:42.418583+00:00"
+      "id": "fc0ef419a003b5c6",
+      "title": "context-bridge-local 0.10.0b1",
+      "link": "https://pypi.org/project/context-bridge-local/0.10.0b1/",
+      "published": "Mon, 23 Nov 2026 01:03:52 GMT",
+      "collected_at": "2026-11-23T01:20:48.047414+00:00"
     },
     {
-      "id": "2fa48ac41dfe528f",
-      "title": "zernio-sdk 1.4.1944",
-      "link": "https://pypi.org/project/zernio-sdk/1.4.1944/",
-      "published": "Sun, 22 Nov 2026 00:13:34 GMT",
-      "collected_at": "2026-11-22T00:51:42.418580+00:00"
+      "id": "53b4c0a2ed9d151c",
+      "title": "exomem 0.200.0",
+      "link": "https://pypi.org/project/exomem/0.200.0/",
+      "published": "Mon, 23 Nov 2026 01:04:00 GMT",
+      "collected_at": "2026-11-23T01:20:48.047411+00:00"
     },
     {
-      "id": "5fbc6d170f899bdb",
-      "title": "late-sdk 1.4.1944",
-      "link": "https://pypi.org/project/late-sdk/1.4.1944/",
-      "published": "Sun, 22 Nov 2026 00:13:43 GMT",
-      "collected_at": "2026-11-22T00:51:42.418577+00:00"
+      "id": "444d50d6e69b55d6",
+      "title": "altfinance-mcp 0.5.1",
+      "link": "https://pypi.org/project/altfinance-mcp/0.5.1/",
+      "published": "Mon, 23 Nov 2026 01:04:06 GMT",
+      "collected_at": "2026-11-23T01:20:48.047409+00:00"
     },
     {
-      "id": "b84af6c996f97310",
-      "title": "canvasxpress 2026.11.22.1226973",
-      "link": "https://pypi.org/project/canvasxpress/2026.11.22.1226973/",
-      "published": "Sun, 22 Nov 2026 00:13:47 GMT",
-      "collected_at": "2026-11-22T00:51:42.418574+00:00"
+      "id": "c76c176c6b7f4840",
+      "title": "s3func 0.10.0",
+      "link": "https://pypi.org/project/s3func/0.10.0/",
+      "published": "Mon, 23 Nov 2026 01:04:07 GMT",
+      "collected_at": "2026-11-23T01:20:48.047406+00:00"
     },
     {
-      "id": "f023154ff3808271",
-      "title": "sql-agent-cli 0.15.0",
-      "link": "https://pypi.org/project/sql-agent-cli/0.15.0/",
-      "published": "Sun, 22 Nov 2026 00:13:55 GMT",
-      "collected_at": "2026-11-22T00:51:42.418571+00:00"
+      "id": "02afa85eea16b6f0",
+      "title": "discopt-doe 0.7.1",
+      "link": "https://pypi.org/project/discopt-doe/0.7.1/",
+      "published": "Mon, 23 Nov 2026 01:04:08 GMT",
+      "collected_at": "2026-11-23T01:20:48.047403+00:00"
     },
     {
-      "id": "890e5eda7638cf54",
-      "title": "nodii-approval 0.26.0",
-      "link": "https://pypi.org/project/nodii-approval/0.26.0/",
-      "published": "Sun, 22 Nov 2026 00:14:32 GMT",
-      "collected_at": "2026-11-22T00:51:42.418567+00:00"
+      "id": "03f70a35f83f533f",
+      "title": "didit-sdk 1.35.0",
+      "link": "https://pypi.org/project/didit-sdk/1.35.0/",
+      "published": "Mon, 23 Nov 2026 01:04:28 GMT",
+      "collected_at": "2026-11-23T01:20:48.047400+00:00"
     },
     {
-      "id": "2caf6d96aeb2aa59",
-      "title": "obskitpy 0.11.2",
-      "link": "https://pypi.org/project/obskitpy/0.11.2/",
-      "published": "Sun, 22 Nov 2026 00:14:34 GMT",
-      "collected_at": "2026-11-22T00:51:42.418564+00:00"
+      "id": "e1beae6ef1658a96",
+      "title": "fastship 0.1.12",
+      "link": "https://pypi.org/project/fastship/0.1.12/",
+      "published": "Mon, 23 Nov 2026 01:04:35 GMT",
+      "collected_at": "2026-11-23T01:20:48.047397+00:00"
     },
     {
-      "id": "0539c5dd0132fc42",
-      "title": "n24q02m-hull 0.9.0",
-      "link": "https://pypi.org/project/n24q02m-hull/0.9.0/",
-      "published": "Sun, 22 Nov 2026 00:14:40 GMT",
-      "collected_at": "2026-11-22T00:51:42.418561+00:00"
+      "id": "f776dd3605895c74",
+      "title": "django-micboard 2026.11.22.0",
+      "link": "https://pypi.org/project/django-micboard/2026.11.22.0/",
+      "published": "Mon, 23 Nov 2026 01:04:36 GMT",
+      "collected_at": "2026-11-23T01:20:48.047394+00:00"
     },
     {
-      "id": "0ec3fca87be3c37d",
-      "title": "dau-core 0.13.0",
-      "link": "https://pypi.org/project/dau-core/0.13.0/",
-      "published": "Sun, 22 Nov 2026 00:14:46 GMT",
-      "collected_at": "2026-11-22T00:51:42.418558+00:00"
+      "id": "1c2f5630a1e6b781",
+      "title": "dagz 0.1.1001.dev20261123030021",
+      "link": "https://pypi.org/project/dagz/0.1.1001.dev20261123030021/",
+      "published": "Mon, 23 Nov 2026 01:04:54 GMT",
+      "collected_at": "2026-11-23T01:20:48.047391+00:00"
     }
   ]
 }
