@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-25T03:54:44.405809+00:00",
+  "updated_at": "2026-11-26T03:20:37.662627+00:00",
   "hero": "kgi8914z",
   "guild": "Overnight Foundry",
   "level": 15,
   "title": "제국 회계관",
-  "xp": 16738,
-  "xp_into_level": 988,
+  "xp": 16958,
+  "xp_into_level": 1208,
   "xp_for_level": 2250,
   "xp_parts": {
     "unique_users": 40,
     "repeat_users": 0,
     "active_users_1d": 80,
     "api_calls": 0,
-    "dataset_records": 15158,
+    "dataset_records": 15358,
     "paying_users": 0,
     "self_uses_weekly": 60,
     "backlinks": 0,
     "stars": 0,
-    "nights": 1400
+    "nights": 1420
   },
   "row_gain": 100,
-  "nights": 70,
+  "nights": 71,
   "active_assets": 2,
   "inventory": [
     {
@@ -38,94 +38,94 @@
       "lane": "watch",
       "status": "incubator",
       "rarity": "희귀",
-      "stack": 7579,
+      "stack": 7679,
       "notes": "오늘 무엇이 패키지 세계에 나타났는지 한곳에서 못 본다"
     }
   ],
   "loot": [
     {
-      "id": "9b1a53c1f54b9934",
-      "title": "sugarai 3.11.2",
-      "link": "https://pypi.org/project/sugarai/3.11.2/",
-      "published": "Wed, 25 Nov 2026 03:39:41 GMT",
-      "collected_at": "2026-11-25T03:54:43.501619+00:00"
+      "id": "ea391c61e0f51a4b",
+      "title": "odoo-addon-document-page 20.0.1.0.1.3",
+      "link": "https://pypi.org/project/odoo-addon-document-page/20.0.1.0.1.3/",
+      "published": "Thu, 26 Nov 2026 03:12:02 GMT",
+      "collected_at": "2026-11-26T03:20:36.810740+00:00"
     },
     {
-      "id": "c9ebf94bc8ae6cae",
-      "title": "strot-ai 2.1.0",
-      "link": "https://pypi.org/project/strot-ai/2.1.0/",
-      "published": "Wed, 25 Nov 2026 03:39:48 GMT",
-      "collected_at": "2026-11-25T03:54:43.501617+00:00"
+      "id": "c4ad52a4a2129a9c",
+      "title": "html-to-markdown-cli 3.23.4",
+      "link": "https://pypi.org/project/html-to-markdown-cli/3.23.4/",
+      "published": "Thu, 26 Nov 2026 03:12:03 GMT",
+      "collected_at": "2026-11-26T03:20:36.810737+00:00"
     },
     {
-      "id": "1946c9d4cd0bc432",
-      "title": "pyhood 0.22.0",
-      "link": "https://pypi.org/project/pyhood/0.22.0/",
-      "published": "Wed, 25 Nov 2026 03:39:56 GMT",
-      "collected_at": "2026-11-25T03:54:43.501616+00:00"
+      "id": "1c16ca5695b18a4e",
+      "title": "odoo-addon-document-knowledge 20.0.1.0.0.2",
+      "link": "https://pypi.org/project/odoo-addon-document-knowledge/20.0.1.0.0.2/",
+      "published": "Thu, 26 Nov 2026 03:12:05 GMT",
+      "collected_at": "2026-11-26T03:20:36.810734+00:00"
     },
     {
-      "id": "755dc926e67a9624",
-      "title": "bolna 0.11.52",
-      "link": "https://pypi.org/project/bolna/0.11.52/",
-      "published": "Wed, 25 Nov 2026 03:40:20 GMT",
-      "collected_at": "2026-11-25T03:54:43.501614+00:00"
+      "id": "81ec18240a6cfeb6",
+      "title": "beebium-server 0.23.0",
+      "link": "https://pypi.org/project/beebium-server/0.23.0/",
+      "published": "Thu, 26 Nov 2026 03:12:18 GMT",
+      "collected_at": "2026-11-26T03:20:36.810731+00:00"
     },
     {
-      "id": "5e8f0bef9f28861a",
-      "title": "trame-vtkjs 0.3.1",
-      "link": "https://pypi.org/project/trame-vtkjs/0.3.1/",
-      "published": "Wed, 25 Nov 2026 03:40:22 GMT",
-      "collected_at": "2026-11-25T03:54:43.501612+00:00"
+      "id": "37b85b7d74a973aa",
+      "title": "pyspedas 2.3.0",
+      "link": "https://pypi.org/project/pyspedas/2.3.0/",
+      "published": "Thu, 26 Nov 2026 03:12:49 GMT",
+      "collected_at": "2026-11-26T03:20:36.810728+00:00"
     },
     {
-      "id": "9c1a038ffe0fa9b1",
-      "title": "TrackSim 1.0.0",
-      "link": "https://pypi.org/project/tracksim/1.0.0/",
-      "published": "Wed, 25 Nov 2026 03:40:32 GMT",
-      "collected_at": "2026-11-25T03:54:43.501610+00:00"
+      "id": "d1854e1d9a0fce42",
+      "title": "prowlpy 1.1.7",
+      "link": "https://pypi.org/project/prowlpy/1.1.7/",
+      "published": "Thu, 26 Nov 2026 03:12:52 GMT",
+      "collected_at": "2026-11-26T03:20:36.810725+00:00"
     },
     {
-      "id": "d4b552a77a47f04e",
-      "title": "mashpy 0.41.0",
-      "link": "https://pypi.org/project/mashpy/0.41.0/",
-      "published": "Wed, 25 Nov 2026 03:40:48 GMT",
-      "collected_at": "2026-11-25T03:54:43.501609+00:00"
+      "id": "bbe6c67ef6b758b4",
+      "title": "dex-connector-supabase 0.1.0",
+      "link": "https://pypi.org/project/dex-connector-supabase/0.1.0/",
+      "published": "Thu, 26 Nov 2026 03:13:18 GMT",
+      "collected_at": "2026-11-26T03:20:36.810723+00:00"
     },
     {
-      "id": "a3de45f34a843c1e",
-      "title": "divineapi-horoscope-numerology-mcp 1.11.0",
-      "link": "https://pypi.org/project/divineapi-horoscope-numerology-mcp/1.11.0/",
-      "published": "Wed, 25 Nov 2026 03:41:08 GMT",
-      "collected_at": "2026-11-25T03:54:43.501607+00:00"
+      "id": "c1d981ac8b65f9e4",
+      "title": "holidays 0.110.dev20261126031150",
+      "link": "https://pypi.org/project/holidays/0.110.dev20261126031150/",
+      "published": "Thu, 26 Nov 2026 03:13:28 GMT",
+      "collected_at": "2026-11-26T03:20:36.810720+00:00"
     },
     {
-      "id": "3fb9d6bd573a7588",
-      "title": "org-id 0.2.0",
-      "link": "https://pypi.org/project/org-id/0.2.0/",
-      "published": "Wed, 25 Nov 2026 03:41:10 GMT",
-      "collected_at": "2026-11-25T03:54:43.501604+00:00"
+      "id": "395c91b5ab7e85fe",
+      "title": "getanyapi 0.199.0",
+      "link": "https://pypi.org/project/getanyapi/0.199.0/",
+      "published": "Thu, 26 Nov 2026 03:13:43 GMT",
+      "collected_at": "2026-11-26T03:20:36.810717+00:00"
     },
     {
-      "id": "d2468d8438bab048",
-      "title": "meds-algorithm-template 0.4.0a4",
-      "link": "https://pypi.org/project/meds-algorithm-template/0.4.0a4/",
-      "published": "Wed, 25 Nov 2026 03:41:10 GMT",
-      "collected_at": "2026-11-25T03:54:43.501603+00:00"
+      "id": "b4fda1a1c27f0695",
+      "title": "boss-agent-cli 3.4.232",
+      "link": "https://pypi.org/project/boss-agent-cli/3.4.232/",
+      "published": "Thu, 26 Nov 2026 03:14:01 GMT",
+      "collected_at": "2026-11-26T03:20:36.810714+00:00"
     },
     {
-      "id": "8ab7a10f8e4df41b",
-      "title": "jwst-psfmc 0.4.0",
-      "link": "https://pypi.org/project/jwst-psfmc/0.4.0/",
-      "published": "Wed, 25 Nov 2026 03:41:20 GMT",
-      "collected_at": "2026-11-25T03:54:43.501601+00:00"
+      "id": "c704fbbec43b2c90",
+      "title": "velirapay 0.2.9",
+      "link": "https://pypi.org/project/velirapay/0.2.9/",
+      "published": "Thu, 26 Nov 2026 03:14:10 GMT",
+      "collected_at": "2026-11-26T03:20:36.810712+00:00"
     },
     {
-      "id": "a240891d952f8a56",
-      "title": "odoo-addon-partner-multi-relation 18.0.1.0.0.14",
-      "link": "https://pypi.org/project/odoo-addon-partner-multi-relation/18.0.1.0.0.14/",
-      "published": "Wed, 25 Nov 2026 03:41:37 GMT",
-      "collected_at": "2026-11-25T03:54:43.501599+00:00"
+      "id": "b3fd16bc6567cac7",
+      "title": "control-tower 6.3.0",
+      "link": "https://pypi.org/project/control-tower/6.3.0/",
+      "published": "Thu, 26 Nov 2026 03:14:15 GMT",
+      "collected_at": "2026-11-26T03:20:36.810709+00:00"
     }
   ]
 }
