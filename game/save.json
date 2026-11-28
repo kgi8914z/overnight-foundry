@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-27T03:26:02.214191+00:00",
+  "updated_at": "2026-11-28T03:01:45.199237+00:00",
   "hero": "kgi8914z",
   "guild": "Overnight Foundry",
   "level": 15,
   "title": "제국 회계관",
-  "xp": 17178,
-  "xp_into_level": 1428,
+  "xp": 17398,
+  "xp_into_level": 1648,
   "xp_for_level": 2250,
   "xp_parts": {
     "unique_users": 40,
     "repeat_users": 0,
     "active_users_1d": 80,
     "api_calls": 0,
-    "dataset_records": 15558,
+    "dataset_records": 15758,
     "paying_users": 0,
     "self_uses_weekly": 60,
     "backlinks": 0,
     "stars": 0,
-    "nights": 1440
+    "nights": 1460
   },
   "row_gain": 100,
-  "nights": 72,
+  "nights": 73,
   "active_assets": 2,
   "inventory": [
     {
@@ -38,94 +38,94 @@
       "lane": "watch",
       "status": "incubator",
       "rarity": "희귀",
-      "stack": 7779,
+      "stack": 7879,
       "notes": "오늘 무엇이 패키지 세계에 나타났는지 한곳에서 못 본다"
     }
   ],
   "loot": [
     {
-      "id": "7216938af8ec949c",
-      "title": "odoo-addon-l10n-br-nfse 18.0.7.0.0.6",
-      "link": "https://pypi.org/project/odoo-addon-l10n-br-nfse/18.0.7.0.0.6/",
-      "published": "Fri, 27 Nov 2026 03:14:23 GMT",
-      "collected_at": "2026-11-27T03:26:01.242536+00:00"
+      "id": "af53995d267ed308",
+      "title": "odoo-addon-barcode-stock 18.0.1.0.6.2",
+      "link": "https://pypi.org/project/odoo-addon-barcode-stock/18.0.1.0.6.2/",
+      "published": "Sat, 28 Nov 2026 02:43:30 GMT",
+      "collected_at": "2026-11-28T03:01:44.105622+00:00"
     },
     {
-      "id": "4243e28dc70e52b1",
-      "title": "odoo-addon-l10n-br-purchase 19.0.1.3.0.2",
-      "link": "https://pypi.org/project/odoo-addon-l10n-br-purchase/19.0.1.3.0.2/",
-      "published": "Fri, 27 Nov 2026 03:14:24 GMT",
-      "collected_at": "2026-11-27T03:26:01.242534+00:00"
+      "id": "6af6914926c2eda7",
+      "title": "layer 1.0.137",
+      "link": "https://pypi.org/project/layer/1.0.137/",
+      "published": "Sat, 28 Nov 2026 02:43:42 GMT",
+      "collected_at": "2026-11-28T03:01:44.105620+00:00"
     },
     {
-      "id": "c597e56a682763d7",
-      "title": "odoo-addon-l10n-br-nfse-spec 18.0.1.5.0.3",
-      "link": "https://pypi.org/project/odoo-addon-l10n-br-nfse-spec/18.0.1.5.0.3/",
-      "published": "Fri, 27 Nov 2026 03:14:26 GMT",
-      "collected_at": "2026-11-27T03:26:01.242533+00:00"
+      "id": "200cea87257f2827",
+      "title": "py-tjbrhk-sdk 1.0.0",
+      "link": "https://pypi.org/project/py-tjbrhk-sdk/1.0.0/",
+      "published": "Sat, 28 Nov 2026 02:44:17 GMT",
+      "collected_at": "2026-11-28T03:01:44.105618+00:00"
     },
     {
-      "id": "02223350ad414371",
-      "title": "odoo-addon-l10n-br-repair 19.0.1.0.1.1",
-      "link": "https://pypi.org/project/odoo-addon-l10n-br-repair/19.0.1.0.1.1/",
-      "published": "Fri, 27 Nov 2026 03:14:26 GMT",
-      "collected_at": "2026-11-27T03:26:01.242531+00:00"
+      "id": "58e8505052a970b8",
+      "title": "hatch-rest-api 1.42.0",
+      "link": "https://pypi.org/project/hatch-rest-api/1.42.0/",
+      "published": "Sat, 28 Nov 2026 02:44:31 GMT",
+      "collected_at": "2026-11-28T03:01:44.105616+00:00"
     },
     {
-      "id": "690d195bde65edde",
-      "title": "lladar 0.22.0",
-      "link": "https://pypi.org/project/lladar/0.22.0/",
-      "published": "Fri, 27 Nov 2026 03:14:27 GMT",
-      "collected_at": "2026-11-27T03:26:01.242530+00:00"
+      "id": "b3c87361f3414188",
+      "title": "exuvia 0.3.146",
+      "link": "https://pypi.org/project/exuvia/0.3.146/",
+      "published": "Sat, 28 Nov 2026 02:44:47 GMT",
+      "collected_at": "2026-11-28T03:01:44.105613+00:00"
     },
     {
-      "id": "5a399be86a51bce6",
-      "title": "odoo-addon-l10n-br-nfse-dfe 18.0.1.4.1.2",
-      "link": "https://pypi.org/project/odoo-addon-l10n-br-nfse-dfe/18.0.1.4.1.2/",
-      "published": "Fri, 27 Nov 2026 03:14:28 GMT",
-      "collected_at": "2026-11-27T03:26:01.242528+00:00"
+      "id": "0cd670b6d01d47a3",
+      "title": "constraint-runtime 0.2.0",
+      "link": "https://pypi.org/project/constraint-runtime/0.2.0/",
+      "published": "Sat, 28 Nov 2026 02:44:48 GMT",
+      "collected_at": "2026-11-28T03:01:44.105611+00:00"
     },
     {
-      "id": "974fd538396994da",
-      "title": "odoo-addon-l10n-br-zip 18.0.1.2.0.2",
-      "link": "https://pypi.org/project/odoo-addon-l10n-br-zip/18.0.1.2.0.2/",
-      "published": "Fri, 27 Nov 2026 03:14:30 GMT",
-      "collected_at": "2026-11-27T03:26:01.242527+00:00"
+      "id": "4ab45e9539333cdf",
+      "title": "attar 1.0.9",
+      "link": "https://pypi.org/project/attar/1.0.9/",
+      "published": "Sat, 28 Nov 2026 02:45:10 GMT",
+      "collected_at": "2026-11-28T03:01:44.105609+00:00"
     },
     {
-      "id": "00a722d44de6af0b",
-      "title": "odoo-addon-l10n-br-fiscal-dfe 19.0.1.0.1.2",
-      "link": "https://pypi.org/project/odoo-addon-l10n-br-fiscal-dfe/19.0.1.0.1.2/",
-      "published": "Fri, 27 Nov 2026 03:14:30 GMT",
-      "collected_at": "2026-11-27T03:26:01.242525+00:00"
+      "id": "b48fa3297b2a7ca5",
+      "title": "probe-research-cli 0.676.0",
+      "link": "https://pypi.org/project/probe-research-cli/0.676.0/",
+      "published": "Sat, 28 Nov 2026 02:45:33 GMT",
+      "collected_at": "2026-11-28T03:01:44.105606+00:00"
     },
     {
-      "id": "95ef3a1f04918dca",
-      "title": "odoo-addon-l10n-br-portal 18.0.1.0.1.3",
-      "link": "https://pypi.org/project/odoo-addon-l10n-br-portal/18.0.1.0.1.3/",
-      "published": "Fri, 27 Nov 2026 03:14:32 GMT",
-      "collected_at": "2026-11-27T03:26:01.242524+00:00"
+      "id": "9cbd4002b2ba0718",
+      "title": "probe-research 0.676.0",
+      "link": "https://pypi.org/project/probe-research/0.676.0/",
+      "published": "Sat, 28 Nov 2026 02:45:57 GMT",
+      "collected_at": "2026-11-28T03:01:44.105604+00:00"
     },
     {
-      "id": "202f2fd1e4a82edc",
-      "title": "odoo-addon-spec-driven-model 19.0.1.1.0.1",
-      "link": "https://pypi.org/project/odoo-addon-spec-driven-model/19.0.1.1.0.1/",
-      "published": "Fri, 27 Nov 2026 03:14:33 GMT",
-      "collected_at": "2026-11-27T03:26:01.242522+00:00"
+      "id": "89bc8fc9197da4bb",
+      "title": "opentine 0.88.0",
+      "link": "https://pypi.org/project/opentine/0.88.0/",
+      "published": "Sat, 28 Nov 2026 02:46:07 GMT",
+      "collected_at": "2026-11-28T03:01:44.105602+00:00"
     },
     {
-      "id": "7c5846be56581c4f",
-      "title": "odoo-addon-l10n-br-account-nfe 18.0.1.2.1.4",
-      "link": "https://pypi.org/project/odoo-addon-l10n-br-account-nfe/18.0.1.2.1.4/",
-      "published": "Fri, 27 Nov 2026 03:14:35 GMT",
-      "collected_at": "2026-11-27T03:26:01.242521+00:00"
+      "id": "1d8bb1ac1d70e101",
+      "title": "ntf-ai 0.5.1",
+      "link": "https://pypi.org/project/ntf-ai/0.5.1/",
+      "published": "Sat, 28 Nov 2026 02:46:13 GMT",
+      "collected_at": "2026-11-28T03:01:44.105600+00:00"
     },
     {
-      "id": "121e42e0a62de68e",
-      "title": "odoo-addon-l10n-br-account 19.0.1.5.1.4",
-      "link": "https://pypi.org/project/odoo-addon-l10n-br-account/19.0.1.5.1.4/",
-      "published": "Fri, 27 Nov 2026 03:14:36 GMT",
-      "collected_at": "2026-11-27T03:26:01.242519+00:00"
+      "id": "52dbaa23ed4d9f77",
+      "title": "crisol-workbench 1.0.0",
+      "link": "https://pypi.org/project/crisol-workbench/1.0.0/",
+      "published": "Sat, 28 Nov 2026 02:46:23 GMT",
+      "collected_at": "2026-11-28T03:01:44.105598+00:00"
     }
   ]
 }
